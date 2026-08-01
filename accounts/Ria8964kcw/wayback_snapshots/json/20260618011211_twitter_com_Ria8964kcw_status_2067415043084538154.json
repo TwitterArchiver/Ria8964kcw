@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067304555218629061",
+    "created_at": "2026-06-18T01:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067415043084538154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        },
+        {
+          "end": 22,
+          "id": "2054568943256485888",
+          "start": 12,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067415043084538154",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067414100716732860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 @Riafixcom amber富吗 此人自称出国不靠家里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067304555218629061",
+        "created_at": "2026-06-18T01:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067415043084538154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            },
+            {
+              "end": 22,
+              "id": "2054568943256485888",
+              "start": 12,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067415043084538154",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067414100716732860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 @Riafixcom amber富吗 此人自称出国不靠家里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "conversation_id": "2067304555218629061",
+        "created_at": "2026-06-18T01:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067414100716732860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054568943256485888",
+              "start": 0,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067414100716732860",
+        "in_reply_to_user_id": "2054568943256485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067304555218629061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riafixcom 其实穷的也在啃（这个不敢说）富的也在卖（Amber）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 342,
+          "like_count": 8715,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4724
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 纯1正太控 | \n爱好是cos小男孩和上班刷推说批话 |\n眼熟的会回fo，直fo的都是好人喵 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988291571474432/lv_XdAWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 314,
+          "like_count": 2481,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "Alamida001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我要回我的小西天\n然后你们不关注我表推却申请我这个号啥意思@ria8964kcw \n为什么中国的种姓制度如此残酷？🥺🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "ria8964kcw"
+              }
+            ]
+          }
+        },
+        "id": "2054568943256485888",
+        "location": "你不喜欢我我不喜欢你你为什么要点进来？此地只欢迎我心肝",
+        "name": "利亚鳄鱼韩民族解放军强势归来🐊🇮🇱看二元性别土崩瓦解🇺🇦骚人妖的时代就要到来🇺🇸🗽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066407413344075776/x6WnmNQd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 34,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

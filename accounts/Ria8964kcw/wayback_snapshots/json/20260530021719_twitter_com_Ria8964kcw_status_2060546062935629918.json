@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060338603415294381",
+    "created_at": "2026-05-30T02:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060546062935629918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846194783376887812",
+          "start": 0,
+          "username": "duygufigen18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060546062935629918",
+    "in_reply_to_user_id": "1846194783376887812",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060338603415294381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duygufigen18 i see"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060338603415294381",
+        "created_at": "2026-05-30T02:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060546062935629918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846194783376887812",
+              "start": 0,
+              "username": "duygufigen18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060546062935629918",
+        "in_reply_to_user_id": "1846194783376887812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060338603415294381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duygufigen18 i see"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846194783376887812",
+        "conversation_id": "2060338603415294381",
+        "created_at": "2026-05-29T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060338603415294381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060338603415294381",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {},
+          "text": "KADINLAR stres altındayken oksitosin yani halk arasında bilinen aşk veya sevgi hormonu DÜŞER bu yüzden kadınlar stres altındayken sarılmak, ilgi görmek, dokunulmak ister. Yalnız kalmak istemez.\n\nERKEKLER ise stres altındayken testosteron YÜKSELİR  kadınların aksine yalnız kalmak ister. Sorun çözme moduna geçer. \nMağarasına çekilir, sessizliğe gömülür. Konuşmak istemez, sarılmak istemez. Çözüm bulana kadar yalnızlık onun zırhıdır.\nAynı olay. İki farklı biyolojik çözüm."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1838,
+          "impression_count": 297577,
+          "like_count": 4702,
+          "quote_count": 77,
+          "reply_count": 75,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "KADINLAR stres altındayken oksitosin yani halk arasında bilinen aşk veya sevgi hormonu DÜŞER bu yüzden kadınlar stres altındayken sarılmak, ilgi görmek, dokunulmak ister. Yalnız kalmak istemez.\n\nERKEKLER ise stres altındayken testosteron YÜKSELİR  kadınların aksine yalnız kalmak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（戈达尔的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 304,
+          "like_count": 6949,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 3590
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T14:22:10.000Z",
+        "description": "Sağlıklı ilişki kurmak isteyenler için:\nKadın-erkek dinamikleri, evlilik ve cinsellik üzerine net tespitler.\nÖğrenmek isteyen kalır.",
+        "id": "1846194783376887812",
+        "name": "Duygu Figen",
+        "pinned_tweet_id": "2048329429642850688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048201797777461248/0zcDoU-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26331,
+          "following_count": 344,
+          "like_count": 3167,
+          "listed_count": 33,
+          "media_count": 148,
+          "tweet_count": 2021
+        },
+        "username": "duygufigen18",
+        "verified": true
+      }
+    ]
+  }
+}

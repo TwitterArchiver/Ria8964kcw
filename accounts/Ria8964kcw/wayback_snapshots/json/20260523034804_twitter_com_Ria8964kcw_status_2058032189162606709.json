@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058028785304502392",
+    "created_at": "2026-05-23T03:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058032189162606709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        },
+        {
+          "end": 23,
+          "id": "2033556052650975232",
+          "start": 13,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058032189162606709",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058030790211228058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly @Ride_8964 我们学校每年都有情侣在科技楼操逼亲嘴不带停的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058028785304502392",
+        "created_at": "2026-05-23T03:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058032189162606709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            },
+            {
+              "end": 23,
+              "id": "2033556052650975232",
+              "start": 13,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058032189162606709",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058030790211228058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly @Ride_8964 我们学校每年都有情侣在科技楼操逼亲嘴不带停的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741063508102627328",
+        "conversation_id": "2058028785304502392",
+        "created_at": "2026-05-23T03:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058030790211228058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058030790211228058",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058030022565474414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 我真的看不下去了这些人表面上一副少见多怪的样子其实还不是因为恐同而且装几把纯洁啊从小到大谁没看过听过学校里哪对情侣在学校的什么什么地方操逼了…向我们最纯良最干净最不会十几岁就搞大肚肚的异性恋致敬🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 272,
+          "like_count": 5909,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2923
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 514,
+          "like_count": 7284,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 4158
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳私生子",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 134,
+          "like_count": 31172,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 7044
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Virtus.pro (eSports)",
+          "id": "861580806396952576",
+          "name": "Virtus.pro "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "Virtus.pro (eSports)",
+          "id": "861580806396952576",
+          "name": "Virtus.pro "
+        }
+      }
+    ],
+    "conversation_id": "2058737094135255515",
+    "created_at": "2026-05-25T02:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058737094135255515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onceagainow/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/onceagainow/status/2058663458267119779",
+          "start": 14,
+          "url": "https://t.co/3fmTStqVU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058737094135255515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058663458267119779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个运营到底是咋了中邪了？ https://t.co/3fmTStqVU7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Virtus.pro (eSports)",
+              "id": "861580806396952576",
+              "name": "Virtus.pro "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Virtus.pro (eSports)",
+              "id": "861580806396952576",
+              "name": "Virtus.pro "
+            }
+          }
+        ],
+        "conversation_id": "2058737094135255515",
+        "created_at": "2026-05-25T02:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058737094135255515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onceagainow/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/onceagainow/status/2058663458267119779",
+              "start": 14,
+              "url": "https://t.co/3fmTStqVU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058737094135255515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058663458267119779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个运营到底是咋了中邪了？ https://t.co/3fmTStqVU7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789872936540848128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Virtus.pro (eSports)",
+              "id": "861580806396952576",
+              "name": "Virtus.pro "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Virtus.pro (eSports)",
+              "id": "861580806396952576",
+              "name": "Virtus.pro "
+            }
+          }
+        ],
+        "conversation_id": "2058663458267119779",
+        "created_at": "2026-05-24T21:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058663458267119779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OnceAgainOW/st…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/OnceAgainOW/status/2057653404713845116",
+              "start": 172,
+              "url": "https://t.co/jh8Dqq4gJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058663458267119779",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14696,
+          "like_count": 422,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057653404713845116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm 0 for 2 on Virtus Pro aura gamble posts, but I'll be trying again the next opportunity I get. Failure doesn't faze me. You miss 100% of the shots you don't take. 在冲一次。 https://t.co/jh8Dqq4gJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 262,
+          "like_count": 6232,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3126
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T04:19:10.000Z",
+        "description": "The official account of @Weibogamingwin’s Overwatch team, also known as Once Again 🇨🇳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "Weibogamingwin"
+              }
+            ]
+          }
+        },
+        "id": "1789872936540848128",
+        "name": "WBG Overwatch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917399372700213248/43a4M3YP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9225,
+          "following_count": 131,
+          "like_count": 1010,
+          "listed_count": 15,
+          "media_count": 355,
+          "tweet_count": 686
+        },
+        "username": "OnceAgainOW",
+        "verified": true
+      }
+    ]
+  }
+}

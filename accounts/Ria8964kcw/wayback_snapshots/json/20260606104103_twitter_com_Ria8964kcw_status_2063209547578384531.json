@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063205284898812081",
+    "created_at": "2026-06-06T10:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063209547578384531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039188116443947009",
+          "start": 0,
+          "username": "xichangan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063209547578384531",
+    "in_reply_to_user_id": "2039188116443947009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063205284898812081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xichangan8964 这是我妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063205269639995392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH6QuubIAAej43.jpg",
+        "width": 1556
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063205269644136448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH6QuvaUAA_xhn.jpg",
+        "width": 1587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063205284898812081",
+        "created_at": "2026-06-06T10:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063209547578384531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039188116443947009",
+              "start": 0,
+              "username": "xichangan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063209547578384531",
+        "in_reply_to_user_id": "2039188116443947009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063205284898812081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xichangan8964 这是我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063205269639995392",
+            "3_2063205269644136448"
+          ]
+        },
+        "author_id": "2039188116443947009",
+        "conversation_id": "2063205284898812081",
+        "created_at": "2026-06-06T10:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063205284898812081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxrEzE1bAz",
+              "end": 33,
+              "expanded_url": "https://x.com/xichangan8964/status/2063205284898812081/photo/1",
+              "media_key": "3_2063205269639995392",
+              "start": 10,
+              "url": "https://t.co/oxrEzE1bAz"
+            },
+            {
+              "display_url": "pic.x.com/oxrEzE1bAz",
+              "end": 33,
+              "expanded_url": "https://x.com/xichangan8964/status/2063205284898812081/photo/1",
+              "media_key": "3_2063205269644136448",
+              "start": 10,
+              "url": "https://t.co/oxrEzE1bAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063205284898812081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬两位老英雄药品 https://t.co/oxrEzE1bAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 317,
+          "like_count": 7832,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 4217
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T03:49:46.000Z",
+        "description": "左右没有什么绝对，所以绝对超越左右。\n爱人永远留在1995年夏。https://t.co/k4XAsdVZAY\n本号含王沪宁元素极多，似推似梦似公似嬷都无所谓，学术研究也有，史料考究也有，只爱你哦沪宁😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/works/78047201",
+                "end": 55,
+                "expanded_url": "https://archiveofourown.org/works/78047201",
+                "start": 32,
+                "url": "https://t.co/k4XAsdVZAY"
+              }
+            ]
+          }
+        },
+        "id": "2039188116443947009",
+        "location": "中南海某处垃圾桶中",
+        "name": "西长安街右转",
+        "pinned_tweet_id": "2039403921307787527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039310867985313792/ZXUZ_0Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 263,
+          "like_count": 4601,
+          "listed_count": 1,
+          "media_count": 584,
+          "tweet_count": 2442
+        },
+        "username": "xichangan8964",
+        "verified": false
+      }
+    ]
+  }
+}

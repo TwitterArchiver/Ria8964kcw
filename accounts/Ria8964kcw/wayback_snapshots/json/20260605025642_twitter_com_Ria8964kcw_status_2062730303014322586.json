@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062730195002679386",
+    "created_at": "2026-06-05T02:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062730303014322586"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062730303014322586",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062730195002679386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我把私信开了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062730188421734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBKLXRaIAAvGIk.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062730195002679386",
+        "created_at": "2026-06-05T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062730303014322586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062730303014322586",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062730195002679386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把私信开了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062730188421734400"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062730195002679386",
+        "created_at": "2026-06-05T02:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062730195002679386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDtBXVoBN7",
+              "end": 38,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2062730195002679386/photo/1",
+              "media_key": "3_2062730188421734400",
+              "start": 15,
+              "url": "https://t.co/XDtBXVoBN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062730195002679386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说吧你发吧，我的私信开着的 https://t.co/XDtBXVoBN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈xtx｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 304,
+          "like_count": 7675,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4126
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

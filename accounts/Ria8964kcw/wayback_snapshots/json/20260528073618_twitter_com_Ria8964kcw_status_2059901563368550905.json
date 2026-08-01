@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059901555768500224"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059901563368550905",
+    "created_at": "2026-05-28T07:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059901563368550905"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "김채원"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LE2kyDvZd",
+          "end": 28,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2059901563368550905/photo/1",
+          "media_key": "3_2059901555768500224",
+          "start": 5,
+          "url": "https://t.co/3LE2kyDvZd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059901563368550905",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#김채원 https://t.co/3LE2kyDvZd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059901563368550905].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059901563368550905",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059901563368550905"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059901555768500224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY9jRfbIAAQRvk.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 293,
+          "like_count": 6698,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 3444
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

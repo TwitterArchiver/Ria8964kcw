@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064993213602304180",
+    "created_at": "2026-06-11T08:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064993213602304180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0b7cm/status/2…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/0b7cm/status/2064722991276241308",
+          "start": 17,
+          "url": "https://t.co/glHRfAwyG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064993213602304180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064722991276241308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的不知道你们吴畜到底是咋了？ https://t.co/glHRfAwyG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2064722889165996032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdeh0BbgAAIn9w.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1438,
+        "media_key": "3_2064722889157541889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdehz_agAEF1OT.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1075,
+        "media_key": "3_2064722889165934592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdeh0BakAAXAE1.jpg",
+        "width": 807
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2064722889166012417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdeh0BbwAEjapU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064993213602304180",
+        "created_at": "2026-06-11T08:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064993213602304180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0b7cm/status/2…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/0b7cm/status/2064722991276241308",
+              "start": 17,
+              "url": "https://t.co/glHRfAwyG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064993213602304180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064722991276241308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的不知道你们吴畜到底是咋了？ https://t.co/glHRfAwyG3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064722889165996032",
+            "3_2064722889157541889",
+            "3_2064722889165934592",
+            "3_2064722889166012417"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064722991276241308",
+        "created_at": "2026-06-10T14:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064722991276241308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uq5H3GOeFP",
+              "end": 106,
+              "expanded_url": "https://x.com/0b7cm/status/2064722991276241308/photo/1",
+              "media_key": "3_2064722889165996032",
+              "start": 83,
+              "url": "https://t.co/Uq5H3GOeFP"
+            },
+            {
+              "display_url": "pic.x.com/Uq5H3GOeFP",
+              "end": 106,
+              "expanded_url": "https://x.com/0b7cm/status/2064722991276241308/photo/1",
+              "media_key": "3_2064722889157541889",
+              "start": 83,
+              "url": "https://t.co/Uq5H3GOeFP"
+            },
+            {
+              "display_url": "pic.x.com/Uq5H3GOeFP",
+              "end": 106,
+              "expanded_url": "https://x.com/0b7cm/status/2064722991276241308/photo/1",
+              "media_key": "3_2064722889165934592",
+              "start": 83,
+              "url": "https://t.co/Uq5H3GOeFP"
+            },
+            {
+              "display_url": "pic.x.com/Uq5H3GOeFP",
+              "end": 106,
+              "expanded_url": "https://x.com/0b7cm/status/2064722991276241308/photo/1",
+              "media_key": "3_2064722889166012417",
+              "start": 83,
+              "url": "https://t.co/Uq5H3GOeFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064722991276241308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 160630,
+          "like_count": 240,
+          "quote_count": 6,
+          "reply_count": 110,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "今天才知道，原来东方明珠那颗球里面居然藏了一个大床房？？？\n不知道住一晚多少钱⋯⋯但更想知道的是，躺在床上会不会有种被游客盯着睡觉的感觉啦😂😂 有人真的去睡过吗～￼ https://t.co/Uq5H3GOeFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 329,
+          "like_count": 8207,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2064472924397175263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11973,
+          "following_count": 1287,
+          "like_count": 13120,
+          "listed_count": 28,
+          "media_count": 3169,
+          "tweet_count": 18803
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

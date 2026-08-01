@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2078566754197098635",
+    "created_at": "2026-07-18T20:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078571318862352868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078571318862352868",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078566754197098635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078566741777801217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNiNcF2bYAEdQMv.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2078566754197098635",
+        "created_at": "2026-07-18T20:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078571318862352868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078571318862352868",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078566754197098635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078566741777801217"
+          ]
+        },
+        "author_id": "1550188270495027200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078566754197098635",
+        "created_at": "2026-07-18T19:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078566754197098635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6dhgE7J1t",
+              "end": 29,
+              "expanded_url": "https://x.com/Hushlog_/status/2078566754197098635/photo/1",
+              "media_key": "3_2078566741777801217",
+              "start": 6,
+              "url": "https://t.co/t6dhgE7J1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078566754197098635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是烫歪了 https://t.co/t6dhgE7J1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 327,
+          "like_count": 9801,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 5290
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "我是黄瓜也可以叫我阿树 | 🚪53r | 我有精神病负能很多自行避雷 | 不自残自伤了 | 拿来搞二次元的小号 @hushlog35 | 谁骂我我拿黄瓜捅谁屁眼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "不幸人间强制收容所",
+        "name": "黄瓜",
+        "pinned_tweet_id": "2063517541029585084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063170117870223360/c8Orb9EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 134,
+          "like_count": 22348,
+          "listed_count": 4,
+          "media_count": 757,
+          "tweet_count": 7168
+        },
+        "url": "",
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

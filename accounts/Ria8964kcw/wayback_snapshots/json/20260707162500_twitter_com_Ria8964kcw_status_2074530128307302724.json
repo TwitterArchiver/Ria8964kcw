@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2074417568031691195",
+    "created_at": "2026-07-07T16:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074530128307302724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900422705415151618",
+          "start": 0,
+          "username": "uketamawarui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074530128307302724",
+    "in_reply_to_user_id": "1900422705415151618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074417568031691195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uketamawarui 你火了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074417559877918721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnPx6xbIAE8U1S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2074417568031691195",
+        "created_at": "2026-07-07T16:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074530128307302724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900422705415151618",
+              "start": 0,
+              "username": "uketamawarui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074530128307302724",
+        "in_reply_to_user_id": "1900422705415151618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074417568031691195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uketamawarui 你火了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074417559877918721"
+          ]
+        },
+        "author_id": "1900422705415151618",
+        "conversation_id": "2074417568031691195",
+        "created_at": "2026-07-07T08:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074417568031691195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pl2cqixXJR",
+              "end": 31,
+              "expanded_url": "https://x.com/uketamawarui/status/2074417568031691195/photo/1",
+              "media_key": "3_2074417559877918721",
+              "start": 8,
+              "url": "https://t.co/Pl2cqixXJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074417568031691195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5745,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁自己认领一下 https://t.co/Pl2cqixXJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 336,
+          "like_count": 9605,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:44:25.000Z",
+        "description": "等你忘记了我们就说拜拜\n@Yueiru718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Yueiru718"
+              }
+            ]
+          }
+        },
+        "id": "1900422705415151618",
+        "location": "傍観",
+        "name": "torinaku",
+        "pinned_tweet_id": "2067438323996745745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071928650887213056/cw169qbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 109,
+          "like_count": 11773,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2315
+        },
+        "url": "",
+        "username": "uketamawarui",
+        "verified": false
+      }
+    ]
+  }
+}

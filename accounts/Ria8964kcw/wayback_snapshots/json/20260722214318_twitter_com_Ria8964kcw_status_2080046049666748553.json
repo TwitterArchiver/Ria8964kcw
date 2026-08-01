@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2080046049666748553",
+    "created_at": "2026-07-22T21:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T22:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080046049666748553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puyuma2778/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/puyuma2778/status/2079895027778765180",
+          "start": 4,
+          "url": "https://t.co/QtcSJiA4Rr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080046049666748553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079895027778765180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点我了 https://t.co/QtcSJiA4Rr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2080046049666748553",
+        "created_at": "2026-07-22T21:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080046049666748553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puyuma2778/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/puyuma2778/status/2079895027778765180",
+              "start": 4,
+              "url": "https://t.co/QtcSJiA4Rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080046049666748553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079895027778765180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点我了 https://t.co/QtcSJiA4Rr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "conversation_id": "2079895027778765180",
+        "created_at": "2026-07-22T11:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079895027778765180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079895027778765180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就在：从被欲望操控的母狗到人间清醒大女主两个身份之间来回切换，我受不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "骟爹拴母高手利亚🐊🦜🦅🦆🦉🐓🦤🕊️🐦‍⬛",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 325,
+          "like_count": 9791,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 5314
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "🏳️‍🌈",
+        "id": "2051007254774808576",
+        "name": "曲婉婷推特反黑站",
+        "pinned_tweet_id": "2079991258655920600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 294,
+          "like_count": 8775,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2568
+        },
+        "url": "",
+        "username": "Puyuma2778",
+        "verified": false
+      }
+    ]
+  }
+}

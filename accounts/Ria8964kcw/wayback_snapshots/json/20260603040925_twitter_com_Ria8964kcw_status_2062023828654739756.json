@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061242269731303538",
+    "created_at": "2026-06-03T04:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062023828654739756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055010868174143488",
+          "start": 0,
+          "username": "Tiegang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062023828654739756",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062019309115998284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiegang114514 我错了我傻逼一个我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061242269731303538",
+        "created_at": "2026-06-03T04:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062023828654739756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055010868174143488",
+              "start": 0,
+              "username": "Tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062023828654739756",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062019309115998284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiegang114514 我错了我傻逼一个我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061242269731303538",
+        "created_at": "2026-06-03T03:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062019309115998284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055010868174143488",
+              "start": 0,
+              "username": "Tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062019309115998284",
+        "in_reply_to_user_id": "2055010868174143488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061242269731303538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiegang114514 我是听到他们空间里让他开了窗，开了空调才留言让他们报勾的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜匿名提问欢迎所有人｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 329,
+          "like_count": 7531,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 4033
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T19:43:08.000Z",
+        "description": "错对不隐，爱恶不侵\n大号@NMD_China喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "NMD_China"
+              }
+            ]
+          }
+        },
+        "id": "2055010868174143488",
+        "location": "小樽",
+        "name": "社恐的鱼睡大觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058375320877559808/nFWGLM_N_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 60,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "Tiegang114514",
+        "verified": false
+      }
+    ]
+  }
+}

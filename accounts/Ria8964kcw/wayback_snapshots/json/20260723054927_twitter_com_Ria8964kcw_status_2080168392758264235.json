@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080168378527109120"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2080168392758264235",
+    "created_at": "2026-07-23T05:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080168392758264235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "1463858044282933254",
+          "start": 23,
+          "username": "NiiNa_Sakura_"
+        },
+        {
+          "end": 49,
+          "id": "2051007254774808576",
+          "start": 38,
+          "username": "Puyuma2778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qfRaUW8Wjx",
+          "end": 73,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2080168392758264235/photo/1",
+          "media_key": "3_2080168378527109120",
+          "start": 50,
+          "url": "https://t.co/qfRaUW8Wjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080168392758264235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次采首发这个dm在线我都会被萌一大跳好吧😳😳@NiiNa_Sakura_ @Puyuma2778 https://t.co/qfRaUW8Wjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080168378527109120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4-Hnsb0AAgrr0.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080168378527109120"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2080168392758264235",
+        "created_at": "2026-07-23T05:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080168392758264235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1463858044282933254",
+              "start": 23,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 49,
+              "id": "2051007254774808576",
+              "start": 38,
+              "username": "Puyuma2778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfRaUW8Wjx",
+              "end": 73,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2080168392758264235/photo/1",
+              "media_key": "3_2080168378527109120",
+              "start": 50,
+              "url": "https://t.co/qfRaUW8Wjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080168392758264235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次采首发这个dm在线我都会被萌一大跳好吧😳😳@NiiNa_Sakura_ @Puyuma2778 https://t.co/qfRaUW8Wjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "我想自毁",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 324,
+          "like_count": 9802,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 5320
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "🏳️‍🌈もう飽きた。。。@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "坤采源的杯子",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 188,
+          "like_count": 73832,
+          "listed_count": 1,
+          "media_count": 1303,
+          "tweet_count": 27418
+        },
+        "url": "",
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "🏳️‍🌈",
+        "id": "2051007254774808576",
+        "name": "曲婉婷推特反黑站",
+        "pinned_tweet_id": "2079991258655920600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 295,
+          "like_count": 8773,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2568
+        },
+        "url": "",
+        "username": "Puyuma2778",
+        "verified": false
+      }
+    ]
+  }
+}

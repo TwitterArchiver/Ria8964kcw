@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056369562162188636",
+    "created_at": "2026-05-18T13:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056370430597038413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800150674761728000",
+          "start": 0,
+          "username": "0___qwq___0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056370430597038413",
+    "in_reply_to_user_id": "1800150674761728000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056369562162188636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0___qwq___0 老师你要理解我门毒虫好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056369562162188636",
+        "created_at": "2026-05-18T13:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056370430597038413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800150674761728000",
+              "start": 0,
+              "username": "0___qwq___0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056370430597038413",
+        "in_reply_to_user_id": "1800150674761728000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056369562162188636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0___qwq___0 老师你要理解我门毒虫好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800150674761728000",
+        "conversation_id": "2056369562162188636",
+        "created_at": "2026-05-18T13:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056369562162188636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056369562162188636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "练实验操作的时候老师一直让我手别抖。。也不是我想抖啊手一使劲就抖莪有啥办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 246,
+          "like_count": 5323,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2531
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:59:13.000Z",
+        "description": "she/they/any｜pan｜mostly nonsense｜some art ｜Think twice before you follow⚠️sh/od｜中文/EN🤏",
+        "id": "1800150674761728000",
+        "location": "my room",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052732517648908288/ToT2Fwiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 793,
+          "like_count": 3461,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2439
+        },
+        "username": "0___qwq___0",
+        "verified": false
+      }
+    ]
+  }
+}

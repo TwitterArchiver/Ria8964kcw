@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062796137707479136",
+    "created_at": "2026-06-05T08:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062816694188527755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        },
+        {
+          "end": 22,
+          "id": "2055986818932424704",
+          "start": 11,
+          "username": "Koysov2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062816694188527755",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062809146630795564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 @Koysov2022 我们学校脑子有问题一样，我们之前的几届有靠背凳子，我入学的时候换成板凳了，学校领导家里能喘口气的就可乐了，为了拿补贴招标脸都不要了，我的爸呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062796137707479136",
+        "created_at": "2026-06-05T08:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062816694188527755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            },
+            {
+              "end": 22,
+              "id": "2055986818932424704",
+              "start": 11,
+              "username": "Koysov2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062816694188527755",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062809146630795564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 @Koysov2022 我们学校脑子有问题一样，我们之前的几届有靠背凳子，我入学的时候换成板凳了，学校领导家里能喘口气的就可乐了，为了拿补贴招标脸都不要了，我的爸呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2062796137707479136",
+        "created_at": "2026-06-05T08:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062809146630795564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055986818932424704",
+              "start": 0,
+              "username": "Koysov2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062809146630795564",
+        "in_reply_to_user_id": "2055986818932424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062796137707479136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koysov2022 高级学校。椅子有靠背"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈xtx｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 307,
+          "like_count": 7708,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 4131
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 469,
+          "like_count": 50460,
+          "listed_count": 1,
+          "media_count": 1610,
+          "tweet_count": 15786
+        },
+        "username": "wmy072011",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:23:56.000Z",
+        "description": "主机:@jkiesoft\n初代Kia转生版，如果主机没长时间更新说明我在用这个号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jkiesoft"
+              }
+            ]
+          }
+        },
+        "id": "2055986818932424704",
+        "location": "Astoria",
+        "name": "Kia2.0",
+        "pinned_tweet_id": "2061805265725665572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062404368721379329/E_7psQzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 63,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "username": "Koysov2022",
+        "verified": false
+      }
+    ]
+  }
+}

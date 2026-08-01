@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057132551345696992",
+    "created_at": "2026-05-20T16:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057132551345696992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mr_boredasfock…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mr_boredasfock/status/2057129137857568974",
+          "start": 5,
+          "url": "https://t.co/A6nUjYI0Kt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057132551345696992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057129137857568974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死法格特 https://t.co/A6nUjYI0Kt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057132551345696992",
+        "created_at": "2026-05-20T16:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057132551345696992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mr_boredasfock…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mr_boredasfock/status/2057129137857568974",
+              "start": 5,
+              "url": "https://t.co/A6nUjYI0Kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057132551345696992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057129137857568974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死法格特 https://t.co/A6nUjYI0Kt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630384112392437761",
+        "conversation_id": "2057028246525636667",
+        "created_at": "2026-05-20T15:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057129137857568974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057129137857568974",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057028246525636667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd 骚逼他妈的，希特勒他妈的，希特勒太骚了兄弟，希特勒兄弟，跟你说兄弟，希特勒我哥们认识，希特勒黑丝啊嗯黑丝提到啊嗯大腿太骚了啊嗯啊嗯希特勒妈妈，啊嗯希特勒亚米亚米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 264,
+          "like_count": 5614,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2684
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T01:47:33.000Z",
+        "description": "Praise Satan/拉黑/加速/间歇支黑/反独裁/🇺🇦/人与人之间无法沟通/简体中文/gay trans friendly/queer/反生育主义/岁月不静好但我们什么都做不了所以聊聊天吧",
+        "id": "1630384112392437761",
+        "location": "San Francisco",
+        "name": "⸸撒旦子民⸸(恩师郭伟",
+        "pinned_tweet_id": "1977209045636596163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630384287626285056/aR3dequl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 357,
+          "like_count": 3118,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 9970
+        },
+        "username": "Mr_boredasfock",
+        "verified": false
+      }
+    ]
+  }
+}

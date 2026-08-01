@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066746574177435909",
+    "created_at": "2026-06-16T04:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066747278967329109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066747278967329109",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066746574177435909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 我全家都被这两张图迷倒了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066746560239833088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6PC-PbEAAINoD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066746560244011008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6PC-Qa0AAeS46.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066746574177435909",
+        "created_at": "2026-06-16T04:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066747278967329109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066747278967329109",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066746574177435909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 我全家都被这两张图迷倒了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066746560239833088",
+            "3_2066746560244011008"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2066746574177435909",
+        "created_at": "2026-06-16T04:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066746574177435909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQC4hJ71mq",
+              "end": 56,
+              "expanded_url": "https://x.com/kitty068_ly/status/2066746574177435909/photo/1",
+              "media_key": "3_2066746560239833088",
+              "start": 33,
+              "url": "https://t.co/WQC4hJ71mq"
+            },
+            {
+              "display_url": "pic.x.com/WQC4hJ71mq",
+              "end": 56,
+              "expanded_url": "https://x.com/kitty068_ly/status/2066746574177435909/photo/1",
+              "media_key": "3_2066746560244011008",
+              "start": 33,
+              "url": "https://t.co/WQC4hJ71mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066746574177435909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我试了一下兔女郎 我靠好想让朋友穿执事或者兔女郎和我拍很多照片a https://t.co/WQC4hJ71mq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 339,
+          "like_count": 8614,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 4678
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "本账号不适合看不懂人话的人交流 和我想法不一样的人可以不说话\n会用@Eric52802090721 回复\n一个queer\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Eric52802090721"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 559,
+          "like_count": 9665,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 5617
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

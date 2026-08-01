@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056978897808527487",
+    "created_at": "2026-05-20T13:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057096871420850375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2043578294977605632",
+          "start": 0,
+          "username": "aze0220"
+        },
+        {
+          "end": 18,
+          "id": "1695126466898612224",
+          "start": 9,
+          "username": "oui23333"
+        },
+        {
+          "end": 34,
+          "id": "2047196027141181440",
+          "start": 19,
+          "username": "tangangqinmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057096871420850375",
+    "in_reply_to_user_id": "2043578294977605632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057094988681331121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aze0220 @oui23333 @tangangqinmao1 你傻逼一样，毛润英上战场是给他垫背景，人家在彭德怀身边当少爷兵，自己犯蠢烧火吃蛋炒饭被炸死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056978897808527487",
+        "created_at": "2026-05-20T13:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057096871420850375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2043578294977605632",
+              "start": 0,
+              "username": "aze0220"
+            },
+            {
+              "end": 18,
+              "id": "1695126466898612224",
+              "start": 9,
+              "username": "oui23333"
+            },
+            {
+              "end": 34,
+              "id": "2047196027141181440",
+              "start": 19,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057096871420850375",
+        "in_reply_to_user_id": "2043578294977605632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057094988681331121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aze0220 @oui23333 @tangangqinmao1 你傻逼一样，毛润英上战场是给他垫背景，人家在彭德怀身边当少爷兵，自己犯蠢烧火吃蛋炒饭被炸死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043578294977605632",
+        "conversation_id": "2056978897808527487",
+        "created_at": "2026-05-20T13:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057094988681331121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 21,
+              "id": "1695126466898612224",
+              "start": 12,
+              "username": "oui23333"
+            },
+            {
+              "end": 37,
+              "id": "2047196027141181440",
+              "start": 22,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057094988681331121",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057081291582198006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @oui23333 @tangangqinmao1 傻逼 有本事让你儿子也去上战场啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 263,
+          "like_count": 5588,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2667
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T06:33:36.000Z",
+        "description": "",
+        "id": "2043578294977605632",
+        "name": "阿泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056167374978514944/iTmUsFVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "aze0220",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T17:30:27.000Z",
+        "description": "",
+        "id": "1695126466898612224",
+        "name": "甜菊糖苷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695126616165466112/5ZiebMVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 142,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "oui23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n支持图目田 兼职 右÷ 繁茂賊\n大号@tangangqinmao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "tangangqinmao"
+              }
+            ]
+          }
+        },
+        "id": "2047196027141181440",
+        "name": "弹钢琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 11,
+          "like_count": 837,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 781
+        },
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059371836924944724",
+    "created_at": "2026-05-27T03:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059476936909591023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059476936909591023",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059414461916545337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon 想出酒吧里跳舞的人出来一下我要给你颁奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059371836924944724",
+        "created_at": "2026-05-27T03:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059476936909591023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059476936909591023",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059414461916545337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon 想出酒吧里跳舞的人出来一下我要给你颁奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2059371836924944724",
+        "created_at": "2026-05-26T23:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059414461916545337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059414461916545337",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059371836924944724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 我也是笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 283,
+          "like_count": 6524,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 340,
+          "like_count": 45424,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 4303
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

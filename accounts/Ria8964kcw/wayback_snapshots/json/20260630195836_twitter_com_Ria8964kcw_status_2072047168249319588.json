@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2072047168249319588",
+    "created_at": "2026-06-30T19:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072047168249319588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dongbagel114/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/dongbagel114/status/2048011622535541106",
+          "start": 33,
+          "url": "https://t.co/U6zc2C2E0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072047168249319588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048011622535541106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了，我就是想哭，我觉得真美好，owarida，owarida https://t.co/U6zc2C2E0l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2072047168249319588",
+        "created_at": "2026-06-30T19:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072047168249319588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dongbagel114/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dongbagel114/status/2048011622535541106",
+              "start": 33,
+              "url": "https://t.co/U6zc2C2E0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072047168249319588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048011622535541106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了，我就是想哭，我觉得真美好，owarida，owarida https://t.co/U6zc2C2E0l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692711484474929152",
+        "conversation_id": "2048011622535541106",
+        "created_at": "2026-04-25T12:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048011622535541106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048011622535541106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3420,
+          "like_count": 63,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我看到那种由母狗和基佬和跨出构成的死吗小团体就想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 329,
+          "like_count": 9473,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 5144
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T01:34:11.000Z",
+        "description": "曲婉婷资深粉丝，喜欢东北臭脚白袜体育生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongbabysima.com",
+                "end": 23,
+                "expanded_url": "http://www.dongbabysima.com",
+                "start": 0,
+                "url": "https://t.co/lrqxU0nuoF"
+              }
+            ]
+          }
+        },
+        "id": "1692711484474929152",
+        "location": "安徽 南京",
+        "name": "爸爸输精管外的世界太残酷",
+        "pinned_tweet_id": "2006540361896964105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034183038855483392/B5y90pGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1445,
+          "like_count": 17984,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 6888
+        },
+        "url": "https://t.co/lrqxU0nuoF",
+        "username": "dongbagel114",
+        "verified": false
+      }
+    ]
+  }
+}

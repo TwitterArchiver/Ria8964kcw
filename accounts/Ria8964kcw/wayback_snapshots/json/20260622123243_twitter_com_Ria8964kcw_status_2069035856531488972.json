@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069035849548005376"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2069035856531488972",
+    "created_at": "2026-06-22T12:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069035856531488972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 99,
+          "id": "1738252244607512576",
+          "start": 91,
+          "username": "Gess828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxVdaVdV8D",
+          "end": 123,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2069035856531488972/photo/1",
+          "media_key": "3_2069035849548005376",
+          "start": 100,
+          "url": "https://t.co/lxVdaVdV8D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069035856531488972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后我宣布一下，就是被爱好似有靠山，被爱能疯狂生长出血肉，然后被爱就那个，我就像那个山东人一样，satisfaction，这就是悦悦给我的爱，我要宣发一下，我被爱了，爱人tv开播啦 @Gess828 https://t.co/lxVdaVdV8D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069035849548005376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaxJJfbgAAo5W1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069035849548005376"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069035856531488972",
+        "created_at": "2026-06-22T12:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069035856531488972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 99,
+              "id": "1738252244607512576",
+              "start": 91,
+              "username": "Gess828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxVdaVdV8D",
+              "end": 123,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2069035856531488972/photo/1",
+              "media_key": "3_2069035849548005376",
+              "start": 100,
+              "url": "https://t.co/lxVdaVdV8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069035856531488972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后我宣布一下，就是被爱好似有靠山，被爱能疯狂生长出血肉，然后被爱就那个，我就像那个山东人一样，satisfaction，这就是悦悦给我的爱，我要宣发一下，我被爱了，爱人tv开播啦 @Gess828 https://t.co/lxVdaVdV8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 312,
+          "like_count": 9031,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 4894
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "我接ow/瓦娱乐\n我很喜欢玩游戏，周末可以找我打瓦\n互fo私我，偶尔发散生活游戏怨气",
+        "id": "1738252244607512576",
+        "name": "Naomi",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068410236831223809/BAYUaGot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 41,
+          "like_count": 2688,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "Gess828",
+        "verified": false
+      }
+    ]
+  }
+}

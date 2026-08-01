@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069276887529218473",
+    "created_at": "2026-06-23T04:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069276887529218473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2068559538484310422",
+          "start": 20,
+          "url": "https://t.co/yQ5NGoHYAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069276887529218473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068559538484310422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好近，好爽,好舒服；每次刷到都走不动道 https://t.co/yQ5NGoHYAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20804,
+        "height": 2160,
+        "media_key": "7_1865378905584234496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1865378905584234496/pu/img/fHC5yOawp1MY_-Hn.jpg",
+        "public_metrics": {
+          "view_count": 199359
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865378905584234496/pu/vid/avc1/320x568/207HXDFNasxLL-id.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1865378905584234496/pu/pl/ChgMfawJZod6Dyqg.m3u8?tag=14&v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865378905584234496/pu/vid/avc1/480x852/UaKifAHW8y6koif5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865378905584234496/pu/vid/avc1/1080x1918/1PJ5DTmD_KWIIfIG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865378905584234496/pu/vid/avc1/720x1278/TtNTXu04Me1mq7nR.mp4?tag=14"
+          }
+        ],
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069276887529218473",
+        "created_at": "2026-06-23T04:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069276887529218473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2068559538484310422",
+              "start": 20,
+              "url": "https://t.co/yQ5NGoHYAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069276887529218473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068559538484310422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好近，好爽,好舒服；每次刷到都走不动道 https://t.co/yQ5NGoHYAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865378905584234496"
+          ],
+          "media_source_tweet_id": [
+            "1865379390269645047"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068559538484310422",
+        "created_at": "2026-06-21T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068559538484310422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFg4EPtmfq",
+              "end": 48,
+              "expanded_url": "https://x.com/archivedkcw/status/1865379390269645047/video/1",
+              "media_key": "7_1865378905584234496",
+              "start": 25,
+              "url": "https://t.co/pFg4EPtmfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068559538484310422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2561,
+          "impression_count": 146388,
+          "like_count": 9512,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 598
+        },
+        "reply_settings": "everyone",
+        "text": "this legendary fancam 😍\n https://t.co/pFg4EPtmfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 313,
+          "like_count": 9052,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 4912
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "location": "2 sleep deprived asia admins",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41793,
+          "following_count": 317,
+          "like_count": 22204,
+          "listed_count": 85,
+          "media_count": 13207,
+          "tweet_count": 30206
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true
+      }
+    ]
+  }
+}

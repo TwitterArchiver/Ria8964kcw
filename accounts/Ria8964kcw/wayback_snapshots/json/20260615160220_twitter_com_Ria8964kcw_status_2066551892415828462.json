@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066548448355397773",
+    "created_at": "2026-06-15T16:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066551892415828462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051007254774808576",
+          "start": 0,
+          "username": "Puyuma2778"
+        },
+        {
+          "end": 26,
+          "id": "1463858044282933254",
+          "start": 12,
+          "username": "NiiNa_Sakura_"
+        },
+        {
+          "end": 40,
+          "id": "284158515",
+          "start": 27,
+          "username": "dingdingdong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066551892415828462",
+    "in_reply_to_user_id": "2051007254774808576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066548744666141036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puyuma2778 @NiiNa_Sakura_ @dingdingdong 罚集美再看一遍KlaxonMV😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066548448355397773",
+        "created_at": "2026-06-15T16:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066551892415828462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            },
+            {
+              "end": 26,
+              "id": "1463858044282933254",
+              "start": 12,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 40,
+              "id": "284158515",
+              "start": 27,
+              "username": "dingdingdong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066551892415828462",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066548744666141036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 @NiiNa_Sakura_ @dingdingdong 罚集美再看一遍KlaxonMV😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "conversation_id": "2066548448355397773",
+        "created_at": "2026-06-15T15:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066548744666141036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1463858044282933254",
+              "start": 0,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 28,
+              "id": "284158515",
+              "start": 15,
+              "username": "dingdingdong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066548744666141036",
+        "in_reply_to_user_id": "1463858044282933254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066548448355397773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiiNa_Sakura_ @dingdingdong 土娃离开了女性主义土女大的支持belike"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 337,
+          "like_count": 8570,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 4654
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "🏳️‍🌈",
+        "id": "2051007254774808576",
+        "name": "別送我回家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 174,
+          "like_count": 4744,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1521
+        },
+        "username": "Puyuma2778",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 326,
+          "like_count": 66510,
+          "listed_count": 1,
+          "media_count": 1257,
+          "tweet_count": 25905
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-18T18:56:35.000Z",
+        "description": "",
+        "id": "284158515",
+        "name": "cenkiz cenkol",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 86,
+          "like_count": 448,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "dingdingdong",
+        "verified": false
+      }
+    ]
+  }
+}

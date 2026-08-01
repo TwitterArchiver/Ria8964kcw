@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056594460428107909",
+    "created_at": "2026-05-19T05:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056610973335888059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        },
+        {
+          "end": 23,
+          "id": "1790893006612017152",
+          "start": 12,
+          "username": "IVANSU8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056610973335888059",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056610111301513426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 @IVANSU8964 骚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056594460428107909",
+        "created_at": "2026-05-19T05:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056610973335888059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            },
+            {
+              "end": 23,
+              "id": "1790893006612017152",
+              "start": 12,
+              "username": "IVANSU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056610973335888059",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056610111301513426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 @IVANSU8964 骚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "conversation_id": "2056594460428107909",
+        "created_at": "2026-05-19T05:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056610111301513426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 23,
+              "id": "1790893006612017152",
+              "start": 12,
+              "username": "IVANSU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056610111301513426",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056599634047615369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @IVANSU8964 这男的衣服都没穿好扣子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 252,
+          "like_count": 5427,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2577
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 前浪区（现在基本不键了）|\n纯1正太控，爱好是cos小男孩和上班摸鱼 |\n眼熟的会回fo，直fo的都是好人喵 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男秦彻爱情向梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055557128040157184/L7BEb0aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 228,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1847
+        },
+        "username": "Alamida001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T23:52:32.000Z",
+        "description": "He/Him/Bi/trans right/🇺🇸 庆幸总统掌握在恋童癖手里",
+        "id": "1790893006612017152",
+        "location": "太原市公安局万柏林分局",
+        "name": "伊万 🧊❌ 8964",
+        "pinned_tweet_id": "1899833459935256791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026533135866015747/64XMDChE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1155,
+          "like_count": 26396,
+          "listed_count": 12,
+          "media_count": 408,
+          "tweet_count": 8831
+        },
+        "username": "IVANSU8964",
+        "verified": false
+      }
+    ]
+  }
+}

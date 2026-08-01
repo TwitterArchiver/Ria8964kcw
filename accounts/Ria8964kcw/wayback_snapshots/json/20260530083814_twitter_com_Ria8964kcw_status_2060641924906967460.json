@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060641924906967460",
+    "created_at": "2026-05-30T08:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060641924906967460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meow_me0w_me0w…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/meow_me0w_me0w_/status/2060628353900839376",
+          "start": 7,
+          "url": "https://t.co/87AceKAfU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060641924906967460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060628353900839376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我杭漂舍敌： https://t.co/87AceKAfU0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060641924906967460",
+        "created_at": "2026-05-30T08:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060641924906967460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow_me0w_me0w…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/meow_me0w_me0w_/status/2060628353900839376",
+              "start": 7,
+              "url": "https://t.co/87AceKAfU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060641924906967460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060628353900839376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我杭漂舍敌： https://t.co/87AceKAfU0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876439318929231873",
+        "conversation_id": "2060628353900839376",
+        "created_at": "2026-05-30T07:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060628353900839376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060628353900839376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍友是富区还要天天吃重油盐辣的大味王低级食物，每天熏得我要死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 307,
+          "like_count": 7009,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 3629
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T01:23:15.000Z",
+        "description": "宇宙濒临毁灭，唯有簇拥在宇宙主佛习近平习总书记及其党中央领导下方可涅槃重生，轮转再活。\n法轮天天转，功力日日深。\n骂我吧，别骂我平哥",
+        "id": "1876439318929231873",
+        "name": "宇宙主佛习近平⎛⎝.⎛⓿⏝⏝⓿⎞.⎠⎞",
+        "pinned_tweet_id": "2047643397561950300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933406563836080128/Mm4HrNDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 4051,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 547
+        },
+        "username": "meow_me0w_me0w_",
+        "verified": false
+      }
+    ]
+  }
+}

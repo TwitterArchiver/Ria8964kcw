@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061091632712409522",
+    "created_at": "2026-05-31T14:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061091632712409522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/bghtnya/status/2061027848895553784",
+          "start": 7,
+          "url": "https://t.co/Gbp9KdCzhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061091632712409522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061027848895553784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我癔症程度： https://t.co/Gbp9KdCzhy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2061027820336566272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo94f9b0AAmUP3.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061091632712409522",
+        "created_at": "2026-05-31T14:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061091632712409522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bghtnya/status/2061027848895553784",
+              "start": 7,
+              "url": "https://t.co/Gbp9KdCzhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061091632712409522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061027848895553784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我癔症程度： https://t.co/Gbp9KdCzhy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061027820336566272"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2061027848895553784",
+        "created_at": "2026-05-31T10:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061027848895553784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WViqlqTuws",
+              "end": 30,
+              "expanded_url": "https://x.com/bghtnya/status/2061027848895553784/photo/1",
+              "media_key": "3_2061027820336566272",
+              "start": 7,
+              "url": "https://t.co/WViqlqTuws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061027848895553784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1427,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冰棍大战晶哥 https://t.co/WViqlqTuws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 314,
+          "like_count": 7234,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3782
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10020,
+          "following_count": 2364,
+          "like_count": 181251,
+          "listed_count": 21,
+          "media_count": 4003,
+          "tweet_count": 48884
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

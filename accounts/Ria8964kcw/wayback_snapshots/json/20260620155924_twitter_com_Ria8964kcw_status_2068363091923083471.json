@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068350834405253358",
+    "created_at": "2026-06-20T15:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068363091923083471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517775639927226368",
+          "start": 0,
+          "username": "Xi_jin_pinger_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068363091923083471",
+    "in_reply_to_user_id": "1517775639927226368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068350834405253358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xi_jin_pinger_ 啊啊啊啊，啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068350834405253358",
+        "created_at": "2026-06-20T15:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068363091923083471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517775639927226368",
+              "start": 0,
+              "username": "Xi_jin_pinger_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068363091923083471",
+        "in_reply_to_user_id": "1517775639927226368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068350834405253358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xi_jin_pinger_ 啊啊啊啊，啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517775639927226368",
+        "conversation_id": "2068350834405253358",
+        "created_at": "2026-06-20T15:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068350834405253358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_zhimin9395…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/liu_zhimin93951/status/2068280908915044521",
+              "start": 53,
+              "url": "https://t.co/ZKhQCXuRn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068350834405253358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068280908915044521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "烤蹄子所有成员全部被习近平开坦克压的外酥里嫩血肉模糊了你这个死爹烂娘的窝囊废啊不出三日你妈必被习近平屠杀 https://t.co/ZKhQCXuRn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 309,
+          "like_count": 8881,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 4817
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T08:01:41.000Z",
+        "description": "全支唯一神仙皇帝阶级本人\n大号@luoxiyan9700\nqq号3582270045 3923526719 3752298077\n扩列可加",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "luoxiyan9700"
+              }
+            ]
+          }
+        },
+        "id": "1517775639927226368",
+        "name": "Xi LGBT Ba8964",
+        "pinned_tweet_id": "2066993196572537058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066992945144999936/tXfVrldu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Xi_jin_pinger_",
+        "verified": false
+      }
+    ]
+  }
+}

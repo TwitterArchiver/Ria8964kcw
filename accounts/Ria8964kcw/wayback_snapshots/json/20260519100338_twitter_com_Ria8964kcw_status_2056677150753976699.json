@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056671686209200128"
+      ],
+      "media_source_tweet_id": [
+        "2056672608280883450"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056677150753976699",
+    "created_at": "2026-05-19T10:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056677150753976699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QOrL8AYG0c",
+          "end": 35,
+          "expanded_url": "https://x.com/archivedkcw/status/2056672608280883450/video/1",
+          "media_key": "13_2056671686209200128",
+          "start": 12,
+          "url": "https://t.co/QOrL8AYG0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056677150753976699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老婆翻唱了英娅好好听惹 https://t.co/QOrL8AYG0c"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056677150753976699].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056677150753976699",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056677150753976699"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 124885,
+        "height": 1634,
+        "media_key": "13_2056671686209200128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056671686209200128/img/ssq0jlMxiNqqH5tI.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056671686209200128/vid/avc1/3840x1634/8iuzv33ny0Sw6QBZ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056671686209200128/vid/avc1/634x270/Ao42K8DoS1sT0SOl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056671686209200128/vid/avc1/846x360/-MxliKngbMxB-2DM.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056671686209200128/vid/avc1/2538x1080/jgwosgUQikGZpwGL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056671686209200128/pl/1HbxkjmlQ_7a7EnF.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056671686209200128/vid/avc1/1692x720/aJHa9MJYdCuvXkoZ.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 252,
+          "like_count": 5441,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2582
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070541783579369680",
+    "created_at": "2026-06-26T18:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070576631115333643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 23,
+          "id": "1828008363273388032",
+          "start": 14,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070576631115333643",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070541783579369680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 @akui1121 追星面前无国家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 219,
+        "media_key": "3_2070541779343142913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwKxzJacAEG9Vu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070541783579369680",
+        "created_at": "2026-06-26T18:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070576631115333643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 23,
+              "id": "1828008363273388032",
+              "start": 14,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070576631115333643",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070541783579369680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 @akui1121 追星面前无国家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070541779343142913"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2070541783579369680",
+        "created_at": "2026-06-26T16:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070541783579369680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1828008363273388032",
+              "start": 9,
+              "username": "akui1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qaKbBAKdQh",
+              "end": 42,
+              "expanded_url": "https://x.com/ashasw114514/status/2070541783579369680/photo/1",
+              "media_key": "3_2070541779343142913",
+              "start": 19,
+              "url": "https://t.co/qaKbBAKdQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070541783579369680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我追星成功了 @akui1121 https://t.co/qaKbBAKdQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 325,
+          "like_count": 9282,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 5037
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 3400,
+          "like_count": 7485,
+          "listed_count": 10,
+          "media_count": 655,
+          "tweet_count": 5558
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸！我！男生还是女生？机车！理想？！我会有自己的家🚬纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "1965chich"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "2022155627494265173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053313170438242304/O_PNkfzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28147,
+          "following_count": 1213,
+          "like_count": 21324,
+          "listed_count": 80,
+          "media_count": 1283,
+          "tweet_count": 15615
+        },
+        "url": "",
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

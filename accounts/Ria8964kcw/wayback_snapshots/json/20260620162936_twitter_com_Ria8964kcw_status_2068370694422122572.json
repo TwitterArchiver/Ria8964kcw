@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068365832145829888",
+        "3_2068365832095477760"
+      ],
+      "media_source_tweet_id": [
+        "2068365852693659992",
+        "2068365852693659992"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068370694422122572",
+    "created_at": "2026-06-20T16:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068370694422122572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738252244607512576",
+          "start": 3,
+          "username": "Gess828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DXiyWk8ls8",
+          "end": 53,
+          "expanded_url": "https://x.com/Gess828/status/2068365852693659992/photo/1",
+          "media_key": "3_2068365832145829888",
+          "start": 30,
+          "url": "https://t.co/DXiyWk8ls8"
+        },
+        {
+          "display_url": "pic.x.com/DXiyWk8ls8",
+          "end": 53,
+          "expanded_url": "https://x.com/Gess828/status/2068365852693659992/photo/1",
+          "media_key": "3_2068365832095477760",
+          "start": 30,
+          "url": "https://t.co/DXiyWk8ls8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068370694422122572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068365852693659992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gess828: 希望你们喜欢quanquan…… https://t.co/DXiyWk8ls8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068365832145829888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRPxAKbgAAj1N7.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2068365832095477760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRPw_-bMAAK5YP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068365832145829888",
+            "3_2068365832095477760"
+          ],
+          "media_source_tweet_id": [
+            "2068365852693659992",
+            "2068365852693659992"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068370694422122572",
+        "created_at": "2026-06-20T16:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068370694422122572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738252244607512576",
+              "start": 3,
+              "username": "Gess828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXiyWk8ls8",
+              "end": 53,
+              "expanded_url": "https://x.com/Gess828/status/2068365852693659992/photo/1",
+              "media_key": "3_2068365832145829888",
+              "start": 30,
+              "url": "https://t.co/DXiyWk8ls8"
+            },
+            {
+              "display_url": "pic.x.com/DXiyWk8ls8",
+              "end": 53,
+              "expanded_url": "https://x.com/Gess828/status/2068365852693659992/photo/1",
+              "media_key": "3_2068365832095477760",
+              "start": 30,
+              "url": "https://t.co/DXiyWk8ls8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068370694422122572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068365852693659992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gess828: 希望你们喜欢quanquan…… https://t.co/DXiyWk8ls8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068365832145829888",
+            "3_2068365832095477760"
+          ]
+        },
+        "author_id": "1738252244607512576",
+        "conversation_id": "2068365852693659992",
+        "created_at": "2026-06-20T16:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068365852693659992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXiyWk8ls8",
+              "end": 40,
+              "expanded_url": "https://x.com/Gess828/status/2068365852693659992/photo/1",
+              "media_key": "3_2068365832145829888",
+              "start": 17,
+              "url": "https://t.co/DXiyWk8ls8"
+            },
+            {
+              "display_url": "pic.x.com/DXiyWk8ls8",
+              "end": 40,
+              "expanded_url": "https://x.com/Gess828/status/2068365852693659992/photo/1",
+              "media_key": "3_2068365832095477760",
+              "start": 17,
+              "url": "https://t.co/DXiyWk8ls8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068365852693659992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们喜欢quanquan…… https://t.co/DXiyWk8ls8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 309,
+          "like_count": 8885,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 4819
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "额",
+        "id": "1738252244607512576",
+        "name": "Naomi",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065504918040113152/IKfkUuG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 40,
+          "like_count": 2616,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "Gess828",
+        "verified": false
+      }
+    ]
+  }
+}

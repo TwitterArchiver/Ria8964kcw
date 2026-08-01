@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068314520729043066",
+    "created_at": "2026-06-20T12:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068316193203843459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1525377023660593157",
+          "start": 0,
+          "username": "dolphin_5ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068316193203843459",
+    "in_reply_to_user_id": "1525377023660593157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068314520729043066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dolphin_5ge 我是内圈哼哼😏😏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2068314516065013761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQhGA3W0AEV2ut.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068314520729043066",
+        "created_at": "2026-06-20T12:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068316193203843459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1525377023660593157",
+              "start": 0,
+              "username": "dolphin_5ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068316193203843459",
+        "in_reply_to_user_id": "1525377023660593157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068314520729043066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dolphin_5ge 我是内圈哼哼😏😏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068314516065013761"
+          ]
+        },
+        "author_id": "1525377023660593157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068314520729043066",
+        "created_at": "2026-06-20T12:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068314520729043066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/PDM4pegnc3"
+            },
+            {
+              "display_url": "pic.x.com/wrzjlsxRXS",
+              "end": 64,
+              "expanded_url": "https://x.com/dolphin_5ge/status/2068314520729043066/photo/1",
+              "media_key": "3_2068314516065013761",
+              "start": 41,
+              "url": "https://t.co/wrzjlsxRXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068314520729043066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/PDM4pegnc3 https://t.co/wrzjlsxRXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 309,
+          "like_count": 8878,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 4812
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T07:26:46.000Z",
+        "description": "無言フォロー失礼します。8964天安門。18歳。日本語(勉強中)。很喜欢昭和军歌、演歌ijn ija相关。精日🇯🇵支黑，但包容不同立场。欢迎互fo！温良，DM ok🐱 但婉拒看黄男🚫\n所有均为约稿，绘画苦手(悲)\nb你你可能没错 只是我不想看你的内容我们互不打扰..🫂",
+        "id": "1525377023660593157",
+        "name": "休想桃之夭夭",
+        "pinned_tweet_id": "2058420441644175579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046464818362904576/xItxpxdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 652,
+          "like_count": 17365,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1337
+        },
+        "url": "",
+        "username": "dolphin_5ge",
+        "verified": false
+      }
+    ]
+  }
+}

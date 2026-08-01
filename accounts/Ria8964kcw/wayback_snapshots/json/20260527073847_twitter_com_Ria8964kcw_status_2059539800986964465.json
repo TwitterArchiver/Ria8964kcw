@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059533742562324930",
+    "created_at": "2026-05-27T07:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059539800986964465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973430266124541952",
+          "start": 0,
+          "username": "Minako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059539800986964465",
+    "in_reply_to_user_id": "1973430266124541952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059533742562324930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minako8964 太对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059533742562324930",
+        "created_at": "2026-05-27T07:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059539800986964465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973430266124541952",
+              "start": 0,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059539800986964465",
+        "in_reply_to_user_id": "1973430266124541952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059533742562324930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minako8964 太对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2059533742562324930",
+        "created_at": "2026-05-27T07:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059533742562324930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059533742562324930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不想再听到任何关于校招，暑假春招，大厂，offer，简历，AI，产出相关的字眼了。这个世界就是一个巨大的骗局，人人都讨厌上班，人人都在炫耀自己有班上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 282,
+          "like_count": 6565,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3365
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣是男生哦 不安会屏蔽，此号起到一个墓碑的作用，想互关和私联直接来找我就可以啦\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053769022324568064/pXKM1Q-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 296,
+          "like_count": 39091,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 5661
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

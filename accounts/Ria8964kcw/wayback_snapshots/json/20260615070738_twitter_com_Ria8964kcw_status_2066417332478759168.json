@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066184654420689217",
+    "created_at": "2026-06-15T07:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066417332478759168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042941891113619456",
+          "start": 0,
+          "username": "KrishnaPra60146"
+        },
+        {
+          "end": 25,
+          "id": "1984316739363209216",
+          "start": 17,
+          "username": "Ouiwops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066417332478759168",
+    "in_reply_to_user_id": "2042941891113619456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066381536254108144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrishnaPra60146 @Ouiwops 士阶层的意思是职业为读书升学做官，u idiot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14071,
+        "height": 1280,
+        "media_key": "13_2065894535125950464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065894535125950464/img/smNNX3mbkKxPI245.jpg",
+        "public_metrics": {
+          "view_count": 82352
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065894535125950464/vid/avc1/320x568/CTelprD3fXuLZrE_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065894535125950464/vid/avc1/480x852/YNXOMSYji7MUbQT-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065894535125950464/vid/avc1/720x1280/ffvRPKsOFtjWAvQ_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065894535125950464/pl/aOEfARa5P2BZJNUd.m3u8?v=d15"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066184654420689217",
+        "created_at": "2026-06-15T07:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066417332478759168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042941891113619456",
+              "start": 0,
+              "username": "KrishnaPra60146"
+            },
+            {
+              "end": 25,
+              "id": "1984316739363209216",
+              "start": 17,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066417332478759168",
+        "in_reply_to_user_id": "2042941891113619456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066381536254108144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrishnaPra60146 @Ouiwops 士阶层的意思是职业为读书升学做官，u idiot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065894535125950464"
+          ],
+          "media_source_tweet_id": [
+            "2065894601127538833"
+          ]
+        },
+        "author_id": "2042941891113619456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066184654420689217",
+        "created_at": "2026-06-15T04:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066381536254108144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984316739363209216",
+              "start": 0,
+              "username": "Ouiwops"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hW9Oj9GMIP",
+              "end": 97,
+              "expanded_url": "https://x.com/real_insight_1/status/2065894601127538833/video/1",
+              "media_key": "13_2065894535125950464",
+              "start": 74,
+              "url": "https://t.co/hW9Oj9GMIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066381536254108144",
+        "in_reply_to_user_id": "1984316739363209216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1851,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066184654420689217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouiwops Then why upper caste shi people treat lower caste nong like this\nhttps://t.co/hW9Oj9GMIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 338,
+          "like_count": 8547,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 4638
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T12:24:47.000Z",
+        "description": "tuta hua gulab jamun 🥀🥀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/search?q=from%…",
+                "end": 23,
+                "expanded_url": "https://x.com/search?q=from%3A%40KrishnaPra60146%20min_faves%3A1000&t=SRbHqzKNpqxvsE-uMr6KYQ&s=09",
+                "start": 0,
+                "url": "https://t.co/UwlmkmKCnV"
+              }
+            ]
+          }
+        },
+        "id": "2042941891113619456",
+        "location": "Top Tweets👉🏻",
+        "name": "Krish",
+        "pinned_tweet_id": "2065135827127263600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042942226976903170/P4RM66_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 401,
+          "like_count": 15248,
+          "listed_count": 2,
+          "media_count": 2388,
+          "tweet_count": 21472
+        },
+        "url": "https://t.co/UwlmkmKCnV",
+        "username": "KrishnaPra60146",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "一个无可救药的理想主义者\n\n老婆：@nvdlaamdmag114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nvdlaamdmag114"
+              }
+            ]
+          }
+        },
+        "id": "1984316739363209216",
+        "location": "乌托邦",
+        "name": "阳🇵🇸🇺🇦🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064333402267062272/wRxKAMNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 588,
+          "like_count": 2906,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1002
+        },
+        "username": "Ouiwops",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064950133511622924",
+    "created_at": "2026-06-11T12:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065048227150524924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796696056929140736",
+          "start": 0,
+          "username": "PxSoTWzy4n57838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065048227150524924",
+    "in_reply_to_user_id": "1796696056929140736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064950133511622924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PxSoTWzy4n57838 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064950133511622924",
+        "created_at": "2026-06-11T12:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065048227150524924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796696056929140736",
+              "start": 0,
+              "username": "PxSoTWzy4n57838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065048227150524924",
+        "in_reply_to_user_id": "1796696056929140736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064950133511622924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PxSoTWzy4n57838 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796696056929140736",
+        "conversation_id": "2064950133511622924",
+        "created_at": "2026-06-11T05:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064950133511622924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064950133511622924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母畜真是太伤我心了。虐母了你们知不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 330,
+          "like_count": 8257,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 4470
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T00:12:43.000Z",
+        "description": "=驮作",
+        "id": "1796696056929140736",
+        "name": "攻宝夹逼太紧把巨屌受夹射的那个夜晚",
+        "pinned_tweet_id": "2064679918261490091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065039277625626624/s0UJets6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 523,
+          "like_count": 3208,
+          "listed_count": 1,
+          "media_count": 755,
+          "tweet_count": 4399
+        },
+        "username": "PxSoTWzy4n57838",
+        "verified": false
+      }
+    ]
+  }
+}

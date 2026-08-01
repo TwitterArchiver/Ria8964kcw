@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057952987885240616",
+    "created_at": "2026-05-22T23:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057972403763052859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1463858044282933254",
+          "start": 0,
+          "username": "NiiNa_Sakura_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057972403763052859",
+    "in_reply_to_user_id": "1463858044282933254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057952987885240616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiiNa_Sakura_ 为啥她们团如此执着于注油管mv到底何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057952987885240616",
+        "created_at": "2026-05-22T23:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057972403763052859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1463858044282933254",
+              "start": 0,
+              "username": "NiiNa_Sakura_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057972403763052859",
+        "in_reply_to_user_id": "1463858044282933254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057952987885240616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiiNa_Sakura_ 为啥她们团如此执着于注油管mv到底何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463858044282933254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2057952987885240616",
+        "created_at": "2026-05-22T22:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057952987885240616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AboutMusicYT/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/AboutMusicYT/status/2057924459538129392",
+              "start": 6,
+              "url": "https://t.co/1GbkWM1xQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057952987885240616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057924459538129392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拐拐注得好 https://t.co/1GbkWM1xQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 270,
+          "like_count": 5873,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2900
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 321,
+          "like_count": 62059,
+          "listed_count": 1,
+          "media_count": 1232,
+          "tweet_count": 25270
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      }
+    ]
+  }
+}

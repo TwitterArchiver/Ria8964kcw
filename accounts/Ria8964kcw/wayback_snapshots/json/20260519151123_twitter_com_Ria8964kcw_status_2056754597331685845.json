@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056643084969283980",
+    "created_at": "2026-05-19T15:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056754597331685845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025104576224055296",
+          "start": 0,
+          "username": "CYan4359"
+        },
+        {
+          "end": 24,
+          "id": "1621943298473758720",
+          "start": 10,
+          "username": "Akiscara_3405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754597331685845",
+    "in_reply_to_user_id": "2025104576224055296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056687956371656902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYan4359 @Akiscara_3405 这个低剂量不会呕吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056643084969283980",
+        "created_at": "2026-05-19T15:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754597331685845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025104576224055296",
+              "start": 0,
+              "username": "CYan4359"
+            },
+            {
+              "end": 24,
+              "id": "1621943298473758720",
+              "start": 10,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754597331685845",
+        "in_reply_to_user_id": "2025104576224055296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056687956371656902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYan4359 @Akiscara_3405 这个低剂量不会呕吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025104576224055296",
+        "conversation_id": "2056643084969283980",
+        "created_at": "2026-05-19T10:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056687956371656902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621943298473758720",
+              "start": 0,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056687956371656902",
+        "in_reply_to_user_id": "1621943298473758720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056643084969283980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_3405 其实愈美这种复方药不是很好o吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 255,
+          "like_count": 5498,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2618
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T07:05:39.000Z",
+        "description": "微小地 无声地 成为尘烟",
+        "id": "2025104576224055296",
+        "location": "随风而去 无处不在",
+        "name": "辰宴",
+        "pinned_tweet_id": "2029606267883532386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025104786207772674/QUvX8qXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 26,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1004
+        },
+        "username": "CYan4359",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜。  18↑ 非二元性别｜双相情感障碍+重度焦虑  药物治疗中｜阿咖酚散仙人desu  普瑞巴林重度依赖｜@cnmdsjdqs小玖非常萌w｜@STULRS永远的老哥｜@sev_cloud我的小宝｜@Akiscara_6484妹妹｜@Hosinokaede0717 亲爱的老鸨｜🚪88｜互关请私信查成分会回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "cnmdsjdqs"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "STULRS"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "sev_cloud"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Akiscara_6484"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Hosinokaede0717"
+              }
+            ]
+          }
+        },
+        "id": "1621943298473758720",
+        "location": "无限城",
+        "name": "霜皇帝☁︎☾.‎˖٭",
+        "pinned_tweet_id": "2039992741220999534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018862283078905857/d3yzQtFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 980,
+          "like_count": 22522,
+          "listed_count": 4,
+          "media_count": 928,
+          "tweet_count": 10793
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2065748610193723440",
+    "created_at": "2026-06-13T10:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065748610193723440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931755143101587456",
+          "start": 3,
+          "username": "allforteresa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065748610193723440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065734755472244784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @allforteresa: 不行，不行，关谁都不能关薄熙来，不行，nonono，不可以，放出来，保释出狱，快点，我的薄压抑到达峰值了，快，快，quick quick，速く，你们看到那个风流倜傥帅气逼人的市长真的忍心吗❓❓❓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2065748610193723440",
+        "created_at": "2026-06-13T10:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065748610193723440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931755143101587456",
+              "start": 3,
+              "username": "allforteresa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065748610193723440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065734755472244784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @allforteresa: 不行，不行，关谁都不能关薄熙来，不行，nonono，不可以，放出来，保释出狱，快点，我的薄压抑到达峰值了，快，快，quick quick，速く，你们看到那个风流倜傥帅气逼人的市长真的忍心吗❓❓❓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931755143101587456",
+        "conversation_id": "2065734755472244784",
+        "created_at": "2026-06-13T09:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065734755472244784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065734755472244784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不行，不行，关谁都不能关薄熙来，不行，nonono，不可以，放出来，保释出狱，快点，我的薄压抑到达峰值了，快，快，quick quick，速く，你们看到那个风流倜傥帅气逼人的市长真的忍心吗❓❓❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 335,
+          "like_count": 8419,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T16:49:16.000Z",
+        "description": "大家揣测了这么多，也只是怕你不幸福而已。\n再见了，所有的政治生涯\n——致那位永远不为自己留退路的薄部长。@whitnora_⬅️另一个号，慎关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "whitnora_"
+              }
+            ]
+          }
+        },
+        "id": "1931755143101587456",
+        "location": "“民族的哀歌。”",
+        "name": "中华秋海棠叶",
+        "pinned_tweet_id": "2061126314527264830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058599197608378368/P9nbCFPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 74,
+          "like_count": 1204,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 788
+        },
+        "username": "allforteresa",
+        "verified": false
+      }
+    ]
+  }
+}

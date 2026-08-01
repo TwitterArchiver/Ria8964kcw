@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056124215045328896"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056124222959931506",
+    "created_at": "2026-05-17T21:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T22:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056124222959931506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fd6q088ns1",
+          "end": 55,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2056124222959931506/photo/1",
+          "media_key": "3_2056124215045328896",
+          "start": 32,
+          "url": "https://t.co/fd6q088ns1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056124222959931506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "俄狄格乖乖大早上刷到鬼了这个彪子不是调去什么海洋宣传部雪藏了吗 https://t.co/fd6q088ns1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056124222959931506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056124222959931506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056124222959931506"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056124215045328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjSFGvbEAAGaw4.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 239,
+          "like_count": 5179,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2464
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

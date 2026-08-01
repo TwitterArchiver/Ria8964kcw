@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083192102503219589",
+    "created_at": "2026-07-31T14:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083192102503219589"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 96,
+          "tag": "TimeToChaelebrate"
+        },
+        {
+          "end": 126,
+          "start": 115,
+          "tag": "여름의인트로_김채원"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "994897136520228864",
+          "start": 3,
+          "username": "kimchaewonpics"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083192102503219589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083190948998308119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimchaewonpics: reply if you're excited for chaewon's birthday 🎂\n\nTIME TO CELEBRATE CHAEWON\n#TimeToChaelebrate\n#여름의인트로_김채원\n  https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4435,
+        "height": 1440,
+        "media_key": "7_2070847656600244224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070847656600244224/pu/img/cxVCrcGGErseRTZn.jpg",
+        "public_metrics": {
+          "view_count": 20233
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070847656600244224/pu/pl/AMFh8YmiTjwfCq8_.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070847656600244224/pu/vid/avc1/480x640/KDel1njLTWL6IU7B.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070847656600244224/pu/vid/avc1/320x426/SC_Wfzhcmo-7u3Fj.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070847656600244224/pu/vid/avc1/1080x1440/czS2XO_NUbGr1fkH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070847656600244224/pu/vid/avc1/720x960/S47IBPXstI8I-hsn.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083192102503219589",
+        "created_at": "2026-07-31T14:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083192102503219589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 96,
+              "tag": "TimeToChaelebrate"
+            },
+            {
+              "end": 126,
+              "start": 115,
+              "tag": "여름의인트로_김채원"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "994897136520228864",
+              "start": 3,
+              "username": "kimchaewonpics"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083192102503219589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083190948998308119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimchaewonpics: reply if you're excited for chaewon's birthday 🎂\n\nTIME TO CELEBRATE CHAEWON\n#TimeToChaelebrate\n#여름의인트로_김채원\n  https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070847656600244224"
+          ],
+          "media_source_tweet_id": [
+            "2070848488926319095"
+          ]
+        },
+        "author_id": "994897136520228864",
+        "conversation_id": "2083190948998308119",
+        "created_at": "2026-07-31T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083190948998308119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 76,
+              "tag": "TimeToChaelebrate"
+            },
+            {
+              "end": 106,
+              "start": 95,
+              "tag": "여름의인트로_김채원"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iq9Q3cq2rL",
+              "end": 132,
+              "expanded_url": "https://x.com/cactusO3O/status/2070848488926319095/video/1",
+              "media_key": "7_2070847656600244224",
+              "start": 109,
+              "url": "https://t.co/Iq9Q3cq2rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190948998308119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 458,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "reply if you're excited for chaewon's birthday 🎂\n\nTIME TO CELEBRATE CHAEWON\n#TimeToChaelebrate\n#여름의인트로_김채원\n  https://t.co/Iq9Q3cq2rL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10317,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5452
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-11T11:08:56.000Z",
+        "description": "first pics account for izone and le sserafim’s kim chaewon #김채원",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_chaechae_1",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_chaechae_1",
+                "start": 0,
+                "url": "https://t.co/HxbmSep4nI"
+              }
+            ]
+          }
+        },
+        "id": "994897136520228864",
+        "location": "est 180511 fan account",
+        "name": "kim chaewon pics",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078535806994812928/oFoOicqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75857,
+          "following_count": 116,
+          "like_count": 11061,
+          "listed_count": 1017,
+          "media_count": 12755,
+          "tweet_count": 19857
+        },
+        "url": "https://t.co/HxbmSep4nI",
+        "username": "kimchaewonpics",
+        "verified": false
+      }
+    ]
+  }
+}

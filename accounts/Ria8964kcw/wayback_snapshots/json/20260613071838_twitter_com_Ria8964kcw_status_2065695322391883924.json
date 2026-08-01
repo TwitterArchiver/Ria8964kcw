@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2065695322391883924",
+    "created_at": "2026-06-13T07:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065695322391883924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anhlandang6688…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/anhlandang66888/status/2065663988336353555",
+          "start": 6,
+          "url": "https://t.co/FigeYED7ZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065695322391883924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065663988336353555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中南海方脸 https://t.co/FigeYED7ZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2065663984737677312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq2cyObcAAODbO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2065695322391883924",
+        "created_at": "2026-06-13T07:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065695322391883924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anhlandang6688…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/anhlandang66888/status/2065663988336353555",
+              "start": 6,
+              "url": "https://t.co/FigeYED7ZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065695322391883924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065663988336353555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中南海方脸 https://t.co/FigeYED7ZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065663984737677312"
+          ]
+        },
+        "author_id": "2019070243394699264",
+        "conversation_id": "2065663988336353555",
+        "created_at": "2026-06-13T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065663988336353555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCruzXpWaH",
+              "end": 29,
+              "expanded_url": "https://x.com/AnhLanDang66888/status/2065663988336353555/photo/1",
+              "media_key": "3_2065663984737677312",
+              "start": 6,
+              "url": "https://t.co/vCruzXpWaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065663988336353555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "标配国字脸 https://t.co/vCruzXpWaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 337,
+          "like_count": 8400,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4551
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:28:18.000Z",
+        "description": "於是我不再渴望什麼 只願一切如其是",
+        "id": "2019070243394699264",
+        "name": "江水泽民",
+        "pinned_tweet_id": "2023775000441090455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021461501127819264/Nhlj77Vd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 33,
+          "like_count": 921,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 172
+        },
+        "username": "AnhLanDang66888",
+        "verified": false
+      }
+    ]
+  }
+}

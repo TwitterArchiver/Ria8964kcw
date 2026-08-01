@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2068705184092668045",
+    "created_at": "2026-06-21T14:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068705184092668045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_stonersrus_/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/_stonersrus_/status/2068336819242926460",
+          "start": 14,
+          "url": "https://t.co/TYeNpVUMK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068705184092668045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068336819242926460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得我学西语的动力又增加了 https://t.co/TYeNpVUMK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38900,
+        "height": 944,
+        "media_key": "13_2068169568724320256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068169568724320256/img/vVW9K50zlmU0AXBj.jpg",
+        "public_metrics": {
+          "view_count": 5069127
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068169568724320256/vid/avc1/320x426/okgXUz-KaNH0GF8W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068169568724320256/vid/avc1/480x640/x7w2mEF7UquX3BE7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068169568724320256/vid/avc1/708x944/Ci1ribM_wqtQ-4lI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068169568724320256/pl/1zL_2_z07vmi-BYW.m3u8?v=777"
+          }
+        ],
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068705184092668045",
+        "created_at": "2026-06-21T14:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068705184092668045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_stonersrus_/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/_stonersrus_/status/2068336819242926460",
+              "start": 14,
+              "url": "https://t.co/TYeNpVUMK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068705184092668045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068336819242926460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我学西语的动力又增加了 https://t.co/TYeNpVUMK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068169568724320256"
+          ]
+        },
+        "author_id": "1557420747928256512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068336819242926460",
+        "created_at": "2026-06-20T14:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336819242926460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kviAOKzfJs",
+              "end": 40,
+              "expanded_url": "https://x.com/_StonersRUs_/status/2068336819242926460/video/1",
+              "media_key": "13_2068169568724320256",
+              "start": 17,
+              "url": "https://t.co/kviAOKzfJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336819242926460",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9180,
+          "impression_count": 10908711,
+          "like_count": 67633,
+          "quote_count": 1029,
+          "reply_count": 1346,
+          "retweet_count": 7606
+        },
+        "reply_settings": "everyone",
+        "text": "World Cup 2026 🏆 https://t.co/kviAOKzfJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 311,
+          "like_count": 8955,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 4855
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T17:37:06.000Z",
+        "description": "#1 Cannabis Community Bringing Stoners Together! 🍃 | Hosting 420 Giveaways Every Single Month 🎁  | CHECK OUT OUR LINKS 👇 Est. 2022",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/stonersrus",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/stonersrus",
+                "start": 0,
+                "url": "https://t.co/T7TR8ifky3"
+              }
+            ]
+          }
+        },
+        "id": "1557420747928256512",
+        "location": "OUR LINKS  ➡️",
+        "name": "STONERS R US 🍃",
+        "pinned_tweet_id": "2068336819242926460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914166839728332800/nOztDpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476844,
+          "following_count": 304,
+          "like_count": 197101,
+          "listed_count": 311,
+          "media_count": 9491,
+          "tweet_count": 51672
+        },
+        "url": "https://t.co/T7TR8ifky3",
+        "username": "_StonersRUs_",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

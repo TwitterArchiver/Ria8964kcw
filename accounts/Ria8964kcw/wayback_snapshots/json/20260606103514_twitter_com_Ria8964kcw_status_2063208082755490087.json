@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063177822215279055",
+    "created_at": "2026-06-06T10:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063208082755490087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1463858044282933254",
+          "start": 0,
+          "username": "NiiNa_Sakura_"
+        },
+        {
+          "end": 23,
+          "id": "1505242176560656386",
+          "start": 15,
+          "username": "iaa77_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063208082755490087",
+    "in_reply_to_user_id": "1463858044282933254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063184912514212293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiiNa_Sakura_ @iaa77_7 怂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063177822215279055",
+        "created_at": "2026-06-06T10:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063208082755490087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1463858044282933254",
+              "start": 0,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 23,
+              "id": "1505242176560656386",
+              "start": 15,
+              "username": "iaa77_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063208082755490087",
+        "in_reply_to_user_id": "1463858044282933254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063184912514212293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiiNa_Sakura_ @iaa77_7 怂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463858044282933254",
+        "conversation_id": "2063177822215279055",
+        "created_at": "2026-06-06T09:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063184912514212293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "iaa77_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063184912514212293",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063184717705511019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iaa77_7 可是真的好尴尬呀我就连能不能扩个列都没能说出口只是两个人对视了一下就赶紧跑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 317,
+          "like_count": 7828,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 322,
+          "like_count": 64687,
+          "listed_count": 1,
+          "media_count": 1251,
+          "tweet_count": 25677
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "pinned_tweet_id": "2050983023248814174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052409054769954816/eixaHL2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 433,
+          "like_count": 59538,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 10359
+        },
+        "username": "iaa77_7",
+        "verified": false
+      }
+    ]
+  }
+}

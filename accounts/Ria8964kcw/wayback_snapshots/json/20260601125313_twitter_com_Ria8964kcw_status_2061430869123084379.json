@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2061429583845736748",
+    "created_at": "2026-06-01T12:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061430869123084379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061430869123084379",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061429583845736748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当你凝视舞萌太鼓达人喵斯快跑屁股肉丝arcaea舞立方冰与火世界计划缤纷舞台rhythmhive邦多利lovelive偶像大师偶像梦幻祭跳舞的线别踩钢琴块节奏大师的时候 舞萌太鼓达人喵斯快跑屁股肉丝arcaea舞立方冰与火世界计划rhythmhive邦多利lovelive偶像大师偶像梦幻祭跳舞的线别踩钢琴块节奏大师也在凝视你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2061429583845736748",
+        "created_at": "2026-06-01T12:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061430869123084379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061430869123084379",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061429583845736748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当你凝视舞萌太鼓达人喵斯快跑屁股肉丝arcaea舞立方冰与火世界计划缤纷舞台rhythmhive邦多利lovelive偶像大师偶像梦幻祭跳舞的线别踩钢琴块节奏大师的时候 舞萌太鼓达人喵斯快跑屁股肉丝arcaea舞立方冰与火世界计划rhythmhive邦多利lovelive偶像大师偶像梦幻祭跳舞的线别踩钢琴块节奏大师也在凝视你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061429583845736748",
+        "created_at": "2026-06-01T12:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061429583845736748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/bghtnya/status/2061316835258335423",
+              "start": 147,
+              "url": "https://t.co/bobmU1LdzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061429583845736748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061316835258335423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子你上了w3但是你的现实呢你的人生呢，高考录取不看你是否w6所有人的择偶标准也不包括w6秋招春招实习简历面试不看拍洗衣机水平但是你的人生很光明而不是像我一样站在街机厅里带着手套目瞪口呆呆若木鸡的看着我的朋友看着这个世界 这个世界和我没有关系了而我还在固步自封以为自己很牛逼实际nothing https://t.co/bobmU1LdzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 318,
+          "like_count": 7351,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

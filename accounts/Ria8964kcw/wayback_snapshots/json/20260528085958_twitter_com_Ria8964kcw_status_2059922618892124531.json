@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059922618892124531",
+    "created_at": "2026-05-28T08:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059922618892124531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lrm2112/status…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/lrm2112/status/2059660458907271542",
+          "start": 102,
+          "url": "https://t.co/gfoKPnB0WM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059922618892124531",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059660458907271542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "me pregunta la ginecóloga qué anticonceptivo uso, le digo que soy non-binary y me dice AIMUYBIEN 🌸🌸🌸🌸 https://t.co/gfoKPnB0WM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059922618892124531",
+        "created_at": "2026-05-28T08:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059922618892124531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lrm2112/status…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/lrm2112/status/2059660458907271542",
+              "start": 102,
+              "url": "https://t.co/gfoKPnB0WM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059922618892124531",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059660458907271542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "me pregunta la ginecóloga qué anticonceptivo uso, le digo que soy non-binary y me dice AIMUYBIEN 🌸🌸🌸🌸 https://t.co/gfoKPnB0WM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2736580617",
+        "conversation_id": "2059660458907271542",
+        "created_at": "2026-05-27T15:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059660458907271542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059660458907271542",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1561,
+          "impression_count": 1320213,
+          "like_count": 99540,
+          "quote_count": 155,
+          "reply_count": 120,
+          "retweet_count": 2493
+        },
+        "reply_settings": "everyone",
+        "text": "me pregunta la ginecóloga qué anticonceptivo uso, le digo que soy lesbiana y me dice AIMUYBIEN 🌸🌸🌸🌸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 294,
+          "like_count": 6708,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-07T21:45:10.000Z",
+        "description": "Corazón de larga leie",
+        "id": "2736580617",
+        "location": "Valdoviño, Galicia",
+        "name": "Rizos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056505006778437632/Es3eOk2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1141,
+          "like_count": 63822,
+          "listed_count": 2,
+          "media_count": 1229,
+          "tweet_count": 36717
+        },
+        "username": "LRM2112",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066960015773356432",
+    "created_at": "2026-06-18T01:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067419226445697442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039027450819346432",
+          "start": 0,
+          "username": "yuixjzu"
+        },
+        {
+          "end": 19,
+          "id": "1243478418957594629",
+          "start": 9,
+          "username": "Smile4Yes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067419226445697442",
+    "in_reply_to_user_id": "2039027450819346432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067155697041899791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuixjzu @Smile4Yes @Recz3eth 卖逼很轻松的话就没有女穷人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066960015773356432",
+        "created_at": "2026-06-18T01:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067419226445697442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039027450819346432",
+              "start": 0,
+              "username": "yuixjzu"
+            },
+            {
+              "end": 19,
+              "id": "1243478418957594629",
+              "start": 9,
+              "username": "Smile4Yes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067419226445697442",
+        "in_reply_to_user_id": "2039027450819346432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067155697041899791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuixjzu @Smile4Yes @Recz3eth 卖逼很轻松的话就没有女穷人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039027450819346432",
+        "conversation_id": "2066960015773356432",
+        "created_at": "2026-06-17T08:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067155697041899791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1243478418957594629",
+              "start": 0,
+              "username": "Smile4Yes"
+            },
+            {
+              "end": 20,
+              "id": "1973748660975587328",
+              "start": 11,
+              "username": "Recz3eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067155697041899791",
+        "in_reply_to_user_id": "1243478418957594629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3678,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067060065321066762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smile4Yes @Recz3eth 女性卖个逼就有了。还跳楼。男性跳楼我还信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 343,
+          "like_count": 8724,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T17:10:28.000Z",
+        "description": "",
+        "id": "2039027450819346432",
+        "name": "yui",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 15,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 678
+        },
+        "username": "yuixjzu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T10:02:25.000Z",
+        "description": "ISTP-T | 平凡的人 | 向往美好 | 不和傻子争论 | 人是一根能思想的苇草｜持续减肥中",
+        "id": "1243478418957594629",
+        "location": "Utopia",
+        "name": "Smileyes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848555831572545536/Ri4_Cvix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 2401,
+          "like_count": 35949,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 8305
+        },
+        "username": "Smile4Yes",
+        "verified": true
+      }
+    ]
+  }
+}

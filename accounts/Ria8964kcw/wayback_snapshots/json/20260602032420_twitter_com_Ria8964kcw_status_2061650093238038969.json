@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061650093238038969",
+    "created_at": "2026-06-02T03:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061650093238038969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sisyphussts/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/sisyphussts/status/2061526654799798420",
+          "start": 12,
+          "url": "https://t.co/99eVd66ysD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061650093238038969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061526654799798420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会美丽的死在你的逼里 https://t.co/99eVd66ysD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061650093238038969",
+        "created_at": "2026-06-02T03:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061650093238038969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sisyphussts/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sisyphussts/status/2061526654799798420",
+              "start": 12,
+              "url": "https://t.co/99eVd66ysD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061650093238038969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061526654799798420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会美丽的死在你的逼里 https://t.co/99eVd66ysD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820189807777349632",
+        "conversation_id": "2061526654799798420",
+        "created_at": "2026-06-01T19:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061526654799798420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061526654799798420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会美丽的亖在你的逼里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 323,
+          "like_count": 7426,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 3926
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T20:07:31.000Z",
+        "description": "其他账号@pilljvce @pil1jvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "pilljvce"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "pil1jvce"
+              }
+            ]
+          }
+        },
+        "id": "1820189807777349632",
+        "name": "坚硬如水",
+        "pinned_tweet_id": "1824482134708588658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061162234139623429/ScgQ_tDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 37,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 91
+        },
+        "username": "Sisyphussts",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062941387029631455",
+    "created_at": "2026-06-05T16:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062941387029631455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gfxvjt/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/gfxvjt/status/2062425858980356181",
+          "start": 2,
+          "url": "https://t.co/VE1ASXs455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062941387029631455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062425858980356181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代 https://t.co/VE1ASXs455"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062941387029631455",
+        "created_at": "2026-06-05T16:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062941387029631455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gfxvjt/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/gfxvjt/status/2062425858980356181",
+              "start": 2,
+              "url": "https://t.co/VE1ASXs455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062941387029631455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062425858980356181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代 https://t.co/VE1ASXs455"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839273704859250689",
+        "conversation_id": "2062425858980356181",
+        "created_at": "2026-06-04T06:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062425858980356181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062425858980356181",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 10197,
+          "like_count": 370,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "야 내가 아무리 연상처럼 안보여도 손이라니.. 내가 강아지야? 그런다고 내가 손 줄거 같아? 줄게.. 손 줬으니까 간식 줘야하는거 아냐? 그럼 쓰다듬어 줘… 머리만 쓰다듬는거야? 볼도 해줘… 왜 멈춰 계속 해줘 나 목줄 채우려고..? 잠깐 입마개는 하지마.. 날카로운 이 없어 잠깐 입안 휘젓지 마…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 312,
+          "like_count": 7750,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4157
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T12:00:05.000Z",
+        "description": "뭘봐?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4192438055/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4192438055/",
+                "start": 0,
+                "url": "https://t.co/NOs5VHrmC8"
+              }
+            ]
+          }
+        },
+        "id": "1839273704859250689",
+        "location": "MS",
+        "name": "📷",
+        "pinned_tweet_id": "1961665532022964318",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6344,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/NOs5VHrmC8",
+        "username": "gfxvjt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056107428530335744"
+      ],
+      "media_source_tweet_id": [
+        "2056107434603667965"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056369879918526937",
+    "created_at": "2026-05-18T13:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056369879918526937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "738684448917626880",
+          "start": 3,
+          "username": "willalwaysobey"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KxLg5T1Gbc",
+          "end": 43,
+          "expanded_url": "https://x.com/willalwaysobey/status/2056107434603667965/photo/1",
+          "media_key": "3_2056107428530335744",
+          "start": 20,
+          "url": "https://t.co/KxLg5T1Gbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056369879918526937",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056107434603667965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willalwaysobey: https://t.co/KxLg5T1Gbc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056369879918526937].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056369879918526937",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056369879918526937"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2056107428530335744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjC0AGXsAAtYtd.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056107428530335744"
+          ]
+        },
+        "author_id": "738684448917626880",
+        "conversation_id": "2056107434603667965",
+        "created_at": "2026-05-17T20:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056107434603667965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxLg5T1Gbc",
+              "end": 23,
+              "expanded_url": "https://x.com/willalwaysobey/status/2056107434603667965/photo/1",
+              "media_key": "3_2056107428530335744",
+              "start": 0,
+              "url": "https://t.co/KxLg5T1Gbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056107434603667965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1051,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KxLg5T1Gbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 246,
+          "like_count": 5322,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2530
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-03T10:51:11.000Z",
+        "description": "i’m married 🕯️💋🐇 @vampireblvnts @smokemyweeeed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "vampireblvnts"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "smokemyweeeed"
+              }
+            ]
+          }
+        },
+        "id": "738684448917626880",
+        "name": "daddys painslut",
+        "pinned_tweet_id": "2026749203246882903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047292324883951616/Ut6ew4nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12130,
+          "following_count": 664,
+          "like_count": 16223,
+          "listed_count": 23,
+          "media_count": 9020,
+          "tweet_count": 10045
+        },
+        "username": "willalwaysobey",
+        "verified": false
+      }
+    ]
+  }
+}

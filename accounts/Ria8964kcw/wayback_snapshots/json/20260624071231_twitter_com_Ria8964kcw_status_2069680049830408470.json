@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069680049830408470",
+    "created_at": "2026-06-24T07:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069680049830408470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2091996981snow…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/2091996981snow/status/2069499831299518847",
+          "start": 2,
+          "url": "https://t.co/8X09wmNhW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069680049830408470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069499831299518847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/8X09wmNhW5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069680049830408470",
+        "created_at": "2026-06-24T07:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069680049830408470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2091996981snow…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/2091996981snow/status/2069499831299518847",
+              "start": 2,
+              "url": "https://t.co/8X09wmNhW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069680049830408470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069499831299518847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/8X09wmNhW5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880036832072617984",
+        "conversation_id": "2069499831299518847",
+        "created_at": "2026-06-23T19:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069499831299518847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069499831299518847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1470,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在中国社会 从小原生家庭破裂/遭受精神或身体虐待/经济情况较差的人 一定不要和原生家庭总体和睦相处经济条件优渥的人尤其是独生子女 建立任何长期关系 后者必然会被动加剧前者的精神创伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 316,
+          "like_count": 9124,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 4958
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜CryptoTrader\n爱国华侨｜知行合一走为上投降派\n大学退学｜海外低成本挂壁旅居宗师\n去过15个国家｜重生之我在阿根廷留学🇦🇷\n“斯诺主义”创始人｜备用号@478182920snow\n买断制会员群和付费咨询服务请私信获取详情\nEmail：ChiangMaiSnow@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "478182920snow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiangmaisnow…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiangmaisnow?si=MEPssCH6Mk9I8hOi",
+                "start": 0,
+                "url": "https://t.co/PfeWyryvYm"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "name": "清迈下小雪ChiangMaiSnow",
+        "pinned_tweet_id": "2064885361558299048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2651,
+          "following_count": 168,
+          "like_count": 3400,
+          "listed_count": 8,
+          "media_count": 545,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/PfeWyryvYm",
+        "username": "2091996981snow",
+        "verified": true
+      }
+    ]
+  }
+}

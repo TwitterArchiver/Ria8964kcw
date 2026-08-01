@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082469246915776513"
+      ],
+      "media_source_tweet_id": [
+        "2082469251806326798"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082484379423830410",
+    "created_at": "2026-07-29T15:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082484379423830410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896868798558306304",
+          "start": 3,
+          "username": "pupuwaifu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qLpA2Ya7lL",
+          "end": 38,
+          "expanded_url": "https://x.com/pupuwaifu/status/2082469251806326798/photo/1",
+          "media_key": "3_2082469246915776513",
+          "start": 15,
+          "url": "https://t.co/qLpA2Ya7lL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082484379423830410",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082469251806326798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pupuwaifu: https://t.co/qLpA2Ya7lL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082469246915776513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZqvyYXEAEhGFE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082469246915776513"
+          ]
+        },
+        "author_id": "1896868798558306304",
+        "conversation_id": "2082469251806326798",
+        "created_at": "2026-07-29T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082469251806326798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLpA2Ya7lL",
+              "end": 23,
+              "expanded_url": "https://x.com/pupuwaifu/status/2082469251806326798/photo/1",
+              "media_key": "3_2082469246915776513",
+              "start": 0,
+              "url": "https://t.co/qLpA2Ya7lL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082469251806326798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 20453,
+          "like_count": 464,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qLpA2Ya7lL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082469246915776513"
+          ],
+          "media_source_tweet_id": [
+            "2082469251806326798"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082484379423830410",
+        "created_at": "2026-07-29T15:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082484379423830410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896868798558306304",
+              "start": 3,
+              "username": "pupuwaifu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLpA2Ya7lL",
+              "end": 38,
+              "expanded_url": "https://x.com/pupuwaifu/status/2082469251806326798/photo/1",
+              "media_key": "3_2082469246915776513",
+              "start": 15,
+              "url": "https://t.co/qLpA2Ya7lL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082484379423830410",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082469251806326798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pupuwaifu: https://t.co/qLpA2Ya7lL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "欢迎互b，感谢互b\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖💛🤍💜🖤｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 352,
+          "like_count": 10115,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 5408
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T10:22:33.000Z",
+        "description": "♡‌pupuwaifu官方指路号  \n♡大号@waifupupu \n♡‌订阅观看✨➡️https://t.co/DCMsNzUZE1\n♡‌ZFB订阅✨➡️https://t.co/SDyPqxrUOk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "waifupupu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onlyfans.com/pupuwaifu",
+                "end": 66,
+                "expanded_url": "https://onlyfans.com/pupuwaifu",
+                "start": 43,
+                "url": "https://t.co/DCMsNzUZE1"
+              },
+              {
+                "display_url": "fansone.co/aheyanlz",
+                "end": 100,
+                "expanded_url": "https://fansone.co/aheyanlz",
+                "start": 77,
+                "url": "https://t.co/SDyPqxrUOk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pupuwaifu",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/pupuwaifu",
+                "start": 0,
+                "url": "https://t.co/YAZPhUWDgc"
+              }
+            ]
+          }
+        },
+        "id": "1896868798558306304",
+        "location": "pupuwaifu官方网站 ✨➡️",
+        "name": "pupuwaifu",
+        "pinned_tweet_id": "2056379209258336549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021677299746152448/vwFWlOUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667486,
+          "following_count": 5,
+          "like_count": 1672,
+          "listed_count": 564,
+          "media_count": 103,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/YAZPhUWDgc",
+        "username": "pupuwaifu",
+        "verified": true
+      }
+    ]
+  }
+}

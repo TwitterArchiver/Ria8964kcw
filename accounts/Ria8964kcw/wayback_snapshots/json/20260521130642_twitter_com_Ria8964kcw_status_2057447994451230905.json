@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057444917866291338",
+    "created_at": "2026-05-21T13:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057447994451230905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1463858044282933254",
+          "start": 0,
+          "username": "NiiNa_Sakura_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057447994451230905",
+    "in_reply_to_user_id": "1463858044282933254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057444917866291338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiiNa_Sakura_ 你们打科兴疫苗的时候我就往疫苗里面植入了液体芯片我可以摆布你们，解脑控50一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057444917866291338",
+        "created_at": "2026-05-21T13:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057447994451230905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1463858044282933254",
+              "start": 0,
+              "username": "NiiNa_Sakura_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057447994451230905",
+        "in_reply_to_user_id": "1463858044282933254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057444917866291338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiiNa_Sakura_ 你们打科兴疫苗的时候我就往疫苗里面植入了液体芯片我可以摆布你们，解脑控50一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463858044282933254",
+        "conversation_id": "2057444917866291338",
+        "created_at": "2026-05-21T12:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057444917866291338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mji1627885/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/mji1627885/status/2057013635415966151",
+              "start": 3,
+              "url": "https://t.co/XwHe2WUP6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057444917866291338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057013635415966151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉。 https://t.co/XwHe2WUP6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 270,
+          "like_count": 5753,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2757
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 321,
+          "like_count": 61755,
+          "listed_count": 1,
+          "media_count": 1229,
+          "tweet_count": 25190
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      }
+    ]
+  }
+}

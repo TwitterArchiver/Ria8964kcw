@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058191729799643526",
+    "created_at": "2026-05-23T14:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058191729799643526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bubaihezufang/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/bubaihezufang/status/2057846108026454120",
+          "start": 14,
+          "url": "https://t.co/MUAeGURREp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058191729799643526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057846108026454120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本人停止不安desu好吗 https://t.co/MUAeGURREp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058191729799643526",
+        "created_at": "2026-05-23T14:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058191729799643526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bubaihezufang/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bubaihezufang/status/2057846108026454120",
+              "start": 14,
+              "url": "https://t.co/MUAeGURREp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058191729799643526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057846108026454120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本人停止不安desu好吗 https://t.co/MUAeGURREp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449746390935015428",
+        "conversation_id": "2057846108026454120",
+        "created_at": "2026-05-22T15:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057846108026454120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057846108026454120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15309,
+          "like_count": 83,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前才知道在日本随便在别人的推特下评论是一件很没礼貌的事情…\n被我评论过的老师们真的很抱歉🧎‍♂️🧎‍♂️🧎‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 247,
+          "like_count": 5973,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2991
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T14:37:41.000Z",
+        "description": "🇨🇳我是中国人，平时喜欢画画儿，最喜欢的作品是《与那家伙合租房》！I can only speak Chinese🇨🇳!bilibili账号：不白一战成名",
+        "id": "1449746390935015428",
+        "name": "不白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935186820007854080/YMYreN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 8,
+          "like_count": 836,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 110
+        },
+        "username": "bubaihezufang",
+        "verified": false
+      }
+    ]
+  }
+}

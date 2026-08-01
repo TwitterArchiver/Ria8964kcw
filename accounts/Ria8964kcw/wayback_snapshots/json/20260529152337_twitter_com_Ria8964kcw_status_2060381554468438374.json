@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060381554468438374",
+    "created_at": "2026-05-29T15:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060381554468438374"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 79,
+          "tag": "ForeverWithChaewon"
+        },
+        {
+          "end": 110,
+          "start": 99,
+          "tag": "KIMCHAEWON"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "김채원"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1463858044282933254",
+          "start": 3,
+          "username": "NiiNa_Sakura_"
+        },
+        {
+          "end": 31,
+          "id": "1425315946424459264",
+          "start": 19,
+          "username": "hourchaewon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060381554468438374",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060351406712995926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NiiNa_Sakura_: @hourchaewon WE LOVE CHAECHAE FOREVER\n\nWe Love You Chaewon \n#ForeverWithChaewon\n#KIMCHAEWON #김채원"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060381554468438374",
+        "created_at": "2026-05-29T15:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060381554468438374"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 79,
+              "tag": "ForeverWithChaewon"
+            },
+            {
+              "end": 110,
+              "start": 99,
+              "tag": "KIMCHAEWON"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "김채원"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1463858044282933254",
+              "start": 3,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 31,
+              "id": "1425315946424459264",
+              "start": 19,
+              "username": "hourchaewon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060381554468438374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060351406712995926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NiiNa_Sakura_: @hourchaewon WE LOVE CHAECHAE FOREVER\n\nWe Love You Chaewon \n#ForeverWithChaewon\n#KIMCHAEWON #김채원"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463858044282933254",
+        "conversation_id": "2060330326719877352",
+        "created_at": "2026-05-29T13:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060351406712995926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 60,
+              "tag": "ForeverWithChaewon"
+            },
+            {
+              "end": 91,
+              "start": 80,
+              "tag": "KIMCHAEWON"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "김채원"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425315946424459264",
+              "start": 0,
+              "username": "hourchaewon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060351406712995926",
+        "in_reply_to_user_id": "1425315946424459264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060330326719877352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hourchaewon WE LOVE CHAECHAE FOREVER\n\nWe Love You Chaewon \n#ForeverWithChaewon\n#KIMCHAEWON #김채원"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 301,
+          "like_count": 6874,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3556
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 324,
+          "like_count": 63414,
+          "listed_count": 1,
+          "media_count": 1242,
+          "tweet_count": 25507
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T04:39:52.000Z",
+        "description": "FANACCOUNT — LE SSERAFIM'S LEADER KIM CHAEWON #김채원 🐯",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_chaechae_1",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_chaechae_1",
+                "start": 0,
+                "url": "https://t.co/w3dfHj27gw"
+              }
+            ]
+          }
+        },
+        "id": "1425315946424459264",
+        "location": "ctto",
+        "name": "hourly chaewon ☆",
+        "pinned_tweet_id": "1831988479946895735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052685684297916416/hKxgU35M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92362,
+          "following_count": 392,
+          "like_count": 101499,
+          "listed_count": 581,
+          "media_count": 32162,
+          "tweet_count": 129883
+        },
+        "url": "https://t.co/w3dfHj27gw",
+        "username": "hourchaewon",
+        "verified": true
+      }
+    ]
+  }
+}

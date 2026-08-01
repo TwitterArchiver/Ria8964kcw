@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2077121578845053225",
+    "created_at": "2026-07-14T20:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077121578845053225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gabheyem492991…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/gabheyem492991/status/2077092901910401024",
+          "start": 11,
+          "url": "https://t.co/rJ1y6debfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077121578845053225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077092901910401024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "姐妹别慌咱洗洗还是处 https://t.co/rJ1y6debfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077092880473272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNQ-EoaMAAQwSl.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2077121578845053225",
+        "created_at": "2026-07-14T20:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077121578845053225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gabheyem492991…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/gabheyem492991/status/2077092901910401024",
+              "start": 11,
+              "url": "https://t.co/rJ1y6debfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077121578845053225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077092901910401024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐妹别慌咱洗洗还是处 https://t.co/rJ1y6debfd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077092880473272320"
+          ]
+        },
+        "author_id": "1828822109696544768",
+        "conversation_id": "2077092901910401024",
+        "created_at": "2026-07-14T18:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077092901910401024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzECvL3oSA",
+              "end": 27,
+              "expanded_url": "https://x.com/gabheyem492991/status/2077092901910401024/photo/1",
+              "media_key": "3_2077092880473272320",
+              "start": 4,
+              "url": "https://t.co/wzECvL3oSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077092901910401024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额买噶 https://t.co/wzECvL3oSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 325,
+          "like_count": 9707,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 5264
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T15:49:13.000Z",
+        "description": "小孩子不懂事瞎发的\nhttps://t.co/A5p2FGBoB4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gabheyem",
+                "end": 33,
+                "expanded_url": "https://ngl.link/gabheyem",
+                "start": 10,
+                "url": "https://t.co/A5p2FGBoB4"
+              }
+            ]
+          }
+        },
+        "id": "1828822109696544768",
+        "location": "百慕大",
+        "name": "冥天会更好",
+        "pinned_tweet_id": "2072379477242597382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065282019412807680/urExiLUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 924,
+          "like_count": 23686,
+          "listed_count": 0,
+          "media_count": 430,
+          "tweet_count": 3489
+        },
+        "url": "",
+        "username": "gabheyem492991",
+        "verified": false
+      }
+    ]
+  }
+}

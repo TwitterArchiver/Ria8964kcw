@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2078211896310747371",
+    "created_at": "2026-07-17T20:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T21:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078215044278694243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880036832072617984",
+          "start": 0,
+          "username": "2091996981snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078215044278694243",
+    "in_reply_to_user_id": "1880036832072617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078211896310747371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2091996981snow 差点忘了你是南半球（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078211891541798912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdKtFtXcAAIbJq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2078211896310747371",
+        "created_at": "2026-07-17T20:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078215044278694243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880036832072617984",
+              "start": 0,
+              "username": "2091996981snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078215044278694243",
+        "in_reply_to_user_id": "1880036832072617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078211896310747371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2091996981snow 差点忘了你是南半球（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078211891541798912"
+          ]
+        },
+        "author_id": "1880036832072617984",
+        "conversation_id": "2078211896310747371",
+        "created_at": "2026-07-17T20:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078211896310747371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JIitxCHby",
+              "end": 51,
+              "expanded_url": "https://x.com/2091996981snow/status/2078211896310747371/photo/1",
+              "media_key": "3_2078211891541798912",
+              "start": 28,
+              "url": "https://t.co/4JIitxCHby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078211896310747371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离谱的气候 七月隆冬气温突然飙升到二十多度 要中暑了🥵 https://t.co/4JIitxCHby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 326,
+          "like_count": 9772,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 5284
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜目前定居阿根廷🇦🇷｜\n大学退学高中学历｜知行合一爱国华侨｜\n去过15个国家｜国际低成本旅居专家｜\n心学家｜哲学家｜不可知论｜不键政｜\n备用号@478182920snow\n致力于研究整理各国移民法律政策\n会员群和移民规划服务请电邮联系\nChiangMaiSnow@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "478182920snow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@cabasnow?si=g…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@cabasnow?si=g4Bpji5kUedDMlWr",
+                "start": 0,
+                "url": "https://t.co/l4NLAEKeEc"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "name": "CABA下小雪",
+        "pinned_tweet_id": "2075296465442803790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2734,
+          "following_count": 160,
+          "like_count": 4077,
+          "listed_count": 9,
+          "media_count": 431,
+          "tweet_count": 3436
+        },
+        "url": "https://t.co/l4NLAEKeEc",
+        "username": "2091996981snow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070037599776039198",
+    "created_at": "2026-06-25T11:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070101460231270856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976201118826057728",
+          "start": 0,
+          "username": "yunaiiiwww344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070101460231270856",
+    "in_reply_to_user_id": "1976201118826057728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070037599776039198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunaiiiwww344 去欧陆吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070037599776039198",
+        "created_at": "2026-06-25T11:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070101460231270856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976201118826057728",
+              "start": 0,
+              "username": "yunaiiiwww344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070101460231270856",
+        "in_reply_to_user_id": "1976201118826057728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070037599776039198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunaiiiwww344 去欧陆吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976201118826057728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2070037599776039198",
+        "created_at": "2026-06-25T06:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070037599776039198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070037599776039198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想留学啊操呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 323,
+          "like_count": 9214,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 4999
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T08:21:45.000Z",
+        "description": "08 低浮上 互转三天后取 转太多容易被封号  小号@Rinn380657Rinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "Rinn380657Rinn"
+              }
+            ]
+          }
+        },
+        "id": "1976201118826057728",
+        "name": "☦︎",
+        "pinned_tweet_id": "2065403698696847623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065868512720211968/4U1S-wI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 9,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "yunaiiiwww344",
+        "verified": false
+      }
+    ]
+  }
+}

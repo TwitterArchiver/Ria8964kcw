@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058753062865694918",
+    "created_at": "2026-05-25T03:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058753062865694918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jaciezyt/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jaciezyt/status/2058715765784871076",
+          "start": 5,
+          "url": "https://t.co/edqGKldF70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058753062865694918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058715765784871076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骇死我力 https://t.co/edqGKldF70"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058753062865694918",
+        "created_at": "2026-05-25T03:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058753062865694918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jaciezyt/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jaciezyt/status/2058715765784871076",
+              "start": 5,
+              "url": "https://t.co/edqGKldF70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058753062865694918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058715765784871076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骇死我力 https://t.co/edqGKldF70"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2058715765784871076",
+        "created_at": "2026-05-25T01:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058715765784871076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jaciezyt/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jaciezyt/status/2056223004028457195",
+              "start": 9,
+              "url": "https://t.co/yUXTmZwC5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058715765784871076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 931,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056223004028457195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲报：下周日高考 https://t.co/yUXTmZwC5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 262,
+          "like_count": 6252,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3135
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 915,
+          "like_count": 63755,
+          "listed_count": 12,
+          "media_count": 1356,
+          "tweet_count": 15655
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

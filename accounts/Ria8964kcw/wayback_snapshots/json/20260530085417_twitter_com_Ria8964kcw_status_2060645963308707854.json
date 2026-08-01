@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060635785536422058",
+    "created_at": "2026-05-30T08:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060645963308707854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051007254774808576",
+          "start": 0,
+          "username": "Puyuma2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060645963308707854",
+    "in_reply_to_user_id": "2051007254774808576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060635785536422058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puyuma2778 东北狗不屠不行🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060635785536422058",
+        "created_at": "2026-05-30T08:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060645963308707854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060645963308707854",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060635785536422058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 东北狗不屠不行🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "conversation_id": "2060635785536422058",
+        "created_at": "2026-05-30T08:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060635785536422058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wi_beri/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/wi_beri/status/2060423948190536111",
+              "start": 16,
+              "url": "https://t.co/uR1nP1AXUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060635785536422058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060423948190536111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我幻听成对门宿舍那个东北肥猪 https://t.co/uR1nP1AXUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 306,
+          "like_count": 7012,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 3635
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "",
+        "id": "2051007254774808576",
+        "name": "Puyuma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 117,
+          "like_count": 2840,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 970
+        },
+        "username": "Puyuma2778",
+        "verified": false
+      }
+    ]
+  }
+}

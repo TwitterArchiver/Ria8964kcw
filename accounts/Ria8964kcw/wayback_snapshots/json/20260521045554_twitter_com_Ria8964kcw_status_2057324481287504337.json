@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057083922312225058",
+    "created_at": "2026-05-21T04:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057324481287504337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012631283898187776",
+          "start": 0,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057324481287504337",
+    "in_reply_to_user_id": "2012631283898187776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057083922312225058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youy1qwq 杀…..！杀….！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2057007488571228160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv1aZCbQAAeMC1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057083922312225058",
+        "created_at": "2026-05-21T04:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057324481287504337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057324481287504337",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057083922312225058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 杀…..！杀….！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057007488571228160"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2057083922312225058",
+        "created_at": "2026-05-20T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057083922312225058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E32yMg2FOL",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2057083922312225058/photo/1",
+              "media_key": "3_2057007488571228160",
+              "start": 12,
+              "url": "https://t.co/E32yMg2FOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057083922312225058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9330,
+          "like_count": 256,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我最讨厌的就是事后道歉 https://t.co/E32yMg2FOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 267,
+          "like_count": 5663,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2707
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13249,
+          "following_count": 1845,
+          "like_count": 4212,
+          "listed_count": 20,
+          "media_count": 1811,
+          "tweet_count": 2348
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

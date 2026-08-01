@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "T-ARA (티아라)",
+          "id": "922848035142483968",
+          "name": "T-ARA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "T-ARA (티아라)",
+          "id": "922848035142483968",
+          "name": "T-ARA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2056678360366055714",
+    "created_at": "2026-05-19T10:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056678360366055714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/9uma_9/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/9uma_9/status/2056666233932824882",
+          "start": 16,
+          "url": "https://t.co/D4h9bACVkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056678360366055714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056666233932824882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这么好听我彻底走不出来了 https://t.co/D4h9bACVkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83958,
+        "height": 1040,
+        "media_key": "13_2056666106962862080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056666106962862080/img/XQz2HN7hEmFxW2_q.jpg",
+        "public_metrics": {
+          "view_count": 2331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056666106962862080/pl/Kf87AOD8fMSSb33W.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056666106962862080/vid/avc1/662x360/JRDd7vhgBTT4jTCf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056666106962862080/vid/avc1/1326x720/Ylc1srd_qdQbRMyk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056666106962862080/vid/avc1/1918x1040/JCptxOqjmQguC44Q.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056666106962862080/vid/avc1/496x270/Ehtz1l8-YTf-BsZO.mp4"
+          }
+        ],
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "T-ARA (티아라)",
+              "id": "922848035142483968",
+              "name": "T-ARA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "T-ARA (티아라)",
+              "id": "922848035142483968",
+              "name": "T-ARA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2056678360366055714",
+        "created_at": "2026-05-19T10:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056678360366055714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9uma_9/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/9uma_9/status/2056666233932824882",
+              "start": 16,
+              "url": "https://t.co/D4h9bACVkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056678360366055714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056666233932824882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这么好听我彻底走不出来了 https://t.co/D4h9bACVkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056666106962862080"
+          ]
+        },
+        "author_id": "1395254083791982594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "T-ARA (티아라)",
+              "id": "922848035142483968",
+              "name": "T-ARA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "T-ARA (티아라)",
+              "id": "922848035142483968",
+              "name": "T-ARA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2056666233932824882",
+        "created_at": "2026-05-19T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056666233932824882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59coj8R9LZ",
+              "end": 65,
+              "expanded_url": "https://x.com/9uma_9/status/2056666233932824882/video/1",
+              "media_key": "13_2056666106962862080",
+              "start": 42,
+              "url": "https://t.co/59coj8R9LZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056666233932824882",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 11060,
+          "like_count": 266,
+          "quote_count": 61,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "김채원 티아라선배님 메들리로 데바데 티티엘 보핍보핍 싹 다 불러줌 쌈나좋아 https://t.co/59coj8R9LZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 252,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2585
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T05:44:40.000Z",
+        "description": "애가 성깔이 있는 것 같아 나 같구먼",
+        "id": "1395254083791982594",
+        "name": "🍠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995853133185253382/z1ZkAB6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16194,
+          "following_count": 141,
+          "like_count": 2629,
+          "listed_count": 172,
+          "media_count": 7471,
+          "tweet_count": 12205
+        },
+        "username": "9uma_9",
+        "verified": false
+      }
+    ]
+  }
+}

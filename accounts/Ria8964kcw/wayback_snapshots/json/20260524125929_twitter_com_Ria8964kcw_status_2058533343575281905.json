@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058527160416227603",
+    "created_at": "2026-05-24T12:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058533343575281905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051007254774808576",
+          "start": 0,
+          "username": "Puyuma2778"
+        },
+        {
+          "end": 22,
+          "id": "2033556052650975232",
+          "start": 12,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058533343575281905",
+    "in_reply_to_user_id": "2051007254774808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058533223395926400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puyuma2778 @Ride_8964 气哭了 就不能进医保吗😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058527160416227603",
+        "created_at": "2026-05-24T12:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058533343575281905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            },
+            {
+              "end": 22,
+              "id": "2033556052650975232",
+              "start": 12,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058533343575281905",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058533223395926400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 @Ride_8964 气哭了 就不能进医保吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2058527160416227603",
+        "created_at": "2026-05-24T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058533223395926400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 22,
+              "id": "2033556052650975232",
+              "start": 12,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058533223395926400",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058532800123584555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @Ride_8964 我一直找母父爆金币，结果我角膜薄只能做最贵的icl，我在哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 261,
+          "like_count": 6189,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3089
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "",
+        "id": "2051007254774808576",
+        "name": "Puyuma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 108,
+          "like_count": 2264,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 808
+        },
+        "username": "Puyuma2778",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳私生子",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 142,
+          "like_count": 32241,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 7284
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

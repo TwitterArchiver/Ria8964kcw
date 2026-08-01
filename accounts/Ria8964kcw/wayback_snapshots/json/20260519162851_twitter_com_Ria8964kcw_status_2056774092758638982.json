@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056671168791515136",
+    "created_at": "2026-05-19T16:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056774092758638982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056774092758638982",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056671168791515136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 所以我只接受全性别比赛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_2056671160608382976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrDhhvaYAAAEBc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056671168791515136",
+        "created_at": "2026-05-19T16:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056774092758638982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056774092758638982",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671168791515136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 所以我只接受全性别比赛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056671160608382976"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2056671168791515136",
+        "created_at": "2026-05-19T09:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:20:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056666310994747520",
+          "2056671168791515136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo1CqyFWTm",
+              "end": 44,
+              "expanded_url": "https://x.com/quasarne/status/2056671168791515136/photo/1",
+              "media_key": "3_2056671160608382976",
+              "start": 21,
+              "url": "https://t.co/qo1CqyFWTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056671168791515136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在MTF参加女性赛事的规则是怎样的呢？ https://t.co/qo1CqyFWTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 255,
+          "like_count": 5510,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2631
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "數碼/科幻/政治/策略.音游萌新 Wikier ｜🚩◼️自由·平等🌹｜🌐漢語 吴、普/English OK/好语言学/想学Deutsch 在学CTF ｜🏳️‍🌈pan/gay🏳️‍⚧️éla｜猫！@kyrinxo ｜Knowledge is key to the universe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "kyrinxo"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056612504411996160/2cHArgPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1075,
+          "like_count": 79416,
+          "listed_count": 7,
+          "media_count": 1197,
+          "tweet_count": 15520
+        },
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

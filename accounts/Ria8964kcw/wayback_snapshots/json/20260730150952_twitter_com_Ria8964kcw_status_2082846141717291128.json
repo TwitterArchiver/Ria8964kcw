@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082846141717291128",
+    "created_at": "2026-07-30T15:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082846141717291128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ted_yeet/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/ted_yeet/status/2082814441972715557",
+          "start": 52,
+          "url": "https://t.co/1nKlRiN2aB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082846141717291128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082814441972715557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了我们太监也是这样的，太监小时候被送进宫里来，很多人没撑住就走了，只有少数体格坚强幸运的可以留得住 https://t.co/1nKlRiN2aB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082846141717291128",
+        "created_at": "2026-07-30T15:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082846141717291128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ted_yeet/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ted_yeet/status/2082814441972715557",
+              "start": 52,
+              "url": "https://t.co/1nKlRiN2aB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082846141717291128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082814441972715557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了我们太监也是这样的，太监小时候被送进宫里来，很多人没撑住就走了，只有少数体格坚强幸运的可以留得住 https://t.co/1nKlRiN2aB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2082814441972715557",
+        "created_at": "2026-07-30T13:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082814441972715557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rizumua3/statu…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/rizumua3/status/2082692690492449184",
+              "start": 106,
+              "url": "https://t.co/gZ2Pl7fZOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082814441972715557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2010,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082692690492449184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个想做SRS的都要考虑一下自己能不能接受在国内甚至一线城市也被这样对待，而且情况可能会更坏比如说术后一个月手术部位出血而你的接诊医生会为了自保对你的病情消极对待甚至不说自己治不了只是拖延时间让你的情况变得更差 https://t.co/gZ2Pl7fZOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 354,
+          "like_count": 10208,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 5430
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍🌈/brat/神秘旅行商人",
+        "id": "1499442786453663745",
+        "location": "Cantonia",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6804,
+          "following_count": 1826,
+          "like_count": 55826,
+          "listed_count": 24,
+          "media_count": 568,
+          "tweet_count": 13291
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

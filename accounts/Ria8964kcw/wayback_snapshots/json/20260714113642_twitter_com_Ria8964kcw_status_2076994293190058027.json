@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2076960752871907357",
+    "created_at": "2026-07-14T11:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076994293190058027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "114382613",
+          "start": 0,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076994293190058027",
+    "in_reply_to_user_id": "114382613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076960752871907357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrettiestBitch 好像江嗨零真的这样说过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2076960740955783168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLYyikaAAA4_bh.jpg",
+        "width": 427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2076960752871907357",
+        "created_at": "2026-07-14T11:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076994293190058027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114382613",
+              "start": 0,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076994293190058027",
+        "in_reply_to_user_id": "114382613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076960752871907357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrettiestBitch 好像江嗨零真的这样说过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076960740955783168"
+          ]
+        },
+        "author_id": "114382613",
+        "conversation_id": "2076960752871907357",
+        "created_at": "2026-07-14T09:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076960752871907357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SieDW7vpOb",
+              "end": 36,
+              "expanded_url": "https://x.com/PrettiestBitch/status/2076960752871907357/photo/1",
+              "media_key": "3_2076960740955783168",
+              "start": 13,
+              "url": "https://t.co/SieDW7vpOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076960752871907357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了给你们个眼神自己体会 https://t.co/SieDW7vpOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 325,
+          "like_count": 9678,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "在读研究生，外形优秀不缺得吃，已经对正常性生活感到腻味，追08年混血女高未果，反而自我洗脑成为她和对象的贡畜锁奴，在这里记录我的沦陷过程",
+        "id": "114382613",
+        "name": "好了大家尊重女性",
+        "pinned_tweet_id": "2076785868350873730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076195405902249985/U6OHHhdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 166,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      }
+    ]
+  }
+}

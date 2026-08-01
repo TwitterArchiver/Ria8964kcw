@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066507858603336139",
+    "created_at": "2026-06-15T16:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066559339805188170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1630384112392437761",
+          "start": 0,
+          "username": "Mr_boredasfock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066559339805188170",
+    "in_reply_to_user_id": "1630384112392437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066507858603336139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_boredasfock 大家注意看这个支男开始性压抑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066507858603336139",
+        "created_at": "2026-06-15T16:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066559339805188170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630384112392437761",
+              "start": 0,
+              "username": "Mr_boredasfock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066559339805188170",
+        "in_reply_to_user_id": "1630384112392437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066507858603336139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_boredasfock 大家注意看这个支男开始性压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630384112392437761",
+        "conversation_id": "2066507858603336139",
+        "created_at": "2026-06-15T13:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066507858603336139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066507858603336139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "媳妇？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 337,
+          "like_count": 8572,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 4657
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T01:47:33.000Z",
+        "description": "Praise Satan/拉黑/加速/间歇支黑/8964/反独裁/🇺🇦/人与人之间无法沟通/简体中文/gay trans friendly/queer/反生育主义/岁月不静好但我们什么都做不了所以聊聊天吧",
+        "id": "1630384112392437761",
+        "location": "San Francisco",
+        "name": "⸸撒旦子民⸸8964",
+        "pinned_tweet_id": "1977209045636596163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630384287626285056/aR3dequl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 386,
+          "like_count": 3835,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 11013
+        },
+        "username": "Mr_boredasfock",
+        "verified": false
+      }
+    ]
+  }
+}

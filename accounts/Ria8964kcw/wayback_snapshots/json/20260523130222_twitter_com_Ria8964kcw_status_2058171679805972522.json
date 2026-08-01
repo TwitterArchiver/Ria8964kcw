@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058164387580715210",
+    "created_at": "2026-05-23T13:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058171679805972522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058171679805972522",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058166780443668831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 七匹狼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058164387580715210",
+        "created_at": "2026-05-23T13:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058171679805972522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058171679805972522",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058166780443668831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 七匹狼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2058164387580715210",
+        "created_at": "2026-05-23T12:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058166780443668831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058166780443668831",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058164387580715210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现我搜女款皮带会有很多好看皮带，比我给我西服的皮带好看很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 247,
+          "like_count": 5962,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2981
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳私生子",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 136,
+          "like_count": 31520,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 7131
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

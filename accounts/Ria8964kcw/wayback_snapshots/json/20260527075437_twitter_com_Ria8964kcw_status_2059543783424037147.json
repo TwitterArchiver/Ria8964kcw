@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059540997789602149",
+    "created_at": "2026-05-27T07:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059543783424037147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726051028112744448",
+          "start": 0,
+          "username": "Dream_xyuuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059543783424037147",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059540997789602149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_xyuuup 要长矮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4555,
+        "height": 1280,
+        "media_key": "13_2059540932807340032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059540932807340032/img/ARwG5s6dK9AMjxRF.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059540932807340032/vid/avc1/320x568/OeXoSrR1Thf5LE-F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059540932807340032/vid/avc1/480x852/wlLkXDKb2dFZQZ6D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059540932807340032/vid/avc1/720x1280/CjcmesZiWR4FH1jT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059540932807340032/pl/OY-13kxI-L1zJ342.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059540997789602149",
+        "created_at": "2026-05-27T07:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059543783424037147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059543783424037147",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059540997789602149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 要长矮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059540932807340032"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2059540997789602149",
+        "created_at": "2026-05-27T07:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059540997789602149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yh04hF2nR8",
+              "end": 35,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2059540997789602149/video/1",
+              "media_key": "13_2059540932807340032",
+              "start": 12,
+              "url": "https://t.co/Yh04hF2nR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059540997789602149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹，这个猪蹄咋一直抖 https://t.co/Yh04hF2nR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 282,
+          "like_count": 6567,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3366
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我太傻了不会说话抱歉\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057786684050485248/tEN-twO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 633,
+          "like_count": 8396,
+          "listed_count": 0,
+          "media_count": 623,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

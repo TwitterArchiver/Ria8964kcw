@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083166093338923158",
+    "created_at": "2026-07-31T12:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083166093338923158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poicw/status/2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/poicw/status/2082866706284949558",
+          "start": 5,
+          "url": "https://t.co/ErTdDBhjtg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083166093338923158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082866706284949558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢妈妈 https://t.co/ErTdDBhjtg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "16_2082866341657358338",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOfT5vkasAIHUf8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOfT5vkasAIHUf8.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083166093338923158",
+        "created_at": "2026-07-31T12:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083166093338923158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poicw/status/2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/poicw/status/2082866706284949558",
+              "start": 5,
+              "url": "https://t.co/ErTdDBhjtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083166093338923158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082866706284949558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢妈妈 https://t.co/ErTdDBhjtg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082866341657358338"
+          ]
+        },
+        "author_id": "1484152077735854081",
+        "conversation_id": "2082866706284949558",
+        "created_at": "2026-07-30T16:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082866706284949558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "김채원"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "르세라핌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "blog.kakaocdn.net/dna/c6QEFo/dJM…",
+              "end": 71,
+              "expanded_url": "https://blog.kakaocdn.net/dna/c6QEFo/dJMcagl4YEP/AAAAAAAAAAAAAAAAAAAAABTu4bcRQ7VWwTW0spL3n5znqy81B41-iRQMSjiGxXO0/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1785509999&allow_ip=&allow_referer=&signature=%2B2XNNmR1dqihw8baXqDTK3gpZYo%3D",
+              "start": 48,
+              "unwound_url": "https://blog.kakaocdn.net/dna/c6QEFo/dJMcagl4YEP/AAAAAAAAAAAAAAAAAAAAABTu4bcRQ7VWwTW0spL3n5znqy81B41-iRQMSjiGxXO0/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1785509999&allow_ip=&allow_referer=&signature=%2B2XNNmR1dqihw8baXqDTK3gpZYo%3D",
+              "url": "https://t.co/3dZQREYv6Q"
+            },
+            {
+              "display_url": "pic.x.com/JNB33XdjxK",
+              "end": 95,
+              "expanded_url": "https://x.com/poicw/status/2082866706284949558/photo/1",
+              "media_key": "16_2082866341657358338",
+              "start": 72,
+              "url": "https://t.co/JNB33XdjxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082866706284949558",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3457,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#김채원 #르세라핌\n김채원에게 따봉을 받은 당신\n오늘 최고 하루를 보내게 될 것입니다\nhttps://t.co/3dZQREYv6Q https://t.co/JNB33XdjxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 359,
+          "like_count": 10295,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 5447
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T13:13:30.000Z",
+        "description": "넌 좋겠다 나 나와서",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "litt.ly/poicw",
+                "end": 23,
+                "expanded_url": "https://litt.ly/poicw",
+                "start": 0,
+                "url": "https://t.co/sC24zm0wfU"
+              }
+            ]
+          }
+        },
+        "id": "1484152077735854081",
+        "location": "김채원",
+        "name": "포이",
+        "pinned_tweet_id": "2074086203939279109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721002015039488/XTZ6_DF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4223,
+          "following_count": 100,
+          "like_count": 182,
+          "listed_count": 74,
+          "media_count": 1894,
+          "tweet_count": 2406
+        },
+        "url": "https://t.co/sC24zm0wfU",
+        "username": "poicw",
+        "verified": false
+      }
+    ]
+  }
+}

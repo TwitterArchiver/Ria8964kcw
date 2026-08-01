@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      }
+    ],
+    "conversation_id": "2059702330736751063",
+    "created_at": "2026-05-27T18:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059702330736751063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sserapics/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/sserapics/status/2059472907739251052",
+          "start": 29,
+          "url": "https://t.co/4s8RRnOsSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059702330736751063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059472907739251052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我脑子通透了前额叶变透了人生有意义了我寻找到了生命的真谛 https://t.co/4s8RRnOsSE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39606,
+        "height": 1134,
+        "media_key": "13_2059472261887983616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059472261887983616/img/IEN5yFRVcE212bk8.jpg",
+        "public_metrics": {
+          "view_count": 62363
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059472261887983616/pl/oSLihHQk7igA-uMK.m3u8?v=74f"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059472261887983616/vid/avc1/320x336/QLg26cYfoatmUfAg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059472261887983616/vid/avc1/480x504/lHc7fxCtW9Whl_CU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059472261887983616/vid/avc1/1080x1134/P7eIIeB_j9AYZa75.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059472261887983616/vid/avc1/720x756/tBZCEoV9ZgDH1_1b.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2059702330736751063",
+        "created_at": "2026-05-27T18:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059702330736751063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sserapics/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/sserapics/status/2059472907739251052",
+              "start": 29,
+              "url": "https://t.co/4s8RRnOsSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059702330736751063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059472907739251052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我脑子通透了前额叶变透了人生有意义了我寻找到了生命的真谛 https://t.co/4s8RRnOsSE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059472261887983616"
+          ],
+          "media_source_tweet_id": [
+            "2059472386366579007"
+          ]
+        },
+        "author_id": "1285963627061809154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2059472907739251052",
+        "created_at": "2026-05-27T03:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059472907739251052"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "KIMCHAEWON"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "김채원"
+            },
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "LE_SSERAFIM"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "르세라핌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGATLOTVt8",
+              "end": 97,
+              "expanded_url": "https://x.com/9uma_9/status/2059472386366579007/video/1",
+              "media_key": "13_2059472261887983616",
+              "start": 74,
+              "url": "https://t.co/qGATLOTVt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059472907739251052",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 21554,
+          "like_count": 1530,
+          "quote_count": 33,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "CHAEWON singing \"BlackHole\" by IVE!\n\n#KIMCHAEWON #김채원\n#LE_SSERAFIM #르세라핌\n https://t.co/qGATLOTVt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 288,
+          "like_count": 6622,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 3394
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-22T15:43:50.000Z",
+        "description": "sserapics is your fan account for all LE SSERAFIM related updates , news, award show. \n | #LE_SSERAFIM #르세라핌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 90,
+                "tag": "LE_SSERAFIM"
+              },
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "르세라핌"
+              }
+            ]
+          }
+        },
+        "id": "1285963627061809154",
+        "location": "🐯 🌸 🐍 🦢 🐥",
+        "name": "le sserafim pics",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978118046733524992/W3b5u7Sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222908,
+          "following_count": 760,
+          "like_count": 16714,
+          "listed_count": 1378,
+          "media_count": 26440,
+          "tweet_count": 40367
+        },
+        "username": "sserapics",
+        "verified": true
+      }
+    ]
+  }
+}

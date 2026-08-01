@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057774702786236803",
+    "created_at": "2026-05-22T10:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057778417626706105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "968255724500365312",
+          "start": 0,
+          "username": "vettvv1per"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057778417626706105",
+    "in_reply_to_user_id": "968255724500365312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057774702786236803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vettvv1per 男凝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057774702786236803",
+        "created_at": "2026-05-22T10:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057778417626706105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "968255724500365312",
+              "start": 0,
+              "username": "vettvv1per"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057778417626706105",
+        "in_reply_to_user_id": "968255724500365312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057774702786236803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vettvv1per 男凝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968255724500365312",
+        "conversation_id": "2057774702786236803",
+        "created_at": "2026-05-22T10:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057774702786236803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057774702786236803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "车上偷瞄一美女多次结果发现此女老公就坐我右边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485767744925697/sNZveh0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 268,
+          "like_count": 5833,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2870
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T22:45:28.000Z",
+        "description": "spambot squirtpants 🚪67",
+        "id": "968255724500365312",
+        "location": "Daytona Beach, FL",
+        "name": "Turbo",
+        "pinned_tweet_id": "1363772121667657736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739582920086675456/_hhin3uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 656,
+          "like_count": 189322,
+          "listed_count": 3,
+          "media_count": 3980,
+          "tweet_count": 41030
+        },
+        "username": "vettvv1per",
+        "verified": false
+      }
+    ]
+  }
+}

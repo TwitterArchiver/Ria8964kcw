@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069850322512843144",
+    "created_at": "2026-06-24T19:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069862488359993641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069862488359993641",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069850322512843144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RETURN8964 幺幺台球厅耍起嘛带你耍起儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069850322512843144",
+        "created_at": "2026-06-24T19:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069862488359993641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069862488359993641",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069850322512843144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RETURN8964 幺幺台球厅耍起嘛带你耍起儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2069850322512843144",
+        "created_at": "2026-06-24T18:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069850322512843144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069850322512843144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晓得害怕了？😂晚了😂你们走不了了😂深海耍起嘛😂海底两万里耍起嘛😂亚特兰蒂斯耍起嘛开弓没有回头箭 出来混 最重要的是义气 特么的出来混的没一个讲义气的落子无悔😂晚了，现在退出幺幺晚上钻你被窝😂昨天说退出的那几个已经在水库耍起了  哥几个自己想想吧 你也要离开幺幺吗👁👁👁👁你逃不了的👁👁👁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 322,
+          "like_count": 9202,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 4982
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "“我对法则克兰和银河战舰的梦想，随刚才的失败破灭。扭扭布罗基在我心中的完美形象正在解体，我现在只想救我自己。”——《凯圣帝君芬·安德森私人回忆录》",
+        "id": "2044319134326964224",
+        "name": "单纯爱Kyousuke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068701757245431808/ozd1kF9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 382,
+          "like_count": 13024,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2513
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057458850924831157",
+    "created_at": "2026-05-21T23:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057601220945355241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2043241572796628992",
+          "start": 0,
+          "username": "Zhen_Rainy"
+        },
+        {
+          "end": 24,
+          "id": "1454011300854460420",
+          "start": 12,
+          "username": "rara_0615xx"
+        },
+        {
+          "end": 37,
+          "id": "1820207828931424256",
+          "start": 25,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057601220945355241",
+    "in_reply_to_user_id": "2043241572796628992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057577911956451488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhen_Rainy @rara_0615xx @neko0202002 普瑞去疼痛科说三叉神经痛就能开了 但是未成年系统不给开的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057458850924831157",
+        "created_at": "2026-05-21T23:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057601220945355241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043241572796628992",
+              "start": 0,
+              "username": "Zhen_Rainy"
+            },
+            {
+              "end": 24,
+              "id": "1454011300854460420",
+              "start": 12,
+              "username": "rara_0615xx"
+            },
+            {
+              "end": 37,
+              "id": "1820207828931424256",
+              "start": 25,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057601220945355241",
+        "in_reply_to_user_id": "2043241572796628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057577911956451488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhen_Rainy @rara_0615xx @neko0202002 普瑞去疼痛科说三叉神经痛就能开了 但是未成年系统不给开的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043241572796628992",
+        "conversation_id": "2057458850924831157",
+        "created_at": "2026-05-21T21:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057577911956451488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454011300854460420",
+              "start": 0,
+              "username": "rara_0615xx"
+            },
+            {
+              "end": 25,
+              "id": "1820207828931424256",
+              "start": 13,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057577911956451488",
+        "in_reply_to_user_id": "1454011300854460420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3018,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057458850924831157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rara_0615xx @neko0202002 嘉豪我笑纳了😂😂墙内发也不怕被查  所以我真的好奇ym被禁了到底o啥  pr80我也不知道咋跟医生说才能开到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485767744925697/sNZveh0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 270,
+          "like_count": 5781,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2815
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T08:15:58.000Z",
+        "description": "inmyfeelings",
+        "id": "2043241572796628992",
+        "name": "蓁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043241782813806592/6WFW9hir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 89,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 141
+        },
+        "username": "Zhen_Rainy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "🚪私/鱿鱼系女子亚米亚米/互fo大欢迎",
+        "id": "1454011300854460420",
+        "location": "天國",
+        "name": "♡純白色罪業",
+        "pinned_tweet_id": "2035700296392069307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 256,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 412
+        },
+        "username": "rara_0615xx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "乐园",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 958,
+          "like_count": 1590,
+          "listed_count": 2,
+          "media_count": 1410,
+          "tweet_count": 3967
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

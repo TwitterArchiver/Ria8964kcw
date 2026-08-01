@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067118786910814494",
+    "created_at": "2026-06-17T05:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067118786910814494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/normamacph6260…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/normamacph62601/status/2066846675738689668",
+          "start": 6,
+          "url": "https://t.co/71QmHhGeLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067118786910814494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066846675738689668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "土逼萌二😂 https://t.co/71QmHhGeLc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067118786910814494",
+        "created_at": "2026-06-17T05:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067118786910814494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/normamacph6260…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/normamacph62601/status/2066846675738689668",
+              "start": 6,
+              "url": "https://t.co/71QmHhGeLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067118786910814494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066846675738689668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "土逼萌二😂 https://t.co/71QmHhGeLc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038981454172975104",
+        "conversation_id": "2066737563558432829",
+        "created_at": "2026-06-16T11:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066846675738689668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066846675738689668",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066737563558432829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 🗨想要呀,想吃吧唧🍬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 342,
+          "like_count": 8680,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4704
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T14:07:17.000Z",
+        "description": "已入驻曰炮平台:👉https://t.co/5QkUoXMrVV  ，真人认证隐私保护，上平台隐私安全有保障，附近的可加V，小号已禁言大号在这👉@MadesynStr77893",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "MadesynStr77893"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b3t3.top",
+                "end": 32,
+                "expanded_url": "https://b3t3.top",
+                "start": 9,
+                "url": "https://t.co/5QkUoXMrVV"
+              }
+            ]
+          }
+        },
+        "id": "2038981454172975104",
+        "location": "3.6km",
+        "name": "张紫萱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066846907331465216/0RU9N_UA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "NormaMacPh62601",
+        "verified": false
+      }
+    ]
+  }
+}

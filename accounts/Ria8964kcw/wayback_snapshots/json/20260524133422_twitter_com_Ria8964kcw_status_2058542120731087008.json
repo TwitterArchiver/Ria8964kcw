@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058542113340657664"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058538258343346477",
+    "created_at": "2026-05-24T13:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058542120731087008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1463858044282933254",
+          "start": 0,
+          "username": "NiiNa_Sakura_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1aLPTxCaxm",
+          "end": 43,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2058542120731087008/photo/1",
+          "media_key": "3_2058542113340657664",
+          "start": 20,
+          "url": "https://t.co/1aLPTxCaxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058542120731087008",
+    "in_reply_to_user_id": "1463858044282933254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058538258343346477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiiNa_Sakura_ 送你一张 https://t.co/1aLPTxCaxm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058542120731087008].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058542120731087008",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058542120731087008"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2058542113340657664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFpJTzaEAAInRg.jpg",
+        "width": 414
+      },
+      {
+        "height": 425,
+        "media_key": "3_2058538255428247552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFlov9aYAA62mS.jpg",
+        "width": 425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058538255428247552"
+          ]
+        },
+        "author_id": "1463858044282933254",
+        "conversation_id": "2058538258343346477",
+        "created_at": "2026-05-24T13:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058538258343346477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5DOa5quN5",
+              "end": 36,
+              "expanded_url": "https://x.com/NiiNa_Sakura_/status/2058538258343346477/photo/1",
+              "media_key": "3_2058538255428247552",
+              "start": 13,
+              "url": "https://t.co/o5DOa5quN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058538258343346477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张图会成为我的对线宝图 https://t.co/o5DOa5quN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 261,
+          "like_count": 6196,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3093
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "Chantepleure",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 323,
+          "like_count": 62406,
+          "listed_count": 1,
+          "media_count": 1236,
+          "tweet_count": 25326
+        },
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      }
+    ]
+  }
+}

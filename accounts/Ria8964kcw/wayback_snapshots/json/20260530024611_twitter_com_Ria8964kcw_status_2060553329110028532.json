@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060255138263281664"
+      ],
+      "media_source_tweet_id": [
+        "2060255226524000443"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060553329110028532",
+    "created_at": "2026-05-30T02:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060553329110028532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1564490038330916865",
+          "start": 3,
+          "username": "AmazingSights"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nh1sXvhmjc",
+          "end": 134,
+          "expanded_url": "https://x.com/AmazingSights/status/2060255226524000443/video/1",
+          "media_key": "7_2060255138263281664",
+          "start": 111,
+          "url": "https://t.co/nh1sXvhmjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060553329110028532",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 916
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060255226524000443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmazingSights: The middle duck paid attention in physics class, while the others played around in class... https://t.co/nh1sXvhmjc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51919,
+        "height": 1280,
+        "media_key": "7_2060255138263281664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060255138263281664/pu/img/CIe4A485WN4Uj2zM.jpg",
+        "public_metrics": {
+          "view_count": 526772
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060255138263281664/pu/vid/avc1/320x568/XsiINNOtCCHUqEvr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060255138263281664/pu/vid/avc1/480x852/KCF66236SN91oESr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060255138263281664/pu/vid/avc1/720x1280/48l4eOF44C9zKwrn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060255138263281664/pu/pl/m3xJzwGbDPrYCBdM.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060255138263281664"
+          ],
+          "media_source_tweet_id": [
+            "2060255226524000443"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060553329110028532",
+        "created_at": "2026-05-30T02:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060553329110028532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1564490038330916865",
+              "start": 3,
+              "username": "AmazingSights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nh1sXvhmjc",
+              "end": 134,
+              "expanded_url": "https://x.com/AmazingSights/status/2060255226524000443/video/1",
+              "media_key": "7_2060255138263281664",
+              "start": 111,
+              "url": "https://t.co/nh1sXvhmjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060553329110028532",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 916
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060255226524000443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmazingSights: The middle duck paid attention in physics class, while the others played around in class... https://t.co/nh1sXvhmjc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060255138263281664"
+          ]
+        },
+        "author_id": "1564490038330916865",
+        "conversation_id": "2060255226524000443",
+        "created_at": "2026-05-29T07:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060255226524000443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nh1sXvhmjc",
+              "end": 115,
+              "expanded_url": "https://x.com/AmazingSights/status/2060255226524000443/video/1",
+              "media_key": "7_2060255138263281664",
+              "start": 92,
+              "url": "https://t.co/nh1sXvhmjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060255226524000443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1403,
+          "impression_count": 1088031,
+          "like_count": 17261,
+          "quote_count": 42,
+          "reply_count": 130,
+          "retweet_count": 916
+        },
+        "reply_settings": "everyone",
+        "text": "The middle duck paid attention in physics class, while the others played around in class... https://t.co/nh1sXvhmjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（戈达尔的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 304,
+          "like_count": 6959,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 3593
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T05:48:07.000Z",
+        "description": "Taking a look at some of the most insane animal encounters Clips caught on camera.",
+        "id": "1564490038330916865",
+        "name": "Damn Nature You Scary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957436167676170240/1Xtocctt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089696,
+          "following_count": 14,
+          "like_count": 361,
+          "listed_count": 1166,
+          "media_count": 7813,
+          "tweet_count": 10168
+        },
+        "username": "AmazingSights",
+        "verified": true
+      }
+    ]
+  }
+}

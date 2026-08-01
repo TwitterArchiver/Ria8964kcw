@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1550444438127685635",
+          "name": "NewJeans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+          "id": "1585792216395436032",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1612562270415998979",
+          "name": "NewJeans"
+        }
+      }
+    ],
+    "conversation_id": "2061077195716710495",
+    "created_at": "2026-06-01T18:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061517256614609036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042022908122558464",
+          "start": 0,
+          "username": "Sallyvzc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061517256614609036",
+    "in_reply_to_user_id": "2042022908122558464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061077195716710495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sallyvzc6 宝宝你这个精分是newjeans粉丝的意思还是精神分析的意思还是精神分裂的意思（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2061077188804587520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpqyH1bsAAp9Aq.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1550444438127685635",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2061077195716710495",
+        "created_at": "2026-06-01T18:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061517256614609036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042022908122558464",
+              "start": 0,
+              "username": "Sallyvzc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061517256614609036",
+        "in_reply_to_user_id": "2042022908122558464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061077195716710495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyvzc6 宝宝你这个精分是newjeans粉丝的意思还是精神分析的意思还是精神分裂的意思（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061077188804587520"
+          ]
+        },
+        "author_id": "2042022908122558464",
+        "conversation_id": "2061077195716710495",
+        "created_at": "2026-05-31T13:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061077195716710495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rvTqmT7XY",
+              "end": 188,
+              "expanded_url": "https://x.com/Sallyvzc6/status/2061077195716710495/photo/1",
+              "media_key": "3_2061077188804587520",
+              "start": 165,
+              "url": "https://t.co/1rvTqmT7XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061077195716710495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2371,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "hello〜(＞＜)〜\n自/o/e 精分 09（！注意未成年警告⚠️）\n173-113？ \n薯条🍟🚪\n168好友位➕解锁日常互动什么的（最近v风控加不了可以dy）\n288会有亲亲服务还有叫醒服务，包括我们的陪玩服务～🚪➖5/h\n520 女朋友级别陪伴，情绪价值超足（不过可能找工作后就没那么有空了）\n888 我是你的狗\n1314 https://t.co/1rvTqmT7XY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 324,
+          "like_count": 7391,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3904
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T23:33:27.000Z",
+        "description": "随便发发 @pxtghj\n别惹我我只是一个小兔子 想跟我互动的求你们给我钱我喜欢钱 喜欢的人会回关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "pxtghj"
+              }
+            ]
+          }
+        },
+        "id": "2042022908122558464",
+        "name": "1ta",
+        "pinned_tweet_id": "2061077195716710495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055876817169641473/qQ47lWiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 36,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 151
+        },
+        "username": "Sallyvzc6",
+        "verified": false
+      }
+    ]
+  }
+}

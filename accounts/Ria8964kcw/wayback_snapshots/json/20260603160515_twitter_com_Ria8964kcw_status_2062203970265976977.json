@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062203956256972800"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062203970265976977",
+    "created_at": "2026-06-03T16:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062203970265976977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1847898031561330690",
+          "start": 22,
+          "username": "whj___1001"
+        },
+        {
+          "end": 42,
+          "id": "1810760593437290496",
+          "start": 34,
+          "username": "MaXPnX_"
+        },
+        {
+          "end": 64,
+          "id": "1630384112392437761",
+          "start": 49,
+          "username": "Mr_boredasfock"
+        },
+        {
+          "end": 79,
+          "id": "1729357510837170176",
+          "start": 71,
+          "username": "lyb1007"
+        },
+        {
+          "end": 93,
+          "id": "1964331185590718464",
+          "start": 80,
+          "username": "breakcoreWTF"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 121,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2060918707971301378/_A8Q_jAD?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060918707971301378/_A8Q_jAD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 98,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/3sW2TMyiRw"
+        },
+        {
+          "display_url": "pic.x.com/nq8vCEHvax",
+          "end": 145,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2062203970265976977/photo/1",
+          "media_key": "3_2062203956256972800",
+          "start": 122,
+          "url": "https://t.co/nq8vCEHvax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062203970265976977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @whj___1001 @MaXPnX_\n👰 配偶: @Mr_boredasfock\n👶 孩子: @lyb1007 @breakcoreWTF\n\n➡️ https://t.co/3sW2TMyiRw https://t.co/nq8vCEHvax"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062203970265976977].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062203970265976977",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062203970265976977"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2062203956256972800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5rknsaIAAUl6u.png",
+        "width": 640
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈ftx｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 336,
+          "like_count": 7580,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 4055
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:10:18.000Z",
+        "description": "中/eng ok//\n🏳️‍⚧️ ftmasc, he/they\nocyume ❤️",
+        "id": "1847898031561330690",
+        "location": "Cute boy island",
+        "name": "酱酱酱johnjohn-chan",
+        "pinned_tweet_id": "1982307290410549377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059914728357670913/Dpe9T8Nm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 166,
+          "like_count": 18587,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1681
+        },
+        "username": "whj___1001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T19:39:18.000Z",
+        "description": "🇨🇳上海 - 𝘩𝘦/𝘵𝘩𝘦𝘺                                                                     \nblock me = i'm sorry                                   \nSlayyyter ×1",
+        "id": "1810760593437290496",
+        "location": "a mercurial world",
+        "name": "𝙙𝙞ᮋ𝙚𝙣𝙨𝙞𝙤𝙣 ☆",
+        "pinned_tweet_id": "2060973964982378744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057810108592398337/OJxglFpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 279,
+          "like_count": 5095,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 3492
+        },
+        "username": "MaXPnX_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T01:47:33.000Z",
+        "description": "Praise Satan/拉黑/加速/间歇支黑/反独裁/🇺🇦/人与人之间无法沟通/简体中文/gay trans friendly/queer/反生育主义/岁月不静好但我们什么都做不了所以聊聊天吧",
+        "id": "1630384112392437761",
+        "location": "San Francisco",
+        "name": "⸸撒旦子民⸸(恩师郭伟",
+        "pinned_tweet_id": "1977209045636596163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630384287626285056/aR3dequl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 377,
+          "like_count": 3516,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 10513
+        },
+        "username": "Mr_boredasfock",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:32:26.000Z",
+        "description": "22｜最爱的人素@krzcs404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "krzcs404"
+              }
+            ]
+          }
+        },
+        "id": "1729357510837170176",
+        "name": "済幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971566831094919169/DBQ5Av5K_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 152,
+          "like_count": 6827,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 637
+        },
+        "username": "lyb1007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 601,
+          "like_count": 14235,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 4216
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

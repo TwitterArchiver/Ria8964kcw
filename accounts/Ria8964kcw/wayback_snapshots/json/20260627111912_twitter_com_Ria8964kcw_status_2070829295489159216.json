@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070568425630634382",
+    "created_at": "2026-06-27T11:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070829295489159216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537203757250797569",
+          "start": 0,
+          "username": "yongqingwen"
+        },
+        {
+          "end": 25,
+          "id": "1978032792383709184",
+          "start": 13,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070829295489159216",
+    "in_reply_to_user_id": "1537203757250797569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070808131056128453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yongqingwen @Sabrina8964 这个世界在迫害我们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070568425630634382",
+        "created_at": "2026-06-27T11:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070829295489159216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537203757250797569",
+              "start": 0,
+              "username": "yongqingwen"
+            },
+            {
+              "end": 25,
+              "id": "1978032792383709184",
+              "start": 13,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829295489159216",
+        "in_reply_to_user_id": "1537203757250797569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070808131056128453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yongqingwen @Sabrina8964 这个世界在迫害我们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537203757250797569",
+        "conversation_id": "2070568425630634382",
+        "created_at": "2026-06-27T09:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070808131056128453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 24,
+              "id": "1978032792383709184",
+              "start": 12,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070808131056128453",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070572449377464822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @Sabrina8964 我更像是傻鸵鸟，自以为“健全”期间；也并不快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 324,
+          "like_count": 9314,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 5057
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。匿名问答：https://t.co/sTRGAuUbbl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/adf73235",
+                "end": 54,
+                "expanded_url": "https://ngl.link/adf73235",
+                "start": 31,
+                "url": "https://t.co/sTRGAuUbbl"
+              }
+            ]
+          }
+        },
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 401,
+          "like_count": 1318,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "yongqingwen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "Only God Was Above Us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "恋爱中的女孩为何如此悲伤",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069665327097483264/BWXDulXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 384,
+          "like_count": 24669,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 4382
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

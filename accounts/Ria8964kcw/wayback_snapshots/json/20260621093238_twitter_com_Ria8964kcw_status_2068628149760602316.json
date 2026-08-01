@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068318308940816728",
+    "created_at": "2026-06-21T09:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068628149760602316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691392289409769472",
+          "start": 0,
+          "username": "luetmer57048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068628149760602316",
+    "in_reply_to_user_id": "1691392289409769472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068318308940816728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luetmer57048 这里是天堂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068318286933368832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQkhgcboAA6u4J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068318286929068033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQkhgbaAAEMho9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068318308940816728",
+        "created_at": "2026-06-21T09:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068628149760602316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691392289409769472",
+              "start": 0,
+              "username": "luetmer57048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068628149760602316",
+        "in_reply_to_user_id": "1691392289409769472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068318308940816728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luetmer57048 这里是天堂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068318286933368832",
+            "3_2068318286929068033"
+          ]
+        },
+        "author_id": "1691392289409769472",
+        "conversation_id": "2068318308940816728",
+        "created_at": "2026-06-20T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068318308940816728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCbsBU0B4R",
+              "end": 32,
+              "expanded_url": "https://x.com/luetmer57048/status/2068318308940816728/photo/1",
+              "media_key": "3_2068318286933368832",
+              "start": 9,
+              "url": "https://t.co/iCbsBU0B4R"
+            },
+            {
+              "display_url": "pic.x.com/iCbsBU0B4R",
+              "end": 32,
+              "expanded_url": "https://x.com/luetmer57048/status/2068318308940816728/photo/1",
+              "media_key": "3_2068318286929068033",
+              "start": 9,
+              "url": "https://t.co/iCbsBU0B4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068318308940816728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6839,
+          "like_count": 212,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "溺死在这片伯恩海 https://t.co/iCbsBU0B4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 311,
+          "like_count": 8925,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T10:12:09.000Z",
+        "description": "𓆡𓆝𓆟𓆜𓆞𓆝𓆟𓆜 𓆞𓆡𓆝𓆟𓆜𓆞𓆝𓆟",
+        "id": "1691392289409769472",
+        "name": "如果萌是一种天赋",
+        "pinned_tweet_id": "2068318804384567598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022846295753527296/yf4y9Jqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 349,
+          "like_count": 6778,
+          "listed_count": 7,
+          "media_count": 694,
+          "tweet_count": 5937
+        },
+        "url": "",
+        "username": "luetmer57048",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082849150186688985",
+    "created_at": "2026-07-30T15:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082849150186688985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maruitikyuutan…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/maruitikyuutan/status/2082802844013646155",
+          "start": 14,
+          "url": "https://t.co/3o8wZpMOtv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082849150186688985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082802844013646155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右边那个顶美发一下整容思路 https://t.co/3o8wZpMOtv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082802838103801856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeaJWZaQAAj0SZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082849150186688985",
+        "created_at": "2026-07-30T15:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082849150186688985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maruitikyuutan…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/maruitikyuutan/status/2082802844013646155",
+              "start": 14,
+              "url": "https://t.co/3o8wZpMOtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082849150186688985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082802844013646155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右边那个顶美发一下整容思路 https://t.co/3o8wZpMOtv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082802838103801856"
+          ]
+        },
+        "author_id": "2031363005557211136",
+        "conversation_id": "2082802844013646155",
+        "created_at": "2026-07-30T12:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082802844013646155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tCB32G0dv",
+              "end": 41,
+              "expanded_url": "https://x.com/Maruitikyuutan/status/2082802844013646155/photo/1",
+              "media_key": "3_2082802838103801856",
+              "start": 18,
+              "url": "https://t.co/6tCB32G0dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082802844013646155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 955,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我坐上了一个比我小3个月的人的车。 https://t.co/6tCB32G0dv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 354,
+          "like_count": 10209,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 5432
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T13:36:00.000Z",
+        "description": "中国語日本語⭕️｜人間女| maimaiオンゲキ プロセカ Apex Overwatch cosplay イラスト｜20歳↓|関東|夏色花梨推しです。ぜひ！仲良くなってください🎵日本語垢@Tikyumaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Tikyumaru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/03861a82-a24b-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/03861a82-a24b-48f3-805c-56d10e6aeba8",
+                "start": 0,
+                "url": "https://t.co/IhCzB5rHu3"
+              }
+            ]
+          }
+        },
+        "id": "2031363005557211136",
+        "name": "地球丸（草莓牛奶版）",
+        "pinned_tweet_id": "2068747330707460547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033983240986669057/ij9VUtk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 130,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/IhCzB5rHu3",
+        "username": "Maruitikyuutan",
+        "verified": false
+      }
+    ]
+  }
+}

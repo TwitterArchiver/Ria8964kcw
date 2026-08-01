@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2078109272043618496",
+    "created_at": "2026-07-17T16:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078154869308059809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051007254774808576",
+          "start": 0,
+          "username": "Puyuma2778"
+        },
+        {
+          "end": 26,
+          "id": "1463858044282933254",
+          "start": 12,
+          "username": "NiiNa_Sakura_"
+        },
+        {
+          "end": 37,
+          "id": "2054568943256485888",
+          "start": 27,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078154869308059809",
+    "in_reply_to_user_id": "2051007254774808576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078109272043618496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puyuma2778 @NiiNa_Sakura_ @Riafixcom 金采源火到丫鬟们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2078109272043618496",
+        "created_at": "2026-07-17T16:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078154869308059809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            },
+            {
+              "end": 26,
+              "id": "1463858044282933254",
+              "start": 12,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 37,
+              "id": "2054568943256485888",
+              "start": 27,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078154869308059809",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078109272043618496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 @NiiNa_Sakura_ @Riafixcom 金采源火到丫鬟们了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051007254774808576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "FOR ANIMATION AND COMICS ONLY - DO NOT USE IF YOU NEED MUSIC.",
+              "id": "1585792216395436032",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1612562270415998979",
+              "name": "NewJeans"
+            }
+          }
+        ],
+        "conversation_id": "2078109272043618496",
+        "created_at": "2026-07-17T13:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078109272043618496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 179,
+              "id": "1463858044282933254",
+              "start": 165,
+              "username": "NiiNa_Sakura_"
+            },
+            {
+              "end": 191,
+              "id": "1741807657110147073",
+              "start": 180,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 202,
+              "id": "2054568943256485888",
+              "start": 192,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078109272043618496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026上半年🇺🇸美区Google搜索量最高的五代女爱豆\n\n1. 张元英\n2. Danielle\n3. 柳智敏\n4. 金采源\n5. 崔叡娜\n6. 许允真\n7. MINJI\n8. 金玟庭\n9. 宁艺卓\n10. Giselle\n11. HANNI\n12. 中村一叶\n13. 申留真\n14. 申有娜\n15. 洪恩採\n16. 宮脇咲良 \n@NiiNa_Sakura_ @Ria8964kcw @Riafixcom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 324,
+          "like_count": 9738,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 5281
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "🏳️‍🌈",
+        "id": "2051007254774808576",
+        "name": "曲婉婷推特反黑站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 284,
+          "like_count": 8339,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2489
+        },
+        "url": "",
+        "username": "Puyuma2778",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T13:12:17.000Z",
+        "description": "🏳️‍🌈Watch me Chantepleure→@1e_chaechae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "1e_chaechae"
+              }
+            ]
+          }
+        },
+        "id": "1463858044282933254",
+        "location": "0.1km",
+        "name": "🍭LSF家族🌸💃🏻坤采源美妆🌸🌹好物分享🌺🍭",
+        "pinned_tweet_id": "1887434291271069881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050032988467200/njaKi1Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 186,
+          "like_count": 72788,
+          "listed_count": 1,
+          "media_count": 1298,
+          "tweet_count": 27270
+        },
+        "url": "",
+        "username": "NiiNa_Sakura_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我是跨圈里第一个靠硬核技术谋生不靠依附人情打破原生家族宿命为后来的跨性别姐妹开路的先行者孤独自学不被世俗理解拒绝把人生交给流水线和宿命选择用自己的脑子和手艺攥住命运哪怕失败也要给后辈姐姐妹妹留下一条踏过的路\n好妹妹：李伟轩",
+        "id": "2054568943256485888",
+        "location": "多伦多的种姓制度为何如此残酷？🥺",
+        "name": "中国戒屌大学",
+        "pinned_tweet_id": "2074517782537126383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074809189021757440/13QdKX7q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 69,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

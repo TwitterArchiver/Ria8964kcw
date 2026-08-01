@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2074030506199646338",
+    "created_at": "2026-07-06T07:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074030506199646338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/666666666zt/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/666666666zt/status/2073593478429421641",
+          "start": 4,
+          "url": "https://t.co/SSpyaCMvhf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074030506199646338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073593478429421641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您咋了 https://t.co/SSpyaCMvhf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33566,
+        "height": 720,
+        "media_key": "7_2073593452353441792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073593452353441792/pu/img/pSxinm_Ur_slTj__.jpg",
+        "public_metrics": {
+          "view_count": 1120
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073593452353441792/pu/vid/avc1/320x320/l0e3hHXIVabWQVGu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073593452353441792/pu/vid/avc1/540x540/3MgdIW3okbautpLQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073593452353441792/pu/vid/avc1/720x720/_Cy8ICNrhohNWmux.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073593452353441792/pu/pl/OWyud50y3G1H6pou.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2074030506199646338",
+        "created_at": "2026-07-06T07:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074030506199646338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/666666666zt/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/666666666zt/status/2073593478429421641",
+              "start": 4,
+              "url": "https://t.co/SSpyaCMvhf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074030506199646338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073593478429421641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您咋了 https://t.co/SSpyaCMvhf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073593452353441792"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2073593478429421641",
+        "created_at": "2026-07-05T02:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073593478429421641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QwWf88Hq9",
+              "end": 127,
+              "expanded_url": "https://x.com/666666666ZT/status/2073593478429421641/video/1",
+              "media_key": "7_2073593452353441792",
+              "start": 104,
+              "url": "https://t.co/7QwWf88Hq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073593478429421641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3069,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是跨圈里第一个靠硬核技术谋生不靠依附人情打破原生家族宿命为后来的跨性别姐妹开路的先行者孤独自学不被世俗理解拒绝把人生交给流水线和宿命选择用自己的脑子和手艺攥住命运哪怕失败也要给后辈姐姐妹妹留下一条踏过的路 https://t.co/7QwWf88Hq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 335,
+          "like_count": 9593,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 5190
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 228,
+          "like_count": 26,
+          "listed_count": 4,
+          "media_count": 107,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

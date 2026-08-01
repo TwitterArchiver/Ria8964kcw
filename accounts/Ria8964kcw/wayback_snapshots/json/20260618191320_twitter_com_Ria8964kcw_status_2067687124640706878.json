@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067687124640706878",
+    "created_at": "2026-06-18T19:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067687124640706878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/agicheetah/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/agicheetah/status/2067203675542708356",
+          "start": 17,
+          "url": "https://t.co/69HEwkCOIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067687124640706878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067203675542708356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pov：我对待那个给了我工作的人 https://t.co/69HEwkCOIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2067203486287347712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAunkabQAAQyfq.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067687124640706878",
+        "created_at": "2026-06-18T19:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067687124640706878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/agicheetah/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/agicheetah/status/2067203675542708356",
+              "start": 17,
+              "url": "https://t.co/69HEwkCOIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067687124640706878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067203675542708356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pov：我对待那个给了我工作的人 https://t.co/69HEwkCOIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067203486287347712"
+          ]
+        },
+        "author_id": "709029725839052801",
+        "conversation_id": "2067203675542708356",
+        "created_at": "2026-06-17T11:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067203675542708356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRhsfhTAjG",
+              "end": 70,
+              "expanded_url": "https://x.com/agicheetah/status/2067203675542708356/photo/1",
+              "media_key": "3_2067203486287347712",
+              "start": 47,
+              "url": "https://t.co/hRhsfhTAjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067203675542708356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1195,
+          "impression_count": 168769,
+          "like_count": 23485,
+          "quote_count": 66,
+          "reply_count": 17,
+          "retweet_count": 2492
+        },
+        "reply_settings": "everyone",
+        "text": "yunjin saluting the chaewon flag she's so real https://t.co/hRhsfhTAjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 338,
+          "like_count": 8759,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4757
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-13T14:53:54.000Z",
+        "description": "fan account for #김채원 #르세라핌 chaewon♡ | semi inactive",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "김채원"
+              },
+              {
+                "end": 26,
+                "start": 21,
+                "tag": "르세라핌"
+              }
+            ]
+          }
+        },
+        "id": "709029725839052801",
+        "location": "gio ; eng/kr",
+        "name": "지오",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055704596488802304/uPur-mym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17233,
+          "following_count": 639,
+          "like_count": 10835,
+          "listed_count": 32,
+          "media_count": 6285,
+          "tweet_count": 22861
+        },
+        "url": "",
+        "username": "agicheetah",
+        "verified": true
+      }
+    ]
+  }
+}

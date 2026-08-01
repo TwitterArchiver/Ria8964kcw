@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064854837477732412",
+    "created_at": "2026-06-10T23:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T00:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064854837477732412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psycherabbiiow…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/psycherabbiiowo/status/2064633099447943296",
+          "start": 18,
+          "url": "https://t.co/loiPEtib1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064854837477732412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064633099447943296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们看评论区我真的笑的好难受好难受 https://t.co/loiPEtib1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_2064633091197702144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcM24hbEAAvZOe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064854837477732412",
+        "created_at": "2026-06-10T23:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064854837477732412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psycherabbiiow…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/psycherabbiiowo/status/2064633099447943296",
+              "start": 18,
+              "url": "https://t.co/loiPEtib1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064854837477732412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064633099447943296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们看评论区我真的笑的好难受好难受 https://t.co/loiPEtib1g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064633091197702144"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2064633099447943296",
+        "created_at": "2026-06-10T08:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064633099447943296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2AgaP1cZ2",
+              "end": 25,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2064633099447943296/photo/1",
+              "media_key": "3_2064633091197702144",
+              "start": 2,
+              "url": "https://t.co/o2AgaP1cZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064633099447943296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 86680,
+          "like_count": 1595,
+          "quote_count": 5,
+          "reply_count": 126,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/o2AgaP1cZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 329,
+          "like_count": 8160,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 4403
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1533,
+          "like_count": 16747,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 2620
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

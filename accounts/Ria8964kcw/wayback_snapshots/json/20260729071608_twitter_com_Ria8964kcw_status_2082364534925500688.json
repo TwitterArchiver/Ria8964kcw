@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082364534925500688",
+    "created_at": "2026-07-29T07:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082364534925500688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoooooooooooco…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yooooooooooococ/status/2082130524857086184",
+          "start": 24,
+          "url": "https://t.co/A0TBsKSj3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082364534925500688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082130524857086184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对，同学们不是我内向所以不理你们是你们太傻逼了 https://t.co/A0TBsKSj3b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082364534925500688",
+        "created_at": "2026-07-29T07:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082364534925500688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoooooooooooco…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yooooooooooococ/status/2082130524857086184",
+              "start": 24,
+              "url": "https://t.co/A0TBsKSj3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082364534925500688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082130524857086184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对，同学们不是我内向所以不理你们是你们太傻逼了 https://t.co/A0TBsKSj3b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998625272808284160",
+        "conversation_id": "2081946529695465660",
+        "created_at": "2026-07-28T15:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082130524857086184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1442780224018534401",
+              "start": 0,
+              "username": "yanyumengmeng4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082130524857086184",
+        "in_reply_to_user_id": "1442780224018534401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6552,
+          "like_count": 278,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081946529695465660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyumengmeng4 跟傻逼在一起想不内向都难，深有体会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "欢迎互b，感谢互b\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖💛🤍💜🖤｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 327,
+          "like_count": 10082,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 5401
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T05:26:24.000Z",
+        "description": "妙木山のガマ仙人、参上！",
+        "id": "1998625272808284160",
+        "location": "木叶村",
+        "name": "自来也『蛤蟆仙人』",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078158270527881216/S8n11a4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "Yooooooooooococ",
+        "verified": false
+      }
+    ]
+  }
+}

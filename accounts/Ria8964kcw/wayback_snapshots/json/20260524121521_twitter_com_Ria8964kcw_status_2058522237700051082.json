@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058520694099718528",
+    "created_at": "2026-05-24T12:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058522237700051082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973430266124541952",
+          "start": 0,
+          "username": "Minako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058522237700051082",
+    "in_reply_to_user_id": "1973430266124541952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058520694099718528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minako8964 好啊好啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058520669638512640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFVpHyaUAAA-dM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058520694099718528",
+        "created_at": "2026-05-24T12:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058522237700051082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973430266124541952",
+              "start": 0,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058522237700051082",
+        "in_reply_to_user_id": "1973430266124541952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058520694099718528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minako8964 好啊好啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058520669638512640"
+          ]
+        },
+        "author_id": "1973430266124541952",
+        "conversation_id": "2058520694099718528",
+        "created_at": "2026-05-24T12:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058520694099718528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dJs8K0D7s",
+              "end": 31,
+              "expanded_url": "https://x.com/Minako8964/status/2058520694099718528/photo/1",
+              "media_key": "3_2058520669638512640",
+              "start": 8,
+              "url": "https://t.co/9dJs8K0D7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058520694099718528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我一起吃吧😚 https://t.co/9dJs8K0D7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 6162,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3077
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，此号起到一个墓碑的作用，想互关和私联直接来找我就可以啦\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLe4XR"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053769022324568064/pXKM1Q-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 283,
+          "like_count": 38237,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 5468
+        },
+        "url": "https://t.co/qNfVsLe4XR",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

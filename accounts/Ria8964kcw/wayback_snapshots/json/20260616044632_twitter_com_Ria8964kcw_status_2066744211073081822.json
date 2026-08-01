@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066744211073081822",
+    "created_at": "2026-06-16T04:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066744211073081822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meguminsama200…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/meguminsama2009/status/2066673358566195337",
+          "start": 9,
+          "url": "https://t.co/kqIvZVSsG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066744211073081822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066673358566195337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小红书还行吧…. https://t.co/kqIvZVSsG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2066656753094365184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK49XgjaEAATtFf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066744211073081822",
+        "created_at": "2026-06-16T04:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066744211073081822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meguminsama200…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/meguminsama2009/status/2066673358566195337",
+              "start": 9,
+              "url": "https://t.co/kqIvZVSsG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066744211073081822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066673358566195337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小红书还行吧…. https://t.co/kqIvZVSsG4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066656753094365184"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2066673358566195337",
+        "created_at": "2026-06-16T00:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066673358566195337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdJocHsMoI",
+              "end": 53,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2066673358566195337/photo/1",
+              "media_key": "3_2066656753094365184",
+              "start": 30,
+              "url": "https://t.co/fdJocHsMoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066673358566195337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 28880,
+          "like_count": 174,
+          "quote_count": 5,
+          "reply_count": 110,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请找出其中能够同时符合好用、不卡顿、不臃肿这三个条件的一个 https://t.co/fdJocHsMoI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 339,
+          "like_count": 8612,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 4677
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 1950,
+          "like_count": 3116,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 6547
+        },
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

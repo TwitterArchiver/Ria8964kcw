@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061580352460890113",
+    "created_at": "2026-06-02T03:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061646438212522488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3301687694",
+          "start": 0,
+          "username": "Shirlene_girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061646438212522488",
+    "in_reply_to_user_id": "3301687694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061580352460890113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirlene_girl 萌萌！！？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12076,
+        "height": 1280,
+        "media_key": "13_2061580285410693120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061580285410693120/img/9245wLeTFgwau3WM.jpg",
+        "public_metrics": {
+          "view_count": 182
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061580285410693120/vid/avc1/320x568/UK3rT6hh2dzRE5tl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061580285410693120/vid/avc1/480x852/osAMqr1grEYiAjt-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061580285410693120/vid/avc1/720x1280/IOWEACILa4gmcxLT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061580285410693120/pl/rQMXnpxO8KRX0naa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061580352460890113",
+        "created_at": "2026-06-02T03:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061646438212522488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3301687694",
+              "start": 0,
+              "username": "Shirlene_girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061646438212522488",
+        "in_reply_to_user_id": "3301687694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061580352460890113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirlene_girl 萌萌！！？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061580285410693120"
+          ]
+        },
+        "author_id": "3301687694",
+        "conversation_id": "2061580352460890113",
+        "created_at": "2026-06-01T22:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061580352460890113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUurOjmim1",
+              "end": 40,
+              "expanded_url": "https://x.com/Shirlene_girl/status/2061580352460890113/video/1",
+              "media_key": "13_2061580285410693120",
+              "start": 17,
+              "url": "https://t.co/PUurOjmim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061580352460890113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 555,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为不敢发朋友圈，所以只能发X了 https://t.co/PUurOjmim1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 323,
+          "like_count": 7420,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-30T16:04:36.000Z",
+        "description": "当个废物好了/无业游民/庸医/养兔🐇/妹妹@EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          }
+        },
+        "id": "3301687694",
+        "location": "🌏",
+        "name": "雪玲🐰",
+        "pinned_tweet_id": "1921757539684823388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030658851515867136/g4OxyqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 1799,
+          "like_count": 31045,
+          "listed_count": 14,
+          "media_count": 352,
+          "tweet_count": 5113
+        },
+        "username": "Shirlene_girl",
+        "verified": false
+      }
+    ]
+  }
+}

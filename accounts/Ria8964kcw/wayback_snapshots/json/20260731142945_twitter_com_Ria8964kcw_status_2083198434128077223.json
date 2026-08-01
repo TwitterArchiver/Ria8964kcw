@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083196758809796608",
+        "3_2083196758860115968"
+      ],
+      "media_source_tweet_id": [
+        "2083196765390733779",
+        "2083196765390733779"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083198434128077223",
+    "created_at": "2026-07-31T14:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083198434128077223"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 66,
+          "tag": "여름의인트로_김채원"
+        },
+        {
+          "end": 96,
+          "start": 78,
+          "tag": "TimeToChaelebrate"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1613435233126461440",
+          "start": 3,
+          "username": "CGarden_0801"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FInedFA3gX",
+          "end": 120,
+          "expanded_url": "https://x.com/CGarden_0801/status/2083196765390733779/photo/1",
+          "media_key": "3_2083196758809796608",
+          "start": 97,
+          "url": "https://t.co/FInedFA3gX"
+        },
+        {
+          "display_url": "pic.x.com/FInedFA3gX",
+          "end": 120,
+          "expanded_url": "https://x.com/CGarden_0801/status/2083196765390733779/photo/1",
+          "media_key": "3_2083196758860115968",
+          "start": 97,
+          "url": "https://t.co/FInedFA3gX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083198434128077223",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083196765390733779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CGarden_0801: 채원아 생일 축하한다*͈ᴗ͈ˬᴗ͈ෆ\n\nTIME TO CELEBRATE CHAEWON\n\n#여름의인트로_김채원\n#TimeToChaelebrate https://t.co/FInedFA3gX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2292,
+        "media_key": "3_2083196758809796608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkAajYaYAA1hZu.jpg",
+        "width": 3438
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2083196758860115968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkAajkaMAA0uzh.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083196758809796608",
+            "3_2083196758860115968"
+          ]
+        },
+        "author_id": "1613435233126461440",
+        "conversation_id": "2083196765390733779",
+        "created_at": "2026-07-31T14:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083196765390733779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 48,
+              "tag": "여름의인트로_김채원"
+            },
+            {
+              "end": 78,
+              "start": 60,
+              "tag": "TimeToChaelebrate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FInedFA3gX",
+              "end": 102,
+              "expanded_url": "https://x.com/CGarden_0801/status/2083196765390733779/photo/1",
+              "media_key": "3_2083196758809796608",
+              "start": 79,
+              "url": "https://t.co/FInedFA3gX"
+            },
+            {
+              "display_url": "pic.x.com/FInedFA3gX",
+              "end": 102,
+              "expanded_url": "https://x.com/CGarden_0801/status/2083196765390733779/photo/1",
+              "media_key": "3_2083196758860115968",
+              "start": 79,
+              "url": "https://t.co/FInedFA3gX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083196765390733779",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "채원아 생일 축하한다*͈ᴗ͈ˬᴗ͈ෆ\n\nTIME TO CELEBRATE CHAEWON\n\n#여름의인트로_김채원\n#TimeToChaelebrate https://t.co/FInedFA3gX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083196758809796608",
+            "3_2083196758860115968"
+          ],
+          "media_source_tweet_id": [
+            "2083196765390733779",
+            "2083196765390733779"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083198434128077223",
+        "created_at": "2026-07-31T14:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083198434128077223"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "여름의인트로_김채원"
+            },
+            {
+              "end": 96,
+              "start": 78,
+              "tag": "TimeToChaelebrate"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1613435233126461440",
+              "start": 3,
+              "username": "CGarden_0801"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FInedFA3gX",
+              "end": 120,
+              "expanded_url": "https://x.com/CGarden_0801/status/2083196765390733779/photo/1",
+              "media_key": "3_2083196758809796608",
+              "start": 97,
+              "url": "https://t.co/FInedFA3gX"
+            },
+            {
+              "display_url": "pic.x.com/FInedFA3gX",
+              "end": 120,
+              "expanded_url": "https://x.com/CGarden_0801/status/2083196765390733779/photo/1",
+              "media_key": "3_2083196758860115968",
+              "start": 97,
+              "url": "https://t.co/FInedFA3gX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083198434128077223",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083196765390733779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CGarden_0801: 채원아 생일 축하한다*͈ᴗ͈ˬᴗ͈ෆ\n\nTIME TO CELEBRATE CHAEWON\n\n#여름의인트로_김채원\n#TimeToChaelebrate https://t.co/FInedFA3gX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10333,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5465
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T07:18:49.000Z",
+        "description": "마이 따릉이리더 #김채원",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "김채원"
+              }
+            ]
+          }
+        },
+        "id": "1613435233126461440",
+        "name": "𝘾𝙤𝙣𝙛𝙚𝙩𝙩𝙞 𝙂𝙖𝙧𝙙𝙚𝙣",
+        "pinned_tweet_id": "1918636743638516155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843846724516753408/gHtxWD4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 1,
+          "like_count": 82,
+          "listed_count": 49,
+          "media_count": 172,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "CGarden_0801",
+        "verified": true
+      }
+    ]
+  }
+}

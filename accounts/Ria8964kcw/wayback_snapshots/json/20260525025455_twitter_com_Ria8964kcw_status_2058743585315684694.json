@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058609672236798451",
+    "created_at": "2026-05-25T02:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058743585315684694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058743585315684694",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058609672236798451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 am这个贱货把我11块钱拿走充会员了现在只剩下40还要留22块钱买药挂号😂姐妹们穷酸起来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058609672236798451",
+        "created_at": "2026-05-25T02:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743585315684694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743585315684694",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058609672236798451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 am这个贱货把我11块钱拿走充会员了现在只剩下40还要留22块钱买药挂号😂姐妹们穷酸起来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2058609672236798451",
+        "created_at": "2026-05-24T18:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058609672236798451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058609672236798451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家里人再不给我资助我明天就要吃土了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 262,
+          "like_count": 6245,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3132
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "拿去吧！ 由於不是出自真心，話就說得格外動聽！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "Heaven or Las Vegas",
+        "pinned_tweet_id": "2040397447449760065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058605432693035008/c33tQGZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 334,
+          "like_count": 19109,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3583
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057622813461410200",
+    "created_at": "2026-05-23T17:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058242953089523883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811384610749874176",
+          "start": 0,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058242953089523883",
+    "in_reply_to_user_id": "1811384610749874176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057622813461410200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgddking 冲你这个同性恋扶她做爱图，我关注你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057622810965733376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4lC3lacAAw2Ra.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057622813461410200",
+        "created_at": "2026-05-23T17:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058242953089523883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811384610749874176",
+              "start": 0,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058242953089523883",
+        "in_reply_to_user_id": "1811384610749874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057622813461410200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgddking 冲你这个同性恋扶她做爱图，我关注你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057622810965733376"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2057622813461410200",
+        "created_at": "2026-05-22T00:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057622813461410200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C15EZeJwKS",
+              "end": 33,
+              "expanded_url": "https://x.com/wgddking/status/2057622813461410200/photo/1",
+              "media_key": "3_2057622810965733376",
+              "start": 10,
+              "url": "https://t.co/C15EZeJwKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057622813461410200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "誰不想被小睦草一頓 https://t.co/C15EZeJwKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 250,
+          "like_count": 6025,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3028
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "本人是 愛毛 愛蔣 TV，毛粉蔣粉請謹慎觀看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Nakano-ku, Tokyo",
+        "name": "wgdd（哲学バージョン）",
+        "pinned_tweet_id": "2057622813461410200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 78,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061494779519942754",
+    "created_at": "2026-06-01T17:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061498903674200318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1630384112392437761",
+          "start": 0,
+          "username": "Mr_boredasfock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061498903674200318",
+    "in_reply_to_user_id": "1630384112392437761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494779519942754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_boredasfock 辱坤了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061494779519942754",
+        "created_at": "2026-06-01T17:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061498903674200318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630384112392437761",
+              "start": 0,
+              "username": "Mr_boredasfock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061498903674200318",
+        "in_reply_to_user_id": "1630384112392437761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494779519942754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_boredasfock 辱坤了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630384112392437761",
+        "conversation_id": "2061494779519942754",
+        "created_at": "2026-06-01T17:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061494779519942754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vivian03142792…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/vivian03142792/status/2061262419058626731",
+              "start": 38,
+              "url": "https://t.co/t12Baney3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494779519942754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061262419058626731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "龙是阴茎的转喻，就像耶稣是一个只有XX染色体的男人一样，男性性必须是原初的 https://t.co/t12Baney3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 323,
+          "like_count": 7386,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3892
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T01:47:33.000Z",
+        "description": "Praise Satan/拉黑/加速/间歇支黑/反独裁/🇺🇦/人与人之间无法沟通/简体中文/gay trans friendly/queer/反生育主义/岁月不静好但我们什么都做不了所以聊聊天吧",
+        "id": "1630384112392437761",
+        "location": "San Francisco",
+        "name": "⸸撒旦子民⸸(恩师郭伟",
+        "pinned_tweet_id": "1977209045636596163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630384287626285056/aR3dequl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 375,
+          "like_count": 3479,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 10464
+        },
+        "username": "Mr_boredasfock",
+        "verified": false
+      }
+    ]
+  }
+}

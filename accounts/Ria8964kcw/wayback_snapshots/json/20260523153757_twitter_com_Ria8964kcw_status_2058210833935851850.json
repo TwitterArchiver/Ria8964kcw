@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058205247466840213",
+    "created_at": "2026-05-23T15:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058210833935851850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058210833935851850",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058210343449706759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 延迟绝望罢了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058205247466840213",
+        "created_at": "2026-05-23T15:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058210833935851850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058210833935851850",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058210343449706759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 延迟绝望罢了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "conversation_id": "2058205247466840213",
+        "created_at": "2026-05-23T15:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058210343449706759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058210343449706759",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058205247466840213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 那确实扔厂里一眼望不到头月薪5k的日子还不如当土逼女大笔电男大呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 247,
+          "like_count": 5994,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3000
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 前浪区（现在基本不键了）|\n纯1正太控，爱好是cos小男孩和上班摸鱼 |\n眼熟的会回fo，直fo的都是好人喵 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055557128040157184/L7BEb0aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 236,
+          "like_count": 1541,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 2007
+        },
+        "username": "Alamida001",
+        "verified": false
+      }
+    ]
+  }
+}

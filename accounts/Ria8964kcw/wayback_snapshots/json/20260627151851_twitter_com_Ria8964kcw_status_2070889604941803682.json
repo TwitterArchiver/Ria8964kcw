@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070889604941803682",
+    "created_at": "2026-06-27T15:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070889604941803682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshigaoyulian…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/woshigaoyuliang/status/2070819924952666615",
+          "start": 4,
+          "url": "https://t.co/ueXJdbkATY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070889604941803682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070819924952666615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "金采源 https://t.co/ueXJdbkATY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070889604941803682",
+        "created_at": "2026-06-27T15:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070889604941803682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshigaoyulian…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/woshigaoyuliang/status/2070819924952666615",
+              "start": 4,
+              "url": "https://t.co/ueXJdbkATY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070889604941803682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070819924952666615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金采源 https://t.co/ueXJdbkATY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529448037885833216",
+        "conversation_id": "2070819924952666615",
+        "created_at": "2026-06-27T10:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070819924952666615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070819924952666615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学医有一点好处就是批量产出标准学姐，就是那种，非常标准的学姐🐱而且无论年龄，只要年级比她小就会自动触发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 324,
+          "like_count": 9318,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 5063
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T13:03:35.000Z",
+        "description": "2004年4月至2010年3月，担任汉东省吕州市委常委、政法委书记。\n2013年5月至2013年7月，担任汉东省委副书记、吕州市委书记。\n2013年7月至2016年6月，担任汉东省委常委、省委副书记、政法委书记。\n现担任汉东医科大学附属第一医院副院长、泌尿外科主任。",
+        "id": "1529448037885833216",
+        "location": "汉东省 京州市 省委大院",
+        "name": "高育良",
+        "pinned_tweet_id": "1941784806347747656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043355952951500801/q6HB3jw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 541,
+          "like_count": 26947,
+          "listed_count": 3,
+          "media_count": 763,
+          "tweet_count": 11037
+        },
+        "url": "",
+        "username": "WoShiGaoYuliang",
+        "verified": false
+      }
+    ]
+  }
+}

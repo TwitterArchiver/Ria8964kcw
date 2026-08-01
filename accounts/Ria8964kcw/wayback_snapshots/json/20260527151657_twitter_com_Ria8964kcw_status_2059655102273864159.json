@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059647752066490856",
+    "created_at": "2026-05-27T15:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059655102273864159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738252244607512576",
+          "start": 0,
+          "username": "Gess828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059655102273864159",
+    "in_reply_to_user_id": "1738252244607512576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059647752066490856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gess828 喵喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46788,
+        "height": 1080,
+        "media_key": "13_2059335148878098432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059335148878098432/img/5mrAEKvTflQL6d1r.jpg",
+        "public_metrics": {
+          "view_count": 54529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059335148878098432/vid/avc1/480x270/wAHSaefXd6yWq47E.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059335148878098432/vid/avc1/640x360/exzrETBZvvmzaL-S.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059335148878098432/vid/avc1/1280x720/lQXi8K57pdsAL09E.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059335148878098432/pl/F78ntljWMvZUUrWp.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059647752066490856",
+        "created_at": "2026-05-27T15:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059655102273864159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738252244607512576",
+              "start": 0,
+              "username": "Gess828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059655102273864159",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059647752066490856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gess828 喵喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059335148878098432"
+          ],
+          "media_source_tweet_id": [
+            "2059335260333359215"
+          ]
+        },
+        "author_id": "1738252244607512576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059647752066490856",
+        "created_at": "2026-05-27T14:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059647752066490856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5HCU5c0Mn",
+              "end": 27,
+              "expanded_url": "https://x.com/_bleuhour/status/2059335260333359215/video/1",
+              "media_key": "13_2059335148878098432",
+              "start": 4,
+              "url": "https://t.co/Q5HCU5c0Mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059647752066490856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碳水猫 https://t.co/Q5HCU5c0Mn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 285,
+          "like_count": 6598,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "生理女",
+        "id": "1738252244607512576",
+        "name": "圈圈噼",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042250179521499136/0jPJTq3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 1410,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 196
+        },
+        "username": "Gess828",
+        "verified": false
+      }
+    ]
+  }
+}

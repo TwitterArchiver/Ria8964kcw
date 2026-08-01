@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063997916784816128"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063997961961615731",
+    "created_at": "2026-06-08T14:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063997961961615731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Y3pkXbbrY",
+          "end": 84,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2063997961961615731/photo/1",
+          "media_key": "3_2063997916784816128",
+          "start": 61,
+          "url": "https://t.co/7Y3pkXbbrY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063997961961615731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三年高中读，一生高中情！太鸡巴美了，可惜我再也不能在这里上体育课了，好他妈的美，好忧郁好美，想变小两岁继续在高中快乐教育 https://t.co/7Y3pkXbbrY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063997961961615731].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063997961961615731",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063997961961615731"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063997916784816128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTLK3ca8AAxYPE.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 328,
+          "like_count": 7989,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 4315
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

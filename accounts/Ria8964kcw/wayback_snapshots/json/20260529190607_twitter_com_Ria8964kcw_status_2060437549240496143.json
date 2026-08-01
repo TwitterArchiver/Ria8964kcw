@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060340505712693334",
+    "created_at": "2026-05-29T19:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060437549240496143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060437549240496143",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340505712693334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy 我偷一下谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2060339530880995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfL4x7bUAAKmVJ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060340505712693334",
+        "created_at": "2026-05-29T19:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060437549240496143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060437549240496143",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340505712693334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy 我偷一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060339530880995328"
+          ]
+        },
+        "author_id": "1366512947015520259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2060340505712693334",
+        "created_at": "2026-05-29T12:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340505712693334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCOGNcm4ZC",
+              "end": 142,
+              "expanded_url": "https://x.com/gsjzyyy/status/2060340505712693334/photo/1",
+              "media_key": "3_2060339530880995328",
+              "start": 119,
+              "url": "https://t.co/FCOGNcm4ZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060340505712693334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8964 535 37 蜡烛 自由民主 北京 天安门 女神像 学生 赵紫阳邓小平邓矮子 my duty 法轮功 八九六四 习近平 刁迈乎 自行车 坦克车 碾压 老北京人肉酱 吴京 我被坦克压过 红白玫瑰 八九政治风波 法轮功自焚 李洪志 https://t.co/FCOGNcm4ZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 302,
+          "like_count": 6919,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 3577
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "02/🇦🇺/身高192/无政府主义者🏴/od紫餐/🇮🇱\n\n我们将吟唱着古老诗句，持续那场终将到来的游行\n-致百鬼夜行-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goresee.com/w/aCB6wp6TYaMy…",
+                "end": 23,
+                "expanded_url": "https://goresee.com/w/aCB6wp6TYaMyPNc1zG7MRN",
+                "start": 0,
+                "url": "https://t.co/w5WnMfQV3I"
+              }
+            ]
+          }
+        },
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "Dr.焚蒿⛩️🗡",
+        "pinned_tweet_id": "1905459125469020289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027708595614453764/GxVvXpor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 1646,
+          "like_count": 127167,
+          "listed_count": 11,
+          "media_count": 2144,
+          "tweet_count": 29156
+        },
+        "url": "https://t.co/w5WnMfQV3I",
+        "username": "gsjzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

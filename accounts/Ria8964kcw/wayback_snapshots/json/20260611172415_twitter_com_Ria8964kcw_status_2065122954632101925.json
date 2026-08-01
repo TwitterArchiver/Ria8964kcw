@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2065122954632101925",
+    "created_at": "2026-06-11T17:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065122954632101925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2065069312415789442",
+          "start": 12,
+          "url": "https://t.co/4kpZYDzSUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065122954632101925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065069312415789442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的足球宝贝儿飒飒飒啊 https://t.co/4kpZYDzSUt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3744,
+        "media_key": "3_2065069222972248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiZhF_aUAAw8d3.jpg",
+        "width": 3771
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2065069302882177024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiZlvrbEAATHb6.jpg",
+        "width": 3258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2065122954632101925",
+        "created_at": "2026-06-11T17:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065122954632101925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2065069312415789442",
+              "start": 12,
+              "url": "https://t.co/4kpZYDzSUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065122954632101925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065069312415789442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的足球宝贝儿飒飒飒啊 https://t.co/4kpZYDzSUt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065069222972248064",
+            "3_2065069302882177024"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2065069312415789442",
+        "created_at": "2026-06-11T13:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065069312415789442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QFfJoKXGk",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2065069312415789442/photo/1",
+              "media_key": "3_2065069222972248064",
+              "start": 0,
+              "url": "https://t.co/9QFfJoKXGk"
+            },
+            {
+              "display_url": "pic.x.com/9QFfJoKXGk",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2065069312415789442/photo/1",
+              "media_key": "3_2065069302882177024",
+              "start": 0,
+              "url": "https://t.co/9QFfJoKXGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065069312415789442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 9772,
+          "like_count": 1134,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9QFfJoKXGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 331,
+          "like_count": 8290,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4493
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "location": "2 sleep deprived asia admins",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40813,
+          "following_count": 320,
+          "like_count": 22113,
+          "listed_count": 87,
+          "media_count": 13071,
+          "tweet_count": 30006
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070444179441037677",
+    "created_at": "2026-06-26T09:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070444179441037677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aura_rabbit/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/aura_rabbit/status/2048557092580012399",
+          "start": 6,
+          "url": "https://t.co/QXfQocY76J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070444179441037677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048557092580012399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "俩公畜之友 https://t.co/QXfQocY76J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070444179441037677",
+        "created_at": "2026-06-26T09:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070444179441037677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aura_rabbit/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/aura_rabbit/status/2048557092580012399",
+              "start": 6,
+              "url": "https://t.co/QXfQocY76J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070444179441037677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048557092580012399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俩公畜之友 https://t.co/QXfQocY76J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823720805202886656",
+        "conversation_id": "2047951981260448215",
+        "created_at": "2026-04-27T00:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048557092580012399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821231795326828544",
+              "start": 0,
+              "username": "Rei_mo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048557092580012399",
+        "in_reply_to_user_id": "1821231795326828544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047951981260448215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei_mo0n 最烦一滴泪和哥伦比亚纯傻逼还能在互联网上挣钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 325,
+          "like_count": 9259,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 5022
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T13:58:26.000Z",
+        "description": "",
+        "id": "1823720805202886656",
+        "location": "外星球",
+        "name": "you",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048553755512307713/rlS5cT7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 98,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "aura_rabbit",
+        "verified": false
+      }
+    ]
+  }
+}

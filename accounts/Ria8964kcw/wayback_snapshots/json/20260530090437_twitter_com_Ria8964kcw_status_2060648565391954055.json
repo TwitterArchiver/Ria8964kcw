@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060637075976638668",
+    "created_at": "2026-05-30T09:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060648565391954055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867652481523564544",
+          "start": 0,
+          "username": "SLAYYY0NCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060648565391954055",
+    "in_reply_to_user_id": "1867652481523564544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060637075976638668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLAYYY0NCE 艺术天使👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2060637072231190535",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjaf91XUAcPUbX.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060637075976638668",
+        "created_at": "2026-05-30T09:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060648565391954055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867652481523564544",
+              "start": 0,
+              "username": "SLAYYY0NCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060648565391954055",
+        "in_reply_to_user_id": "1867652481523564544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060637075976638668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLAYYY0NCE 艺术天使👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060637072231190535"
+          ]
+        },
+        "author_id": "1867652481523564544",
+        "conversation_id": "2060637075976638668",
+        "created_at": "2026-05-30T08:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060637075976638668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiL4Jdxlhd",
+              "end": 47,
+              "expanded_url": "https://x.com/SLAYYY0NCE/status/2060637075976638668/photo/1",
+              "media_key": "3_2060637072231190535",
+              "start": 24,
+              "url": "https://t.co/UiL4Jdxlhd"
+            },
+            {
+              "display_url": "x.com/p1nkflood/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/p1nkflood/status/2060607595186917683",
+              "start": 48,
+              "url": "https://t.co/0CA7j91XS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060637075976638668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060607595186917683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "find the five in my 10s https://t.co/UiL4Jdxlhd https://t.co/0CA7j91XS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 306,
+          "like_count": 7014,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 3639
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T19:27:19.000Z",
+        "description": "topster poster | anarchist | priv @zipyonce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "zipyonce"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/9grRZ",
+                "end": 23,
+                "expanded_url": "https://boxd.it/9grRZ",
+                "start": 0,
+                "url": "https://t.co/qhnONeyshk"
+              }
+            ]
+          }
+        },
+        "id": "1867652481523564544",
+        "location": "he they blasian 19 ⚣",
+        "name": "ico",
+        "pinned_tweet_id": "2047820321537802627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047820007858634752/Lrew-0tC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 2035,
+          "like_count": 119906,
+          "listed_count": 8,
+          "media_count": 3678,
+          "tweet_count": 15806
+        },
+        "url": "https://t.co/qhnONeyshk",
+        "username": "SLAYYY0NCE",
+        "verified": false
+      }
+    ]
+  }
+}

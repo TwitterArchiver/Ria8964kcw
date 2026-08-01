@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063652350322188615",
+    "created_at": "2026-06-07T16:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063652350322188615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshihiiragi/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hoshihiiragi/status/2063594741866864961",
+          "start": 5,
+          "url": "https://t.co/VL74dZlSwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063652350322188615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063594741866864961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女王行为 https://t.co/VL74dZlSwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2063594731074961409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNceXoXQAE3QpT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063652350322188615",
+        "created_at": "2026-06-07T16:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063652350322188615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshihiiragi/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hoshihiiragi/status/2063594741866864961",
+              "start": 5,
+              "url": "https://t.co/VL74dZlSwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063652350322188615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063594741866864961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女王行为 https://t.co/VL74dZlSwU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063594731074961409"
+          ]
+        },
+        "author_id": "1599708309824897025",
+        "conversation_id": "2063594741866864961",
+        "created_at": "2026-06-07T12:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063594741866864961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7T7Snnebk",
+              "end": 39,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2063594741866864961/photo/1",
+              "media_key": "3_2063594731074961409",
+              "start": 16,
+              "url": "https://t.co/C7T7Snnebk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063594741866864961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2196,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天在听曲婉婷的歌时刷到的图片 https://t.co/C7T7Snnebk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 322,
+          "like_count": 7927,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 4272
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T10:12:46.000Z",
+        "description": "—一一—“希望，我的存在能够一直让你幸福。”—一一—\n柊 星:“我们电波系有自己的存活方式，我可能比较不正常一些。”——INTJ-06-中国/双鱼/中-日推-男同/电波/英专/番剧/音游/ボカロ/欧美猪圈/乐队/神椿/25時/不常键政/和有梗或有趣的人唠嗑-——“我有梦想，努力有没有用之后再想。”—私信已关—LINE↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/6ntM5aBnfa",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/6ntM5aBnfa",
+                "start": 0,
+                "url": "https://t.co/z6vqyGfKGb"
+              }
+            ]
+          }
+        },
+        "id": "1599708309824897025",
+        "location": "河北省废物保护协会  ‖   ヰ世界情緒ノ箱庭 ",
+        "name": "'柊 ほし.＇",
+        "pinned_tweet_id": "1972578310497636457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053031301733638147/1hnlCxj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 94,
+          "like_count": 8797,
+          "listed_count": 2,
+          "media_count": 2069,
+          "tweet_count": 7574
+        },
+        "url": "https://t.co/z6vqyGfKGb",
+        "username": "HoshiHiiragi",
+        "verified": false
+      }
+    ]
+  }
+}

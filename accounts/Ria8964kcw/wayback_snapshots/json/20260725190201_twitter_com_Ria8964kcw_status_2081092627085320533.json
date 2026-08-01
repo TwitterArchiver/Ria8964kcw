@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080912975431626752"
+      ],
+      "media_source_tweet_id": [
+        "2080913204843249837"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2081092627085320533",
+    "created_at": "2026-07-25T19:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081092627085320533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yg7MxHQu16",
+          "end": 35,
+          "expanded_url": "https://x.com/sakurai7715/status/2080913204843249837/video/1",
+          "media_key": "7_2080912975431626752",
+          "start": 12,
+          "url": "https://t.co/Yg7MxHQu16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081092627085320533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比我这个死处逼幸福多了 https://t.co/Yg7MxHQu16"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138922,
+        "height": 640,
+        "media_key": "7_2080912975431626752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080912975431626752/pu/img/PRcXKLziSTXeqTKf.jpg",
+        "public_metrics": {
+          "view_count": 1365208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080912975431626752/pu/vid/avc1/320x568/0zYfYpuRV5LDQ4dj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080912975431626752/pu/vid/avc1/360x640/ojSflOecKMeGzk3g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080912975431626752/pu/pl/0FM69dhwb8R3Puvw.m3u8?tag=12&v=40d"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080912975431626752"
+          ]
+        },
+        "author_id": "304360331",
+        "conversation_id": "2080913204843249837",
+        "created_at": "2026-07-25T07:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080913204843249837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WINwWAEvZZ",
+              "end": 51,
+              "expanded_url": "https://x.com/sakurai7715/status/2080913204843249837/video/1",
+              "media_key": "7_2080912975431626752",
+              "start": 28,
+              "url": "https://t.co/WINwWAEvZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080913204843249837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3266,
+          "impression_count": 941125,
+          "like_count": 9290,
+          "quote_count": 140,
+          "reply_count": 97,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "｢トー横キッズは性病を持っている｣と思い込んでいる人へ https://t.co/WINwWAEvZZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080912975431626752"
+          ],
+          "media_source_tweet_id": [
+            "2080913204843249837"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2081092627085320533",
+        "created_at": "2026-07-25T19:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081092627085320533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yg7MxHQu16",
+              "end": 35,
+              "expanded_url": "https://x.com/sakurai7715/status/2080913204843249837/video/1",
+              "media_key": "7_2080912975431626752",
+              "start": 12,
+              "url": "https://t.co/Yg7MxHQu16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081092627085320533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比我这个死处逼幸福多了 https://t.co/Yg7MxHQu16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我从来不骂人因为老子骂的不是人\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源往那一站又把多少丑逼猪头气的逼飞奶炸",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 324,
+          "like_count": 9898,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 5350
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059172843074756608"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059125772003271001",
+    "created_at": "2026-05-26T07:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059172848489685134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MjMJL1PRP",
+          "end": 42,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2059172848489685134/photo/1",
+          "media_key": "3_2059172843074756608",
+          "start": 19,
+          "url": "https://t.co/3MjMJL1PRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059172848489685134",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059171976451932553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 汪主席他公平 https://t.co/3MjMJL1PRP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059172848489685134].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059172848489685134",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059172848489685134"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2059172843074756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOmynKaIAANQoB.jpg",
+        "width": 1200
+      },
+      {
+        "height": 473,
+        "media_key": "3_2059171883820752896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOl6xqboAAQDIH.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059171883820752896"
+          ]
+        },
+        "author_id": "2027354397983076352",
+        "conversation_id": "2059125772003271001",
+        "created_at": "2026-05-26T07:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059171976451932553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeWfaGJ9l9",
+              "end": 54,
+              "expanded_url": "https://x.com/Alamida001/status/2059171976451932553/photo/1",
+              "media_key": "3_2059171883820752896",
+              "start": 31,
+              "url": "https://t.co/HeWfaGJ9l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059171976451932553",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059125772003271001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 汪主席之前都说几百年现在缩水成一年了 https://t.co/HeWfaGJ9l9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）",
+        "pinned_tweet_id": "2058960830524436774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 276,
+          "like_count": 6423,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 前浪区（现在基本不键了）|\n纯1正太控，爱好是cos小男孩和上班摸鱼 |\n眼熟的会回fo，直fo的都是好人喵 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055557128040157184/L7BEb0aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 238,
+          "like_count": 1632,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 2097
+        },
+        "username": "Alamida001",
+        "verified": false
+      }
+    ]
+  }
+}

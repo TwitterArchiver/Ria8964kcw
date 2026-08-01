@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056647364971290894",
+    "created_at": "2026-05-19T15:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056766738331820394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1906637788260524033",
+          "start": 0,
+          "username": "DrYahoo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056766738331820394",
+    "in_reply_to_user_id": "1906637788260524033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056647364971290894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrYahoo8964 割你手上了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 319,
+        "media_key": "3_2056647360617619456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqt4L3boAAGscJ.jpg",
+        "width": 247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056647364971290894",
+        "created_at": "2026-05-19T15:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056766738331820394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906637788260524033",
+              "start": 0,
+              "username": "DrYahoo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056766738331820394",
+        "in_reply_to_user_id": "1906637788260524033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056647364971290894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrYahoo8964 割你手上了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056647360617619456"
+          ]
+        },
+        "author_id": "1906637788260524033",
+        "conversation_id": "2056647364971290894",
+        "created_at": "2026-05-19T08:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056647364971290894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARnfGJniNC",
+              "end": 28,
+              "expanded_url": "https://x.com/DrYahoo8964/status/2056647364971290894/photo/1",
+              "media_key": "3_2056647360617619456",
+              "start": 5,
+              "url": "https://t.co/ARnfGJniNC"
+            },
+            {
+              "display_url": "x.com/u_takeshi_4649…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/u_takeshi_4649/status/2056209126154469845",
+              "start": 29,
+              "url": "https://t.co/qyUwDE95Bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056647364971290894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2020,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056209126154469845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "やばい子 https://t.co/ARnfGJniNC https://t.co/qyUwDE95Bg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 255,
+          "like_count": 5504,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2623
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T09:21:30.000Z",
+        "description": "あり得ない脳神経外科医",
+        "id": "1906637788260524033",
+        "name": "Dr. ヤブ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906638019664498688/Khdo4T3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 47,
+          "like_count": 6964,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 4795
+        },
+        "username": "DrYahoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

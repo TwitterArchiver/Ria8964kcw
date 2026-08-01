@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064057605983810046",
+    "created_at": "2026-06-09T01:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064160036537172477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "NMD_China"
+        },
+        {
+          "end": 22,
+          "id": "2009876491971244033",
+          "start": 11,
+          "username": "hnwn223381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064160036537172477",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064057605983810046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@NMD_China @hnwn223381 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1662,
+        "media_key": "3_2064057456951701504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUBUj2aMAARaPT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064057605983810046",
+        "created_at": "2026-06-09T01:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064160036537172477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "NMD_China"
+            },
+            {
+              "end": 22,
+              "id": "2009876491971244033",
+              "start": 11,
+              "username": "hnwn223381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064160036537172477",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064057605983810046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@NMD_China @hnwn223381 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064057456951701504"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064057605983810046",
+        "created_at": "2026-06-08T18:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064057605983810046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gkqgBUzy3",
+              "end": 39,
+              "expanded_url": "https://x.com/NMD_China/status/2064057605983810046/photo/1",
+              "media_key": "3_2064057456951701504",
+              "start": 16,
+              "url": "https://t.co/7gkqgBUzy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064057605983810046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "2778fo？\n比较神圣的数字 https://t.co/7gkqgBUzy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 329,
+          "like_count": 8007,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "你说的对所以我们睡大觉吧\n逃生舱@tiegang114514\n**死男同出没注意**\n大概率会屏蔽锁推新增关注者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 939,
+          "like_count": 176014,
+          "listed_count": 23,
+          "media_count": 1229,
+          "tweet_count": 4405
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T06:35:12.000Z",
+        "description": "爱党（骗你的），爱人民  自由派 社会民主主义   也是浪漫主义者 /有时虚无，犬儒主义（ 我很孤独）对人心软，很感性 很阴郁。 喜欢少女乐队和听音乐  。要建成现代国家必须放开党禁  言论自由  思想自由  司法独立 主权在民。我认可中国共产党的一部分主张。现减少键政频率，可私信  小号/文青：@AlexJinder",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "AlexJinder"
+              }
+            ]
+          }
+        },
+        "id": "2009876491971244033",
+        "location": "皇后大道东",
+        "name": "伟大同志搞搞新意思（互fo淡推中）🇹🇼🇺🇸",
+        "pinned_tweet_id": "2055907876179488990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064146942578581504/9Fi0Q731_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 428,
+          "like_count": 1130,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 925
+        },
+        "username": "hnwn223381",
+        "verified": false
+      }
+    ]
+  }
+}

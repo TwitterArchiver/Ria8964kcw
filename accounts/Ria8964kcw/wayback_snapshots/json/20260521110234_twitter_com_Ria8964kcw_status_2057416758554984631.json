@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057416758554984631",
+    "created_at": "2026-05-21T11:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057416758554984631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nursenika1840/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nursenika1840/status/2057414292878872668",
+          "start": 14,
+          "url": "https://t.co/ag1sCdIEYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057416758554984631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057414292878872668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在觉得我跟杀神病得挺轻 https://t.co/ag1sCdIEYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36985,
+        "height": 1334,
+        "media_key": "13_2057414181511688192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057414181511688192/img/vQxOtSnQ3Dt5EN40.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057414181511688192/vid/avc1/320x568/T8gj2WzkojMsG4VD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057414181511688192/vid/avc1/480x852/Z0Mti_Qq-RJbRcn0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057414181511688192/vid/avc1/750x1334/QQO-86D57c7t2ee-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057414181511688192/pl/9UYEY5_xxrMnz3Ho.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057416758554984631",
+        "created_at": "2026-05-21T11:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416758554984631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nursenika1840/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nursenika1840/status/2057414292878872668",
+              "start": 14,
+              "url": "https://t.co/ag1sCdIEYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057416758554984631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057414292878872668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在觉得我跟杀神病得挺轻 https://t.co/ag1sCdIEYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057414181511688192"
+          ]
+        },
+        "author_id": "1629058457222656001",
+        "conversation_id": "2057414292878872668",
+        "created_at": "2026-05-21T10:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057414292878872668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IDx1MiFhy",
+              "end": 39,
+              "expanded_url": "https://x.com/nursenika1840/status/2057414292878872668/video/1",
+              "media_key": "13_2057414181511688192",
+              "start": 16,
+              "url": "https://t.co/4IDx1MiFhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057414292878872668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们真不知道未明子是谁啊？？？ https://t.co/4IDx1MiFhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 269,
+          "like_count": 5731,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2734
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53639,
+          "following_count": 442,
+          "like_count": 9525,
+          "listed_count": 198,
+          "media_count": 873,
+          "tweet_count": 17710
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

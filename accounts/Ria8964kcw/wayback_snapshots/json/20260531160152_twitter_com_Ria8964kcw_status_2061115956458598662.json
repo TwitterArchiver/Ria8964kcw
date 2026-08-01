@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061075194375188940",
+    "created_at": "2026-05-31T16:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061115956458598662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900422705415151618",
+          "start": 0,
+          "username": "uketamawarui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061115956458598662",
+    "in_reply_to_user_id": "1900422705415151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061075194375188940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uketamawarui 我现在吃三养依旧上蹿下跳找水喝，面还没吃饱水先喝饱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061075194375188940",
+        "created_at": "2026-05-31T16:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061115956458598662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900422705415151618",
+              "start": 0,
+              "username": "uketamawarui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061115956458598662",
+        "in_reply_to_user_id": "1900422705415151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061075194375188940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uketamawarui 我现在吃三养依旧上蹿下跳找水喝，面还没吃饱水先喝饱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900422705415151618",
+        "conversation_id": "2061075194375188940",
+        "created_at": "2026-05-31T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061075194375188940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061075194375188940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想我们学校小卖部卖的不会是盗版的火坤面吧，今天买了黑色的原味料包全加也只是入口稍微辣一点，完全没有到让我上蹿下跳找水喝的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 315,
+          "like_count": 7251,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3788
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:44:25.000Z",
+        "description": "等你忘记了我们就说拜拜",
+        "id": "1900422705415151618",
+        "location": "傍観",
+        "name": "torinaku",
+        "pinned_tweet_id": "1980166069944975774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061065313496748032/aO3FHVoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 84,
+          "like_count": 6686,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1141
+        },
+        "username": "uketamawarui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058027989820932143",
+    "created_at": "2026-05-23T10:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058135438775525456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        },
+        {
+          "end": 25,
+          "id": "1924212425332813824",
+          "start": 12,
+          "username": "Phoenixyin13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058135438775525456",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058121444702527932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks @Phoenixyin13 选shu原因：可以和籽岷吧吧主当同学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058027989820932143",
+        "created_at": "2026-05-23T10:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058135438775525456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            },
+            {
+              "end": 25,
+              "id": "1924212425332813824",
+              "start": 12,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058135438775525456",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058121444702527932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks @Phoenixyin13 选shu原因：可以和籽岷吧吧主当同学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2058027989820932143",
+        "created_at": "2026-05-23T09:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058121444702527932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924212425332813824",
+              "start": 0,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058121444702527932",
+        "in_reply_to_user_id": "1924212425332813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058027989820932143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoenixyin13 上海大学太尼玛远了。宝山区体感像出省"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 246,
+          "like_count": 5952,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2964
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxian1527｜好朋友@aoi4uto｜會講國語🇹🇼普通话🇨🇳廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 477,
+          "like_count": 5911,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 3185
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Columbus, OH",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2056269488140509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5510,
+          "following_count": 1270,
+          "like_count": 6454,
+          "listed_count": 19,
+          "media_count": 449,
+          "tweet_count": 4911
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

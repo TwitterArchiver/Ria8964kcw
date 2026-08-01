@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060923080118288523",
+    "created_at": "2026-05-31T03:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060923080118288523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liermaxxing/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/liermaxxing/status/2060742816872222996",
+          "start": 36,
+          "url": "https://t.co/3F2rCn5MPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060923080118288523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060742816872222996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你猜人家为啥针对你😂申请查询1994年广岛亚运会支国泳队12枚金牌去向 https://t.co/3F2rCn5MPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2060742778020372480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk6o2lbIAADmKI.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060923080118288523",
+        "created_at": "2026-05-31T03:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060923080118288523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liermaxxing/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/liermaxxing/status/2060742816872222996",
+              "start": 36,
+              "url": "https://t.co/3F2rCn5MPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060923080118288523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060742816872222996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你猜人家为啥针对你😂申请查询1994年广岛亚运会支国泳队12枚金牌去向 https://t.co/3F2rCn5MPG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060742778020372480"
+          ]
+        },
+        "author_id": "2042171294477889536",
+        "conversation_id": "2060742816872222996",
+        "created_at": "2026-05-30T15:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060742816872222996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdPiyvkDew",
+              "end": 91,
+              "expanded_url": "https://x.com/Liermaxxing/status/2060742816872222996/photo/1",
+              "media_key": "3_2060742778020372480",
+              "start": 68,
+              "url": "https://t.co/TdPiyvkDew"
+            },
+            {
+              "display_url": "x.com/renegadebirch/…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/renegadebirch/status/2060367853283422336",
+              "start": 92,
+              "url": "https://t.co/JOyqp9i0tT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060742816872222996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14191,
+          "like_count": 257,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060367853283422336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国游泳运动员兴奋剂检测人均年21次，美国运动员人均年6次，你去看看美国运动员，嗑药都快嗑成紫色灭霸了，没人管。美国自己玩吧，傻屌一个 https://t.co/TdPiyvkDew https://t.co/JOyqp9i0tT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 308,
+          "like_count": 7118,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T09:23:11.000Z",
+        "description": "",
+        "id": "2042171294477889536",
+        "name": "耄耋小猫-封号斗罗版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042172442668621824/Z-l0IWon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 142,
+          "like_count": 721,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 553
+        },
+        "username": "Liermaxxing",
+        "verified": false
+      }
+    ]
+  }
+}

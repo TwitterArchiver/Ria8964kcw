@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2055974108777877712",
+    "created_at": "2026-05-20T20:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057194011971211694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490629241783816194",
+          "start": 0,
+          "username": "Asimov53006169"
+        },
+        {
+          "end": 29,
+          "id": "1812485500231389184",
+          "start": 16,
+          "username": "WahlerG65315"
+        },
+        {
+          "end": 45,
+          "id": "1260553941714186241",
+          "start": 30,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057194011971211694",
+    "in_reply_to_user_id": "1490629241783816194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057135782838821199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asimov53006169 @WahlerG65315 @whyyoutouzhele 正常人都支持同性婚姻 可惜中国没有正常人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2055974108777877712",
+        "created_at": "2026-05-20T20:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057194011971211694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490629241783816194",
+              "start": 0,
+              "username": "Asimov53006169"
+            },
+            {
+              "end": 29,
+              "id": "1812485500231389184",
+              "start": 16,
+              "username": "WahlerG65315"
+            },
+            {
+              "end": 45,
+              "id": "1260553941714186241",
+              "start": 30,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057194011971211694",
+        "in_reply_to_user_id": "1490629241783816194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057135782838821199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asimov53006169 @WahlerG65315 @whyyoutouzhele 正常人都支持同性婚姻 可惜中国没有正常人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490629241783816194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2055974108777877712",
+        "created_at": "2026-05-20T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057135782838821199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 25,
+              "id": "1812485500231389184",
+              "start": 12,
+              "username": "WahlerG65315"
+            },
+            {
+              "end": 41,
+              "id": "1260553941714186241",
+              "start": 26,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20568…",
+              "end": 72,
+              "expanded_url": "https://x.com/i/status/2056894341445284188",
+              "start": 49,
+              "url": "https://t.co/MxlNnUQ3F9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057135782838821199",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056894341445284188",
+            "type": "quoted"
+          },
+          {
+            "id": "2056400125216575781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @WahlerG65315 @whyyoutouzhele 还能说话吗😁\nhttps://t.co/MxlNnUQ3F9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 265,
+          "like_count": 5621,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2688
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T10:12:25.000Z",
+        "description": "旧式自由意志主义 奥地利学派 孤立主义\n传统文化享受者 极右反动分子",
+        "id": "1490629241783816194",
+        "name": "Asimov",
+        "pinned_tweet_id": "2026306690493342006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777404556785438720/m7VSIcA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 300,
+          "like_count": 13843,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 3429
+        },
+        "username": "Asimov53006169",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T13:53:25.000Z",
+        "description": "",
+        "id": "1812485500231389184",
+        "name": "Wahler Gerwald",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812485558951960576/gQhBgaDw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 378,
+          "like_count": 15134,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 5137
+        },
+        "username": "WahlerG65315",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231636,
+          "following_count": 1061,
+          "like_count": 9585,
+          "listed_count": 8757,
+          "media_count": 47159,
+          "tweet_count": 54283
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

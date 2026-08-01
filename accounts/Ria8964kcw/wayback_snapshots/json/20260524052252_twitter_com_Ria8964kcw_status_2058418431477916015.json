@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058418431477916015",
+    "created_at": "2026-05-24T05:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058418431477916015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nigel0823/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/nigel0823/status/2058319057464525253",
+          "start": 33,
+          "url": "https://t.co/NW4tOmVmsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058418431477916015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058319057464525253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操你妈抖腿咋了你知不知道我们asd忍不了抖两下又不会把你全家抖死 https://t.co/NW4tOmVmsP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058418431477916015",
+        "created_at": "2026-05-24T05:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058418431477916015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nigel0823/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/nigel0823/status/2058319057464525253",
+              "start": 33,
+              "url": "https://t.co/NW4tOmVmsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058418431477916015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058319057464525253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈抖腿咋了你知不知道我们asd忍不了抖两下又不会把你全家抖死 https://t.co/NW4tOmVmsP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529670402100051968",
+        "conversation_id": "2058204903802363996",
+        "created_at": "2026-05-23T22:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058319057464525253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1249743643994284033",
+              "start": 0,
+              "username": "scpxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058319057464525253",
+        "in_reply_to_user_id": "1249743643994284033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2244,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058204903802363996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scpxxxxxxx 没错，吧唧嘴抖腿的尽量少谈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 254,
+          "like_count": 6075,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3051
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:47:21.000Z",
+        "description": "我最大的立场就是没有立场",
+        "id": "1529670402100051968",
+        "location": "Vienna, Austria",
+        "name": "N999",
+        "pinned_tweet_id": "2037015365629493356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056583175812354048/8rTAy0QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 404,
+          "like_count": 3375,
+          "listed_count": 6,
+          "media_count": 17,
+          "tweet_count": 259
+        },
+        "username": "nigel0823",
+        "verified": false
+      }
+    ]
+  }
+}

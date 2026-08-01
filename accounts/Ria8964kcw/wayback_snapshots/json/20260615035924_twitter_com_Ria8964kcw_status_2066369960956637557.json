@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066234264870408192"
+      ],
+      "media_source_tweet_id": [
+        "2066234298366120211"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066369960956637557",
+    "created_at": "2026-06-15T03:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066369960956637557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586059239881064448",
+          "start": 3,
+          "username": "miyawakissme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VanyOnvE2w",
+          "end": 66,
+          "expanded_url": "https://x.com/miyawakissme/status/2066234298366120211/photo/1",
+          "media_key": "3_2066234264870408192",
+          "start": 43,
+          "url": "https://t.co/VanyOnvE2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066369960956637557",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066234298366120211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @miyawakissme: lucky charm chaewon 🍀🇩🇪🥳 https://t.co/VanyOnvE2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2066234264870408192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKy9HdRXUAAR8h5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066234264870408192"
+          ],
+          "media_source_tweet_id": [
+            "2066234298366120211"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066369960956637557",
+        "created_at": "2026-06-15T03:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066369960956637557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586059239881064448",
+              "start": 3,
+              "username": "miyawakissme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VanyOnvE2w",
+              "end": 66,
+              "expanded_url": "https://x.com/miyawakissme/status/2066234298366120211/photo/1",
+              "media_key": "3_2066234264870408192",
+              "start": 43,
+              "url": "https://t.co/VanyOnvE2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066369960956637557",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066234298366120211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @miyawakissme: lucky charm chaewon 🍀🇩🇪🥳 https://t.co/VanyOnvE2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066234264870408192"
+          ]
+        },
+        "author_id": "1586059239881064448",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337573584031744",
+              "name": "Germany vs Curacao"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337573584031744",
+              "name": "Germany vs Curacao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337573584031744",
+              "name": "Germany vs Curacao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2066234298366120211",
+        "created_at": "2026-06-14T19:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066234298366120211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VanyOnvE2w",
+              "end": 48,
+              "expanded_url": "https://x.com/miyawakissme/status/2066234298366120211/photo/1",
+              "media_key": "3_2066234264870408192",
+              "start": 25,
+              "url": "https://t.co/VanyOnvE2w"
+            },
+            {
+              "display_url": "x.com/miyawakissme/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/miyawakissme/status/2066184844762050884",
+              "start": 49,
+              "url": "https://t.co/YtCq05BOYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066234298366120211",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 40915,
+          "like_count": 2488,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066184844762050884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "lucky charm chaewon 🍀🇩🇪🥳 https://t.co/VanyOnvE2w https://t.co/YtCq05BOYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 339,
+          "like_count": 8521,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 4626
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T18:16:13.000Z",
+        "description": "hotcoolz enthusiast ~ 250419 / 250420 / 260131 / 260201 ♥︎",
+        "id": "1586059239881064448",
+        "location": "she/her",
+        "name": "nevi 🌸",
+        "pinned_tweet_id": "2020155076568904090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064718065963606016/nqaDU8mV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 558,
+          "like_count": 23829,
+          "listed_count": 10,
+          "media_count": 5587,
+          "tweet_count": 28180
+        },
+        "username": "miyawakissme",
+        "verified": false
+      }
+    ]
+  }
+}

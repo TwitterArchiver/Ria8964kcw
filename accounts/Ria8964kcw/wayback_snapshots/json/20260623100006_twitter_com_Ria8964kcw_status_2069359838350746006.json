@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069359838350746006",
+    "created_at": "2026-06-23T10:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069359838350746006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nmd_china/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/nmd_china/status/2069350480590094548",
+          "start": 11,
+          "url": "https://t.co/5PNLmNh8Pl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069359838350746006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069350480590094548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "利亚实名举报，丰择冻 https://t.co/5PNLmNh8Pl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 160218,
+        "height": 1278,
+        "media_key": "13_2069350395017912320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069350395017912320/img/CHNQSi0zbnT0gtzW.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069350395017912320/vid/avc1/320x568/sr8lEVWanRe98xom.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069350395017912320/vid/avc1/480x852/ZcjDEhx63WwiUJNl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069350395017912320/vid/avc1/720x1278/8Cb90xM2imrv-xjA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069350395017912320/pl/WPdQvu4Pt8CqISbn.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069359838350746006",
+        "created_at": "2026-06-23T10:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069359838350746006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nmd_china/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/nmd_china/status/2069350480590094548",
+              "start": 11,
+              "url": "https://t.co/5PNLmNh8Pl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069359838350746006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069350480590094548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "利亚实名举报，丰择冻 https://t.co/5PNLmNh8Pl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069350395017912320"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2069350480590094548",
+        "created_at": "2026-06-23T09:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069350480590094548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DETVCVgQ0",
+              "end": 30,
+              "expanded_url": "https://x.com/NMD_China/status/2069350480590094548/video/1",
+              "media_key": "13_2069350395017912320",
+              "start": 7,
+              "url": "https://t.co/6DETVCVgQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069350480590094548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "实名举报谁？ https://t.co/6DETVCVgQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 315,
+          "like_count": 9075,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "你说的对所以我们睡大觉吧\n**死男同出没注意**\n大概率会屏蔽锁推新增关注者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067523971298545664/LsfGiNSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3192,
+          "following_count": 952,
+          "like_count": 182225,
+          "listed_count": 23,
+          "media_count": 1245,
+          "tweet_count": 4505
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

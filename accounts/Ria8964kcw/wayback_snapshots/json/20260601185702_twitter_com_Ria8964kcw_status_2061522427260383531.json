@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061522427260383531",
+    "created_at": "2026-06-01T18:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061522427260383531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2061466577212678563",
+          "start": 61,
+          "url": "https://t.co/QdY2HJIdbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061522427260383531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061466577212678563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我17岁的时候才会用社工库把别人一家老小户籍全整整齐齐码出来…..小时候都是用青蛙开户窝囊废表情包跟别人装逼….😢😢😢😢 https://t.co/QdY2HJIdbR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061522427260383531",
+        "created_at": "2026-06-01T18:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061522427260383531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2061466577212678563",
+              "start": 61,
+              "url": "https://t.co/QdY2HJIdbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061522427260383531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061466577212678563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我17岁的时候才会用社工库把别人一家老小户籍全整整齐齐码出来…..小时候都是用青蛙开户窝囊废表情包跟别人装逼….😢😢😢😢 https://t.co/QdY2HJIdbR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061466577212678563",
+        "created_at": "2026-06-01T15:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061466577212678563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061466577212678563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很佩服一个朋友，小我一岁。初中辍学，含过糖，又变成极右翼，用干黑产赚的钱配了一台电脑，14岁开他爸爸的车去市内俱乐部帮尼龙佬改枪，动手能力也很强会做一些简单的零件，现在在国外某个猎场上班.........他十二三岁就会用社工库把别人一家老小户籍全整整齐齐码出来了。我很羡慕执行力强的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 324,
+          "like_count": 7406,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3911
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 292,
+          "like_count": 9986,
+          "listed_count": 2,
+          "media_count": 641,
+          "tweet_count": 4258
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

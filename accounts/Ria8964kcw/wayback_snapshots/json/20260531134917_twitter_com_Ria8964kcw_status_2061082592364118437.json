@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061066835647475805",
+    "created_at": "2026-05-31T13:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061082592364118437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029581409959178240",
+          "start": 0,
+          "username": "reZubmarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061082592364118437",
+    "in_reply_to_user_id": "2029581409959178240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061066835647475805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reZubmarine 蜜雪旗舰店有，吃过薄荷冰淇淋感觉还可以，下次去学校试试薄荷饮品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061066835647475805",
+        "created_at": "2026-05-31T13:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061082592364118437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029581409959178240",
+              "start": 0,
+              "username": "reZubmarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061082592364118437",
+        "in_reply_to_user_id": "2029581409959178240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061066835647475805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reZubmarine 蜜雪旗舰店有，吃过薄荷冰淇淋感觉还可以，下次去学校试试薄荷饮品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029581409959178240",
+        "conversation_id": "2061066835647475805",
+        "created_at": "2026-05-31T12:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061066835647475805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061066835647475805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家附近的蜜雪没有任何薄荷系列产品，我已生气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 313,
+          "like_count": 7220,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3776
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:35:01.000Z",
+        "description": "雨打木棉花开处，泪湿南风一扇窗 | 🏳️‍🌈 in a relationship | Backup @VoidZubmarine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "VoidZubmarine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zubmarine.net",
+                "end": 23,
+                "expanded_url": "http://zubmarine.net",
+                "start": 0,
+                "url": "https://t.co/HTYaFoTfBQ"
+              }
+            ]
+          }
+        },
+        "id": "2029581409959178240",
+        "location": "Limbus Company",
+        "name": "广南东路提点刑狱公事希尔大人",
+        "pinned_tweet_id": "2041171410031440306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029587258609995776/eBwfjRF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 349,
+          "like_count": 5601,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/HTYaFoTfBQ",
+        "username": "reZubmarine",
+        "verified": false
+      }
+    ]
+  }
+}

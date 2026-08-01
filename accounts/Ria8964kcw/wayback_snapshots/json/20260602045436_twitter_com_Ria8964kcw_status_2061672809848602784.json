@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061559718913700202",
+    "created_at": "2026-06-02T04:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061672809848602784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922650331454058496",
+          "start": 0,
+          "username": "xiaoshu_yy33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061672809848602784",
+    "in_reply_to_user_id": "1922650331454058496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061559718913700202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshu_yy33 おめでとう🍾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061559718913700202",
+        "created_at": "2026-06-02T04:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061672809848602784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922650331454058496",
+              "start": 0,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061672809848602784",
+        "in_reply_to_user_id": "1922650331454058496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061559718913700202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshu_yy33 おめでとう🍾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2061559718913700202",
+        "created_at": "2026-06-01T21:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061559718913700202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061559718913700202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好厉害 我已经很久没有因为以前的恋情哭了 我走出来了(≧∇≦)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 323,
+          "like_count": 7443,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 3939
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1922650331454058496",
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "name": "解树",
+        "pinned_tweet_id": "2059560719902036245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056883446212104193/OKfrUqee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 46,
+          "like_count": 874,
+          "listed_count": 18,
+          "media_count": 149,
+          "tweet_count": 1427
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

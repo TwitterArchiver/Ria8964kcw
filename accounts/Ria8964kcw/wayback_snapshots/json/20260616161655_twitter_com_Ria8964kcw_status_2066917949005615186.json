@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066917941460054016"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066917949005615186",
+    "created_at": "2026-06-16T16:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066917949005615186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ml4j8360RO",
+          "end": 36,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2066917949005615186/photo/1",
+          "media_key": "3_2066917941460054016",
+          "start": 13,
+          "url": "https://t.co/ml4j8360RO"
+        },
+        {
+          "display_url": "x.com/n0hopeforus/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/n0hopeforus/status/2066831985453219935",
+          "start": 37,
+          "url": "https://t.co/AZHcxH3aTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066917949005615186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066831985453219935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前特别想上张一兵的课 https://t.co/ml4j8360RO https://t.co/AZHcxH3aTn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066917949005615186].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066917949005615186",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066917949005615186"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2066917941460054016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8q6rCbsAAJ8uS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "2066831985453219935",
+        "created_at": "2026-06-16T10:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066831985453219935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066831985453219935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 201,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别偏好哲学科班生 特别仰慕 因为可以有正经的导师 有高水平且近距离的同好 可惜咱只是个前农族家庭 一亩三分地还得收 考哲学科班\nA是好的学校都是985211不容易B是是啊吃什么 感觉不挣钱 家里也不能随便爆米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 340,
+          "like_count": 8671,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4697
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "挂逼尼特族\n喵梦的cp基本上都吃\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义赫尔墨斯🍥",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059928140273893376/JpaPFbM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1593,
+          "like_count": 44892,
+          "listed_count": 3,
+          "media_count": 653,
+          "tweet_count": 14136
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

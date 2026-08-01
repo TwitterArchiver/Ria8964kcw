@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068220753334673803",
+    "created_at": "2026-06-20T06:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068220753334673803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2068144715007242411",
+          "start": 15,
+          "url": "https://t.co/10TZx2knjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068220753334673803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068144715007242411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我两个母这样子，生出了利亚呀 https://t.co/10TZx2knjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2068144701669359616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOGpg8bwAASD_h.jpg",
+        "width": 749
+      },
+      {
+        "height": 755,
+        "media_key": "3_2068144709332340736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOGp9fbkAA8n59.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068220753334673803",
+        "created_at": "2026-06-20T06:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068220753334673803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2068144715007242411",
+              "start": 15,
+              "url": "https://t.co/10TZx2knjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068220753334673803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068144715007242411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我两个母这样子，生出了利亚呀 https://t.co/10TZx2knjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068144701669359616",
+            "3_2068144709332340736"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2068144715007242411",
+        "created_at": "2026-06-20T01:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068144715007242411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZpjAwxaqv",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2068144715007242411/photo/1",
+              "media_key": "3_2068144701669359616",
+              "start": 0,
+              "url": "https://t.co/IZpjAwxaqv"
+            },
+            {
+              "display_url": "pic.x.com/IZpjAwxaqv",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2068144715007242411/photo/1",
+              "media_key": "3_2068144709332340736",
+              "start": 0,
+              "url": "https://t.co/IZpjAwxaqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068144715007242411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2243,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IZpjAwxaqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 309,
+          "like_count": 8860,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 4806
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "location": "2 sleep deprived asia admins",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41400,
+          "following_count": 317,
+          "like_count": 22175,
+          "listed_count": 85,
+          "media_count": 13163,
+          "tweet_count": 30145
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true
+      }
+    ]
+  }
+}

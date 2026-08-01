@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059930192064496004",
+    "created_at": "2026-05-28T09:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059937261480006001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1726051028112744448",
+          "start": 0,
+          "username": "Dream_xyuuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059937261480006001",
+    "in_reply_to_user_id": "1726051028112744448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059930192064496004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_xyuuup 接身材"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059930180467216385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZXlcza0AERVwq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059930192064496004",
+        "created_at": "2026-05-28T09:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059937261480006001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726051028112744448",
+              "start": 0,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059937261480006001",
+        "in_reply_to_user_id": "1726051028112744448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059930192064496004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_xyuuup 接身材"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059930180467216385"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2059930192064496004",
+        "created_at": "2026-05-28T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059930192064496004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "双开门"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "宽肩窄腰"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzqaGKItET",
+              "end": 34,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2059930192064496004/photo/1",
+              "media_key": "3_2059930180467216385",
+              "start": 11,
+              "url": "https://t.co/uzqaGKItET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059930192064496004",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#双开门 #宽肩窄腰 https://t.co/uzqaGKItET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 294,
+          "like_count": 6717,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 631,
+          "like_count": 8400,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 6261
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

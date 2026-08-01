@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058410322248265738",
+    "created_at": "2026-05-24T04:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058411733962850504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1630384112392437761",
+          "start": 0,
+          "username": "Mr_boredasfock"
+        },
+        {
+          "end": 27,
+          "id": "2051007254774808576",
+          "start": 16,
+          "username": "Puyuma2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058411733962850504",
+    "in_reply_to_user_id": "1630384112392437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058411127252599171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_boredasfock @Puyuma2778 一次买丢提，too！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058410322248265738",
+        "created_at": "2026-05-24T04:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058411733962850504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630384112392437761",
+              "start": 0,
+              "username": "Mr_boredasfock"
+            },
+            {
+              "end": 27,
+              "id": "2051007254774808576",
+              "start": 16,
+              "username": "Puyuma2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058411733962850504",
+        "in_reply_to_user_id": "1630384112392437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058411127252599171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_boredasfock @Puyuma2778 一次买丢提，too！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630384112392437761",
+        "conversation_id": "2058410322248265738",
+        "created_at": "2026-05-24T04:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058411127252599171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051007254774808576",
+              "start": 0,
+              "username": "Puyuma2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058411127252599171",
+        "in_reply_to_user_id": "2051007254774808576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058410842362953778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puyuma2778 遇到蜘蛛我必须用杀妈奸爹之势攻击，一次买丢提！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 254,
+          "like_count": 6071,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3044
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T01:47:33.000Z",
+        "description": "Praise Satan/拉黑/加速/间歇支黑/反独裁/🇺🇦/人与人之间无法沟通/简体中文/gay trans friendly/queer/反生育主义/岁月不静好但我们什么都做不了所以聊聊天吧",
+        "id": "1630384112392437761",
+        "location": "San Francisco",
+        "name": "⸸撒旦子民⸸(恩师郭伟",
+        "pinned_tweet_id": "1977209045636596163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630384287626285056/aR3dequl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 364,
+          "like_count": 3220,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 10116
+        },
+        "username": "Mr_boredasfock",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T18:34:04.000Z",
+        "description": "",
+        "id": "2051007254774808576",
+        "name": "Puyuma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051157179856805891/EiSqauu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 106,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 794
+        },
+        "username": "Puyuma2778",
+        "verified": false
+      }
+    ]
+  }
+}

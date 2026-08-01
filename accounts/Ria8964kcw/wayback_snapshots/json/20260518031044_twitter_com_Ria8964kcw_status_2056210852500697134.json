@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056210852500697134",
+    "created_at": "2026-05-18T03:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056210852500697134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kimchaewonpics…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kimchaewonpics/status/2056194706493882801",
+          "start": 24,
+          "url": "https://t.co/frfJQurz6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056210852500697134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056194706493882801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我女状态一天比一天好我都哭了老婆的容貌我的骄傲 https://t.co/frfJQurz6t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1899,
+        "height": 1078,
+        "media_key": "13_2055968105554395136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055968105554395136/img/fWuz7d8YtJl-AI_a.jpg",
+        "public_metrics": {
+          "view_count": 1583
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055968105554395136/vid/avc1/1078x1078/UavZYXPo0B9LN5fw.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055968105554395136/vid/avc1/320x320/twSe6YHb0z1emqQ8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055968105554395136/vid/avc1/540x540/PTQNVwxgpiSfZGVO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055968105554395136/pl/0FZSdN9Tk5pxZmTm.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055968105554395136/vid/avc1/720x720/m_fQr5nB0uKu9ARU.mp4"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056210852500697134",
+        "created_at": "2026-05-18T03:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056210852500697134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kimchaewonpics…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kimchaewonpics/status/2056194706493882801",
+              "start": 24,
+              "url": "https://t.co/frfJQurz6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056210852500697134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056194706493882801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我女状态一天比一天好我都哭了老婆的容貌我的骄傲 https://t.co/frfJQurz6t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055968105554395136"
+          ],
+          "media_source_tweet_id": [
+            "2055968174806639056"
+          ]
+        },
+        "author_id": "994897136520228864",
+        "conversation_id": "2056194706493882801",
+        "created_at": "2026-05-18T02:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056194706493882801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqhrVXWQEX",
+              "end": 23,
+              "expanded_url": "https://x.com/agicheetah/status/2055968174806639056/video/1",
+              "media_key": "13_2055968105554395136",
+              "start": 0,
+              "url": "https://t.co/cqhrVXWQEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056194706493882801",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1041,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cqhrVXWQEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 240,
+          "like_count": 5210,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2485
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-11T11:08:56.000Z",
+        "description": "first pics account for izone and le sserafim’s kim chaewon #김채원",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_chaechae_1",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_chaechae_1",
+                "start": 0,
+                "url": "https://t.co/HxbmSep4nI"
+              }
+            ]
+          }
+        },
+        "id": "994897136520228864",
+        "location": "est 180511 fan account",
+        "name": "kim chaewon pics",
+        "pinned_tweet_id": "1903584266199650436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054222140300480512/D0ZAtTYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76430,
+          "following_count": 110,
+          "like_count": 8815,
+          "listed_count": 1024,
+          "media_count": 12560,
+          "tweet_count": 19526
+        },
+        "url": "https://t.co/HxbmSep4nI",
+        "username": "kimchaewonpics",
+        "verified": false
+      }
+    ]
+  }
+}

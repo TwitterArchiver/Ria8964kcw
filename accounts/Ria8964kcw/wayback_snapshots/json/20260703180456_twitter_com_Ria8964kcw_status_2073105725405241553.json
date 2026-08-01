@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2073105725405241553",
+    "created_at": "2026-07-03T18:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073105725405241553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shirayuki6464/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/shirayuki6464/status/2062053759505813662",
+          "start": 2,
+          "url": "https://t.co/03aSQ31pJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073105725405241553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062053759505813662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/03aSQ31pJV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2073105725405241553",
+        "created_at": "2026-07-03T18:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073105725405241553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shirayuki6464/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/shirayuki6464/status/2062053759505813662",
+              "start": 2,
+              "url": "https://t.co/03aSQ31pJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073105725405241553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062053759505813662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/03aSQ31pJV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619337971039350784",
+        "conversation_id": "2062053759505813662",
+        "created_at": "2026-06-03T06:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062053759505813662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062053759505813662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1520,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "女的都是飞机杯肉便器母猪母狗，男的都是畜生农民底层下贱奴隶给野爹毒龙，我是神仙我可以大口吃逼大口喝奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 332,
+          "like_count": 9546,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T14:14:33.000Z",
+        "description": "=洛意 嘴贱乐子人一个｜精神分裂 社交恐惧障碍症 重焦｜我是女性女孩我不是跨也不是男娘谢谢。｜男的加我🚪52｜查成分回fo",
+        "id": "1619337971039350784",
+        "name": "Shirayuki Shizuku",
+        "pinned_tweet_id": "2059908058416099428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059624894900645888/2Hf-orm4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 549,
+          "like_count": 5353,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 3080
+        },
+        "url": "",
+        "username": "Shirayuki6464",
+        "verified": false
+      }
+    ]
+  }
+}

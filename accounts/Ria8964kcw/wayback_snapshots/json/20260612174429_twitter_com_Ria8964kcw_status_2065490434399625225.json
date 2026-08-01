@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2065267935606919611",
+    "created_at": "2026-06-12T17:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065490434399625225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771241496953647104",
+          "start": 0,
+          "username": "Tonirina8964z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065490434399625225",
+    "in_reply_to_user_id": "1771241496953647104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065267935606919611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tonirina8964z 我看的60s复活广告成功了！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2065267935606919611",
+        "created_at": "2026-06-12T17:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065490434399625225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771241496953647104",
+              "start": 0,
+              "username": "Tonirina8964z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065490434399625225",
+        "in_reply_to_user_id": "1771241496953647104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065267935606919611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonirina8964z 我看的60s复活广告成功了！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771241496953647104",
+        "conversation_id": "2065267935606919611",
+        "created_at": "2026-06-12T03:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065267935606919611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065267935606919611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我住了半年精神病院我出来了我终于登上推特了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 334,
+          "like_count": 8370,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T18:24:36.000Z",
+        "description": "She/Her/They 丨酷儿🏳️‍🌈/残疾人丨友跨顺女🍥丨最爱的女人是江青",
+        "id": "1771241496953647104",
+        "location": "不自由，毋宁死",
+        "name": "用妳的青春来粉刷我的隆冬",
+        "pinned_tweet_id": "2006022836289208602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065482073503363072/y-n4WbLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 714,
+          "like_count": 5112,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 6089
+        },
+        "username": "Tonirina8964z",
+        "verified": false
+      }
+    ]
+  }
+}

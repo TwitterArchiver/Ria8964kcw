@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058100357759439152",
+    "created_at": "2026-05-23T14:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058190392710029562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948391508970762240",
+          "start": 0,
+          "username": "ohouhou717"
+        },
+        {
+          "end": 22,
+          "id": "1554575293264072705",
+          "start": 12,
+          "username": "aronhouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058190392710029562",
+    "in_reply_to_user_id": "1948391508970762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058104508111302890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohouhou717 @aronhouyu 你要不看看教职工缩编情况，而且五百多疑似连三星师范都没得上吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058100357759439152",
+        "created_at": "2026-05-23T14:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058190392710029562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948391508970762240",
+              "start": 0,
+              "username": "ohouhou717"
+            },
+            {
+              "end": 22,
+              "id": "1554575293264072705",
+              "start": 12,
+              "username": "aronhouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058190392710029562",
+        "in_reply_to_user_id": "1948391508970762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058104508111302890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohouhou717 @aronhouyu 你要不看看教职工缩编情况，而且五百多疑似连三星师范都没得上吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948391508970762240",
+        "conversation_id": "2058100357759439152",
+        "created_at": "2026-05-23T08:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058104508111302890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554575293264072705",
+              "start": 0,
+              "username": "aronhouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058104508111302890",
+        "in_reply_to_user_id": "1554575293264072705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 923,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058100357759439152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aronhouyu 听说护理和师范稳当"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 247,
+          "like_count": 5972,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2990
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:35:22.000Z",
+        "description": "Now！ \nYapping about crypto！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weilan69",
+                "end": 23,
+                "expanded_url": "https://t.me/weilan69",
+                "start": 0,
+                "url": "https://t.co/Cb7C0RUObx"
+              }
+            ]
+          }
+        },
+        "id": "1948391508970762240",
+        "name": "Weilan| 🤖ボッ Bird🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999801423761199104/dgwqRHPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17641,
+          "following_count": 10014,
+          "like_count": 116819,
+          "listed_count": 72,
+          "media_count": 503,
+          "tweet_count": 118351
+        },
+        "url": "https://t.co/Cb7C0RUObx",
+        "username": "ohouhou717",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-02T21:10:16.000Z",
+        "description": "帮助创业者用 AI 工具 + 社媒 + 广告实现出海增长 \n| 已帮助 30+企业增长300%   关注我，一起出海\n博客：https://t.co/9UCgxXEGIO\n频道：https://t.co/eAdfCKLmDO\nTG频道：https://t.co/ZCaENFNiFI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aronhouyu.com",
+                "end": 85,
+                "expanded_url": "http://aronhouyu.com",
+                "start": 62,
+                "url": "https://t.co/9UCgxXEGIO"
+              },
+              {
+                "display_url": "youtube.com/@aronhouyu1024",
+                "end": 112,
+                "expanded_url": "https://www.youtube.com/@aronhouyu1024",
+                "start": 89,
+                "url": "https://t.co/eAdfCKLmDO"
+              },
+              {
+                "display_url": "t.me/aronhouyu1024",
+                "end": 141,
+                "expanded_url": "http://t.me/aronhouyu1024",
+                "start": 118,
+                "url": "https://t.co/ZCaENFNiFI"
+              }
+            ]
+          }
+        },
+        "id": "1554575293264072705",
+        "location": "哈尔滨",
+        "name": "Aron厚玉",
+        "pinned_tweet_id": "2037099088689455613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018025040416231424/jaAfcF8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7337,
+          "following_count": 1454,
+          "like_count": 2630,
+          "listed_count": 58,
+          "media_count": 988,
+          "tweet_count": 5150
+        },
+        "username": "aronhouyu",
+        "verified": true
+      }
+    ]
+  }
+}

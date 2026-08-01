@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2075683488662184394",
+    "created_at": "2026-07-10T20:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075683488662184394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bxvpn/status/2…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/bxvpn/status/2065693114900328797",
+          "start": 7,
+          "url": "https://t.co/2UwOv9Rylh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075683488662184394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065693114900328797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加强朱诺谢谢 https://t.co/2UwOv9Rylh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2075683488662184394",
+        "created_at": "2026-07-10T20:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075683488662184394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bxvpn/status/2…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bxvpn/status/2065693114900328797",
+              "start": 7,
+              "url": "https://t.co/2UwOv9Rylh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075683488662184394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065693114900328797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加强朱诺谢谢 https://t.co/2UwOv9Rylh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329729771396231170",
+        "conversation_id": "2065693114900328797",
+        "created_at": "2026-06-13T07:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065693114900328797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065693114900328797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 8199779,
+          "like_count": 483,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "网络不该有边界。\n稳定，快速，安全，让每一次链接都更自由！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 323,
+          "like_count": 9646,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T10:14:59.000Z",
+        "description": "超过6年稳定服务-新加坡顶尖科技技术 供全球使用的 #VPN 🌏永久免费使用，高速稳定，不限流量。 一账户共享多设备！支持Chatgpt！ We do professional to improving your network security and privacy.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "VPN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.protznet.online",
+                "end": 23,
+                "expanded_url": "https://web.protznet.online/",
+                "start": 0,
+                "url": "https://t.co/6GP7fmnHyP"
+              }
+            ]
+          }
+        },
+        "id": "1329729771396231170",
+        "location": "Singapore",
+        "name": "暴雪vpn",
+        "pinned_tweet_id": "1498223096092065794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329730044592152577/Fwun6H1t_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49137,
+          "following_count": 1,
+          "like_count": 117,
+          "listed_count": 110,
+          "media_count": 79,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/6GP7fmnHyP",
+        "username": "bxvpn",
+        "verified": true
+      }
+    ]
+  }
+}

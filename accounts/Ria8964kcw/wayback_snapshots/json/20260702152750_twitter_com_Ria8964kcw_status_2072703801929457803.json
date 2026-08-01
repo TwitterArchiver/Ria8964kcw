@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1369791419427164162",
+          "name": "Grandmaster of Demonic Cultivation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1369791419427164162",
+          "name": "Grandmaster of Demonic Cultivation"
+        }
+      }
+    ],
+    "conversation_id": "2072648774217003266",
+    "created_at": "2026-07-02T15:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072703801929457803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513932902089703426",
+          "start": 0,
+          "username": "lllazkiss7"
+        },
+        {
+          "end": 27,
+          "id": "114382613",
+          "start": 12,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072703801929457803",
+    "in_reply_to_user_id": "1513932902089703426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072667669942435862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllazkiss7 @PrettiestBitch 魏无羡和江澄好甜呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1369791419427164162",
+              "name": "Grandmaster of Demonic Cultivation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369791419427164162",
+              "name": "Grandmaster of Demonic Cultivation"
+            }
+          }
+        ],
+        "conversation_id": "2072648774217003266",
+        "created_at": "2026-07-02T15:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703801929457803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513932902089703426",
+              "start": 0,
+              "username": "lllazkiss7"
+            },
+            {
+              "end": 27,
+              "id": "114382613",
+              "start": 12,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703801929457803",
+        "in_reply_to_user_id": "1513932902089703426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072667669942435862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllazkiss7 @PrettiestBitch 魏无羡和江澄好甜呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513932902089703426",
+        "conversation_id": "2072648774217003266",
+        "created_at": "2026-07-02T13:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072667669942435862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114382613",
+              "start": 0,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072667669942435862",
+        "in_reply_to_user_id": "114382613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072648774217003266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrettiestBitch 县城女怎么你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 332,
+          "like_count": 9521,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 5159
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T17:31:54.000Z",
+        "description": "得之我幸，失之我命/好运常在/ 提供整容建议/你点进我的主页找我的痕迹的那一刻你的能量已经被我窃取偷走了",
+        "id": "1513932902089703426",
+        "location": "离你0.1km",
+        "name": "县城女",
+        "pinned_tweet_id": "2064317031705661564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056938531801698304/lF79byOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 526,
+          "like_count": 4219,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 6072
+        },
+        "url": "",
+        "username": "lllazkiss7",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "发这样的推文让中国人感到很愤怒，懂吗？",
+        "id": "114382613",
+        "name": "秦8彻9的6逼4",
+        "pinned_tweet_id": "2071088460757446881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072394550228946944/EBn3qa4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 43,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2071181485168898337",
+    "created_at": "2026-06-28T11:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071194756823282155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900422705415151618",
+          "start": 0,
+          "username": "uketamawarui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071194756823282155",
+    "in_reply_to_user_id": "1900422705415151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071181485168898337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uketamawarui 啊啊啊啊我也是我经常当真救命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2071181485168898337",
+        "created_at": "2026-06-28T11:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071194756823282155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900422705415151618",
+              "start": 0,
+              "username": "uketamawarui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071194756823282155",
+        "in_reply_to_user_id": "1900422705415151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071181485168898337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uketamawarui 啊啊啊啊我也是我经常当真救命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900422705415151618",
+        "conversation_id": "2071181485168898337",
+        "created_at": "2026-06-28T10:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071181485168898337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071181485168898337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次感叹自己虽然不怎么会被陌生人骗但是很容易被朋友说的一些小玩笑骗到而且还会很认真的追问，可能我不被陌生人骗是因为我根本懒得跟他们说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 326,
+          "like_count": 9344,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 5085
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:44:25.000Z",
+        "description": "等你忘记了我们就说拜拜\n@Yueiru718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Yueiru718"
+              }
+            ]
+          }
+        },
+        "id": "1900422705415151618",
+        "location": "傍観",
+        "name": "torinaku",
+        "pinned_tweet_id": "2067438323996745745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066750407205109760/I-W0p-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 106,
+          "like_count": 10434,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2080
+        },
+        "url": "",
+        "username": "uketamawarui",
+        "verified": false
+      }
+    ]
+  }
+}

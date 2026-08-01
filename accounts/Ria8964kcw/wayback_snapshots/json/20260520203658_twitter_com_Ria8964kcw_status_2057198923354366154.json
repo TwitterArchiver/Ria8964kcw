@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057198923354366154",
+    "created_at": "2026-05-20T20:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057198923354366154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hourchaewon/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hourchaewon/status/2057091782580875717",
+          "start": 10,
+          "url": "https://t.co/6WZfKEMqRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057198923354366154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057091782580875717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这才是真正的老戏骨 https://t.co/6WZfKEMqRq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5708,
+        "height": 1294,
+        "media_key": "13_1907423821893943296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1907423821893943296/img/01WromZ47d5wtnwC.jpg",
+        "public_metrics": {
+          "view_count": 849384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907423821893943296/vid/avc1/320x466/WkGx6GQ8L_mXgUsM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907423821893943296/vid/avc1/480x698/pRf20DX2aPUTo7HQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907423821893943296/vid/avc1/720x1048/uuBTl15qvF0scvZG.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907423821893943296/pl/dhtJlexeV7LhDod8.m3u8?tag=16"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057198923354366154",
+        "created_at": "2026-05-20T20:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057198923354366154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hourchaewon/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hourchaewon/status/2057091782580875717",
+              "start": 10,
+              "url": "https://t.co/6WZfKEMqRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057198923354366154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057091782580875717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这才是真正的老戏骨 https://t.co/6WZfKEMqRq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907423821893943296"
+          ],
+          "media_source_tweet_id": [
+            "1907423884212887967"
+          ]
+        },
+        "author_id": "1425315946424459264",
+        "conversation_id": "2057091782580875717",
+        "created_at": "2026-05-20T13:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057091782580875717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuAT5bl9iH",
+              "end": 55,
+              "expanded_url": "https://x.com/9uma_9/status/1907423884212887967/video/1",
+              "media_key": "13_1907423821893943296",
+              "start": 32,
+              "url": "https://t.co/vuAT5bl9iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057091782580875717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2302,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "DAILY DOSE OF COME OVER CHAEWON\nhttps://t.co/vuAT5bl9iH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 265,
+          "like_count": 5646,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2697
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T04:39:52.000Z",
+        "description": "FANACCOUNT — LE SSERAFIM'S LEADER KIM CHAEWON #김채원 🐯🎉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_chaechae_1",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_chaechae_1",
+                "start": 0,
+                "url": "https://t.co/w3dfHj27gw"
+              }
+            ]
+          }
+        },
+        "id": "1425315946424459264",
+        "location": "ctto",
+        "name": "hourly chaewon ☆",
+        "pinned_tweet_id": "1831988479946895735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052685684297916416/hKxgU35M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92389,
+          "following_count": 388,
+          "like_count": 100592,
+          "listed_count": 582,
+          "media_count": 32007,
+          "tweet_count": 129106
+        },
+        "url": "https://t.co/w3dfHj27gw",
+        "username": "hourchaewon",
+        "verified": true
+      }
+    ]
+  }
+}

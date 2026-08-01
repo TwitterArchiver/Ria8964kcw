@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058819677980442960",
+    "created_at": "2026-05-25T08:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058822149381705933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973666613762334722",
+          "start": 0,
+          "username": "ethanhwong05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058822149381705933",
+    "in_reply_to_user_id": "1973666613762334722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058819677980442960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethanhwong05 我想起了套哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058819666924204032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJllDea8AAbBfa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058819677980442960",
+        "created_at": "2026-05-25T08:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058822149381705933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973666613762334722",
+              "start": 0,
+              "username": "ethanhwong05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058822149381705933",
+        "in_reply_to_user_id": "1973666613762334722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058819677980442960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethanhwong05 我想起了套哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058819666924204032"
+          ]
+        },
+        "author_id": "1973666613762334722",
+        "conversation_id": "2058819677980442960",
+        "created_at": "2026-05-25T07:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058819677980442960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7265q9GYe",
+              "end": 34,
+              "expanded_url": "https://x.com/ethanhwong05/status/2058819677980442960/photo/1",
+              "media_key": "3_2058819666924204032",
+              "start": 11,
+              "url": "https://t.co/B7265q9GYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058819677980442960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃学习大洋彼岸穿搭 https://t.co/B7265q9GYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 267,
+          "like_count": 6289,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3156
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T08:29:45.000Z",
+        "description": "無論自由相愛與否，人人死而平等，希望死亡不是你的終結，憧憬光明，就不會懼怕黑暗",
+        "id": "1973666613762334722",
+        "name": "電鋸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058032322361147392/FJwCT1_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 89,
+          "like_count": 2260,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 410
+        },
+        "username": "ethanhwong05",
+        "verified": false
+      }
+    ]
+  }
+}

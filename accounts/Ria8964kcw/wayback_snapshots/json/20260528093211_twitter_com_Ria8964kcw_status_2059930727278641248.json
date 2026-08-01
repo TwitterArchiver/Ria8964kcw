@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059930727278641248",
+    "created_at": "2026-05-28T09:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059930727278641248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/smiroyama/status/2059926424694448300",
+          "start": 40,
+          "url": "https://t.co/LqdX8fTDyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059930727278641248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059926424694448300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "夯爆了这个排名完全正确绝绝子妙啊姐妹啊啊啊啊啊完全ccp领导人锦涛做得好大声唱 https://t.co/LqdX8fTDyu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2059926416045879296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZUKVPbsAAY9at.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059930727278641248",
+        "created_at": "2026-05-28T09:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059930727278641248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/smiroyama/status/2059926424694448300",
+              "start": 40,
+              "url": "https://t.co/LqdX8fTDyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059930727278641248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059926424694448300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夯爆了这个排名完全正确绝绝子妙啊姐妹啊啊啊啊啊完全ccp领导人锦涛做得好大声唱 https://t.co/LqdX8fTDyu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059926416045879296"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2059926424694448300",
+        "created_at": "2026-05-28T09:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059926424694448300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/roIAtD6izs",
+              "end": 23,
+              "expanded_url": "https://x.com/smiroyama/status/2059926424694448300/photo/1",
+              "media_key": "3_2059926416045879296",
+              "start": 0,
+              "url": "https://t.co/roIAtD6izs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926424694448300",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 517,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/roIAtD6izs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 294,
+          "like_count": 6711,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3462
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 2319,
+          "like_count": 12145,
+          "listed_count": 19,
+          "media_count": 1839,
+          "tweet_count": 7103
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

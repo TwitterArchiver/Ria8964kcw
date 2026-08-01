@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062548950708818350",
+    "created_at": "2026-06-04T14:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062548950708818350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usa_china_talk…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/usa_china_talk/status/2062405600164647028",
+          "start": 4,
+          "url": "https://t.co/YwHlChanr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062548950708818350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062405600164647028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爆爆爆 https://t.co/YwHlChanr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2062405576819154944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8i8e0XIAA-M6v.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062548950708818350",
+        "created_at": "2026-06-04T14:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548950708818350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usa_china_talk…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/usa_china_talk/status/2062405600164647028",
+              "start": 4,
+              "url": "https://t.co/YwHlChanr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548950708818350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062405600164647028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爆爆爆 https://t.co/YwHlChanr7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062405576819154944"
+          ]
+        },
+        "author_id": "89421672",
+        "conversation_id": "2062405600164647028",
+        "created_at": "2026-06-04T05:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062405600164647028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVIQs3FIiH",
+              "end": 23,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2062405600164647028/photo/1",
+              "media_key": "3_2062405576819154944",
+              "start": 0,
+              "url": "https://t.co/EVIQs3FIiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062405600164647028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3542,
+          "impression_count": 3297702,
+          "like_count": 35299,
+          "quote_count": 551,
+          "reply_count": 2406,
+          "retweet_count": 6020
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EVIQs3FIiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈xtx｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 302,
+          "like_count": 7654,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 4115
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636376,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4389,
+          "media_count": 468,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

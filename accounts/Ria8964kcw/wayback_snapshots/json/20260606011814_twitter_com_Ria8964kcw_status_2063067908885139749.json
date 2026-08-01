@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062995493551001600",
+    "created_at": "2026-06-06T01:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063067908885139749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063067908885139749",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062995493551001600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 笑嘻了土逼母大公大恋词癖词库+1说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062995493551001600",
+        "created_at": "2026-06-06T01:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063067908885139749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063067908885139749",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062995493551001600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 笑嘻了土逼母大公大恋词癖词库+1说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2062995493551001600",
+        "created_at": "2026-06-05T20:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062995493551001600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mglimpze26770/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/mglimpze26770/status/2062502303664668751",
+              "start": 40,
+              "url": "https://t.co/OAYZHGng0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062995493551001600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062502303664668751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们顺性别异性恋男女插逼打炮能不能别带上我们\n（习近平8964天安门防机器人） https://t.co/OAYZHGng0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 311,
+          "like_count": 7758,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4159
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "拿去吧！ 由於不是出自真心，話就說得格外動聽！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "Heaven or Las Vegas",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061854092750979072/_8gYpnUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 370,
+          "like_count": 21812,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

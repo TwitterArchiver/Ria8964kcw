@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067479193101947229",
+    "created_at": "2026-06-18T08:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067520090413879760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067520090413879760",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067479193101947229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 感觉你适合给刘海染个灰色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067479183438348288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEpXQVbgAAPCMt.jpg",
+        "width": 961
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067479188240822272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEpXiObcAA9iKS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067479193101947229",
+        "created_at": "2026-06-18T08:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067520090413879760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067520090413879760",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067479193101947229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 感觉你适合给刘海染个灰色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067479183438348288",
+            "3_2067479188240822272"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067479193101947229",
+        "created_at": "2026-06-18T05:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067479193101947229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3QRUIzc3p",
+              "end": 23,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067479193101947229/photo/1",
+              "media_key": "3_2067479183438348288",
+              "start": 0,
+              "url": "https://t.co/r3QRUIzc3p"
+            },
+            {
+              "display_url": "pic.x.com/r3QRUIzc3p",
+              "end": 23,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067479193101947229/photo/1",
+              "media_key": "3_2067479188240822272",
+              "start": 0,
+              "url": "https://t.co/r3QRUIzc3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067479193101947229",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r3QRUIzc3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 337,
+          "like_count": 8744,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 4747
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代，d电子烟，韩产小甜烟d/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 938,
+          "like_count": 17228,
+          "listed_count": 1,
+          "media_count": 907,
+          "tweet_count": 10096
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

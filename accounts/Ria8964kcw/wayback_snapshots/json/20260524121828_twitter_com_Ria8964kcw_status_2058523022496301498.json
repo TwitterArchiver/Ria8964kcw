@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058449415203889152"
+      ],
+      "media_source_tweet_id": [
+        "2058449474171568381"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058523022496301498",
+    "created_at": "2026-05-24T12:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058523022496301498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rWGskbRJp",
+          "end": 28,
+          "expanded_url": "https://x.com/satireorcry1/status/2058449474171568381/video/1",
+          "media_key": "13_2058449415203889152",
+          "start": 5,
+          "url": "https://t.co/5rWGskbRJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058523022496301498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我老了： https://t.co/5rWGskbRJp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058523022496301498].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058523022496301498",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058523022496301498"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18333,
+        "height": 1024,
+        "media_key": "13_2058449415203889152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058449415203889152/img/oKCsEMtgmch9EIE1.jpg",
+        "public_metrics": {
+          "view_count": 4865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058449415203889152/vid/avc1/320x568/p5B6AKUTmCdpsLfI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058449415203889152/vid/avc1/480x852/0e6cMFoumJwzJC8x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058449415203889152/vid/avc1/576x1024/ghVoNALXgm-gZwlh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058449415203889152/pl/PeY5zriIeaRUdUL5.m3u8?v=d12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 6162,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3078
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

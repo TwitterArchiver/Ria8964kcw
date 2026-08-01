@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2081780088430100576",
+    "created_at": "2026-07-27T16:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081780088430100576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feifeimian8964…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/feifeimian8964/status/2081767517509517345",
+          "start": 7,
+          "url": "https://t.co/lZZC8qFaJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081780088430100576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081767517509517345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先假死再入👮 https://t.co/lZZC8qFaJf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2081780088430100576",
+        "created_at": "2026-07-27T16:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081780088430100576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feifeimian8964…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/feifeimian8964/status/2081767517509517345",
+              "start": 7,
+              "url": "https://t.co/lZZC8qFaJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081780088430100576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081767517509517345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先假死再入👮 https://t.co/lZZC8qFaJf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2081767517509517345",
+        "created_at": "2026-07-27T15:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081767517509517345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wndsfefoumxlw6…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2081686552124801212",
+              "start": 13,
+              "url": "https://t.co/4JEbhqz3ha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081767517509517345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081686552124801212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷静下来想想沐雨会怎么做 https://t.co/4JEbhqz3ha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我从来不骂人因为老子骂的不是人\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 324,
+          "like_count": 9989,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 5380
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 196,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

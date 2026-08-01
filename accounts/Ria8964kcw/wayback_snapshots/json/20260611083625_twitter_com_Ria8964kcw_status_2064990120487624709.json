@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064990120487624709",
+    "created_at": "2026-06-11T08:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064990120487624709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wndsfefoumxlw6…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2064894830514446482",
+          "start": 18,
+          "url": "https://t.co/jNQOa6IAVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064990120487624709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064894830514446482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到三千多的自费费用瞬间毒瘾好了 https://t.co/jNQOa6IAVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2064894774394662913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKf622ZasAEkSlE.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064990120487624709",
+        "created_at": "2026-06-11T08:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064990120487624709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wndsfefoumxlw6…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2064894830514446482",
+              "start": 18,
+              "url": "https://t.co/jNQOa6IAVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064990120487624709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064894830514446482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到三千多的自费费用瞬间毒瘾好了 https://t.co/jNQOa6IAVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064894774394662913"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2064894830514446482",
+        "created_at": "2026-06-11T02:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064894830514446482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vEW1zO8Xv",
+              "end": 31,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2064894830514446482/photo/1",
+              "media_key": "3_2064894774394662913",
+              "start": 8,
+              "url": "https://t.co/9vEW1zO8Xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064894830514446482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1614,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个能随便打？ https://t.co/9vEW1zO8Xv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 329,
+          "like_count": 8204,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 4437
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0（烟代版）",
+        "pinned_tweet_id": "2064685107064283241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 45,
+          "like_count": 447,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056627597560459264"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056627804079608027",
+    "created_at": "2026-05-19T06:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056627804079608027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NG3RlpuTzG",
+          "end": 23,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2056627804079608027/video/1",
+          "media_key": "13_2056627597560459264",
+          "start": 0,
+          "url": "https://t.co/NG3RlpuTzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056627804079608027",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NG3RlpuTzG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056627804079608027].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056627804079608027",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056627804079608027"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 192626,
+        "height": 1280,
+        "media_key": "13_2056627597560459264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056627597560459264/img/o0d6wV6rI_Nh6YnI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056627597560459264/vid/avc1/320x624/ntU3_7YVgdkV8nBu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056627597560459264/vid/avc1/480x936/zB9xo7Ulv2PiFeTC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056627597560459264/vid/avc1/656x1280/nmsiR-pN0z3_6-fP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056627597560459264/pl/B3vkEL6e_obyWoC8.m3u8"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 252,
+          "like_count": 5430,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2578
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

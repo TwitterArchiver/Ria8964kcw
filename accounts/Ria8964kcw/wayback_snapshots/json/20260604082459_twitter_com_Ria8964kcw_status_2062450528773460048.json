@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062159458948747641",
+    "created_at": "2026-06-04T08:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062450528773460048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738252244607512576",
+          "start": 0,
+          "username": "Gess828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062450528773460048",
+    "in_reply_to_user_id": "1738252244607512576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062164124570919079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gess828 我们一起当婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062159458948747641",
+        "created_at": "2026-06-04T08:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062450528773460048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738252244607512576",
+              "start": 0,
+              "username": "Gess828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062450528773460048",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062164124570919079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gess828 我们一起当婊子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738252244607512576",
+        "conversation_id": "2062159458948747641",
+        "created_at": "2026-06-03T13:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062164124570919079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062164124570919079",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062162946730700922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前段时间也想清了，我跟她都没错，只是我们不合适。我讨厌女人巴结男人的样子，讨厌她跟那么多异性打成一片不在乎我的感觉。讨厌她跟我说自己过得多么好，告诉我怎么在男人那里获取更多钱，我不需要我只想要一段很单纯的恋爱。我真的想不了那么多了，我是个病人。大家也都不喜欢我，他们说我是个婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈xtx｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 302,
+          "like_count": 7636,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 4100
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "。",
+        "id": "1738252244607512576",
+        "name": "圈圈噼",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061099272876273664/zT_xhHZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 263
+        },
+        "username": "Gess828",
+        "verified": false
+      }
+    ]
+  }
+}

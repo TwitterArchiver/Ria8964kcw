@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056360063888130319",
+    "created_at": "2026-05-18T14:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056374406981759134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039983567586164737",
+          "start": 0,
+          "username": "zyuyuouo"
+        },
+        {
+          "end": 26,
+          "id": "1974865605204586498",
+          "start": 10,
+          "username": "kuroki___tomoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056374406981759134",
+    "in_reply_to_user_id": "2039983567586164737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056360063888130319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyuyuouo @kuroki___tomoko 马支克好坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2056360040148459522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImoj7tbYAIN3MP.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056360063888130319",
+        "created_at": "2026-05-18T14:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056374406981759134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039983567586164737",
+              "start": 0,
+              "username": "zyuyuouo"
+            },
+            {
+              "end": 26,
+              "id": "1974865605204586498",
+              "start": 10,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056374406981759134",
+        "in_reply_to_user_id": "2039983567586164737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056360063888130319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyuyuouo @kuroki___tomoko 马支克好坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056360040148459522"
+          ]
+        },
+        "author_id": "2039983567586164737",
+        "conversation_id": "2056360063888130319",
+        "created_at": "2026-05-18T13:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056360063888130319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGubS4r7p4",
+              "end": 36,
+              "expanded_url": "https://x.com/zyuyuouo/status/2056360063888130319/photo/1",
+              "media_key": "3_2056360040148459522",
+              "start": 13,
+              "url": "https://t.co/LGubS4r7p4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056360063888130319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我是小痂呀，互关寻回。😭 https://t.co/LGubS4r7p4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 247,
+          "like_count": 5328,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2533
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:30:51.000Z",
+        "description": "愛的本質是給予",
+        "id": "2039983567586164737",
+        "name": "痂",
+        "pinned_tweet_id": "2056360063888130319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039984216675655680/H1MqGkDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 71,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "zyuyuouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2054492675559342536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 2465,
+          "like_count": 41838,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 3925
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

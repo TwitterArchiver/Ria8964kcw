@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060705185564143616"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060705193210331240",
+    "created_at": "2026-05-30T12:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060705193210331240"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "自毁"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "脑控"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "毁脑"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "傻逼"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yc4r6Zca1L",
+          "end": 51,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2060705193210331240/photo/1",
+          "media_key": "3_2060705185564143616",
+          "start": 28,
+          "url": "https://t.co/yc4r6Zca1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060705193210331240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图片右边我本人来爆照了\n#自毁 #脑控 #毁脑 #傻逼 https://t.co/yc4r6Zca1L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060705193210331240].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060705193210331240",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060705193210331240"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_2060705185564143616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkYcrxbMAAzCl2.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 306,
+          "like_count": 7047,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 3675
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

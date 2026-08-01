@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067190540555501699",
+    "created_at": "2026-06-17T10:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067190540555501699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/greenfish_111/…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/greenfish_111/status/2066933916884488321",
+          "start": 83,
+          "url": "https://t.co/gGuw5QHiEg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067190540555501699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066933916884488321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为这个确实有说法啊，看着脸小不取决于你全脸是不是真的小，看的是正侧面脸部肌肉转折是否清晰，角度越小越好，你玩那个老头环捏脸就能知道骨骼和肌肉发育对面部的影响有多大 https://t.co/gGuw5QHiEg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067190540555501699",
+        "created_at": "2026-06-17T10:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067190540555501699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/greenfish_111/…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/greenfish_111/status/2066933916884488321",
+              "start": 83,
+              "url": "https://t.co/gGuw5QHiEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067190540555501699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066933916884488321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这个确实有说法啊，看着脸小不取决于你全脸是不是真的小，看的是正侧面脸部肌肉转折是否清晰，角度越小越好，你玩那个老头环捏脸就能知道骨骼和肌肉发育对面部的影响有多大 https://t.co/gGuw5QHiEg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2066933916884488321",
+        "created_at": "2026-06-16T17:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066933916884488321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066933916884488321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 949,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是颧骨高是颧弓外扩是山根过低是面部折叠度低是下颌拐点低是面部留白多是方圆脸是菱形脸是阔面脸是下镜脸是扁头是鼻基底凹陷是人中长是垮脸是唇周黑是脸型不流畅是太阳穴凹陷 是xx脸其实是微调圣体有顶美潜质。一张脸怎么能找到这么多形容词  为了卖货和医美也是费尽心思创造新词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 341,
+          "like_count": 8696,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4710
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222\n🚪888/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill    ",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5011,
+          "following_count": 541,
+          "like_count": 13253,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 14258
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

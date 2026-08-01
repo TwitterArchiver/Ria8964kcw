@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068448611382473062",
+    "created_at": "2026-06-21T04:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068546171128479891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562375313559994368",
+          "start": 0,
+          "username": "xnyn47519716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068546171128479891",
+    "in_reply_to_user_id": "1562375313559994368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068448611382473062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnyn47519716 大火特火"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_2068448602201153536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSbC2paYAAbMC1.jpg",
+        "width": 467
+      },
+      {
+        "height": 261,
+        "media_key": "3_2068448607095971840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSbDI4bYAA2WVu.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068448611382473062",
+        "created_at": "2026-06-21T04:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068546171128479891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562375313559994368",
+              "start": 0,
+              "username": "xnyn47519716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068546171128479891",
+        "in_reply_to_user_id": "1562375313559994368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068448611382473062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnyn47519716 大火特火"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068448602201153536",
+            "3_2068448607095971840"
+          ]
+        },
+        "author_id": "1562375313559994368",
+        "conversation_id": "2068448611382473062",
+        "created_at": "2026-06-20T21:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068448611382473062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wextjA0Oa1",
+              "end": 41,
+              "expanded_url": "https://x.com/xnyn47519716/status/2068448611382473062/photo/1",
+              "media_key": "3_2068448602201153536",
+              "start": 18,
+              "url": "https://t.co/wextjA0Oa1"
+            },
+            {
+              "display_url": "pic.x.com/wextjA0Oa1",
+              "end": 41,
+              "expanded_url": "https://x.com/xnyn47519716/status/2068448611382473062/photo/1",
+              "media_key": "3_2068448607095971840",
+              "start": 18,
+              "url": "https://t.co/wextjA0Oa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068448611382473062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是我这个冷机收到消息最多的时候 https://t.co/wextjA0Oa1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 310,
+          "like_count": 8896,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 4828
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T09:45:09.000Z",
+        "description": "無言フォロー失礼します。\n中国出身｜18↑｜日本語勉強中｜女性\n昭和軍歌・演歌・IJN / IJA関連が好きです 🇯🇵色々な思想や価値観に理解あります=Anti-CCP=8964\n\nDMどうぞ🐱※R18系ばかりの方はごめんなさい🚫\n\n※イラスト依頼品\n\n本垢→ @dolphin_5ge\n♡ @Minoru260502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dolphin_5ge"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Minoru260502"
+              }
+            ]
+          }
+        },
+        "id": "1562375313559994368",
+        "name": "桃之夭夭二代目",
+        "pinned_tweet_id": "2061407891555553296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059987682537943041/QAI4GHke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 127,
+          "like_count": 1686,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "xnyn47519716",
+        "verified": false
+      }
+    ]
+  }
+}

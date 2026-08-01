@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068634943895568567",
+    "created_at": "2026-06-21T13:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068691432286867944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574361489468628992",
+          "start": 0,
+          "username": "119Calling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068691432286867944",
+    "in_reply_to_user_id": "1574361489468628992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068634943895568567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@119Calling_ 神专"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2068634937914470400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVEhBRasAA9f4D.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068634943895568567",
+        "created_at": "2026-06-21T13:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068691432286867944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574361489468628992",
+              "start": 0,
+              "username": "119Calling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691432286867944",
+        "in_reply_to_user_id": "1574361489468628992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068634943895568567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@119Calling_ 神专"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068634937914470400"
+          ]
+        },
+        "author_id": "1574361489468628992",
+        "conversation_id": "2068634943895568567",
+        "created_at": "2026-06-21T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068634943895568567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQLWY3HOlM",
+              "end": 26,
+              "expanded_url": "https://x.com/119Calling_/status/2068634943895568567/photo/1",
+              "media_key": "3_2068634937914470400",
+              "start": 3,
+              "url": "https://t.co/HQLWY3HOlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068634943895568567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "好听 https://t.co/HQLWY3HOlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 311,
+          "like_count": 8950,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 4850
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T11:33:37.000Z",
+        "description": "☥ en & ch | 追星 聽歌 我玩遊戲 我嗶嗶叭叭 | 🕊️ @PalomoLim / 👭 @Flowers8964 / mum @asahisuki0 ˚✧₊⁎⁺˳✧༚ ☥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "PalomoLim"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "asahisuki0"
+              }
+            ]
+          }
+        },
+        "id": "1574361489468628992",
+        "location": "the Observateur, standing",
+        "name": "𝘕⁺",
+        "pinned_tweet_id": "2063641263610691896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715532153430017/Jgc1rnwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 983,
+          "like_count": 33552,
+          "listed_count": 3,
+          "media_count": 2248,
+          "tweet_count": 12603
+        },
+        "url": "",
+        "username": "119Calling_",
+        "verified": false
+      }
+    ]
+  }
+}

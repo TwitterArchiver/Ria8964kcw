@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058525829794332672"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058522685957677185",
+    "created_at": "2026-05-24T12:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058525834932257169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GpD6UazP2n",
+          "end": 38,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2058525834932257169/photo/1",
+          "media_key": "3_2058525829794332672",
+          "start": 15,
+          "url": "https://t.co/GpD6UazP2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058525834932257169",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058522685957677185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon https://t.co/GpD6UazP2n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058525834932257169].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058525834932257169",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058525834932257169"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1669,
+        "media_key": "3_2058525829794332672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFaVe3bgAA0h6l.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2058522685957677185",
+        "created_at": "2026-05-24T12:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058522685957677185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/libomrosy/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/libomrosy/status/2058522359016071575",
+              "start": 9,
+              "url": "https://t.co/Jwbow4OROj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058522685957677185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058522359016071575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赵露思粉丝辱支了 https://t.co/Jwbow4OROj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 6167,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3080
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 337,
+          "like_count": 44412,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 4168
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

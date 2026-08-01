@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060367826561724416"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060359456479969321",
+    "created_at": "2026-05-29T14:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060367832366662023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSO3I3GhDr",
+          "end": 37,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2060367832366662023/photo/1",
+          "media_key": "3_2060367826561724416",
+          "start": 14,
+          "url": "https://t.co/JSO3I3GhDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060367832366662023",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060366439815799285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 https://t.co/JSO3I3GhDr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060367832366662023].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060367832366662023",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060367832366662023"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2060367826561724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJflnzja8AAL2OV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2060359456479969321",
+        "created_at": "2026-05-29T14:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060366439815799285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "最高指示要再屠三千萬"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060366439815799285",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060366208306991525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw #最高指示要再屠三千萬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 301,
+          "like_count": 6866,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3547
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "以虛｜ 你好，我是大陸北方網友｜ 生活不易推上賣藝｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友。",
+        "id": "1900754238570893313",
+        "location": "江西南昌市青山湖區上坊路43號｜上海市徐匯區宛平南路600號",
+        "name": "波之由利以·乃禮都自",
+        "pinned_tweet_id": "2059988883082002432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054040143078817792/LMGFa2Kk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 101,
+          "like_count": 26414,
+          "listed_count": 8,
+          "media_count": 802,
+          "tweet_count": 10405
+        },
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Taylor Swift",
+          "id": "806225270591995904",
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Taylor Swift",
+          "id": "806225270591995904",
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Taylor Swift",
+          "id": "806225270591995904",
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "2061335525315707368",
+    "created_at": "2026-06-01T08:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061361497868308713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 28,
+          "id": "1978032792383709184",
+          "start": 16,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061361497868308713",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061358192114778205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy @Sabrina8964 泰勒斯威夫特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Taylor Swift",
+              "id": "806225270591995904",
+              "name": "Taylor Swift"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Taylor Swift",
+              "id": "806225270591995904",
+              "name": "Taylor Swift"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Taylor Swift",
+              "id": "806225270591995904",
+              "name": "Taylor Swift"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2061335525315707368",
+        "created_at": "2026-06-01T08:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061361497868308713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 28,
+              "id": "1978032792383709184",
+              "start": 16,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061361497868308713",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061358192114778205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @Sabrina8964 泰勒斯威夫特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2061335525315707368",
+        "created_at": "2026-06-01T08:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061358192114778205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061358192114778205",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061356842425696417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 转人工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 319,
+          "like_count": 7311,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3835
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "不须放屁！这面烤熟了，翻过个来，撒点孜然，再来咬上一口！\n\nAngCathy/BCP/Non-Papacy/Russkiy/Tranny/Commy/Gaddafy\n\n中俄轴心/反美反自由主义/精神俄罗斯人",
+        "id": "2053824487330852865",
+        "name": "Let's Go Bombing Tel-aviv（“在修和后口领圣体”提醒bot",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056923289625530368/7pQb9npH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 63,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 690
+        },
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "拿去吧！ 由於不是出自真心，話就說得格外動聽！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "Heaven or Las Vegas",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061284990198099968/D_pFjkGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 359,
+          "like_count": 21001,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 3872
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

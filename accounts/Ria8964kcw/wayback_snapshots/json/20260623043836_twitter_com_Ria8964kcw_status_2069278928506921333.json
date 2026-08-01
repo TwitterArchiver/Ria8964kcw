@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068754389255483657",
+    "created_at": "2026-06-23T04:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069278928506921333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562375313559994368",
+          "start": 0,
+          "username": "xnyn47519716"
+        },
+        {
+          "end": 29,
+          "id": "1446160096275275780",
+          "start": 14,
+          "username": "unrecognizab4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069278928506921333",
+    "in_reply_to_user_id": "1562375313559994368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069278119681520099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnyn47519716 @unrecognizab4L 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068754389255483657",
+        "created_at": "2026-06-23T04:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069278928506921333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562375313559994368",
+              "start": 0,
+              "username": "xnyn47519716"
+            },
+            {
+              "end": 29,
+              "id": "1446160096275275780",
+              "start": 14,
+              "username": "unrecognizab4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069278928506921333",
+        "in_reply_to_user_id": "1562375313559994368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069278119681520099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnyn47519716 @unrecognizab4L 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562375313559994368",
+        "conversation_id": "2068754389255483657",
+        "created_at": "2026-06-23T04:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069278119681520099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 27,
+              "id": "1446160096275275780",
+              "start": 12,
+              "username": "unrecognizab4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069278119681520099",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069093857577603539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @unrecognizab4L 想看利亞的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 313,
+          "like_count": 9053,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 4913
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T09:45:09.000Z",
+        "description": "無言フォロー失礼します。Anti-CCP 8964\n中国出身｜18↑｜日本語勉強中｜女性\n昭和軍歌・演歌・IJN / IJA関連が好きです 🇯🇵色々な思想や価値観に理解あります。\n\nDMどうぞ🐱※R18系ばかりの方はごめんなさい🚫\n\n※イラスト依頼品\n\n本垢→ @dolphin_5ge\n♡ @Minoru260502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dolphin_5ge"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Minoru260502"
+              }
+            ]
+          }
+        },
+        "id": "1562375313559994368",
+        "name": "桃之夭夭二代目",
+        "pinned_tweet_id": "2068305594763895127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059987682537943041/QAI4GHke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 149,
+          "like_count": 2285,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "xnyn47519716",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T17:07:02.000Z",
+        "description": "space cadet\nalt art projects account @",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/manwearingbean…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/manwearingbeanie",
+                "start": 0,
+                "url": "https://t.co/SYjCXQCXgt"
+              }
+            ]
+          }
+        },
+        "id": "1446160096275275780",
+        "location": "space station",
+        "name": "manwearingbeanie",
+        "pinned_tweet_id": "2058986004544102784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049064385524744192/73AiJAQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 323,
+          "like_count": 10748,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3611
+        },
+        "url": "https://t.co/SYjCXQCXgt",
+        "username": "unrecognizab4L",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2061745312411344896"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061744105252892678",
+    "created_at": "2026-06-02T09:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061745327376572565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VdHaBOOv1S",
+          "end": 35,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2061745327376572565/photo/1",
+          "media_key": "16_2061745312411344896",
+          "start": 12,
+          "url": "https://t.co/VdHaBOOv1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061745327376572565",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061744105252892678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen https://t.co/VdHaBOOv1S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061745327376572565].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061745327376572565",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061745327376572565"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2061745312411344896",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJzKcCOa4AAJfeT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJzKcCOa4AAJfeT.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054877291633909760",
+        "conversation_id": "2061744105252892678",
+        "created_at": "2026-06-02T09:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061744105252892678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/txqv3/status/2…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/txqv3/status/2061738065719353518",
+              "start": 3,
+              "url": "https://t.co/g5feMTNaVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061744105252892678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061738065719353518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卖的 https://t.co/g5feMTNaVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜匿名提问欢迎所有人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 326,
+          "like_count": 7475,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 3966
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | Dom | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |不肉偿 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/tw4eduhItL"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061569446570053698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 43,
+          "like_count": 312,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/tw4eduhItL",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

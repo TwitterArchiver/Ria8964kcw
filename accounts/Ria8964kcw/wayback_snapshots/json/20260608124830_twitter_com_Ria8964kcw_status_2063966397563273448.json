@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063957659167146331",
+    "created_at": "2026-06-08T12:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063966397563273448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922650331454058496",
+          "start": 0,
+          "username": "xiaoshu_yy33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063966397563273448",
+    "in_reply_to_user_id": "1922650331454058496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063957659167146331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshu_yy33 吓晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2063957627147886592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSmhs2boAAEtxh.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063957659167146331",
+        "created_at": "2026-06-08T12:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063966397563273448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922650331454058496",
+              "start": 0,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063966397563273448",
+        "in_reply_to_user_id": "1922650331454058496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063957659167146331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshu_yy33 吓晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063957627147886592"
+          ]
+        },
+        "author_id": "1922650331454058496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063957659167146331",
+        "created_at": "2026-06-08T12:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063957659167146331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pNH4UN4jd",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoshu_yy33/status/2063957659167146331/photo/1",
+              "media_key": "3_2063957627147886592",
+              "start": 20,
+              "url": "https://t.co/8pNH4UN4jd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063957659167146331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道这是谁的恶作剧 这是我前任名字 https://t.co/8pNH4UN4jd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 328,
+          "like_count": 7982,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️｜喜欢我就打钱",
+        "id": "1922650331454058496",
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "name": "解树",
+        "pinned_tweet_id": "2062813622917849515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062995540456222720/pS0FAa0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 49,
+          "like_count": 951,
+          "listed_count": 17,
+          "media_count": 149,
+          "tweet_count": 1535
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

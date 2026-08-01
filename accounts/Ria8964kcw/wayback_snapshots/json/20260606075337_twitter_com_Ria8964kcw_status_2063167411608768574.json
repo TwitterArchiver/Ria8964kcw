@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063092386729721864",
+    "created_at": "2026-06-06T07:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063167411608768574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063167411608768574",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166658693239056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 别人让你管ta怎么叫第三人称代词，你就照做是了，没告诉你代词但你都知道人家是mtf了，就her起来呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063092386729721864",
+        "created_at": "2026-06-06T07:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063167411608768574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063167411608768574",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166658693239056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 别人让你管ta怎么叫第三人称代词，你就照做是了，没告诉你代词但你都知道人家是mtf了，就her起来呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2063092386729721864",
+        "created_at": "2026-06-06T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063166658693239056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166658693239056",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063165858218963128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw ?\nWhat did you mean?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 317,
+          "like_count": 7811,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 4193
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|留学生🧑‍🎓|MtF🏳️‍⚧️|尚未HRT🍥|世界计划🎹|mfy激推|不od|可键政|社会自由主义🆓|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷均可|世界语🌏学习中|格里芬联邦共和国总统|政府官网https://t.co/dwsyUs1GcT |互fo可私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 132,
+                "expanded_url": "https://gov-urg.net",
+                "start": 109,
+                "url": "https://t.co/dwsyUs1GcT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6Cf04O"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2061802655391866976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 622,
+          "like_count": 1283,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/RUiH6Cf04O",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

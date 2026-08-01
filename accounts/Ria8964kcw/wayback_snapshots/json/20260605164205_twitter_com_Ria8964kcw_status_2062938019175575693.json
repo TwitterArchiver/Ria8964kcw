@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062936760792048115",
+    "created_at": "2026-06-05T16:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062938019175575693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738252244607512576",
+          "start": 0,
+          "username": "Gess828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062938019175575693",
+    "in_reply_to_user_id": "1738252244607512576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062936760792048115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gess828 美乐蒂，可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062936752378261504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEGC9-asAAfZlf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062936760792048115",
+        "created_at": "2026-06-05T16:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062938019175575693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738252244607512576",
+              "start": 0,
+              "username": "Gess828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062938019175575693",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062936760792048115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gess828 美乐蒂，可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062936752378261504"
+          ]
+        },
+        "author_id": "1738252244607512576",
+        "conversation_id": "2062936760792048115",
+        "created_at": "2026-06-05T16:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062936760792048115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDn75iBAM4",
+              "end": 30,
+              "expanded_url": "https://x.com/Gess828/status/2062936760792048115/photo/1",
+              "media_key": "3_2062936752378261504",
+              "start": 7,
+              "url": "https://t.co/uDn75iBAM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062936760792048115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多小宝贝呀 https://t.co/uDn75iBAM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈xtx｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 312,
+          "like_count": 7745,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 4153
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "喜欢fps/cosplay/同人女/凉宫春日重度依赖@",
+        "id": "1738252244607512576",
+        "name": "圈圈噼",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061099272876273664/zT_xhHZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 270
+        },
+        "username": "Gess828",
+        "verified": false
+      }
+    ]
+  }
+}

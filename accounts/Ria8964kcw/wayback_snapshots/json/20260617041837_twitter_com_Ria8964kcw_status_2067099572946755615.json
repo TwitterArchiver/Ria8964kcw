@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066586573341438101",
+    "created_at": "2026-06-17T04:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067099572946755615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "N0HopeForUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067099572946755615",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066586573341438101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0HopeForUs 苏格兰口音普通话（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31555,
+        "height": 720,
+        "media_key": "7_2066586532933513216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066586532933513216/pu/img/Ka9l6zf2Okkxv5Db.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066586532933513216/pu/vid/avc1/480x270/kVOjIqD4OmoH6gbh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066586532933513216/pu/vid/avc1/640x360/ufdMD74gKUuYWPLv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066586532933513216/pu/vid/avc1/1280x720/jF8tNlQ6v_C93mOT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066586532933513216/pu/pl/fa7zCdgAaGU2LASj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066586573341438101",
+        "created_at": "2026-06-17T04:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067099572946755615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067099572946755615",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066586573341438101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs 苏格兰口音普通话（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066586532933513216"
+          ]
+        },
+        "author_id": "1824688188750712832",
+        "conversation_id": "2066586573341438101",
+        "created_at": "2026-06-15T18:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066586573341438101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZOWQEKr1x",
+              "end": 81,
+              "expanded_url": "https://x.com/N0HopeForUs/status/2066586573341438101/video/1",
+              "media_key": "7_2066586532933513216",
+              "start": 58,
+              "url": "https://t.co/1ZOWQEKr1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066586573341438101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.我觉得这个说普通话的齐泽克ai音特别搞笑\n2.我真这么做过 有临床是真分析师 之前转发给了某水和咱ash同志💅 https://t.co/1ZOWQEKr1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 342,
+          "like_count": 8677,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 4702
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "挂逼尼特族\n喵梦的cp基本上都吃\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义赫尔墨斯🍥",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059928140273893376/JpaPFbM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1594,
+          "like_count": 44931,
+          "listed_count": 3,
+          "media_count": 654,
+          "tweet_count": 14151
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

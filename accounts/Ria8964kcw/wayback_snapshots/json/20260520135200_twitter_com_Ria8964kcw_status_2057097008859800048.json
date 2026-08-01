@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056927894916772242",
+    "created_at": "2026-05-20T13:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057097008859800048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        },
+        {
+          "end": 24,
+          "id": "2005739449058230272",
+          "start": 13,
+          "username": "usagimm208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057097008859800048",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057096790890123473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson @usagimm208 不得不喝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056927894916772242",
+        "created_at": "2026-05-20T13:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057097008859800048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            },
+            {
+              "end": 24,
+              "id": "2005739449058230272",
+              "start": 13,
+              "username": "usagimm208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057097008859800048",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057096790890123473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson @usagimm208 不得不喝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2056927894916772242",
+        "created_at": "2026-05-20T13:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057096790890123473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 23,
+              "id": "2005739449058230272",
+              "start": 12,
+              "username": "usagimm208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057096790890123473",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057092372853600552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @usagimm208 一点点还支持台独，我违法了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 263,
+          "like_count": 5588,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2668
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 1398,
+          "like_count": 28720,
+          "listed_count": 6,
+          "media_count": 920,
+          "tweet_count": 10355
+        },
+        "username": "ColesPerson",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2054194679433077045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 17,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

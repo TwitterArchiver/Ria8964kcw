@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2082653081288994816"
+      ],
+      "media_source_tweet_id": [
+        "2082653274579374322"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082807057745617335",
+    "created_at": "2026-07-30T12:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082807057745617335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/19Pxxy80Db",
+          "end": 25,
+          "expanded_url": "https://x.com/YUYUANNAICHA111/status/2082653274579374322/video/1",
+          "media_key": "7_2082653081288994816",
+          "start": 2,
+          "url": "https://t.co/19Pxxy80Db"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082807057745617335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/19Pxxy80Db"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 136400,
+        "height": 720,
+        "media_key": "7_2082653081288994816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2082653081288994816/pu/img/V9JSxcS_2nt8nU7m.jpg",
+        "public_metrics": {
+          "view_count": 54074
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082653081288994816/pu/vid/avc1/360x270/JPgLq25XjYe0AljI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082653081288994816/pu/vid/avc1/480x360/qoVxKxJzYHNATIxy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2082653081288994816/pu/vid/avc1/960x720/GAktppaHf_RFC4LH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2082653081288994816/pu/pl/77cv8drKtl_0XO3Y.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2082653081288994816"
+          ]
+        },
+        "author_id": "1814124219040448512",
+        "conversation_id": "2082653274579374322",
+        "created_at": "2026-07-30T02:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082653274579374322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzplXEjHRv",
+              "end": 45,
+              "expanded_url": "https://x.com/YUYUANNAICHA111/status/2082653274579374322/video/1",
+              "media_key": "7_2082653081288994816",
+              "start": 22,
+              "url": "https://t.co/dzplXEjHRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082653274579374322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 23360,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "男人每天都对妻子的内衣拍照，发现了不对劲… https://t.co/dzplXEjHRv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2082653081288994816"
+          ],
+          "media_source_tweet_id": [
+            "2082653274579374322"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082807057745617335",
+        "created_at": "2026-07-30T12:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082807057745617335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/19Pxxy80Db",
+              "end": 25,
+              "expanded_url": "https://x.com/YUYUANNAICHA111/status/2082653274579374322/video/1",
+              "media_key": "7_2082653081288994816",
+              "start": 2,
+              "url": "https://t.co/19Pxxy80Db"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082807057745617335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/19Pxxy80Db"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 353,
+          "like_count": 10196,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

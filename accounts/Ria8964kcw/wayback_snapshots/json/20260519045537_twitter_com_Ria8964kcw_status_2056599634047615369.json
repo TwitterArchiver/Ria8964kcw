@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056594460428107909",
+    "created_at": "2026-05-19T04:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056599634047615369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1790893006612017152",
+          "start": 0,
+          "username": "IVANSU8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056599634047615369",
+    "in_reply_to_user_id": "1790893006612017152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056594460428107909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IVANSU8964 看得我哭了我也想当大鸡吧外族男勾勾手指一堆杯子凑上来这是另一个世界的我我这么想是不是太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056594460428107909",
+        "created_at": "2026-05-19T04:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056599634047615369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1790893006612017152",
+              "start": 0,
+              "username": "IVANSU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056599634047615369",
+        "in_reply_to_user_id": "1790893006612017152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056594460428107909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IVANSU8964 看得我哭了我也想当大鸡吧外族男勾勾手指一堆杯子凑上来这是另一个世界的我我这么想是不是太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790893006612017152",
+        "conversation_id": "2056594460428107909",
+        "created_at": "2026-05-19T04:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056594460428107909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realqinyuele/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/realqinyuele/status/2056412220624458188",
+              "start": 5,
+              "url": "https://t.co/0pFVKj9fxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056594460428107909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056412220624458188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/0pFVKj9fxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 252,
+          "like_count": 5422,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2575
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T23:52:32.000Z",
+        "description": "He/Him/Bi/trans right/🇺🇸 庆幸总统掌握在恋童癖手里",
+        "id": "1790893006612017152",
+        "location": "太原市公安局万柏林分局",
+        "name": "伊万 🧊❌ 8964",
+        "pinned_tweet_id": "1899833459935256791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026533135866015747/64XMDChE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1155,
+          "like_count": 26396,
+          "listed_count": 12,
+          "media_count": 408,
+          "tweet_count": 8831
+        },
+        "username": "IVANSU8964",
+        "verified": false
+      }
+    ]
+  }
+}

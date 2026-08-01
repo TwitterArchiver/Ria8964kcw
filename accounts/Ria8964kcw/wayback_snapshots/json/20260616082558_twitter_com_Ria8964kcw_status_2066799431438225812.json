@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066349194672328875",
+    "created_at": "2026-06-16T08:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066799431438225812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "1willhateu4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066799431438225812",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066349194672328875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1willhateu4ever 真的假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066349183309910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0lol0bEAAlBf8.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066349194672328875",
+        "created_at": "2026-06-16T08:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066799431438225812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "1willhateu4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066799431438225812",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066349194672328875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1willhateu4ever 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066349183309910016"
+          ]
+        },
+        "author_id": "1990083055231631361",
+        "conversation_id": "2066349194672328875",
+        "created_at": "2026-06-15T02:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066349194672328875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibC14Rp9eL",
+              "end": 93,
+              "expanded_url": "https://x.com/1willhateu4ever/status/2066349194672328875/photo/1",
+              "media_key": "3_2066349183309910016",
+              "start": 70,
+              "url": "https://t.co/ibC14Rp9eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066349194672328875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3796,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一款du特可乐汽水，风味du特，常被描述为略带香槟或泡泡糖的味道。它是一款清爽无咖啡因的饮料，深受哥伦比亚乃至世界各地许多人的喜爱。、 https://t.co/ibC14Rp9eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 338,
+          "like_count": 8639,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 4681
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "pinned_tweet_id": "2062942397936570706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066349504065060864/1f_32sh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 37,
+          "like_count": 6019,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3835
+        },
+        "username": "1willhateu4ever",
+        "verified": false
+      }
+    ]
+  }
+}

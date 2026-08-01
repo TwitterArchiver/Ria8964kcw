@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070462911286563309",
+    "created_at": "2026-06-26T11:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070462911286563309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978032792383709184",
+          "start": 3,
+          "username": "Sabrina8964"
+        },
+        {
+          "end": 33,
+          "id": "1906644812293451776",
+          "start": 17,
+          "username": "xiangzuoxiaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070462911286563309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070375339038245005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sabrina8964: @xiangzuoxiaomao 全世界最傻逼的街机与玩家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070462911286563309",
+        "created_at": "2026-06-26T11:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070462911286563309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978032792383709184",
+              "start": 3,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 33,
+              "id": "1906644812293451776",
+              "start": 17,
+              "username": "xiangzuoxiaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070462911286563309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070375339038245005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sabrina8964: @xiangzuoxiaomao 全世界最傻逼的街机与玩家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2070363865557106833",
+        "created_at": "2026-06-26T05:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070375339038245005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906644812293451776",
+              "start": 0,
+              "username": "xiangzuoxiaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070375339038245005",
+        "in_reply_to_user_id": "1906644812293451776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070363865557106833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangzuoxiaomao 全世界最傻逼的街机与玩家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 325,
+          "like_count": 9267,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 5027
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "Only God Was Above Us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "恋爱中的女孩为何如此悲伤",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069665327097483264/BWXDulXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 378,
+          "like_count": 24540,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 4358
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T09:48:46.000Z",
+        "description": "🈚性别所属 & 🈚特定政治立场所属/某老推油多次转生（通称河北酱)/禁止外传本号内容/想看我日常自拍女装等等可以翻往期照片/🚪4698 CNY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/watch?v=DHi_iT…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/watch?v=DHi_iTc3Kxs",
+                "start": 0,
+                "url": "https://t.co/Gbhrd5Y4fZ"
+              }
+            ]
+          }
+        },
+        "id": "1906644812293451776",
+        "location": "死人堆",
+        "name": "羊奶煮羊羔",
+        "pinned_tweet_id": "2065010094740554195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069950040685121536/xF05pT5Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 434,
+          "like_count": 70385,
+          "listed_count": 0,
+          "media_count": 1595,
+          "tweet_count": 25616
+        },
+        "url": "https://t.co/Gbhrd5Y4fZ",
+        "username": "xiangzuoxiaomao",
+        "verified": false
+      }
+    ]
+  }
+}

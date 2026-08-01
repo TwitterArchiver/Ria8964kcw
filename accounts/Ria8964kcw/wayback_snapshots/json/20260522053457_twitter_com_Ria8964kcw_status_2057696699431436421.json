@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057461412520202600",
+    "created_at": "2026-05-22T05:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057696699431436421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1790893006612017152",
+          "start": 0,
+          "username": "IVANSU8964"
+        },
+        {
+          "end": 21,
+          "id": "2012631283898187776",
+          "start": 12,
+          "username": "youy1qwq"
+        },
+        {
+          "end": 34,
+          "id": "1978032792383709184",
+          "start": 22,
+          "username": "Sabrina8964"
+        },
+        {
+          "end": 45,
+          "id": "2033556052650975232",
+          "start": 35,
+          "username": "Ride_8964"
+        },
+        {
+          "end": 61,
+          "id": "1544284646095159298",
+          "start": 46,
+          "username": "zhongyilin2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057696699431436421",
+    "in_reply_to_user_id": "1790893006612017152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057693157446570186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IVANSU8964 @youy1qwq @Sabrina8964 @Ride_8964 @zhongyilin2001 这里是推特不是极地大乱斗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057461412520202600",
+        "created_at": "2026-05-22T05:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057696699431436421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1790893006612017152",
+              "start": 0,
+              "username": "IVANSU8964"
+            },
+            {
+              "end": 21,
+              "id": "2012631283898187776",
+              "start": 12,
+              "username": "youy1qwq"
+            },
+            {
+              "end": 34,
+              "id": "1978032792383709184",
+              "start": 22,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 45,
+              "id": "2033556052650975232",
+              "start": 35,
+              "username": "Ride_8964"
+            },
+            {
+              "end": 61,
+              "id": "1544284646095159298",
+              "start": 46,
+              "username": "zhongyilin2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057696699431436421",
+        "in_reply_to_user_id": "1790893006612017152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057693157446570186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IVANSU8964 @youy1qwq @Sabrina8964 @Ride_8964 @zhongyilin2001 这里是推特不是极地大乱斗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790893006612017152",
+        "conversation_id": "2057461412520202600",
+        "created_at": "2026-05-22T05:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057693157446570186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            },
+            {
+              "end": 22,
+              "id": "1978032792383709184",
+              "start": 10,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 34,
+              "id": "1741807657110147073",
+              "start": 23,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 45,
+              "id": "2033556052650975232",
+              "start": 35,
+              "username": "Ride_8964"
+            },
+            {
+              "end": 61,
+              "id": "1544284646095159298",
+              "start": 46,
+              "username": "zhongyilin2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057693157446570186",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057461412520202600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq @Sabrina8964 @Ria8964kcw @Ride_8964 @zhongyilin2001"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485767744925697/sNZveh0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 269,
+          "like_count": 5812,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2849
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T23:52:32.000Z",
+        "description": "He/Him/Bi/trans right/🇺🇸 庆幸总统掌握在恋童癖手里",
+        "id": "1790893006612017152",
+        "location": "太原市公安局万柏林分局",
+        "name": "伊万 🧊❌ 8964",
+        "pinned_tweet_id": "1899833459935256791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026533135866015747/64XMDChE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1156,
+          "like_count": 26516,
+          "listed_count": 12,
+          "media_count": 408,
+          "tweet_count": 8852
+        },
+        "username": "IVANSU8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13324,
+          "following_count": 1850,
+          "like_count": 4221,
+          "listed_count": 21,
+          "media_count": 1819,
+          "tweet_count": 2356
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "拿去吧！ 由於不是出自真心，話就說得格外動聽！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "Heaven or Las Vegas",
+        "pinned_tweet_id": "2040397447449760065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057483770958430208/1jF2OImd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 318,
+          "like_count": 18223,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 3432
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳私生子",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 132,
+          "like_count": 30481,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 6839
+        },
+        "username": "Ride_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T11:38:57.000Z",
+        "description": "",
+        "id": "1544284646095159298",
+        "name": "OliverHZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012678216058646528/0CD8B8Fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 116,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 193
+        },
+        "username": "zhongyilin2001",
+        "verified": false
+      }
+    ]
+  }
+}

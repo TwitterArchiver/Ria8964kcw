@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2079758789126058108",
+    "created_at": "2026-07-22T02:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079758789126058108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian67068/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/qian67068/status/2079569928785641789",
+          "start": 3,
+          "url": "https://t.co/57ZK7QeQHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079758789126058108",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079569928785641789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😂👍 https://t.co/57ZK7QeQHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2079569848380870657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwdwlJa0AEzY8R.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2079758789126058108",
+        "created_at": "2026-07-22T02:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079758789126058108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian67068/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/qian67068/status/2079569928785641789",
+              "start": 3,
+              "url": "https://t.co/57ZK7QeQHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079758789126058108",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079569928785641789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😂👍 https://t.co/57ZK7QeQHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079569848380870657"
+          ]
+        },
+        "author_id": "1956958284310818816",
+        "conversation_id": "2079531140650868836",
+        "created_at": "2026-07-21T14:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079569928785641789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUEystMDqo",
+              "end": 40,
+              "expanded_url": "https://x.com/qian67068/status/2079569928785641789/photo/1",
+              "media_key": "3_2079569848380870657",
+              "start": 17,
+              "url": "https://t.co/nUEystMDqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079569928785641789",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079549920613466603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 已制裁 https://t.co/nUEystMDqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 326,
+          "like_count": 9847,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 5308
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "无糖MtX💛🤍💜🖤半家長黨 | 泛性恋 | 精神状态不佳 | 称小千就好\n它/it\n简/繁/en\n不ban真人 常发布nsfw，满脑子黄色废料 \n分身@qian68069\n在互联网攻受可切的触手娘\n愛所有人，但不会愛人 \n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "pinned_tweet_id": "2079745966102700096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1076,
+          "like_count": 7463,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true
+      }
+    ]
+  }
+}

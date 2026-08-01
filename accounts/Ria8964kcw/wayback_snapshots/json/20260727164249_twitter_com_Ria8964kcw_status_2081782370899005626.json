@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2081782370899005626",
+    "created_at": "2026-07-27T16:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081782370899005626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fallennow777/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/fallennow777/status/2081738962398588988",
+          "start": 4,
+          "url": "https://t.co/ubyrlHjJoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081782370899005626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081738962398588988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "y染： https://t.co/ubyrlHjJoX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2081782370899005626",
+        "created_at": "2026-07-27T16:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081782370899005626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fallennow777/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/fallennow777/status/2081738962398588988",
+              "start": 4,
+              "url": "https://t.co/ubyrlHjJoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081782370899005626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081738962398588988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "y染： https://t.co/ubyrlHjJoX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852313197455515648",
+        "conversation_id": "2081245629880426719",
+        "created_at": "2026-07-27T13:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081738962398588988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            },
+            {
+              "end": 30,
+              "id": "1165672819",
+              "start": 15,
+              "username": "shibainu_vodka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081738962398588988",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081562451829817826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 @shibainu_vodka 王虹看不上邓煜你真闹麻了呀兄弟，人家邓煜同不同意啊，哥们，菲尔兹奖什么概念？二次元的审美能他妈但从颜值这块能看上王虹？你是不是脑子有泡了，邓煜人家什么前途啊，人家现实直接找一个二次元女朋友都简简单单好吧，你可真闹麻了。别天天啥都评论一下觉得自己老懂了行不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "欢迎互b，感谢互b\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 324,
+          "like_count": 9994,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 5381
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T11:34:31.000Z",
+        "description": "",
+        "id": "1852313197455515648",
+        "name": "Chaos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956739655627681792/r8xd2S-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 200,
+          "like_count": 8362,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 2467
+        },
+        "url": "",
+        "username": "fallennow777",
+        "verified": false
+      }
+    ]
+  }
+}

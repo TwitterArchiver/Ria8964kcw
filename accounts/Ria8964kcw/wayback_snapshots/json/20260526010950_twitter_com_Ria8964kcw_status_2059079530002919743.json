@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059074526227615802",
+    "created_at": "2026-05-26T01:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059079530002919743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "chnghob658339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059079530002919743",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059074526227615802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghob658339 骗子不用理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059074517021130752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNNXSEagAAagdb.jpg",
+        "width": 1074
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059074517021122560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNNXSEaYAAlFn2.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059074526227615802",
+        "created_at": "2026-05-26T01:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059079530002919743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "chnghob658339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059079530002919743",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059074526227615802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghob658339 骗子不用理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059074517021130752",
+            "3_2059074517021122560"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "conversation_id": "2059074526227615802",
+        "created_at": "2026-05-26T00:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059074526227615802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llcFDs9Cha",
+              "end": 39,
+              "expanded_url": "https://x.com/chnghob658339/status/2059074526227615802/photo/1",
+              "media_key": "3_2059074517021130752",
+              "start": 16,
+              "url": "https://t.co/llcFDs9Cha"
+            },
+            {
+              "display_url": "pic.x.com/llcFDs9Cha",
+              "end": 39,
+              "expanded_url": "https://x.com/chnghob658339/status/2059074526227615802/photo/1",
+              "media_key": "3_2059074517021122560",
+              "start": 16,
+              "url": "https://t.co/llcFDs9Cha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059074526227615802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这啥情况，有没有懂的推友说一下 https://t.co/llcFDs9Cha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2058960830524436774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 274,
+          "like_count": 6378,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185cm/72kg 想交朋友。想买衣服。国女国男综合特征，想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画、中国古典文学和西方近现代哲学，最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。新对政治思想史、英美道德学、德国法学感兴趣。物理学研究生，想学代数拓扑。想做一个功利主义的幸福者。",
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 53,
+          "like_count": 3468,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 586
+        },
+        "username": "chnghob658339",
+        "verified": false
+      }
+    ]
+  }
+}

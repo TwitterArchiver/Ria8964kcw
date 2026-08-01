@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057127639291412943",
+    "created_at": "2026-05-20T15:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057127639291412943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/fadai202202/status/2057113972286042124",
+          "start": 11,
+          "url": "https://t.co/EAWbg1mrg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057127639291412943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057113972286042124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我杀东北猪时候就这声 https://t.co/EAWbg1mrg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11631,
+        "height": 1280,
+        "media_key": "13_2057113892002938880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057113892002938880/img/a1jbNFMd5_vUsAco.jpg",
+        "public_metrics": {
+          "view_count": 3152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057113892002938880/vid/avc1/320x568/MXY5M7qmVDqjCDYU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057113892002938880/vid/avc1/480x852/GC3PpOk-1qmHA9UT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057113892002938880/vid/avc1/720x1280/Ql6v68ADP9YT0Yt5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057113892002938880/pl/nt8qeaW3DVDa9FjK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057127639291412943",
+        "created_at": "2026-05-20T15:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057127639291412943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/fadai202202/status/2057113972286042124",
+              "start": 11,
+              "url": "https://t.co/EAWbg1mrg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057127639291412943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057113972286042124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我杀东北猪时候就这声 https://t.co/EAWbg1mrg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057113892002938880"
+          ]
+        },
+        "author_id": "1581937806435573760",
+        "conversation_id": "2057113972286042124",
+        "created_at": "2026-05-20T14:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057113972286042124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/610jyOyTbn",
+              "end": 44,
+              "expanded_url": "https://x.com/fadai202202/status/2057113972286042124/video/1",
+              "media_key": "13_2057113892002938880",
+              "start": 21,
+              "url": "https://t.co/610jyOyTbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057113972286042124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11717,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隔壁咋了？？？我感觉被家暴了 要不要报警 https://t.co/610jyOyTbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 263,
+          "like_count": 5606,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2678
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14164,
+          "following_count": 1,
+          "like_count": 959,
+          "listed_count": 12,
+          "media_count": 127,
+          "tweet_count": 920
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

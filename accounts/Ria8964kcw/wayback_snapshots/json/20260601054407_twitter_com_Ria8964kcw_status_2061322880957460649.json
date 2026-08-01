@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060632605448712567",
+    "created_at": "2026-06-01T05:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061322880957460649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939345541189730306",
+          "start": 0,
+          "username": "sylus0610"
+        },
+        {
+          "end": 24,
+          "id": "1981638054688501760",
+          "start": 11,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061322880957460649",
+    "in_reply_to_user_id": "1939345541189730306",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060632605448712567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sylus0610 @ashasw114514"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10353,
+        "height": 720,
+        "media_key": "13_2060632048680001536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060632048680001536/img/L0OPOq86eiDWHya5.jpg",
+        "public_metrics": {
+          "view_count": 15525
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632048680001536/vid/avc1/480x270/uJcUoJzzHZzyNR51.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632048680001536/vid/avc1/640x360/uqXSAEfnI-2ABhJ1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632048680001536/vid/avc1/1280x720/H285KYwaNT2CTRpY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060632048680001536/pl/4oRlFtwxGW5AlHfT.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060632605448712567",
+        "created_at": "2026-06-01T05:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061322880957460649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939345541189730306",
+              "start": 0,
+              "username": "sylus0610"
+            },
+            {
+              "end": 24,
+              "id": "1981638054688501760",
+              "start": 11,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061322880957460649",
+        "in_reply_to_user_id": "1939345541189730306",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060632605448712567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sylus0610 @ashasw114514"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060632048680001536"
+          ]
+        },
+        "author_id": "1939345541189730306",
+        "conversation_id": "2060632605448712567",
+        "created_at": "2026-05-30T08:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060632605448712567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2sAEaoiTX",
+              "end": 35,
+              "expanded_url": "https://x.com/sylus0610/status/2060632605448712567/video/1",
+              "media_key": "13_2060632048680001536",
+              "start": 12,
+              "url": "https://t.co/k2sAEaoiTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060632605448712567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 13858,
+          "like_count": 597,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "秦彻Sylus…👩💋🚗 https://t.co/k2sAEaoiTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 319,
+          "like_count": 7299,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 3830
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:29:55.000Z",
+        "description": "问怎么做，用什么做，私信。不定时回复。\n主🚗🍐，偶尔🍎，不定时🐟🌟\n每个视频都有完整版，不定时发布。\n视频女主是AI生成。",
+        "id": "1939345541189730306",
+        "name": "LA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939345661763129344/aBrPWdX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4856,
+          "following_count": 405,
+          "like_count": 3265,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 35
+        },
+        "username": "sylus0610",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n🫛：@rn1021929822675",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "rn1021929822675"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 3089,
+          "like_count": 6921,
+          "listed_count": 10,
+          "media_count": 550,
+          "tweet_count": 4596
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058412023575458218",
+    "created_at": "2026-05-24T04:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058412023575458218"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "女神"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "女权"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "留学生活"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "高智商"
+        },
+        {
+          "end": 79,
+          "start": 74,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "护士"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "彩礼"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "女性独立"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zping07/status…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/zping07/status/2057420435650957763",
+          "start": 94,
+          "url": "https://t.co/2vVRKv1Hxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058412023575458218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057420435650957763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和职高卫校女神姐妹，一起共度520，女性独立，女性自由真的很有体会，作为东北女神，感觉自由和高贵是天气的气质 #女神 #女权 #留学生活 #高智商 #女性崇拜 #护士 #彩礼 #女性独立 https://t.co/2vVRKv1Hxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2057420428394786816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1s-pwacAAcx-d.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058412023575458218",
+        "created_at": "2026-05-24T04:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058412023575458218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "女神"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "女权"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "留学生活"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "高智商"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "护士"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "彩礼"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "女性独立"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zping07/status…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/zping07/status/2057420435650957763",
+              "start": 94,
+              "url": "https://t.co/2vVRKv1Hxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058412023575458218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057420435650957763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和职高卫校女神姐妹，一起共度520，女性独立，女性自由真的很有体会，作为东北女神，感觉自由和高贵是天气的气质 #女神 #女权 #留学生活 #高智商 #女性崇拜 #护士 #彩礼 #女性独立 https://t.co/2vVRKv1Hxi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057420428394786816"
+          ]
+        },
+        "author_id": "2048460263415054336",
+        "conversation_id": "2057420435650957763",
+        "created_at": "2026-05-21T11:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057420435650957763"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "女神"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "女权"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "留学生活"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "高智商"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "护士"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "彩礼"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "女性独立"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YiHJJtj94x",
+              "end": 117,
+              "expanded_url": "https://x.com/ZPing07/status/2057420435650957763/photo/1",
+              "media_key": "3_2057420428394786816",
+              "start": 94,
+              "url": "https://t.co/YiHJJtj94x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057420435650957763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 46089,
+          "like_count": 389,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "和职高卫校女神姐妹，一起共度520，女性独立，女性自由真的很有体会，作为东北女神，感觉自由和高贵是天气的气质 #女神 #女权 #留学生活 #高智商 #女性崇拜 #护士 #彩礼 #女性独立 https://t.co/YiHJJtj94x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 254,
+          "like_count": 6071,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3045
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T17:54:25.000Z",
+        "description": "07职校卫校/护理专业/东北人\n已有男友，别来沾边",
+        "id": "2048460263415054336",
+        "name": "Zhang Ping",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048460805147172864/6NIGNb5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 220,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 136
+        },
+        "username": "ZPing07",
+        "verified": false
+      }
+    ]
+  }
+}

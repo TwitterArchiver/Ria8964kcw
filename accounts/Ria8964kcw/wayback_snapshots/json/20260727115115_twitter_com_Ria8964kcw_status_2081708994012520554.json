@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081671871066673152"
+      ],
+      "media_source_tweet_id": [
+        "2081671909461409836"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081708994012520554",
+    "created_at": "2026-07-27T11:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081708994012520554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OymgWOcvN",
+          "end": 30,
+          "expanded_url": "https://x.com/ototusn0/status/2081671909461409836/video/1",
+          "media_key": "13_2081671871066673152",
+          "start": 7,
+          "url": "https://t.co/3OymgWOcvN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081708994012520554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁跟我一起唱 https://t.co/3OymgWOcvN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64226,
+        "height": 720,
+        "media_key": "13_2081671871066673152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081671871066673152/img/Ow8Ma4Dq7g9En0Bz.jpg",
+        "public_metrics": {
+          "view_count": 1969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081671871066673152/vid/avc1/480x270/7D-gWixQJ_iJzsXE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081671871066673152/vid/avc1/640x360/mRc-L22m4eHZVvFo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081671871066673152/vid/avc1/1280x720/NdvIixrStIMIcrCD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081671871066673152/pl/8HWUvXrL-nItCwts.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081671871066673152"
+          ]
+        },
+        "author_id": "2066032587383144448",
+        "conversation_id": "2081671909461409836",
+        "created_at": "2026-07-27T09:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081671909461409836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6LmSYPSxQ",
+              "end": 45,
+              "expanded_url": "https://x.com/ototusn0/status/2081671909461409836/video/1",
+              "media_key": "13_2081671871066673152",
+              "start": 22,
+              "url": "https://t.co/U6LmSYPSxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081671909461409836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3097,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当bro在KTV唱歌改词改成了《自由花》： https://t.co/U6LmSYPSxQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081671871066673152"
+          ],
+          "media_source_tweet_id": [
+            "2081671909461409836"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081708994012520554",
+        "created_at": "2026-07-27T11:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081708994012520554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OymgWOcvN",
+              "end": 30,
+              "expanded_url": "https://x.com/ototusn0/status/2081671909461409836/video/1",
+              "media_key": "13_2081671871066673152",
+              "start": 7,
+              "url": "https://t.co/3OymgWOcvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081708994012520554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁跟我一起唱 https://t.co/3OymgWOcvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我从来不骂人因为老子骂的不是人\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 323,
+          "like_count": 9973,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 5370
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

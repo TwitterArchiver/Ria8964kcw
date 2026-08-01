@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083193608988193148",
+    "created_at": "2026-07-31T14:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083193608988193148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899058813745209344",
+          "start": 3,
+          "username": "FIMBASE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083193608988193148",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083190955960631488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FIMBASE: It’s almost time to celebrate CHAEWON’s birthday! Let's flood the timeline with love and birthday wishes for our beloved leade…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2083182413702914048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjzXjsaYAApkIU.jpg",
+        "width": 960
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2083182413690417152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjzXjpbsAAseiY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083193608988193148",
+        "created_at": "2026-07-31T14:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083193608988193148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899058813745209344",
+              "start": 3,
+              "username": "FIMBASE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083193608988193148",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083190955960631488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FIMBASE: It’s almost time to celebrate CHAEWON’s birthday! Let's flood the timeline with love and birthday wishes for our beloved leade…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083182413702914048",
+            "3_2083182413690417152"
+          ]
+        },
+        "author_id": "1899058813745209344",
+        "conversation_id": "2083190955960631488",
+        "created_at": "2026-07-31T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083190955960631488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 177,
+              "start": 159,
+              "tag": "TimeToChaelebrate"
+            },
+            {
+              "end": 189,
+              "start": 178,
+              "tag": "여름의인트로_김채원"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xupg4qczKy",
+              "end": 213,
+              "expanded_url": "https://x.com/FIMBASE/status/2083190955960631488/photo/1",
+              "media_key": "3_2083182413702914048",
+              "start": 190,
+              "url": "https://t.co/Xupg4qczKy"
+            },
+            {
+              "display_url": "pic.x.com/Xupg4qczKy",
+              "end": 213,
+              "expanded_url": "https://x.com/FIMBASE/status/2083190955960631488/photo/1",
+              "media_key": "3_2083182413690417152",
+              "start": 190,
+              "url": "https://t.co/Xupg4qczKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190955960631488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1291,
+          "like_count": 97,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "It’s almost time to celebrate CHAEWON’s birthday! Let's flood the timeline with love and birthday wishes for our beloved leader 🐯🎂 \n\nTIME TO CELEBRATE CHAEWON\n#TimeToChaelebrate\n#여름의인트로_김채원 https://t.co/Xupg4qczKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10321,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5459
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T11:25:00.000Z",
+        "description": "FIMBASE is dedicated to delivering the latest news and updates on #LE_SSERAFIM #르세라핌 | Turn on 🔔 notifications to stay updated!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 66,
+                "tag": "LE_SSERAFIM"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "르세라핌"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/8arBXBRYdC"
+              }
+            ]
+          }
+        },
+        "id": "1899058813745209344",
+        "location": "📩 fimbaseinquiries@gmail.com",
+        "name": "FIMBASE",
+        "pinned_tweet_id": "2064726958836269297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055664876803301377/Q-vZw-12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25687,
+          "following_count": 80,
+          "like_count": 11049,
+          "listed_count": 133,
+          "media_count": 7226,
+          "tweet_count": 12165
+        },
+        "url": "https://t.co/8arBXBRYdC",
+        "username": "FIMBASE",
+        "verified": true
+      }
+    ]
+  }
+}

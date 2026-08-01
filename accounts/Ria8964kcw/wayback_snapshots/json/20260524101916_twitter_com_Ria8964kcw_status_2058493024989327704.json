@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058493024989327704",
+    "created_at": "2026-05-24T10:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058493024989327704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964tiananmens…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/8964tiananmens/status/2058469565131313153",
+          "start": 2,
+          "url": "https://t.co/irLt2n93eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058493024989327704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058469565131313153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/irLt2n93eL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_2058469550820335616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEnJnWaoAARqCX.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058493024989327704",
+        "created_at": "2026-05-24T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058493024989327704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964tiananmens…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/8964tiananmens/status/2058469565131313153",
+              "start": 2,
+              "url": "https://t.co/irLt2n93eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058493024989327704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058469565131313153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/irLt2n93eL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058469550820335616"
+          ]
+        },
+        "author_id": "1984623209707384832",
+        "conversation_id": "2058340329200242838",
+        "created_at": "2026-05-24T08:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058469565131313153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQiPKXJBIA",
+              "end": 44,
+              "expanded_url": "https://x.com/8964TianAnMens/status/2058469565131313153/photo/1",
+              "media_key": "3_2058469550820335616",
+              "start": 21,
+              "url": "https://t.co/QQiPKXJBIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058469565131313153",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058340329200242838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 天上太阳红彤彤哎 https://t.co/QQiPKXJBIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058489321683140608/QV_Ej6NU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 256,
+          "like_count": 6112,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3062
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:09:47.000Z",
+        "description": "滞纳人应该冷静     二号机@8964TianAnMenss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "8964TianAnMenss"
+              }
+            ]
+          }
+        },
+        "id": "1984623209707384832",
+        "name": "习泽东与毛近平",
+        "pinned_tweet_id": "2017597926890213643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984626943904694272/Dm1RoiKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 315,
+          "like_count": 152,
+          "listed_count": 13,
+          "media_count": 1712,
+          "tweet_count": 5447
+        },
+        "username": "8964TianAnMens",
+        "verified": false
+      }
+    ]
+  }
+}

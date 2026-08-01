@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069793921505644629",
+    "created_at": "2026-06-24T14:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069793921505644629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/andy2000741/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/andy2000741/status/2069368039091716162",
+          "start": 13,
+          "url": "https://t.co/zpkevZtwE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069793921505644629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069368039091716162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一眼真的以为是潘泽豪 https://t.co/zpkevZtwE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2069368031130828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLffQqUaQAA0p31.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069793921505644629",
+        "created_at": "2026-06-24T14:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069793921505644629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/andy2000741/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/andy2000741/status/2069368039091716162",
+              "start": 13,
+              "url": "https://t.co/zpkevZtwE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069793921505644629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069368039091716162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一眼真的以为是潘泽豪 https://t.co/zpkevZtwE7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069368031130828800"
+          ]
+        },
+        "author_id": "1189552279495553024",
+        "conversation_id": "2069368039091716162",
+        "created_at": "2026-06-23T10:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069368039091716162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYIVt9bzc3",
+              "end": 28,
+              "expanded_url": "https://x.com/ANDY2000741/status/2069368039091716162/photo/1",
+              "media_key": "3_2069368031130828800",
+              "start": 5,
+              "url": "https://t.co/GYIVt9bzc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069368039091716162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 91876,
+          "like_count": 2830,
+          "quote_count": 8,
+          "reply_count": 77,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "跪下叫爹 https://t.co/GYIVt9bzc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 320,
+          "like_count": 9165,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 4966
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-30T14:39:09.000Z",
+        "description": "",
+        "id": "1189552279495553024",
+        "name": "舔舔舔舔舔舔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1424107404531159041/izVIv-5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 1229,
+          "like_count": 1183,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "ANDY2000741",
+        "verified": false
+      }
+    ]
+  }
+}

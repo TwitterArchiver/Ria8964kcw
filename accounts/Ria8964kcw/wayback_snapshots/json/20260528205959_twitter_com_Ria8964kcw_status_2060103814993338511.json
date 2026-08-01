@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060103814993338511",
+    "created_at": "2026-05-28T20:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060103814993338511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/privwendley/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/privwendley/status/2059840534953234573",
+          "start": 4,
+          "url": "https://t.co/uEsWBWclPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060103814993338511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059840534953234573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们谁 https://t.co/uEsWBWclPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11200,
+        "height": 720,
+        "media_key": "13_2059675738194714627",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059675738194714627/img/BV98ASn292e6TQrl.jpg",
+        "public_metrics": {
+          "view_count": 35552
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059675738194714627/vid/avc1/320x320/LKXVA_PE-jjIL4pc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059675738194714627/vid/avc1/540x540/g4cYZ33DHfvrSXmc.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059675738194714627/vid/avc1/720x720/RHjGdlLYTl0cu7dt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059675738194714627/pl/85VZliNDwaMSQvj0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060103814993338511",
+        "created_at": "2026-05-28T20:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060103814993338511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/privwendley/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/privwendley/status/2059840534953234573",
+              "start": 4,
+              "url": "https://t.co/uEsWBWclPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060103814993338511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059840534953234573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们谁 https://t.co/uEsWBWclPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059675738194714627"
+          ],
+          "media_source_tweet_id": [
+            "2059675795119890595"
+          ]
+        },
+        "author_id": "2042655089228128256",
+        "conversation_id": "2059840534953234573",
+        "created_at": "2026-05-28T03:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059840534953234573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eex5gQpn1O",
+              "end": 79,
+              "expanded_url": "https://x.com/davifhl/status/2059675795119890595/video/1",
+              "media_key": "13_2059675738194714627",
+              "start": 56,
+              "url": "https://t.co/Eex5gQpn1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059840534953234573",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 75463,
+          "like_count": 8649,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 2157
+        },
+        "reply_settings": "everyone",
+        "text": "Eu, depressão, autistismo, suicídio e o Twitter juntos  https://t.co/Eex5gQpn1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 296,
+          "like_count": 6742,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057165048156160/9VOrd3VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 571,
+          "like_count": 7556,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 456
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

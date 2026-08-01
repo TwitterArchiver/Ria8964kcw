@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056405861183205789",
+    "created_at": "2026-05-18T16:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056405861183205789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xtony1314/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xtony1314/status/2056320937931546714",
+          "start": 2,
+          "url": "https://t.co/rNacAa6jja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056405861183205789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056320937931546714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/rNacAa6jja"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056405861183205789",
+        "created_at": "2026-05-18T16:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056405861183205789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xtony1314/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xtony1314/status/2056320937931546714",
+              "start": 2,
+              "url": "https://t.co/rNacAa6jja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056405861183205789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056320937931546714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/rNacAa6jja"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589272961235619840",
+        "conversation_id": "2056320937931546714",
+        "created_at": "2026-05-18T10:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056320937931546714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056320937931546714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 62705,
+          "like_count": 442,
+          "quote_count": 5,
+          "reply_count": 271,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "妓女不靠性欲接客，作家也不靠灵感写作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 249,
+          "like_count": 5357,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2543
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T15:06:27.000Z",
+        "description": "独立交易员 | 网络作家 | 干学创始人\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，币股金银，就在币安：\nhttps://t.co/YaGEmixfJS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=RXZ4V…",
+                "end": 106,
+                "expanded_url": "http://binance.com/join?ref=RXZ4VBCK",
+                "start": 83,
+                "url": "https://t.co/YaGEmixfJS"
+              }
+            ]
+          }
+        },
+        "id": "1589272961235619840",
+        "location": "Telegram: @TonyTraderKing",
+        "name": "逍遥XTony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055962742474092544/OGL1hvtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95650,
+          "following_count": 264,
+          "like_count": 196,
+          "listed_count": 1326,
+          "media_count": 520,
+          "tweet_count": 1603
+        },
+        "username": "xtony1314",
+        "verified": true
+      }
+    ]
+  }
+}

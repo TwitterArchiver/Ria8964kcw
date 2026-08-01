@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062158954650906796",
+    "created_at": "2026-06-03T16:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062203212304953456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058484419581870080",
+          "start": 0,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062203212304953456",
+    "in_reply_to_user_id": "2058484419581870080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062158954650906796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12S1dsb 今天艺术"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2062158946052562944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5CornbYAAoSn1.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062158954650906796",
+        "created_at": "2026-06-03T16:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062203212304953456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058484419581870080",
+              "start": 0,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062203212304953456",
+        "in_reply_to_user_id": "2058484419581870080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062158954650906796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12S1dsb 今天艺术"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062158946052562944"
+          ]
+        },
+        "author_id": "2058484419581870080",
+        "conversation_id": "2062158954650906796",
+        "created_at": "2026-06-03T13:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062158954650906796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZD6nKbdeW",
+              "end": 27,
+              "expanded_url": "https://x.com/12S1dsb/status/2062158954650906796/photo/1",
+              "media_key": "3_2062158946052562944",
+              "start": 4,
+              "url": "https://t.co/2ZD6nKbdeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062158954650906796",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3/3 https://t.co/2ZD6nKbdeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈ftx｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 332,
+          "like_count": 7575,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 4054
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "从出生没少往死里嗫，打那起多活一天都是赚的/烟袋，有需要询问啊/死肥猪m你越骂我越开心/我要戒烟",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2061692565246885936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 231
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057821524695171566",
+    "created_at": "2026-05-23T01:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057993340289958160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973666613762334722",
+          "start": 0,
+          "username": "ethanhwong05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057993340289958160",
+    "in_reply_to_user_id": "1973666613762334722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057821524695171566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethanhwong05 尊嘟假嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057821524695171566",
+        "created_at": "2026-05-23T01:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057993340289958160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973666613762334722",
+              "start": 0,
+              "username": "ethanhwong05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057993340289958160",
+        "in_reply_to_user_id": "1973666613762334722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057821524695171566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethanhwong05 尊嘟假嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973666613762334722",
+        "conversation_id": "2057821524695171566",
+        "created_at": "2026-05-22T13:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057821524695171566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057821524695171566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们有一个人跟我前女友是互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 270,
+          "like_count": 5884,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2909
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T08:29:45.000Z",
+        "description": "05年ENTP｜練習ㄧㄥㄩˇ中｜喜欢🏐⚽️｜欢迎互fo～｜向我匿名提问https://t.co/yr66d8xwo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/WSH9DJ",
+                "end": 58,
+                "expanded_url": "http://qntwx.cn/WSH9DJ",
+                "start": 35,
+                "url": "https://t.co/yr66d8xwo5"
+              }
+            ]
+          }
+        },
+        "id": "1973666613762334722",
+        "name": "電鋸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057992125002997760/5D-06Mnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 99,
+          "like_count": 1814,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 373
+        },
+        "username": "ethanhwong05",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057995548129730761",
+    "created_at": "2026-05-23T01:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057995548129730761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gowonite/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/gowonite/status/2057668095192285686",
+          "start": 15,
+          "url": "https://t.co/udAdgcw8Jm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057995548129730761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057668095192285686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和我闺蜜玩亚服belike https://t.co/udAdgcw8Jm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2057668068252205057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5ONMHWQAE7Oeb.png",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057995548129730761",
+        "created_at": "2026-05-23T01:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057995548129730761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gowonite/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/gowonite/status/2057668095192285686",
+              "start": 15,
+              "url": "https://t.co/udAdgcw8Jm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057995548129730761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057668095192285686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我闺蜜玩亚服belike https://t.co/udAdgcw8Jm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057668068252205057"
+          ]
+        },
+        "author_id": "1428041835134521351",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057668095192285686",
+        "created_at": "2026-05-22T03:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057668095192285686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGNli2Fa9W",
+              "end": 58,
+              "expanded_url": "https://x.com/gowonite/status/2057668095192285686/photo/1",
+              "media_key": "3_2057668068252205057",
+              "start": 35,
+              "url": "https://t.co/pGNli2Fa9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057668095192285686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 866004,
+          "like_count": 7082,
+          "quote_count": 68,
+          "reply_count": 97,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "okay let me stop queuing comp solo https://t.co/pGNli2Fa9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 270,
+          "like_count": 5885,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2910
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:11:58.000Z",
+        "description": "we played hide and seek in waterfalls",
+        "id": "1428041835134521351",
+        "location": "silent hill",
+        "name": "annalise",
+        "pinned_tweet_id": "1470990568125878275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030938280405991424/QnxVfJyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10561,
+          "following_count": 566,
+          "like_count": 311649,
+          "listed_count": 36,
+          "media_count": 52120,
+          "tweet_count": 182059
+        },
+        "username": "gowonite",
+        "verified": false
+      }
+    ]
+  }
+}

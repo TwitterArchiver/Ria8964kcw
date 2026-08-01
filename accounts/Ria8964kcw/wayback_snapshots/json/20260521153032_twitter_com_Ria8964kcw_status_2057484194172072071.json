@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057367535784456390",
+    "created_at": "2026-05-21T15:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057484194172072071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818311782089519104",
+          "start": 0,
+          "username": "973646l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057484194172072071",
+    "in_reply_to_user_id": "1818311782089519104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057367535784456390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@973646l 鸡你太美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057367522626932737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI083IaakAEGS6d.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057367535784456390",
+        "created_at": "2026-05-21T15:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057484194172072071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818311782089519104",
+              "start": 0,
+              "username": "973646l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057484194172072071",
+        "in_reply_to_user_id": "1818311782089519104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057367535784456390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@973646l 鸡你太美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057367522626932737"
+          ]
+        },
+        "author_id": "1818311782089519104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057367535784456390",
+        "created_at": "2026-05-21T07:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057367535784456390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOcc3OaoRL",
+              "end": 82,
+              "expanded_url": "https://x.com/973646l/status/2057367535784456390/photo/1",
+              "media_key": "3_2057367522626932737",
+              "start": 59,
+              "url": "https://t.co/bOcc3OaoRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057367535784456390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19438,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这婊子你妈逼的全家死绝了，真欠操就去做鸡，赶紧来个人把她开了气死老子了气死我了气死我了我操我操我操啊啊啊啊啊啊啊啊啊 https://t.co/bOcc3OaoRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 270,
+          "like_count": 5774,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2799
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T15:45:36.000Z",
+        "description": "别管我",
+        "id": "1818311782089519104",
+        "name": "闹麻了",
+        "pinned_tweet_id": "2044650911512121470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054160202165813248/mYr6A9gV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 56,
+          "like_count": 1013,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 811
+        },
+        "username": "973646l",
+        "verified": false
+      }
+    ]
+  }
+}

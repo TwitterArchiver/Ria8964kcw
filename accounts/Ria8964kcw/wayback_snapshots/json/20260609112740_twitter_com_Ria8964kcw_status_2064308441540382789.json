@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064255619700576555",
+    "created_at": "2026-06-09T11:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064308441540382789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1231434335737110528",
+          "start": 0,
+          "username": "GMREDOFFICIAL60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064308441540382789",
+    "in_reply_to_user_id": "1231434335737110528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064305706908442729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMREDOFFICIAL60 🤍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064255619700576555",
+        "created_at": "2026-06-09T11:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064308441540382789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1231434335737110528",
+              "start": 0,
+              "username": "GMREDOFFICIAL60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064308441540382789",
+        "in_reply_to_user_id": "1231434335737110528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064305706908442729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMREDOFFICIAL60 🤍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1231434335737110528",
+        "conversation_id": "2064255619700576555",
+        "created_at": "2026-06-09T11:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064305706908442729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064305706908442729",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064255619700576555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 真替你高兴，感受自由吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 329,
+          "like_count": 8068,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 4350
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-23T04:23:58.000Z",
+        "description": "已过气四年的人,删除了23年12月前所有推文｜思想变化:以前是马列毛主义极左,现在想成为卫理公会志愿者服务劳动群众｜大三政治学系,希望能考到哲学院｜渴望交流和学习\n声明:我坚决拥护中国共产党的领导,现在完全不认同曾经发表的所有不当言论,此账号以后仅用于了解星战系列影讯,分享日常,进行无关政治的学习交流,绝不会涉政！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/GMREDOFFICIAL60",
+                "end": 23,
+                "expanded_url": "https://x.com/GMREDOFFICIAL60",
+                "start": 0,
+                "url": "https://t.co/yl26pe2QvW"
+              }
+            ]
+          }
+        },
+        "id": "1231434335737110528",
+        "location": "✠",
+        "name": "R2D2归来，看后传土崩瓦解，正传三部曲复兴之日已经到来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036486211309883392/-eEn6_BU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 202,
+          "like_count": 2411,
+          "listed_count": 16,
+          "media_count": 46,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/yl26pe2QvW",
+        "username": "GMREDOFFICIAL60",
+        "verified": false
+      }
+    ]
+  }
+}

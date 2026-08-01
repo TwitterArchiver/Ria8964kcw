@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2071347199280332922",
+    "created_at": "2026-06-30T04:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071815826945314905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        },
+        {
+          "end": 21,
+          "id": "1247054463329656832",
+          "start": 12,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071815826945314905",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071774042403835959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 @quasarne 我看完哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2071347199280332922",
+        "created_at": "2026-06-30T04:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071815826945314905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            },
+            {
+              "end": 21,
+              "id": "1247054463329656832",
+              "start": 12,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071815826945314905",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071774042403835959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 @quasarne 我看完哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "conversation_id": "2071347199280332922",
+        "created_at": "2026-06-30T01:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071774042403835959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071774042403835959",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071347199280332922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 一键查询vibe coding哥智力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 328,
+          "like_count": 9423,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 5121
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 纯1正太控 | \n眼熟的会回fo，直fo的都是好人喵 | \n爱人@JS_W417 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "JS_W417"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988291571474432/lv_XdAWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 324,
+          "like_count": 2564,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3123
+        },
+        "url": "",
+        "username": "Alamida001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla バカ SAD｜數碼/科幻/政治/Wikier｜ 🚩◼️ libertarian socialism🌹｜🏳️‍🌈gay/pan🏳️‍⚧️ 正太控｜ 🌐漢語 吴、普/English OK/打卡Deutsch吗｜安人Alt @JunenKim ｜目前不太确定该发什么…大概是当QQ空间。有人找主包聊天吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 113,
+                "username": "JunenKim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066762624986128384/QLOsTOqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1124,
+          "like_count": 83755,
+          "listed_count": 6,
+          "media_count": 1394,
+          "tweet_count": 17996
+        },
+        "url": "",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

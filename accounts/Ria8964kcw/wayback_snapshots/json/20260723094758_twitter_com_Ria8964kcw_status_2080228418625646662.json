@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1296834355491348481",
+          "name": "Weverse"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296834355491348481",
+          "name": "Weverse"
+        }
+      }
+    ],
+    "conversation_id": "2080228418625646662",
+    "created_at": "2026-07-23T09:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080228418625646662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/withchaewon/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/withchaewon/status/2080121623416594907",
+          "start": 7,
+          "url": "https://t.co/bibVII5IiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080228418625646662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080121623416594907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我姐姐好贴心 https://t.co/bibVII5IiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43566,
+        "height": 2880,
+        "media_key": "13_2080119846138945537",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080119846138945537/img/CwQVuHOxUXeXllM4.jpg",
+        "public_metrics": {
+          "view_count": 83749
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080119846138945537/vid/avc1/2160x2880/VBwxS8EKf7LUZnqZ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080119846138945537/vid/avc1/320x426/3iR-LB8DvEoPKK6F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080119846138945537/vid/avc1/480x640/YdFldb1sqQM0vHdF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080119846138945537/vid/avc1/720x960/Zeim9ZxHdyjGZMAY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080119846138945537/pl/DGVBbJN6NnyOCVMD.m3u8?v=218"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080119846138945537/vid/avc1/1080x1440/TSe22yYBGZ3lbSnS.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1296834355491348481",
+              "name": "Weverse"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296834355491348481",
+              "name": "Weverse"
+            }
+          }
+        ],
+        "conversation_id": "2080228418625646662",
+        "created_at": "2026-07-23T09:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080228418625646662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/withchaewon/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/withchaewon/status/2080121623416594907",
+              "start": 7,
+              "url": "https://t.co/bibVII5IiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080228418625646662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080121623416594907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我姐姐好贴心 https://t.co/bibVII5IiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080119846138945537"
+          ]
+        },
+        "author_id": "1798457626826776576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1296834355491348481",
+              "name": "Weverse"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296834355491348481",
+              "name": "Weverse"
+            }
+          }
+        ],
+        "conversation_id": "2080121623416594907",
+        "created_at": "2026-07-23T02:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080121623416594907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NF7f6CU7aH",
+              "end": 296,
+              "expanded_url": "https://x.com/withchaewon/status/2080121623416594907/video/1",
+              "media_key": "13_2080119846138945537",
+              "start": 273,
+              "url": "https://t.co/NF7f6CU7aH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080121623416594907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 319,
+                "start": 308,
+                "tag": "KIMCHAEWON"
+              },
+              {
+                "end": 324,
+                "start": 320,
+                "tag": "김채원"
+              },
+              {
+                "end": 338,
+                "start": 326,
+                "tag": "LE_SSERAFIM"
+              },
+              {
+                "end": 344,
+                "start": 339,
+                "tag": "르세라핌"
+              }
+            ]
+          },
+          "text": "Chaewon waited 30 seconds before speaking at the start of her Weverse Live because she knows fans without a digital membership have to watch an ad first and she didn’t want them to miss anything. It’s always the smaller things that show how deeply she cares\n\nOur endlessly thoughtful and considerate pupu 🫳\n\n#KIMCHAEWON #김채원 \n#LE_SSERAFIM #르세라핌"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 146895,
+          "like_count": 6214,
+          "quote_count": 64,
+          "reply_count": 11,
+          "retweet_count": 419
+        },
+        "reply_settings": "everyone",
+        "text": "Chaewon waited 30 seconds before speaking at the start of her Weverse Live because she knows fans without a digital membership have to watch an ad first and she didn’t want them to miss anything. It’s always the smaller things that show how deeply she cares\n\nOur endlessly https://t.co/NF7f6CU7aH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "我想自毁",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 324,
+          "like_count": 9818,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 5326
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T20:51:36.000Z",
+        "description": "always with #KIMCHAEWON of @le_sserafim | updates, translations, trends, projects & more 🐯🩶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 12,
+                "tag": "KIMCHAEWON"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "le_sserafim"
+              }
+            ]
+          }
+        },
+        "id": "1798457626826776576",
+        "name": "with chaewon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067335089714044928/SnGf6ywG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 46,
+          "like_count": 199,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "withchaewon",
+        "verified": true
+      }
+    ]
+  }
+}

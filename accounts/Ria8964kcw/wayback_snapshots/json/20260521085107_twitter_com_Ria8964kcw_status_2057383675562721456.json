@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057271013243802024",
+    "created_at": "2026-05-21T08:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057383675562721456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642454493836214272",
+          "start": 0,
+          "username": "Athelphi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057383675562721456",
+    "in_reply_to_user_id": "1642454493836214272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057271013243802024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Athelphi 我也想鲸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057271013243802024",
+        "created_at": "2026-05-21T08:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057383675562721456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642454493836214272",
+              "start": 0,
+              "username": "Athelphi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057383675562721456",
+        "in_reply_to_user_id": "1642454493836214272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057271013243802024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Athelphi 我也想鲸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642454493836214272",
+        "conversation_id": "2057271013243802024",
+        "created_at": "2026-05-21T01:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057271013243802024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057271013243802024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好心酸 都说正规一是绝大多数韩团一生唯一的一次闪光点 如果我们鲸妹能好好的出正规一会不会不一样呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 269,
+          "like_count": 5713,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2724
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T09:10:48.000Z",
+        "description": "he/him | \nExploring the echoes of Athelphi.\nlog @itsphilogic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "itsphilogic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bactz.com",
+                "end": 23,
+                "expanded_url": "http://bactz.com",
+                "start": 0,
+                "url": "https://t.co/5Uab6cgrc0"
+              }
+            ]
+          }
+        },
+        "id": "1642454493836214272",
+        "location": "GENsoul Studio",
+        "name": "Philo",
+        "pinned_tweet_id": "2052004904403964035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057042257434509312/Mszys7y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 623,
+          "like_count": 10435,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 5747
+        },
+        "url": "https://t.co/5Uab6cgrc0",
+        "username": "Athelphi",
+        "verified": true
+      }
+    ]
+  }
+}

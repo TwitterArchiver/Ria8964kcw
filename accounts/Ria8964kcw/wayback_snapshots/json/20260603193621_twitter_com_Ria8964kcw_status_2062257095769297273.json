@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2062189276746625211",
+    "created_at": "2026-06-03T19:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T20:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062257095769297273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839865017392394240",
+          "start": 0,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062257095769297273",
+    "in_reply_to_user_id": "1839865017392394240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062189276746625211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyun114514 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2062189276746625211",
+        "created_at": "2026-06-03T19:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062257095769297273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839865017392394240",
+              "start": 0,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062257095769297273",
+        "in_reply_to_user_id": "1839865017392394240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062189276746625211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyun114514 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839865017392394240",
+        "conversation_id": "2062189276746625211",
+        "created_at": "2026-06-03T15:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062189276746625211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062189276746625211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2797,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国語で「腊肉」という言葉の意味を知っていますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby🏳️‍⚧️泛性恋🏳️‍🌈ftx｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 296,
+          "like_count": 7608,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 4066
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@mmj199747\n一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2061319443222057072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 1327,
+          "like_count": 8757,
+          "listed_count": 4,
+          "media_count": 735,
+          "tweet_count": 4629
+        },
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

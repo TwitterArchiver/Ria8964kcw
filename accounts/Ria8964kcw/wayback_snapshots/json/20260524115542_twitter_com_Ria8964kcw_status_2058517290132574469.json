@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058423380756549965",
+    "created_at": "2026-05-24T11:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058517290132574469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629720140383391744",
+          "start": 0,
+          "username": "KenWong369"
+        },
+        {
+          "end": 24,
+          "id": "1618218284163424257",
+          "start": 12,
+          "username": "tuzaiainiyo"
+        },
+        {
+          "end": 41,
+          "id": "1705630684117610498",
+          "start": 25,
+          "username": "LemonTreeandSea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058517290132574469",
+    "in_reply_to_user_id": "1629720140383391744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058510028672561662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KenWong369 @tuzaiainiyo @LemonTreeandSea 在公司咱们就练起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058423380756549965",
+        "created_at": "2026-05-24T11:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058517290132574469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629720140383391744",
+              "start": 0,
+              "username": "KenWong369"
+            },
+            {
+              "end": 24,
+              "id": "1618218284163424257",
+              "start": 12,
+              "username": "tuzaiainiyo"
+            },
+            {
+              "end": 41,
+              "id": "1705630684117610498",
+              "start": 25,
+              "username": "LemonTreeandSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058517290132574469",
+        "in_reply_to_user_id": "1629720140383391744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058510028672561662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KenWong369 @tuzaiainiyo @LemonTreeandSea 在公司咱们就练起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629720140383391744",
+        "conversation_id": "2058423380756549965",
+        "created_at": "2026-05-24T11:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058510028672561662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618218284163424257",
+              "start": 0,
+              "username": "tuzaiainiyo"
+            },
+            {
+              "end": 29,
+              "id": "1705630684117610498",
+              "start": 13,
+              "username": "LemonTreeandSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058510028672561662",
+        "in_reply_to_user_id": "1618218284163424257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058505496357990766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzaiainiyo @LemonTreeandSea 英语还是要用起来啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 6152,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3073
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T05:49:11.000Z",
+        "description": "🤖06年AI本科\n📌持续探索：AI｜Web3｜投资 \n📝记录从0到财富自由之路\n💪 从前是个梦想家，现在当个实干家\n 📢All for fun",
+        "id": "1629720140383391744",
+        "location": "Hong Kong",
+        "name": "Ken Wong",
+        "pinned_tweet_id": "2057821676533071912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629720863439466497/GHA72g1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 439,
+          "like_count": 2341,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 757
+        },
+        "username": "KenWong369",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T12:05:00.000Z",
+        "description": "Pain past is pleasure!\n记录我的碎碎念\n坚持Alpha\n地球online玩家\n正常人 玩推只是为了真正的见众生",
+        "id": "1618218284163424257",
+        "location": "California, USA",
+        "name": "Fred",
+        "pinned_tweet_id": "1757785515011756358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756863027910225920/0_Tg-YCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 190,
+          "like_count": 1989,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 531
+        },
+        "username": "tuzaiainiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "是学生♥️一个向往幸福生活的孩子😋在爱尔兰上学，希望能在世界上交到更多的朋友～蓝v蓝v来互关喵🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLZa19"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "派大星派小萌～🇮🇪",
+        "pinned_tweet_id": "1875285401700884900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873912756128153600/b7Q3bgbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 664,
+          "like_count": 23870,
+          "listed_count": 28,
+          "media_count": 545,
+          "tweet_count": 12254
+        },
+        "url": "https://t.co/VORKWLZa19",
+        "username": "LemonTreeandSea",
+        "verified": true
+      }
+    ]
+  }
+}

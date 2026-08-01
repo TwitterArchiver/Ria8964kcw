@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061615610149392626",
+    "created_at": "2026-06-02T01:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061615610149392626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/t_tuelhinhos/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/t_tuelhinhos/status/2061417488127291831",
+          "start": 7,
+          "url": "https://t.co/oFDzwjxoS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061615610149392626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061417488127291831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃呃骚兔子 https://t.co/oFDzwjxoS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6900,
+        "height": 1280,
+        "media_key": "13_2061339751244857344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061339751244857344/img/ajTFZ3zAToHH8E72.jpg",
+        "public_metrics": {
+          "view_count": 16262
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061339751244857344/vid/avc1/320x568/YgywdSWeWnpfPeQa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061339751244857344/vid/avc1/480x852/KtkIC_4XkafDg1hs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061339751244857344/vid/avc1/720x1280/TTIIanWS65cw4t8C.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061339751244857344/pl/3xxp-O3-J7S40Dxa.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061615610149392626",
+        "created_at": "2026-06-02T01:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061615610149392626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/t_tuelhinhos/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/t_tuelhinhos/status/2061417488127291831",
+              "start": 7,
+              "url": "https://t.co/oFDzwjxoS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061615610149392626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061417488127291831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃呃骚兔子 https://t.co/oFDzwjxoS5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061339751244857344"
+          ]
+        },
+        "author_id": "1562677302143565824",
+        "conversation_id": "2061417488127291831",
+        "created_at": "2026-06-01T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061417488127291831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqebQI4t2w",
+              "end": 90,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2061417488127291831/video/1",
+              "media_key": "13_2061339751244857344",
+              "start": 67,
+              "url": "https://t.co/PqebQI4t2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061417488127291831",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 57802,
+          "like_count": 2659,
+          "quote_count": 33,
+          "reply_count": 16,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "Gente, acho que tem algo estranho com meu coelho... isso é normal? https://t.co/PqebQI4t2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 322,
+          "like_count": 7407,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3916
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T05:44:49.000Z",
+        "description": "Está é uma pagina de compilação e coleção de conteúdos sobre coelho, vale ressaltar que não sou dono de nenhum dos conteúdos postados!",
+        "id": "1562677302143565824",
+        "location": "Aos pés da Yggdrasil",
+        "name": "Tuelhinhos 🐇",
+        "pinned_tweet_id": "2033647891131076800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970638790797488128/qiNeFgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5062,
+          "following_count": 73,
+          "like_count": 46974,
+          "listed_count": 23,
+          "media_count": 5547,
+          "tweet_count": 19195
+        },
+        "username": "t_tuelhinhos",
+        "verified": false
+      }
+    ]
+  }
+}

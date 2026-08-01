@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082109741887795241",
+    "created_at": "2026-07-28T14:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082109741887795241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyingww/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xiaoyingww/status/2080567721209536887",
+          "start": 14,
+          "url": "https://t.co/Xi7ue3jttb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082109741887795241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080567721209536887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宫胁咲良大胆健身，gogo https://t.co/Xi7ue3jttb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5081,
+        "height": 1280,
+        "media_key": "13_2080567651684765696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080567651684765696/img/PqGeVJIjS7H5nj04.jpg",
+        "public_metrics": {
+          "view_count": 3223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080567651684765696/vid/avc1/320x568/M2wKmOHpwXCyumSz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080567651684765696/vid/avc1/480x852/x4UtK6RKMjQtSMMN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080567651684765696/vid/avc1/720x1280/JfG8Q604oCx9l_nH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080567651684765696/pl/V5GM6_CO9itI8SsV.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2080567651684728832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-pQYHWQAAJCfz.jpg",
+        "width": 970
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2080567651789631488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-pQYgW8AAPkbx.jpg",
+        "width": 949
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2080567651676360704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-pQYFWkAAkQau.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082109741887795241",
+        "created_at": "2026-07-28T14:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109741887795241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyingww/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xiaoyingww/status/2080567721209536887",
+              "start": 14,
+              "url": "https://t.co/Xi7ue3jttb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109741887795241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080567721209536887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宫胁咲良大胆健身，gogo https://t.co/Xi7ue3jttb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080567651684765696",
+            "3_2080567651684728832",
+            "3_2080567651789631488",
+            "3_2080567651676360704"
+          ]
+        },
+        "author_id": "2066399268102127616",
+        "conversation_id": "2080567721209536887",
+        "created_at": "2026-07-24T08:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080567721209536887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "上海"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "telegram.me/+W37zEyO3_gYzO…",
+              "end": 123,
+              "expanded_url": "https://telegram.me/+W37zEyO3_gYzOWNl",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2079479469081792512/WlSb2gML?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079479469081792512/WlSb2gML?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://telegram.me/+W37zEyO3_gYzOWNl",
+              "url": "https://t.co/0fLY72TTny"
+            },
+            {
+              "display_url": "pic.x.com/MLFNmOTit5",
+              "end": 147,
+              "expanded_url": "https://x.com/xiaoyingWW/status/2080567721209536887/video/1",
+              "media_key": "13_2080567651684765696",
+              "start": 124,
+              "url": "https://t.co/MLFNmOTit5"
+            },
+            {
+              "display_url": "pic.x.com/MLFNmOTit5",
+              "end": 147,
+              "expanded_url": "https://x.com/xiaoyingWW/status/2080567721209536887/video/1",
+              "media_key": "3_2080567651684728832",
+              "start": 124,
+              "url": "https://t.co/MLFNmOTit5"
+            },
+            {
+              "display_url": "pic.x.com/MLFNmOTit5",
+              "end": 147,
+              "expanded_url": "https://x.com/xiaoyingWW/status/2080567721209536887/video/1",
+              "media_key": "3_2080567651789631488",
+              "start": 124,
+              "url": "https://t.co/MLFNmOTit5"
+            },
+            {
+              "display_url": "pic.x.com/MLFNmOTit5",
+              "end": 147,
+              "expanded_url": "https://x.com/xiaoyingWW/status/2080567721209536887/video/1",
+              "media_key": "3_2080567651676360704",
+              "start": 124,
+              "url": "https://t.co/MLFNmOTit5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080567721209536887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15684,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#上海 混血🇷🇺 IFBB PRO🇺🇸认证健身教练\n178CM｜健身6年\n留美多年，曾在🇫🇷🇨🇦🇸🇬等多国游学生活\n英语流利（美东口音）\n🛰️：xycoser1\n🐧：3925191783\n✈️万人群：https://t.co/0fLY72TTny https://t.co/MLFNmOTit5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "欢迎互b，感谢互b\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖💛🤍💜🖤｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 327,
+          "like_count": 10037,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 5393
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T05:57:03.000Z",
+        "description": "COSPLAY & 素人模特 | 一二线城市 \n审美在线，从不将就\n这里是我的作品小天地，分享COS日常、精致出片和生活点滴～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+W37zEyO3_gYzO…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+W37zEyO3_gYzOWNl",
+                "start": 0,
+                "url": "https://t.co/SBt0HjL77r"
+              }
+            ]
+          }
+        },
+        "id": "2066399268102127616",
+        "location": "这里联系我",
+        "name": "小樱cos（真人真照）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069119413387698177/eqKjcCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/SBt0HjL77r",
+        "username": "xiaoyingWW",
+        "verified": false
+      }
+    ]
+  }
+}

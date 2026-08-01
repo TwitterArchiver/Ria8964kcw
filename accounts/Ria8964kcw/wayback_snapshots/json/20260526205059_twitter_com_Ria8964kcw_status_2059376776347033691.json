@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059376776347033691",
+    "created_at": "2026-05-26T20:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T21:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059376776347033691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dongxiaojie99/…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/dongxiaojie99/status/2059161584078135523",
+          "start": 62,
+          "url": "https://t.co/qOygYd1QCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059376776347033691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059161584078135523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我楚蛮生物爹妈89.64万per person你们谁娶走赘走我免费再送你们个会打舞萌的生物哥，我就在家里收彩礼收赘礼笑呵呵 https://t.co/qOygYd1QCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2059161580634619904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOcjDTbwAA3AzN.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1676,
+        "media_key": "3_2059161581804777472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOcjHqa8AARETP.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059376776347033691",
+        "created_at": "2026-05-26T20:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059376776347033691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dongxiaojie99/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/dongxiaojie99/status/2059161584078135523",
+              "start": 62,
+              "url": "https://t.co/qOygYd1QCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059376776347033691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059161584078135523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我楚蛮生物爹妈89.64万per person你们谁娶走赘走我免费再送你们个会打舞萌的生物哥，我就在家里收彩礼收赘礼笑呵呵 https://t.co/qOygYd1QCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059161580634619904",
+            "3_2059161581804777472"
+          ]
+        },
+        "author_id": "1504295723277631489",
+        "conversation_id": "2059161584078135523",
+        "created_at": "2026-05-26T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059161584078135523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGzKXZIT51",
+              "end": 46,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2059161584078135523/photo/1",
+              "media_key": "3_2059161580634619904",
+              "start": 23,
+              "url": "https://t.co/RGzKXZIT51"
+            },
+            {
+              "display_url": "pic.x.com/RGzKXZIT51",
+              "end": 46,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2059161584078135523/photo/1",
+              "media_key": "3_2059161581804777472",
+              "start": 23,
+              "url": "https://t.co/RGzKXZIT51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059161584078135523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 161588,
+          "like_count": 200,
+          "quote_count": 1,
+          "reply_count": 188,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只感觉到好可怕，朋友圈记得一定要屏蔽父母！ https://t.co/RGzKXZIT51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 283,
+          "like_count": 6514,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3334
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T03:17:55.000Z",
+        "description": "杭州人\n\n小号 @dongfupo773\n\n广告真假自辩哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "dongfupo773"
+              }
+            ]
+          }
+        },
+        "id": "1504295723277631489",
+        "name": "董小姐的日常",
+        "pinned_tweet_id": "1879149685090451630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504297795658072067/U_UpJL-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239635,
+          "following_count": 33,
+          "like_count": 13566,
+          "listed_count": 310,
+          "media_count": 2752,
+          "tweet_count": 13981
+        },
+        "username": "dongxiaojie99",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

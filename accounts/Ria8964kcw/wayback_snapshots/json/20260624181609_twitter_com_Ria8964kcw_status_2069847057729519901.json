@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069823127450964156",
+    "created_at": "2026-06-24T18:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069847057729519901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1242408384336252929",
+          "start": 0,
+          "username": "A0LUxySUrldn9w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069847057729519901",
+    "in_reply_to_user_id": "1242408384336252929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069823127450964156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0LUxySUrldn9w0 说得好好🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2069823113899167744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl9J9vaUAAx4z2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069823127450964156",
+        "created_at": "2026-06-24T18:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069847057729519901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242408384336252929",
+              "start": 0,
+              "username": "A0LUxySUrldn9w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069847057729519901",
+        "in_reply_to_user_id": "1242408384336252929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069823127450964156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0LUxySUrldn9w0 说得好好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069823113899167744"
+          ]
+        },
+        "author_id": "1242408384336252929",
+        "conversation_id": "2069823127450964156",
+        "created_at": "2026-06-24T16:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069823127450964156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23kGFXfGLP",
+              "end": 49,
+              "expanded_url": "https://x.com/A0LUxySUrldn9w0/status/2069823127450964156/photo/1",
+              "media_key": "3_2069823113899167744",
+              "start": 26,
+              "url": "https://t.co/23kGFXfGLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069823127450964156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是去年高考季我在推上看到的，再转发回来，希望共勉 https://t.co/23kGFXfGLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 322,
+          "like_count": 9195,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 4979
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T11:10:26.000Z",
+        "description": "If I should meet thee\nAfter long years,\nHow should I greet thee?—\nWith silence and tears.\n提问箱：https://t.co/Wrdnw5UqHC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/A0LUxySUrldn9w…",
+                "end": 117,
+                "expanded_url": "https://ngl.link/A0LUxySUrldn9w078532",
+                "start": 94,
+                "url": "https://t.co/Wrdnw5UqHC"
+              }
+            ]
+          }
+        },
+        "id": "1242408384336252929",
+        "location": "小马利亚",
+        "name": "花散里翎音",
+        "pinned_tweet_id": "2055581176719704119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055277906759417856/3R3p2LX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 405,
+          "like_count": 6283,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 3771
+        },
+        "url": "",
+        "username": "A0LUxySUrldn9w0",
+        "verified": false
+      }
+    ]
+  }
+}

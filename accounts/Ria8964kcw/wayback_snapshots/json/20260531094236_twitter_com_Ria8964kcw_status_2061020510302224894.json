@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061020510302224894",
+    "created_at": "2026-05-31T09:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061020510302224894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dream_xyuuup/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/dream_xyuuup/status/2061011773961191550",
+          "start": 2,
+          "url": "https://t.co/Sxo5kqs8Uz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061020510302224894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061011773961191550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/Sxo5kqs8Uz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2061011761546096640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJovRwTbcAAe8VP.jpg",
+        "width": 466
+      },
+      {
+        "height": 1053,
+        "media_key": "3_2061011761546092545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJovRwTbYAEkEC3.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061020510302224894",
+        "created_at": "2026-05-31T09:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061020510302224894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dream_xyuuup/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dream_xyuuup/status/2061011773961191550",
+              "start": 2,
+              "url": "https://t.co/Sxo5kqs8Uz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061020510302224894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061011773961191550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/Sxo5kqs8Uz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061011761546096640",
+            "3_2061011761546092545"
+          ]
+        },
+        "author_id": "1726051028112744448",
+        "conversation_id": "2061011773961191550",
+        "created_at": "2026-05-31T09:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061011773961191550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzrNxA5eoS",
+              "end": 23,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2061011773961191550/photo/1",
+              "media_key": "3_2061011761546096640",
+              "start": 0,
+              "url": "https://t.co/FzrNxA5eoS"
+            },
+            {
+              "display_url": "pic.x.com/FzrNxA5eoS",
+              "end": 23,
+              "expanded_url": "https://x.com/Dream_xyuuup/status/2061011773961191550/photo/1",
+              "media_key": "3_2061011761546092545",
+              "start": 0,
+              "url": "https://t.co/FzrNxA5eoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061011773961191550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FzrNxA5eoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 309,
+          "like_count": 7187,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "mtx,her/they\n我很蠢你们要理解我\n*・x・*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7eym8"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "idontwannabeyouanymore",
+        "name": "弈鸠",
+        "pinned_tweet_id": "2055264508608970925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924129340592128/ItWjnHnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 634,
+          "like_count": 8386,
+          "listed_count": 0,
+          "media_count": 639,
+          "tweet_count": 6306
+        },
+        "url": "https://t.co/aWU4I7eym8",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

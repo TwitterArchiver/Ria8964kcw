@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2075215102480113925",
+    "created_at": "2026-07-09T14:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075227816879366533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "114382613",
+          "start": 0,
+          "username": "PrettiestBitch"
+        },
+        {
+          "end": 26,
+          "id": "2054568943256485888",
+          "start": 16,
+          "username": "Riafixcom"
+        },
+        {
+          "end": 59,
+          "id": "114382613",
+          "start": 44,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075227816879366533",
+    "in_reply_to_user_id": "114382613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075223761453015211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrettiestBitch @Riafixcom 比她好看的没她骚，比她骚的没她好看@PrettiestBitch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2075215102480113925",
+        "created_at": "2026-07-09T14:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075227816879366533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114382613",
+              "start": 0,
+              "username": "PrettiestBitch"
+            },
+            {
+              "end": 26,
+              "id": "2054568943256485888",
+              "start": 16,
+              "username": "Riafixcom"
+            },
+            {
+              "end": 59,
+              "id": "114382613",
+              "start": 44,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075227816879366533",
+        "in_reply_to_user_id": "114382613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075223761453015211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrettiestBitch @Riafixcom 比她好看的没她骚，比她骚的没她好看@PrettiestBitch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114382613",
+        "conversation_id": "2075215102480113925",
+        "created_at": "2026-07-09T14:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075223761453015211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 41,
+              "id": "2054568943256485888",
+              "start": 31,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075223761453015211",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075215102480113925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 刷了半天的Xd͎就她的主页能打✈️了 @Riafixcom  y;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 322,
+          "like_count": 9630,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "秦彻是一种处境",
+        "id": "114382613",
+        "name": "秦8彻9的6逼4",
+        "pinned_tweet_id": "2073808130379833497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074389840200966144/ydAO_9gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 99,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我辱跨那咋了？我辱顺那咋了？我辱女那咋了？我辱公畜那又咋了？我字典就是三个字那咋了？🥴🥴🥴\n哦对了我是那个利亚🥶🥶",
+        "id": "2054568943256485888",
+        "location": "中国的种姓制度为何如此残酷？🥺",
+        "name": "中国戒屌大学",
+        "pinned_tweet_id": "2074517782537126383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074809189021757440/13QdKX7q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 48,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

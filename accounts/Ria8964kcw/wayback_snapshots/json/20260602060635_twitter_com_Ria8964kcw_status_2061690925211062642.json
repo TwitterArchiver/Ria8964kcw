@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061686018177179780",
+    "created_at": "2026-06-02T06:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061690925211062642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568791831978323969",
+          "start": 0,
+          "username": "maopao_hfqy"
+        },
+        {
+          "end": 26,
+          "id": "1981638054688501760",
+          "start": 13,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061690925211062642",
+    "in_reply_to_user_id": "1568791831978323969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061686018177179780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maopao_hfqy @ashasw114514 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3736,
+        "media_key": "3_2061686010350551041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyUgM1WQAEBpdL.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061686018177179780",
+        "created_at": "2026-06-02T06:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061690925211062642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568791831978323969",
+              "start": 0,
+              "username": "maopao_hfqy"
+            },
+            {
+              "end": 26,
+              "id": "1981638054688501760",
+              "start": 13,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061690925211062642",
+        "in_reply_to_user_id": "1568791831978323969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061686018177179780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maopao_hfqy @ashasw114514 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061686010350551041"
+          ]
+        },
+        "author_id": "1568791831978323969",
+        "conversation_id": "2061686018177179780",
+        "created_at": "2026-06-02T05:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061686018177179780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1981638054688501760",
+              "start": 4,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0U9XYaHd2T",
+              "end": 41,
+              "expanded_url": "https://x.com/maopao_hfqy/status/2061686018177179780/photo/1",
+              "media_key": "3_2061686010350551041",
+              "start": 18,
+              "url": "https://t.co/0U9XYaHd2T"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "2061686018177179780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好看。 @ashasw114514 https://t.co/0U9XYaHd2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 323,
+          "like_count": 7450,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T02:41:43.000Z",
+        "description": "主包死了 上香扣1\n(呃，不是我怎么18了 补药啊。。。)",
+        "id": "1568791831978323969",
+        "location": "Toronto, Ontario",
+        "name": "东野奈兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806535551035609088/eDccGaZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10561,
+          "following_count": 1432,
+          "like_count": 43481,
+          "listed_count": 27,
+          "media_count": 1865,
+          "tweet_count": 10167
+        },
+        "username": "maopao_hfqy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n🫛：@rn1021929822675",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "rn1021929822675"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 3088,
+          "like_count": 6931,
+          "listed_count": 10,
+          "media_count": 555,
+          "tweet_count": 4606
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

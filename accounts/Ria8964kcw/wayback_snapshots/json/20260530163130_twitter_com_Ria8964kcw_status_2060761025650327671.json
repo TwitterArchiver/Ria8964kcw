@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060761025650327671",
+    "created_at": "2026-05-30T16:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060761025650327671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gothicvarangia…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/gothicvarangia/status/2056806665983308265",
+          "start": 12,
+          "url": "https://t.co/oFJcmAkkX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060761025650327671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056806665983308265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上数学课的懵逼程度： https://t.co/oFJcmAkkX2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8057,
+        "height": 576,
+        "media_key": "13_2056806622752567296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056806622752567296/img/mFInYCJrBbomfLIP.jpg",
+        "public_metrics": {
+          "view_count": 320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056806622752567296/vid/avc1/402x270/SK1e_h0Q4Z4pnjWN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056806622752567296/vid/avc1/536x360/yOAP_jkD9Y32rEur.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056806622752567296/vid/avc1/858x576/-olgijRxgXU3ACH7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056806622752567296/pl/ozfb3zaCdXYdPWUr.m3u8?tag=14"
+          }
+        ],
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060761025650327671",
+        "created_at": "2026-05-30T16:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060761025650327671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gothicvarangia…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/gothicvarangia/status/2056806665983308265",
+              "start": 12,
+              "url": "https://t.co/oFJcmAkkX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060761025650327671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056806665983308265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上数学课的懵逼程度： https://t.co/oFJcmAkkX2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056806622752567296"
+          ]
+        },
+        "author_id": "1918487868638466048",
+        "conversation_id": "2056806665983308265",
+        "created_at": "2026-05-19T18:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056806665983308265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KPoGhoVd9",
+              "end": 23,
+              "expanded_url": "https://x.com/Gothicvarangia/status/2056806665983308265/video/1",
+              "media_key": "13_2056806622752567296",
+              "start": 0,
+              "url": "https://t.co/6KPoGhoVd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056806665983308265",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 704,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6KPoGhoVd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 305,
+          "like_count": 7096,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3708
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T02:09:11.000Z",
+        "description": "esotericterrorfetishist varangian goth",
+        "id": "1918487868638466048",
+        "location": "The far north",
+        "name": "𝔄𝔩𝔢𝔵ᛣ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918488049568149504/6N5pSyoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 2819,
+          "like_count": 13469,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1172
+        },
+        "username": "Gothicvarangia",
+        "verified": false
+      }
+    ]
+  }
+}

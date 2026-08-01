@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070132646764741028",
+    "created_at": "2026-06-25T15:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070167341888143420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        },
+        {
+          "end": 25,
+          "id": "2054568943256485888",
+          "start": 15,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070167341888143420",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070164794028761198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon @Riafixcom 受不了热带"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070132646764741028",
+        "created_at": "2026-06-25T15:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070167341888143420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            },
+            {
+              "end": 25,
+              "id": "2054568943256485888",
+              "start": 15,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070167341888143420",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070164794028761198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon @Riafixcom 受不了热带"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2070132646764741028",
+        "created_at": "2026-06-25T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070164794028761198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054568943256485888",
+              "start": 0,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070164794028761198",
+        "in_reply_to_user_id": "2054568943256485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070132646764741028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riafixcom 海南不是有自贸区了，躺一下沙滩也好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 323,
+          "like_count": 9223,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 5006
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手\n宝见幺幺哒@imcutefate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "imcutefate"
+              }
+            ]
+          }
+        },
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "🌸礼志🌷🍭美妆🌈❤️面膜推荐",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 375,
+          "like_count": 58634,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 5376
+        },
+        "url": "",
+        "username": "yanyejilennon",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我要回我的小西天\n然后我比你可爱呀@ria8964kcw \n为什么中国的种姓制度如此残酷？🥺🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "ria8964kcw"
+              }
+            ]
+          }
+        },
+        "id": "2054568943256485888",
+        "location": "你不喜欢我我不喜欢你你为什么要点进来？此地只欢迎我心肝",
+        "name": "利亚鳄鱼韩民族解放军强势归来🐊🇮🇱看二元性别土崩瓦解🇺🇦骚人妖的时代就要到来🇺🇸🗽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066407413344075776/x6WnmNQd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 39,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 696
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

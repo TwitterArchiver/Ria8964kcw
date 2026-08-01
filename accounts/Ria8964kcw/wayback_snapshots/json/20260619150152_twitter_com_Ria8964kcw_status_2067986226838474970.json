@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067986226838474970",
+    "created_at": "2026-06-19T15:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067986226838474970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vesperanix/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/vesperanix/status/2067900151197487162",
+          "start": 13,
+          "url": "https://t.co/htGEg9VfbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067986226838474970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067900151197487162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这男大弟弟真骚，骚逼一个 https://t.co/htGEg9VfbI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2067900148479574016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKoOpUaQAADNd6.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067986226838474970",
+        "created_at": "2026-06-19T15:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067986226838474970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vesperanix/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/vesperanix/status/2067900151197487162",
+              "start": 13,
+              "url": "https://t.co/htGEg9VfbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067986226838474970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067900151197487162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这男大弟弟真骚，骚逼一个 https://t.co/htGEg9VfbI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067900148479574016"
+          ]
+        },
+        "author_id": "1887500913566490630",
+        "conversation_id": "2067900151197487162",
+        "created_at": "2026-06-19T09:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067900151197487162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmIkyFeNfw",
+              "end": 50,
+              "expanded_url": "https://x.com/vesperanix/status/2067900151197487162/photo/1",
+              "media_key": "3_2067900148479574016",
+              "start": 27,
+              "url": "https://t.co/jmIkyFeNfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067900151197487162",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 10114,
+          "like_count": 631,
+          "quote_count": 20,
+          "reply_count": 1,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "오른쪽 위 우양 진심 개못생겨서 네모의꿈 마려움 https://t.co/jmIkyFeNfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 337,
+          "like_count": 8803,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4774
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T13:57:53.000Z",
+        "description": "탱커님 로드호그하시고 딜러님 솔져하세요 힐은 없습니다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1112981368",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1112981368",
+                "start": 0,
+                "url": "https://t.co/ZpMTr4yGyW"
+              }
+            ]
+          }
+        },
+        "id": "1887500913566490630",
+        "name": "겨울귤",
+        "pinned_tweet_id": "2061817605342818588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376962025943040/8DWd1yAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 95,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/ZpMTr4yGyW",
+        "username": "vesperanix",
+        "verified": false
+      }
+    ]
+  }
+}

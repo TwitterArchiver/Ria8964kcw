@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2071469328072073294",
+    "created_at": "2026-06-29T08:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071506151364346254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738252244607512576",
+          "start": 0,
+          "username": "Gess828"
+        },
+        {
+          "end": 21,
+          "id": "1978032792383709184",
+          "start": 9,
+          "username": "Sabrina8964"
+        },
+        {
+          "end": 32,
+          "id": "2054568943256485888",
+          "start": 22,
+          "username": "Riafixcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071506151364346254",
+    "in_reply_to_user_id": "1738252244607512576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071505719288049767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gess828 @Sabrina8964 @Riafixcom 耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2071469328072073294",
+        "created_at": "2026-06-29T08:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071506151364346254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738252244607512576",
+              "start": 0,
+              "username": "Gess828"
+            },
+            {
+              "end": 21,
+              "id": "1978032792383709184",
+              "start": 9,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 32,
+              "id": "2054568943256485888",
+              "start": 22,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071506151364346254",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071505719288049767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gess828 @Sabrina8964 @Riafixcom 耍起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738252244607512576",
+        "conversation_id": "2071469328072073294",
+        "created_at": "2026-06-29T08:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071505719288049767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 23,
+              "id": "2054568943256485888",
+              "start": 13,
+              "username": "Riafixcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071505719288049767",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071469328072073294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 @Riafixcom 堡垒之夜玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 327,
+          "like_count": 9375,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 5103
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "我接ow/瓦娱乐\n我很喜欢玩游戏，周末可以找我打瓦\n互fo私我，偶尔发散生活游戏怨气",
+        "id": "1738252244607512576",
+        "name": "Naomi",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068410236831223809/BAYUaGot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 47,
+          "like_count": 3003,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Gess828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "Only God Was Above Us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "恋爱中的女孩为何如此悲伤",
+        "pinned_tweet_id": "2060029359701033379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069665327097483264/BWXDulXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 388,
+          "like_count": 24771,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 4404
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T14:27:14.000Z",
+        "description": "我要回我的小西天",
+        "id": "2054568943256485888",
+        "location": "中国的种姓制度为何如此残酷？🥺",
+        "name": "利亚鳄鱼韩民族解放军强势归来🐊🇮🇱看二元性别土崩瓦解🇺🇦骚人妖的时代就要到来🇺🇸🗽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070477744090279936/VwKcFVbb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 41,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "Riafixcom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038583021071134720"
+      ],
+      "media_source_tweet_id": [
+        "2038583290609725779"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068054952367509622",
+    "created_at": "2026-06-19T19:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068054952367509622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "主体性"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "npd"
+        },
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "asd"
+        },
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "神经多样性谱系"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "原生家庭"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "奥德赛时期"
+        },
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "购买力测评"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "东北"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "哈尔滨"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "曲婉婷"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "最好的安排"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "幺幺"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "龚源浩"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xqgsRlmN6Z",
+          "end": 98,
+          "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2038583290609725779/video/1",
+          "media_key": "13_2038583021071134720",
+          "start": 75,
+          "url": "https://t.co/xqgsRlmN6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068054952367509622",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#主体性 #npd #asd #神经多样性谱系 #原生家庭 #奥德赛时期 #购买力测评 #东北 #哈尔滨 #曲婉婷 #最好的安排 #幺幺 #龚源浩  https://t.co/xqgsRlmN6Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11966,
+        "height": 1920,
+        "media_key": "13_2038583021071134720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038583021071134720/img/DbP31BLY77BirEe7.jpg",
+        "public_metrics": {
+          "view_count": 113187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038583021071134720/vid/avc1/320x568/Dj9o62qptfWTsVC9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038583021071134720/vid/avc1/480x852/73s5rHj6xMvwoyIR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038583021071134720/vid/avc1/720x1280/bmgQLCu200uAfKB3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038583021071134720/pl/bBtmr-qNI_zz3NyJ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038583021071134720"
+          ],
+          "media_source_tweet_id": [
+            "2038583290609725779"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068054952367509622",
+        "created_at": "2026-06-19T19:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068054952367509622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "主体性"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "npd"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "asd"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "神经多样性谱系"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "原生家庭"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "奥德赛时期"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "购买力测评"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "东北"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "哈尔滨"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "曲婉婷"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "最好的安排"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "幺幺"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "龚源浩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqgsRlmN6Z",
+              "end": 98,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2038583290609725779/video/1",
+              "media_key": "13_2038583021071134720",
+              "start": 75,
+              "url": "https://t.co/xqgsRlmN6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068054952367509622",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#主体性 #npd #asd #神经多样性谱系 #原生家庭 #奥德赛时期 #购买力测评 #东北 #哈尔滨 #曲婉婷 #最好的安排 #幺幺 #龚源浩  https://t.co/xqgsRlmN6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 308,
+          "like_count": 8835,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 4795
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

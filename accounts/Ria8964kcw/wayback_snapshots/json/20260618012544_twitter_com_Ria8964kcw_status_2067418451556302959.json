@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067379138361688215",
+    "created_at": "2026-06-18T01:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067418451556302959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574361489468628992",
+          "start": 0,
+          "username": "119Calling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067418451556302959",
+    "in_reply_to_user_id": "1574361489468628992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067379138361688215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@119Calling_ 我觉得心的歌都是主歌比副歌耐听百倍，要不再观望观望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067379138361688215",
+        "created_at": "2026-06-18T01:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067418451556302959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574361489468628992",
+              "start": 0,
+              "username": "119Calling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067418451556302959",
+        "in_reply_to_user_id": "1574361489468628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067379138361688215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@119Calling_ 我觉得心的歌都是主歌比副歌耐听百倍，要不再观望观望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574361489468628992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1960941416030375936",
+              "name": "Hearts2Hearts"
+            }
+          }
+        ],
+        "conversation_id": "2067379138361688215",
+        "created_at": "2026-06-17T22:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067379138361688215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aboutmusicyt/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/aboutmusicyt/status/2066815639776321824",
+              "start": 53,
+              "url": "https://t.co/21xv1elZZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067379138361688215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066815639776321824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "你的意思是这个团是哪个出了focus和the chase和style的团吗好吗啊好吧我祝你成功吧什么鬼歌 https://t.co/21xv1elZZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 343,
+          "like_count": 8721,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 4727
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T11:33:37.000Z",
+        "description": "☥ en & ch | 追星 聽歌 我玩遊戲 我嗶嗶叭叭 | 🕊️ @PalomoLim / 👭 @Flowers8964 / mum @asahisuki0 ˚✧₊⁎⁺˳✧༚ ☥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "PalomoLim"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "asahisuki0"
+              }
+            ]
+          }
+        },
+        "id": "1574361489468628992",
+        "location": "the Observateur, standing",
+        "name": "𝘕⁺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715532153430017/Jgc1rnwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 980,
+          "like_count": 33292,
+          "listed_count": 3,
+          "media_count": 2236,
+          "tweet_count": 12550
+        },
+        "username": "119Calling_",
+        "verified": false
+      }
+    ]
+  }
+}

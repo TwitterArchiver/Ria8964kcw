@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2081037582503465421",
+    "created_at": "2026-07-25T15:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081037582503465421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ficokts/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ficokts/status/2080898875792220345",
+          "start": 11,
+          "url": "https://t.co/mbXxQFp3Zp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081037582503465421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080898875792220345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又他妈的在网上攻击我 https://t.co/mbXxQFp3Zp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2080898865939755008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODWflXaMAAp4Wx.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2081037582503465421",
+        "created_at": "2026-07-25T15:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081037582503465421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ficokts/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ficokts/status/2080898875792220345",
+              "start": 11,
+              "url": "https://t.co/mbXxQFp3Zp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081037582503465421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080898875792220345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又他妈的在网上攻击我 https://t.co/mbXxQFp3Zp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080898865939755008"
+          ]
+        },
+        "author_id": "1564088613427712000",
+        "conversation_id": "2080898875792220345",
+        "created_at": "2026-07-25T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080898875792220345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uF179f15LE",
+              "end": 35,
+              "expanded_url": "https://x.com/FicoKts/status/2080898875792220345/photo/1",
+              "media_key": "3_2080898865939755008",
+              "start": 12,
+              "url": "https://t.co/uF179f15LE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080898875792220345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 49607,
+          "like_count": 123,
+          "quote_count": 3,
+          "reply_count": 126,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话这种完全是傻子 https://t.co/uF179f15LE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "我想自毁",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 324,
+          "like_count": 9881,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 5344
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T03:12:49.000Z",
+        "description": "",
+        "id": "1564088613427712000",
+        "name": "Gemini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075875380444241920/2FdxLwTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 151,
+          "like_count": 9923,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "FicoKts",
+        "verified": false
+      }
+    ]
+  }
+}

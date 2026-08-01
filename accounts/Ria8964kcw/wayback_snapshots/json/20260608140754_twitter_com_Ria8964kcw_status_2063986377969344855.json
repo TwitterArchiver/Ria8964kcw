@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063986377969344855",
+    "created_at": "2026-06-08T14:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063986377969344855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dongbagel114/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/dongbagel114/status/2063958025631895552",
+          "start": 4,
+          "url": "https://t.co/zG4KxTQRCn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063986377969344855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063958025631895552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全我 https://t.co/zG4KxTQRCn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063986377969344855",
+        "created_at": "2026-06-08T14:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063986377969344855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dongbagel114/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/dongbagel114/status/2063958025631895552",
+              "start": 4,
+              "url": "https://t.co/zG4KxTQRCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063986377969344855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063958025631895552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全我 https://t.co/zG4KxTQRCn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692711484474929152",
+        "conversation_id": "2063958025631895552",
+        "created_at": "2026-06-08T12:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063958025631895552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redaction/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/redaction/status/2063897856264818813",
+              "start": 4,
+              "url": "https://t.co/sjZodHc37q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063958025631895552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063897856264818813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/sjZodHc37q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 328,
+          "like_count": 7987,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T01:34:11.000Z",
+        "description": "曲婉婷资深粉丝，喜欢东北臭脚白袜体育生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongbabysima.com",
+                "end": 23,
+                "expanded_url": "http://www.dongbabysima.com",
+                "start": 0,
+                "url": "https://t.co/lrqxU0nuoF"
+              }
+            ]
+          }
+        },
+        "id": "1692711484474929152",
+        "location": "安徽 南京",
+        "name": "爸爸输精管外的世界太残酷",
+        "pinned_tweet_id": "2006540361896964105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034183038855483392/B5y90pGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1429,
+          "like_count": 17135,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 6705
+        },
+        "url": "https://t.co/lrqxU0nuoF",
+        "username": "dongbagel114",
+        "verified": false
+      }
+    ]
+  }
+}

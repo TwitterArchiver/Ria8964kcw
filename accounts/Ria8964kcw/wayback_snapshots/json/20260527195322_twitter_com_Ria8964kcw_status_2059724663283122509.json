@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059538056877625584",
+    "created_at": "2026-05-27T19:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059724663283122509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1523294065063735298",
+          "start": 0,
+          "username": "Daryl336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059724663283122509",
+    "in_reply_to_user_id": "1523294065063735298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059538056877625584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daryl336 我操好想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2059538025302941699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTy7A-XYAMoPSq.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059538056877625584",
+        "created_at": "2026-05-27T19:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059724663283122509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1523294065063735298",
+              "start": 0,
+              "username": "Daryl336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059724663283122509",
+        "in_reply_to_user_id": "1523294065063735298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059538056877625584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daryl336 我操好想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059538025302941699"
+          ]
+        },
+        "author_id": "1523294065063735298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059538056877625584",
+        "created_at": "2026-05-27T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059538056877625584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQnzeAA3Ub",
+              "end": 35,
+              "expanded_url": "https://x.com/Daryl336/status/2059538056877625584/photo/1",
+              "media_key": "3_2059538025302941699",
+              "start": 12,
+              "url": "https://t.co/RQnzeAA3Ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059538056877625584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午餐（咖喱鸡肉芝士焗饭 https://t.co/RQnzeAA3Ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 292,
+          "like_count": 6638,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 3400
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T13:29:58.000Z",
+        "description": "全网最尊重东雪莲博主。星野酱：@777Nanami_Cute ｜莲宝：@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "777Nanami_Cute"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "AzumaSeren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/2VU2VE9tFl"
+              }
+            ]
+          }
+        },
+        "id": "1523294065063735298",
+        "location": "二次元世界",
+        "name": "東京の雪蓮い⛩️",
+        "pinned_tweet_id": "1795925402092785966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055311014925684736/8DfYFrNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 2975,
+          "like_count": 55909,
+          "listed_count": 21,
+          "media_count": 840,
+          "tweet_count": 4502
+        },
+        "url": "https://t.co/2VU2VE9tFl",
+        "username": "Daryl336",
+        "verified": false
+      }
+    ]
+  }
+}

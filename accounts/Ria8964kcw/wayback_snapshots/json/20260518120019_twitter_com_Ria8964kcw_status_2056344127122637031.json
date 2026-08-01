@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056344127122637031",
+    "created_at": "2026-05-18T12:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056344127122637031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2056187596515254573",
+          "start": 6,
+          "url": "https://t.co/92917Gy78W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056344127122637031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056187596515254573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "张彪子你好 https://t.co/92917Gy78W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_2056187587912761345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkLt5EbgAEhCdx.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056344127122637031",
+        "created_at": "2026-05-18T12:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056344127122637031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2056187596515254573",
+              "start": 6,
+              "url": "https://t.co/92917Gy78W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056344127122637031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056187596515254573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张彪子你好 https://t.co/92917Gy78W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056187587912761345"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2056187596515254573",
+        "created_at": "2026-05-18T01:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056187596515254573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQC8lUI3yz",
+              "end": 46,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2056187596515254573/photo/1",
+              "media_key": "3_2056187587912761345",
+              "start": 23,
+              "url": "https://t.co/XQC8lUI3yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056187596515254573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2505,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "你知道吗？\n42 年前的今天，张雪峰出生了。 https://t.co/XQC8lUI3yz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 245,
+          "like_count": 5301,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2520
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3610,
+          "following_count": 836,
+          "like_count": 20595,
+          "listed_count": 8,
+          "media_count": 1090,
+          "tweet_count": 6124
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

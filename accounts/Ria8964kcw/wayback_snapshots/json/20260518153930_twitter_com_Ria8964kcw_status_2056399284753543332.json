@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056399284753543332",
+    "created_at": "2026-05-18T15:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056399284753543332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaw/status/20…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/miaw/status/2056161593516605625",
+          "start": 2,
+          "url": "https://t.co/edNs7jViu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056399284753543332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056161593516605625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "舔 https://t.co/edNs7jViu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20526,
+        "height": 720,
+        "media_key": "13_2055959931237588992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055959931237588992/img/yV7iRIGGwDanHeo5.jpg",
+        "public_metrics": {
+          "view_count": 25499
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055959931237588992/vid/avc1/480x270/Dv6ud_fb6n-yfk6W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055959931237588992/vid/avc1/640x360/TV6NQBXkRApTSVIU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055959931237588992/vid/avc1/1280x720/cpRy71QHlJn744N1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055959931237588992/pl/nrSyx6sTiIQ4kpAA.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056399284753543332",
+        "created_at": "2026-05-18T15:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056399284753543332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaw/status/20…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/miaw/status/2056161593516605625",
+              "start": 2,
+              "url": "https://t.co/edNs7jViu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056399284753543332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056161593516605625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "舔 https://t.co/edNs7jViu1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055959931237588992"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2056161593516605625",
+        "created_at": "2026-05-17T23:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056161593516605625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXcKalzpr3",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaw/status/2056161593516605625/video/1",
+              "media_key": "13_2055959931237588992",
+              "start": 0,
+              "url": "https://t.co/iXcKalzpr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056161593516605625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 107105,
+          "like_count": 4220,
+          "quote_count": 84,
+          "reply_count": 15,
+          "retweet_count": 640
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iXcKalzpr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 249,
+          "like_count": 5352,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2538
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117450,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 279,
+          "media_count": 3063,
+          "tweet_count": 3092
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

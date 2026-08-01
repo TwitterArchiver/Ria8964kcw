@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061027934207684691",
+    "created_at": "2026-05-31T10:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061027934207684691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1796696056929140736",
+          "start": 3,
+          "username": "PxSoTWzy4n57838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061027934207684691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060992499632779664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PxSoTWzy4n57838: 卧槽南遥转发福利坤代邓小平被福利坤追着骂这件事我想到一次笑一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061027934207684691",
+        "created_at": "2026-05-31T10:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061027934207684691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1796696056929140736",
+              "start": 3,
+              "username": "PxSoTWzy4n57838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061027934207684691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060992499632779664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PxSoTWzy4n57838: 卧槽南遥转发福利坤代邓小平被福利坤追着骂这件事我想到一次笑一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796696056929140736",
+        "conversation_id": "2060992499632779664",
+        "created_at": "2026-05-31T07:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060992499632779664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060992499632779664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽南遥转发福利坤代邓小平被福利坤追着骂这件事我想到一次笑一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 309,
+          "like_count": 7195,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3762
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T00:12:43.000Z",
+        "description": "=驮作 你却爱着一个法国萝莉/深海少女",
+        "id": "1796696056929140736",
+        "name": "攻宝夹逼太紧把巨屌受夹射的那个夜晚",
+        "pinned_tweet_id": "2055602481120661655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060389436714795008/-ezvBxo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 515,
+          "like_count": 2879,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 3955
+        },
+        "username": "PxSoTWzy4n57838",
+        "verified": false
+      }
+    ]
+  }
+}

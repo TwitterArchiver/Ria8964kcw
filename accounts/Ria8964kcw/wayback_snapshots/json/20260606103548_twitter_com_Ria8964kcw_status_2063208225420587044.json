@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2063208225420587044",
+    "created_at": "2026-06-06T10:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063208225420587044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tmszhjh88/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/tmszhjh88/status/2063082489288196347",
+          "start": 9,
+          "url": "https://t.co/hrcyVCA8ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063208225420587044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063082489288196347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哼哼哼猫咪智商低 https://t.co/hrcyVCA8ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12586,
+        "height": 1280,
+        "media_key": "7_2063082425484562432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063082425484562432/pu/img/Opt_a-TW7VgVZtDV.jpg",
+        "public_metrics": {
+          "view_count": 44853
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063082425484562432/pu/vid/avc1/320x568/ARdPtXES7mcSg3te.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063082425484562432/pu/vid/avc1/480x852/tqvOFXA_NGWMf0uC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063082425484562432/pu/vid/avc1/720x1280/rDHa6C6jzqXdLLfG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063082425484562432/pu/pl/LQCEnAmsNRtjxadt.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2063208225420587044",
+        "created_at": "2026-06-06T10:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063208225420587044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tmszhjh88/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tmszhjh88/status/2063082489288196347",
+              "start": 9,
+              "url": "https://t.co/hrcyVCA8ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063208225420587044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063082489288196347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哼哼哼猫咪智商低 https://t.co/hrcyVCA8ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063082425484562432"
+          ]
+        },
+        "author_id": "1588432153880064001",
+        "conversation_id": "2063082489288196347",
+        "created_at": "2026-06-06T02:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063082489288196347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LQgPw9juM",
+              "end": 37,
+              "expanded_url": "https://x.com/tmszhjh88/status/2063082489288196347/video/1",
+              "media_key": "7_2063082425484562432",
+              "start": 14,
+              "url": "https://t.co/0LQgPw9juM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063082489288196347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 364,
+          "impression_count": 140966,
+          "like_count": 4731,
+          "quote_count": 28,
+          "reply_count": 17,
+          "retweet_count": 849
+        },
+        "reply_settings": "everyone",
+        "text": "Caught a seal https://t.co/0LQgPw9juM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 317,
+          "like_count": 7828,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 4211
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T07:31:16.000Z",
+        "description": "One cat, two cats, three cats, meow meow meow",
+        "id": "1588432153880064001",
+        "name": "Kathleen",
+        "pinned_tweet_id": "1979388048199864681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968663074258468864/l-wxj68u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34910,
+          "following_count": 7380,
+          "like_count": 42203,
+          "listed_count": 165,
+          "media_count": 22380,
+          "tweet_count": 25090
+        },
+        "username": "tmszhjh88",
+        "verified": false
+      }
+    ]
+  }
+}

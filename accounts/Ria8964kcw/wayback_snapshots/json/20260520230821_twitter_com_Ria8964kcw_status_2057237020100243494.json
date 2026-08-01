@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057223715805647095",
+    "created_at": "2026-05-20T23:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057237020100243494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880036832072617984",
+          "start": 0,
+          "username": "2091996981snow"
+        },
+        {
+          "end": 29,
+          "id": "1981638054688501760",
+          "start": 16,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057237020100243494",
+    "in_reply_to_user_id": "1880036832072617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057225659475255574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2091996981snow @ashasw114514 骚如货"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2027,
+        "media_key": "3_2057225653515100160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIy71QyWoAAbGgy.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057223715805647095",
+        "created_at": "2026-05-20T23:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057237020100243494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880036832072617984",
+              "start": 0,
+              "username": "2091996981snow"
+            },
+            {
+              "end": 29,
+              "id": "1981638054688501760",
+              "start": 16,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057237020100243494",
+        "in_reply_to_user_id": "1880036832072617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057225659475255574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2091996981snow @ashasw114514 骚如货"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057225653515100160"
+          ]
+        },
+        "author_id": "1880036832072617984",
+        "conversation_id": "2057223715805647095",
+        "created_at": "2026-05-20T22:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057225659475255574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tvtZM50Iw",
+              "end": 39,
+              "expanded_url": "https://x.com/2091996981snow/status/2057225659475255574/photo/1",
+              "media_key": "3_2057225653515100160",
+              "start": 16,
+              "url": "https://t.co/7tvtZM50Iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057225659475255574",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057223715805647095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 😁 https://t.co/7tvtZM50Iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 267,
+          "like_count": 5658,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2701
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜CryptoTrader\n爱国华侨｜知行合一走为上投降派\n大学退学｜海外躺平挂壁旅居宗师\n去过15个国家｜重生之我在阿根廷留学🇦🇷\n润学心术研究者｜LGBTQIA+友好🏳️‍🌈🏳️‍⚧️🍥\n买断制会员群和付费咨询服务请电邮联系Email：ChiangMaiSnow@proton.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3n9J…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3n9JMGTTkk9RUKsoC5VLjA?si=sGF1_BnufyT_Ynuf",
+                "start": 0,
+                "url": "https://t.co/YNUtWpM9h1"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "name": "清迈下小雪ChiangMaiSnow",
+        "pinned_tweet_id": "2041322174418452613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 182,
+          "like_count": 2218,
+          "listed_count": 7,
+          "media_count": 428,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/YNUtWpM9h1",
+        "username": "2091996981snow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 2924,
+          "like_count": 6726,
+          "listed_count": 8,
+          "media_count": 496,
+          "tweet_count": 4248
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

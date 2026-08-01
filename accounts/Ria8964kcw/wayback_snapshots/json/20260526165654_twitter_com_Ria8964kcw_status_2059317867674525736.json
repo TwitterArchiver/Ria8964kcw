@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059262200863396029",
+    "created_at": "2026-05-26T16:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059317867674525736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738252244607512576",
+          "start": 0,
+          "username": "Gess828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059317867674525736",
+    "in_reply_to_user_id": "1738252244607512576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059262200863396029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gess828 你到底咋了卧槽评论区全是机器人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059262191233339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP4DW_bEAAQ-AC.jpg",
+        "width": 521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059262200863396029",
+        "created_at": "2026-05-26T16:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059317867674525736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738252244607512576",
+              "start": 0,
+              "username": "Gess828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059317867674525736",
+        "in_reply_to_user_id": "1738252244607512576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059262200863396029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gess828 你到底咋了卧槽评论区全是机器人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059262191233339392"
+          ]
+        },
+        "author_id": "1738252244607512576",
+        "conversation_id": "2059262200863396029",
+        "created_at": "2026-05-26T13:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059262200863396029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i7YExbrNC",
+              "end": 28,
+              "expanded_url": "https://x.com/Gess828/status/2059262200863396029/photo/1",
+              "media_key": "3_2059262191233339392",
+              "start": 5,
+              "url": "https://t.co/6i7YExbrNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059262200863396029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑控一下 https://t.co/6i7YExbrNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 282,
+          "like_count": 6499,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T17:36:56.000Z",
+        "description": "生理女",
+        "id": "1738252244607512576",
+        "name": "圈圈噼",
+        "pinned_tweet_id": "1892938340040843705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042250179521499136/0jPJTq3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 186
+        },
+        "username": "Gess828",
+        "verified": false
+      }
+    ]
+  }
+}

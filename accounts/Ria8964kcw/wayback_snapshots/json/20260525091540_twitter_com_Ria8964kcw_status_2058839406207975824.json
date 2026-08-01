@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058839400814166016",
+        "3_2058839400809971713"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058839406207975824",
+    "created_at": "2026-05-25T09:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058839406207975824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DNHWDtVzQx",
+          "end": 59,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2058839406207975824/photo/1",
+          "media_key": "3_2058839400814166016",
+          "start": 36,
+          "url": "https://t.co/DNHWDtVzQx"
+        },
+        {
+          "display_url": "pic.x.com/DNHWDtVzQx",
+          "end": 59,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2058839406207975824/photo/1",
+          "media_key": "3_2058839400809971713",
+          "start": 36,
+          "url": "https://t.co/DNHWDtVzQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058839406207975824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1 谢谢真的假的 我这么聪明吗\np2 好呀好呀好呀 我也喜欢你aaa https://t.co/DNHWDtVzQx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058839406207975824].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058839406207975824",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058839406207975824"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2058839400814166016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ3ht8bQAAQogI.jpg",
+        "width": 1090
+      },
+      {
+        "height": 762,
+        "media_key": "3_2058839400809971713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ3ht7bQAEhmNO.jpg",
+        "width": 971
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 269,
+          "like_count": 6308,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3163
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

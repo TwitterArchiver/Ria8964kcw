@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070659864846561587",
+    "created_at": "2026-06-27T05:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070741837086896190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070741837086896190",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070659864846561587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 如果是去店里漂的 可以要赔偿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070659864846561587",
+        "created_at": "2026-06-27T05:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741837086896190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741837086896190",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070659864846561587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 如果是去店里漂的 可以要赔偿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2070659864846561587",
+        "created_at": "2026-06-27T00:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T01:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070659864846561587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070659864846561587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命。头发漂完流脓了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 324,
+          "like_count": 9307,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 5054
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男 接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064539358628052992/X3RQ0DMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 124,
+          "like_count": 11271,
+          "listed_count": 8,
+          "media_count": 367,
+          "tweet_count": 4494
+        },
+        "url": "",
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

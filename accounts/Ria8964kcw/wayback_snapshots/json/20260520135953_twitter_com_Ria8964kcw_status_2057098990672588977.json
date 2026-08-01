@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056785202505224536",
+    "created_at": "2026-05-20T13:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057098990672588977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973666613762334722",
+          "start": 0,
+          "username": "ethanhwong05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057098990672588977",
+    "in_reply_to_user_id": "1973666613762334722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057098176231059915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethanhwong05 你好 电锯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056785202505224536",
+        "created_at": "2026-05-20T13:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057098990672588977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973666613762334722",
+              "start": 0,
+              "username": "ethanhwong05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057098990672588977",
+        "in_reply_to_user_id": "1973666613762334722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057098176231059915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethanhwong05 你好 电锯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973666613762334722",
+        "conversation_id": "2056785202505224536",
+        "created_at": "2026-05-20T13:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057098176231059915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057098176231059915",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057098001374679504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw hello你好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 263,
+          "like_count": 5590,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2670
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T08:29:45.000Z",
+        "description": "我的梦想是变成幸福的人。 | 05年ENTP｜練習ㄧㄥㄩˇ中｜喜欢🏐⚽️｜ 主页充斥男孩无意义碎碎念日常｜精神状态敏感不稳定｜欢迎互fo～",
+        "id": "1973666613762334722",
+        "name": "電鋸",
+        "pinned_tweet_id": "2056996303721386269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018747709688315904/PPauUvD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 132,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 259
+        },
+        "username": "ethanhwong05",
+        "verified": false
+      }
+    ]
+  }
+}

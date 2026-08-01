@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1947615362536902656"
+      ],
+      "media_source_tweet_id": [
+        "1947615428567830678"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059912312270811487",
+    "created_at": "2026-05-28T08:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059912312270811487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/80ONNNvnEG",
+          "end": 34,
+          "expanded_url": "https://x.com/gayclm100100/status/1947615428567830678/video/1",
+          "media_key": "7_1947615362536902656",
+          "start": 11,
+          "url": "https://t.co/80ONNNvnEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059912312270811487",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "average东北狗 https://t.co/80ONNNvnEG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059912312270811487].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059912312270811487",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059912312270811487"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9033,
+        "height": 640,
+        "media_key": "7_1947615362536902656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1947615362536902656/pu/img/mPcKzRG67nu2-IB5.jpg",
+        "public_metrics": {
+          "view_count": 7438
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947615362536902656/pu/vid/avc1/320x562/7rk2CXRepo1j0mg0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1947615362536902656/pu/vid/avc1/364x640/iljoBqlSIRkMA77c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1947615362536902656/pu/pl/9RC5HUc2yOqV6aL1.m3u8?tag=12"
+          }
+        ],
+        "width": 364
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 295,
+          "like_count": 6703,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3447
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

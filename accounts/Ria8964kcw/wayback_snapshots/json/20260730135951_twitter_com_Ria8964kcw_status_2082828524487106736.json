@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082828524487106736",
+    "created_at": "2026-07-30T13:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082828524487106736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miku_suki39393…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/miku_suki393939/status/2082779463272878236",
+          "start": 11,
+          "url": "https://t.co/PYtNJEujmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082828524487106736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082779463272878236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想和范玉欣畅嗦pho https://t.co/PYtNJEujmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082779398818955265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeE1AQbAAEhmcS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082779398810574848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeE1AObIAAH1Q2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082828524487106736",
+        "created_at": "2026-07-30T13:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082828524487106736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miku_suki39393…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/miku_suki393939/status/2082779463272878236",
+              "start": 11,
+              "url": "https://t.co/PYtNJEujmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082828524487106736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082779463272878236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想和范玉欣畅嗦pho https://t.co/PYtNJEujmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082779398818955265",
+            "3_2082779398810574848"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082779463272878236",
+        "created_at": "2026-07-30T10:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082779463272878236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e47S70LzFU",
+              "end": 52,
+              "expanded_url": "https://x.com/miku_suki393939/status/2082779463272878236/photo/1",
+              "media_key": "3_2082779398818955265",
+              "start": 29,
+              "url": "https://t.co/e47S70LzFU"
+            },
+            {
+              "display_url": "pic.x.com/e47S70LzFU",
+              "end": 52,
+              "expanded_url": "https://x.com/miku_suki393939/status/2082779463272878236/photo/1",
+              "media_key": "3_2082779398810574848",
+              "start": 29,
+              "url": "https://t.co/e47S70LzFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082779463272878236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "來tomoe家裡玩\n和tomoe一起吃個越南粉\n越南春卷 https://t.co/e47S70LzFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 353,
+          "like_count": 10200,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 5426
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "湖北宜昌陽痿男熊鸿宇",
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "陽痿男熊鸿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4152,
+          "following_count": 2042,
+          "like_count": 163607,
+          "listed_count": 16,
+          "media_count": 4666,
+          "tweet_count": 71111
+        },
+        "url": "",
+        "username": "miku_suki393939",
+        "verified": false
+      }
+    ]
+  }
+}

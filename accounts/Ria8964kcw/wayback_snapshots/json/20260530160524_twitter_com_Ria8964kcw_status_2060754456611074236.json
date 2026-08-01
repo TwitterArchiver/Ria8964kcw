@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060754456611074236",
+    "created_at": "2026-05-30T16:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060754456611074236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2091996981snow…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/2091996981snow/status/2060737699691020642",
+          "start": 18,
+          "url": "https://t.co/TT5hmRejvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060754456611074236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060737699691020642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真好，换我这种贱人，早把2做了个遍 https://t.co/TT5hmRejvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060737691679895553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk2AyfWsAEnADF.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060737691667345409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk2AycXMAEisMX.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060754456611074236",
+        "created_at": "2026-05-30T16:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060754456611074236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2091996981snow…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/2091996981snow/status/2060737699691020642",
+              "start": 18,
+              "url": "https://t.co/TT5hmRejvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060754456611074236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060737699691020642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真好，换我这种贱人，早把2做了个遍 https://t.co/TT5hmRejvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060737691679895553",
+            "3_2060737691667345409"
+          ]
+        },
+        "author_id": "1880036832072617984",
+        "conversation_id": "2060737699691020642",
+        "created_at": "2026-05-30T14:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060737699691020642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyB7SIjljT",
+              "end": 181,
+              "expanded_url": "https://x.com/2091996981snow/status/2060737699691020642/photo/1",
+              "media_key": "3_2060737691679895553",
+              "start": 158,
+              "url": "https://t.co/gyB7SIjljT"
+            },
+            {
+              "display_url": "pic.x.com/gyB7SIjljT",
+              "end": 181,
+              "expanded_url": "https://x.com/2091996981snow/status/2060737699691020642/photo/1",
+              "media_key": "3_2060737691667345409",
+              "start": 158,
+              "url": "https://t.co/gyB7SIjljT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060737699691020642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实2022-2023我在国内还注册了一家公司 注册资本50000人民币（2021炒币赚的）运营了一年没赚到钱也没亏钱 出国之前给注销了\n\n解答一下朋友经常问的两个问题：\n\n1.为什么不用公司刷流水申请发达国家签证？\n对曰：2020—2023三年大防疫期间中国停止了护照办理 2023年重新开放我拿到护照立即就润了 兵贵神速 没时间操作 而且实际也没多少钱\n\n2.为什么不用公司抵押撸贷款再润？\n对曰：虽然本人道德水平极低 但是契约精神是绝对底线 而且其他法人都是我的朋友 绝无任何可能陷友人于不义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实2022-2023我在国内还注册了一家公司 注册资本50000人民币（2021炒币赚的）运营了一年没赚到钱也没亏钱 出国之前给注销了\n\n解答一下朋友经常问的两个问题：\n\n1.为什么不用公司刷流水申请发达国家签证？\n对曰：2020—2023三年大防疫期间中国停止了护照办理 2023年重新开放我拿到护照立即就润了 https://t.co/gyB7SIjljT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 306,
+          "like_count": 7094,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3705
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜CryptoTrader\n爱国华侨｜知行合一走为上投降派\n大学退学｜海外低成本挂壁旅居宗师\n去过15个国家｜重生之我在阿根廷留学🇦🇷\n润学心术研究者｜备用号@478182920snow\n吃饭交配 即是人伦物理\n除却吃饭交配 无伦物矣\n买断制会员群和付费咨询服务\n请私信或电邮联系获取详情😇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "478182920snow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiangmaisnow…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiangmaisnow?si=MEPssCH6Mk9I8hOi",
+                "start": 0,
+                "url": "https://t.co/PfeWyryvYm"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "name": "清迈下小雪ChiangMaiSnow",
+        "pinned_tweet_id": "2041322174418452613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 174,
+          "like_count": 2576,
+          "listed_count": 7,
+          "media_count": 467,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/PfeWyryvYm",
+        "username": "2091996981snow",
+        "verified": true
+      }
+    ]
+  }
+}

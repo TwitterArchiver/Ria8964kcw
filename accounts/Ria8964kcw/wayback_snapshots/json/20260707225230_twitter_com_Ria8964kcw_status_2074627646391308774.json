@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2074518781674877251",
+    "created_at": "2026-07-07T22:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T23:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074627646391308774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999360558223831040",
+          "start": 0,
+          "username": "Zerstoorer23__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074627646391308774",
+    "in_reply_to_user_id": "1999360558223831040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074518781674877251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23__ 测人心没绷着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2074518781674877251",
+        "created_at": "2026-07-07T22:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074627646391308774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999360558223831040",
+              "start": 0,
+              "username": "Zerstoorer23__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074627646391308774",
+        "in_reply_to_user_id": "1999360558223831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074518781674877251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23__ 测人心没绷着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999360558223831040",
+        "conversation_id": "2074518781674877251",
+        "created_at": "2026-07-07T15:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074518781674877251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zerstoorer23__…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Zerstoorer23__/status/2073780834952458573",
+              "start": 141,
+              "url": "https://t.co/pzZwekjoYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074518781674877251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 433,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073780834952458573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时我朋友发192分的成绩单钓鱼被骂得挺惨，我这个347分倒是稍好一点，除了极个别异类展现出了较强攻击性，大家的态度或多或少都没有恶意\n\n网络上发分数的大多数是500+,600+，很少见到有300,400分段的同学发分数，可明明我身边这个分数的朋友也很多，不过正好也能试探一下舆论 https://t.co/pzZwekjoYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 336,
+          "like_count": 9617,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 5207
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T06:08:11.000Z",
+        "description": "17/高中毕业生🎓/中国人/ACGN爱好者/響け!ユーフォニアム🎼/艦これ⚓\n\n很高兴能够认识你！☺️\n\n原账号@Zerstoorer23 二次转世\n\n内阁：@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "Zerstoorer23"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/OSTiIxqJPO"
+              }
+            ]
+          }
+        },
+        "id": "1999360558223831040",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23",
+        "pinned_tweet_id": "1999438501755199986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043236136030547968/YE-hrJQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 247,
+          "like_count": 31353,
+          "listed_count": 0,
+          "media_count": 1435,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/OSTiIxqJPO",
+        "username": "Zerstoorer23__",
+        "verified": false
+      }
+    ]
+  }
+}

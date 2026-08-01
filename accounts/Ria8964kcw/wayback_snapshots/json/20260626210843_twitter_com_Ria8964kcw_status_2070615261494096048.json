@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070615254753804288",
+        "3_2070615254766399488",
+        "3_2070615254766387200"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2070615261494096048",
+    "created_at": "2026-06-26T21:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070615261494096048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BucKGGkV0h",
+          "end": 25,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2070615261494096048/photo/1",
+          "media_key": "3_2070615254753804288",
+          "start": 2,
+          "url": "https://t.co/BucKGGkV0h"
+        },
+        {
+          "display_url": "pic.x.com/BucKGGkV0h",
+          "end": 25,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2070615261494096048/photo/1",
+          "media_key": "3_2070615254766399488",
+          "start": 2,
+          "url": "https://t.co/BucKGGkV0h"
+        },
+        {
+          "display_url": "pic.x.com/BucKGGkV0h",
+          "end": 25,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2070615261494096048/photo/1",
+          "media_key": "3_2070615254766387200",
+          "start": 2,
+          "url": "https://t.co/BucKGGkV0h"
+        },
+        {
+          "display_url": "x.com/suishoucrystal…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/suishoucrystal/status/2070375955793846398",
+          "start": 26,
+          "url": "https://t.co/sqqHb56DKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070615261494096048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070375955793846398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🎊 https://t.co/BucKGGkV0h https://t.co/sqqHb56DKm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2070615254753804288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNmoYbAAAFDVE.jpg",
+        "width": 529
+      },
+      {
+        "height": 915,
+        "media_key": "3_2070615254766399488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNmobbMAA5iUf.jpg",
+        "width": 529
+      },
+      {
+        "height": 1144,
+        "media_key": "3_2070615254766387200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNmobbAAApgMD.jpg",
+        "width": 529
+      },
+      {
+        "height": 677,
+        "media_key": "3_2070375850462318592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtz3d5akAAXg8O.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070615254753804288",
+            "3_2070615254766399488",
+            "3_2070615254766387200"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2070615261494096048",
+        "created_at": "2026-06-26T21:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070615261494096048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BucKGGkV0h",
+              "end": 25,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2070615261494096048/photo/1",
+              "media_key": "3_2070615254753804288",
+              "start": 2,
+              "url": "https://t.co/BucKGGkV0h"
+            },
+            {
+              "display_url": "pic.x.com/BucKGGkV0h",
+              "end": 25,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2070615261494096048/photo/1",
+              "media_key": "3_2070615254766399488",
+              "start": 2,
+              "url": "https://t.co/BucKGGkV0h"
+            },
+            {
+              "display_url": "pic.x.com/BucKGGkV0h",
+              "end": 25,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2070615261494096048/photo/1",
+              "media_key": "3_2070615254766387200",
+              "start": 2,
+              "url": "https://t.co/BucKGGkV0h"
+            },
+            {
+              "display_url": "x.com/suishoucrystal…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/suishoucrystal/status/2070375955793846398",
+              "start": 26,
+              "url": "https://t.co/sqqHb56DKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070615261494096048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070375955793846398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🎊 https://t.co/BucKGGkV0h https://t.co/sqqHb56DKm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070375850462318592"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2070375955793846398",
+        "created_at": "2026-06-26T05:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070375955793846398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7FlZJ7WnB",
+              "end": 36,
+              "expanded_url": "https://x.com/suishoucrystal/status/2070375955793846398/photo/1",
+              "media_key": "3_2070375850462318592",
+              "start": 13,
+              "url": "https://t.co/D7FlZJ7WnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070375955793846398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3264,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂，张桂梅有什么黑点啊 https://t.co/D7FlZJ7WnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 325,
+          "like_count": 9298,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1570,
+          "like_count": 2927,
+          "listed_count": 3,
+          "media_count": 509,
+          "tweet_count": 5020
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

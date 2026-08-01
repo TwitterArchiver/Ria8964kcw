@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2064801438187069741",
+    "created_at": "2026-06-10T20:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064801438187069741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhaxia123/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/zhaxia123/status/2064669989932867871",
+          "start": 44,
+          "url": "https://t.co/P3oQUyOHZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064801438187069741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064669989932867871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我必须呼叫查东丽韩光莲杨景媛了，sry基因激活者全屠了没一个无辜的😓😓😓😓😓😓😓😓😓😓 https://t.co/P3oQUyOHZ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064669977987481600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcuZ-hbgAAvZMq.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2064801438187069741",
+        "created_at": "2026-06-10T20:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064801438187069741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhaxia123/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/zhaxia123/status/2064669989932867871",
+              "start": 44,
+              "url": "https://t.co/P3oQUyOHZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064801438187069741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064669989932867871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我必须呼叫查东丽韩光莲杨景媛了，sry基因激活者全屠了没一个无辜的😓😓😓😓😓😓😓😓😓😓 https://t.co/P3oQUyOHZ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064669977987481600"
+          ]
+        },
+        "author_id": "1986760052955652096",
+        "conversation_id": "2064669989932867871",
+        "created_at": "2026-06-10T11:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064669989932867871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYpnLKgiai",
+              "end": 45,
+              "expanded_url": "https://x.com/ZhaXia123/status/2064669989932867871/photo/1",
+              "media_key": "3_2064669977987481600",
+              "start": 22,
+              "url": "https://t.co/fYpnLKgiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064669989932867871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 401788,
+          "like_count": 4870,
+          "quote_count": 38,
+          "reply_count": 586,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "某些男的是不是疯了？至于这么恨一个小姑娘吗 https://t.co/fYpnLKgiai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 330,
+          "like_count": 8149,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子。\n主页许多内容都是我转载的比较认可的\n没逻辑说不过事情了解不全面主观臆断解读还给自己找面子的傻逼回复我一辈子发不了财❤️",
+        "id": "1986760052955652096",
+        "name": "one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 52,
+          "like_count": 9790,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 4455
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

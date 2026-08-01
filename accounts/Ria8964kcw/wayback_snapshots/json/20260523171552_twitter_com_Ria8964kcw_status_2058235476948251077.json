@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058112401690747295",
+    "created_at": "2026-05-23T17:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058235476948251077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1857087404256935936",
+          "start": 0,
+          "username": "GenRuo_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058235476948251077",
+    "in_reply_to_user_id": "1857087404256935936",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058112401690747295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GenRuo_c ？。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058112401690747295",
+        "created_at": "2026-05-23T17:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058235476948251077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1857087404256935936",
+              "start": 0,
+              "username": "GenRuo_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058235476948251077",
+        "in_reply_to_user_id": "1857087404256935936",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058112401690747295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GenRuo_c ？。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857087404256935936",
+        "conversation_id": "2058112401690747295",
+        "created_at": "2026-05-23T09:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058112401690747295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058112401690747295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3159,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我考上了本科，我要在简介里加一个卡学历🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 249,
+          "like_count": 6023,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3021
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T15:45:43.000Z",
+        "description": "纳尼！我的高中怎么就快结束了！😨\n随机回fo（不回空推），性取向是男生的直男罢了🤓——个子高的好感直接+999😋  | 喜欢互动  |  裸露内容随时会删——可以找我扩列聊天~，较主动，但是相互的关系才能长久☺️——不熟的不要随便问我约不约也不要找我要照片😡",
+        "id": "1857087404256935936",
+        "location": "距离你2.6km",
+        "name": "GenRuoさま",
+        "pinned_tweet_id": "2055826435911327944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055656574119743489/oV8qDQbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 399,
+          "like_count": 3957,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 892
+        },
+        "username": "GenRuo_c",
+        "verified": false
+      }
+    ]
+  }
+}

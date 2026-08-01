@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036593214438719488"
+      ],
+      "media_source_tweet_id": [
+        "2036593371766984765"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068055820135477651",
+    "created_at": "2026-06-19T19:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068055820135477651"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "愈美片"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPgf1nafIJ",
+          "end": 29,
+          "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2036593371766984765/video/1",
+          "media_key": "13_2036593214438719488",
+          "start": 6,
+          "url": "https://t.co/NPgf1nafIJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068055820135477651",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#愈美片  https://t.co/NPgf1nafIJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17233,
+        "height": 592,
+        "media_key": "13_2036593214438719488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036593214438719488/img/b4WrTFERCXLo_G67.jpg",
+        "public_metrics": {
+          "view_count": 11816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593214438719488/vid/avc1/386x270/QvqSmK0sXiaCTjf1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593214438719488/vid/avc1/514x360/O2Y5Ws1VVHACKdb5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593214438719488/vid/avc1/848x592/y-n-9V48KEleLx6v.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036593214438719488/pl/6bc4K79nR1tC0sym.m3u8?tag=14&v=924"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036593214438719488"
+          ],
+          "media_source_tweet_id": [
+            "2036593371766984765"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068055820135477651",
+        "created_at": "2026-06-19T19:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068055820135477651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "愈美片"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPgf1nafIJ",
+              "end": 29,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2036593371766984765/video/1",
+              "media_key": "13_2036593214438719488",
+              "start": 6,
+              "url": "https://t.co/NPgf1nafIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068055820135477651",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#愈美片  https://t.co/NPgf1nafIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 308,
+          "like_count": 8837,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 4799
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

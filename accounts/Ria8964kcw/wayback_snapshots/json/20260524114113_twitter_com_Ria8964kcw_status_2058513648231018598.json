@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058477569117135339",
+    "created_at": "2026-05-24T11:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058513648231018598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999013481132204032",
+          "start": 0,
+          "username": "ROBOHead_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058513648231018598",
+    "in_reply_to_user_id": "1999013481132204032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058477569117135339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ROBOHead_3 唱得比我娅好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29135,
+        "height": 1280,
+        "media_key": "13_2058477464490213376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058477464490213376/img/kqc3Ic-BidYKumKi.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058477464490213376/vid/avc1/320x694/kgWbaiSuaNELn-rt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058477464490213376/vid/avc1/480x1040/YUBELEl-wucgeonL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058477464490213376/vid/avc1/590x1280/nVD_-geAHlfrla-R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058477464490213376/pl/T5alJbUfWT4UgaaE.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058477569117135339",
+        "created_at": "2026-05-24T11:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058513648231018598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999013481132204032",
+              "start": 0,
+              "username": "ROBOHead_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058513648231018598",
+        "in_reply_to_user_id": "1999013481132204032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058477569117135339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ROBOHead_3 唱得比我娅好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058477464490213376"
+          ]
+        },
+        "author_id": "1999013481132204032",
+        "conversation_id": "2058477569117135339",
+        "created_at": "2026-05-24T09:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058477569117135339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "ROBOuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlvW76gubg",
+              "end": 43,
+              "expanded_url": "https://x.com/ROBOHead_3/status/2058477569117135339/video/1",
+              "media_key": "13_2058477464490213376",
+              "start": 20,
+              "url": "https://t.co/QlvW76gubg"
+            },
+            {
+              "display_url": "x.com/robohead_3/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/robohead_3/status/2058409496246890762",
+              "start": 44,
+              "url": "https://t.co/TlDw01WhVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058477569117135339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058409496246890762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事已至此来听断气唱法\n#ROBOuta https://t.co/QlvW76gubg https://t.co/TlDw01WhVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 6138,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3069
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T07:09:02.000Z",
+        "description": "ROBOHead -Resurrection-\n友链 @AmphiMorn2Ville 他真的不是我老公。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "AmphiMorn2Ville"
+              }
+            ]
+          }
+        },
+        "id": "1999013481132204032",
+        "location": "New Eridu",
+        "name": "ROBOHead三号机",
+        "pinned_tweet_id": "1999016133110936005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052232426487775233/c6YGzTA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 565,
+          "like_count": 20059,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 3170
+        },
+        "username": "ROBOHead_3",
+        "verified": false
+      }
+    ]
+  }
+}

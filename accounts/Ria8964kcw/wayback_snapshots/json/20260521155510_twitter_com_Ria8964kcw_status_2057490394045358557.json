@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057486497583128993",
+    "created_at": "2026-05-21T15:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057490394045358557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057490394045358557",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057486497583128993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 主人我加你了id逼左的乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2057486478989799425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2pDTZbMAEKo6j.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057486497583128993",
+        "created_at": "2026-05-21T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057490394045358557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057490394045358557",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057486497583128993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 主人我加你了id逼左的乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057486478989799425"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057486497583128993",
+        "created_at": "2026-05-21T15:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057486497583128993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHRItdP7PU",
+              "end": 73,
+              "expanded_url": "https://x.com/kitty068_ly/status/2057486497583128993/photo/1",
+              "media_key": "3_2057486478989799425",
+              "start": 50,
+              "url": "https://t.co/PHRItdP7PU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057486497583128993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我感觉互关好多粥批 我明日方舟唯一属性拉普兰德受抚慰每天狂操这个妓女宝宝 这是我心肝也是我杯子 https://t.co/PHRItdP7PU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485767744925697/sNZveh0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 270,
+          "like_count": 5778,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2810
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 513,
+          "like_count": 6971,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 3989
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

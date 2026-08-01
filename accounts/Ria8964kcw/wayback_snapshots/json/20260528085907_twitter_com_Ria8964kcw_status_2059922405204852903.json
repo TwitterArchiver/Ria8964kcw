@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059922405204852903",
+    "created_at": "2026-05-28T08:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059922405204852903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/russiaarabic0/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/russiaarabic0/status/2059734198949142613",
+          "start": 13,
+          "url": "https://t.co/9n2Mf8ivXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059922405204852903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059734198949142613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我如果会回校宣讲我就这样 https://t.co/9n2Mf8ivXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106115,
+        "height": 1280,
+        "media_key": "7_2059733796094685184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059733796094685184/pu/img/GuZn6vxNS3B9p6jR.jpg",
+        "public_metrics": {
+          "view_count": 421399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059733796094685184/pu/vid/avc1/320x568/AbOZfnfoh8EY2hDI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059733796094685184/pu/vid/avc1/480x852/EDtnJVUzgbC3G7sv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059733796094685184/pu/vid/avc1/720x1280/i2GqVUhGyfembBLJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059733796094685184/pu/pl/NtzGh5ebejPz6dJt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059922405204852903",
+        "created_at": "2026-05-28T08:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059922405204852903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russiaarabic0/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/russiaarabic0/status/2059734198949142613",
+              "start": 13,
+              "url": "https://t.co/9n2Mf8ivXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059922405204852903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059734198949142613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我如果会回校宣讲我就这样 https://t.co/9n2Mf8ivXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059733796094685184"
+          ]
+        },
+        "author_id": "1582669016702779398",
+        "conversation_id": "2059734198949142613",
+        "created_at": "2026-05-27T20:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059734198949142613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7McEfgEXxD",
+              "end": 160,
+              "expanded_url": "https://x.com/RussiaArabic0/status/2059734198949142613/video/1",
+              "media_key": "7_2059733796094685184",
+              "start": 137,
+              "url": "https://t.co/7McEfgEXxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059734198949142613",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 589,
+          "impression_count": 678098,
+          "like_count": 1001,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "في إحدى المدارس الثانوية في السويد قامت الطالبات البالغات بتعليم الأصغر سناً طريقة استخدام الواقي الذكري!!\n\nما رأيك بالتعليم في أوروبا؟؟ https://t.co/7McEfgEXxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 294,
+          "like_count": 6707,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T09:45:10.000Z",
+        "description": "وكالة إخبارية ناطقة بالعربية تهتم بالشأن العسكري والسياسي والأقتصادي لروسيا🇷🇺\nللإعلان التواصل عبر الخاص 📩",
+        "id": "1582669016702779398",
+        "location": "Moscow, Russia",
+        "name": "روسيا نيوز ✪",
+        "pinned_tweet_id": "1725679710057722012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695471515230162944/el5bOFZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431852,
+          "following_count": 150,
+          "like_count": 40159,
+          "listed_count": 346,
+          "media_count": 9294,
+          "tweet_count": 13060
+        },
+        "username": "RussiaArabic0",
+        "verified": true
+      }
+    ]
+  }
+}

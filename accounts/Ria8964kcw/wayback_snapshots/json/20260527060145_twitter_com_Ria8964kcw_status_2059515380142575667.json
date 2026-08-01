@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059174185574777272",
+    "created_at": "2026-05-27T06:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059515380142575667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847898031561330690",
+          "start": 0,
+          "username": "whj___1001"
+        },
+        {
+          "end": 22,
+          "id": "2033556052650975232",
+          "start": 12,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059515380142575667",
+    "in_reply_to_user_id": "1847898031561330690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059513520841191467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whj___1001 @Ride_8964 禁忌之恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059174185574777272",
+        "created_at": "2026-05-27T06:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059515380142575667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847898031561330690",
+              "start": 0,
+              "username": "whj___1001"
+            },
+            {
+              "end": 22,
+              "id": "2033556052650975232",
+              "start": 12,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059515380142575667",
+        "in_reply_to_user_id": "1847898031561330690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059513520841191467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whj___1001 @Ride_8964 禁忌之恋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847898031561330690",
+        "conversation_id": "2059174185574777272",
+        "created_at": "2026-05-27T05:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059513520841191467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 22,
+              "id": "2033556052650975232",
+              "start": 12,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059513520841191467",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059174185574777272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @Ride_8964 噢噢好幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 282,
+          "like_count": 6557,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:10:18.000Z",
+        "description": "中/eng ok//\n🏳️‍⚧️ ftmasc, he/they\nocyume ❤️",
+        "id": "1847898031561330690",
+        "location": "Cute boy island",
+        "name": "酱酱酱johnjohn-chan",
+        "pinned_tweet_id": "1982307290410549377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052397251365044224/c1yRZo-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 162,
+          "like_count": 17832,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1506
+        },
+        "username": "whj___1001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳独生女",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054892475215749120/E3G8nEsa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 143,
+          "like_count": 33639,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 7620
+        },
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

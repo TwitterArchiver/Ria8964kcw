@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2065019481785770062",
+    "created_at": "2026-06-11T10:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065019481785770062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pxsotwzy4n5783…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/pxsotwzy4n57838/status/2065012799936647611",
+          "start": 2,
+          "url": "https://t.co/9KMPb80GVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065019481785770062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065012799936647611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷 https://t.co/9KMPb80GVD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1841,
+        "media_key": "3_2065012778369523712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhmLldboAAJxFN.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2065019481785770062",
+        "created_at": "2026-06-11T10:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065019481785770062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pxsotwzy4n5783…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/pxsotwzy4n57838/status/2065012799936647611",
+              "start": 2,
+              "url": "https://t.co/9KMPb80GVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065019481785770062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065012799936647611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷 https://t.co/9KMPb80GVD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065012778369523712"
+          ]
+        },
+        "author_id": "1796696056929140736",
+        "conversation_id": "2065012799936647611",
+        "created_at": "2026-06-11T10:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065012799936647611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxitlgtySs",
+              "end": 27,
+              "expanded_url": "https://x.com/PxSoTWzy4n57838/status/2065012799936647611/photo/1",
+              "media_key": "3_2065012778369523712",
+              "start": 4,
+              "url": "https://t.co/xxitlgtySs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065012799936647611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仅分享 https://t.co/xxitlgtySs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 330,
+          "like_count": 8228,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 4453
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T00:12:43.000Z",
+        "description": "=驮作",
+        "id": "1796696056929140736",
+        "name": "攻宝夹逼太紧把巨屌受夹射的那个夜晚",
+        "pinned_tweet_id": "2064679918261490091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064724093161951232/KhGlXYvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 524,
+          "like_count": 3207,
+          "listed_count": 1,
+          "media_count": 753,
+          "tweet_count": 4393
+        },
+        "username": "PxSoTWzy4n57838",
+        "verified": false
+      }
+    ]
+  }
+}

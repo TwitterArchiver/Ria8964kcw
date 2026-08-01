@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058515086671839529",
+    "created_at": "2026-05-24T12:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058519833671880708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        },
+        {
+          "end": 25,
+          "id": "2050657361376038913",
+          "start": 15,
+          "username": "libomrosy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058519833671880708",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058519315788296524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon @libomrosy 你的屁股里有很多火啊，贱人，也许这就是你虐待露思的原因……如果你屁眼儿里这么多火，那就去街上吧……路上有很多像你一样的流浪狗，它们的屁眼儿也像你一样在烧……贱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058515086671839529",
+        "created_at": "2026-05-24T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058519833671880708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            },
+            {
+              "end": 25,
+              "id": "2050657361376038913",
+              "start": 15,
+              "username": "libomrosy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058519833671880708",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058519315788296524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon @libomrosy 你的屁股里有很多火啊，贱人，也许这就是你虐待露思的原因……如果你屁眼儿里这么多火，那就去街上吧……路上有很多像你一样的流浪狗，它们的屁眼儿也像你一样在烧……贱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2058515086671839529",
+        "created_at": "2026-05-24T12:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058519315788296524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050657361376038913",
+              "start": 0,
+              "username": "libomrosy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058519315788296524",
+        "in_reply_to_user_id": "2050657361376038913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058518844415840267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libomrosy 用这么多可爱的词汇来骂人，你真是个小可爱，建议全世界都来关爱我们可露丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 257,
+          "like_count": 6158,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3076
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 337,
+          "like_count": 44389,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4159
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T19:23:37.000Z",
+        "description": "my one and only zhao lusi....💜💜",
+        "id": "2050657361376038913",
+        "name": "libom(zhaolusi)🌻🌻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050657939422412800/9OhAZbK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 44,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 400
+        },
+        "username": "libomrosy",
+        "verified": false
+      }
+    ]
+  }
+}

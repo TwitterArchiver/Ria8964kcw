@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2071342279672107133",
+    "created_at": "2026-06-29T08:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071510871621480797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800782392346783744",
+          "start": 0,
+          "username": "DOUDEMOII_y92z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071510871621480797",
+    "in_reply_to_user_id": "1800782392346783744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071510210649133187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOUDEMOII_y92z0 两次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2071342279672107133",
+        "created_at": "2026-06-29T08:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071510871621480797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800782392346783744",
+              "start": 0,
+              "username": "DOUDEMOII_y92z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071510871621480797",
+        "in_reply_to_user_id": "1800782392346783744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071510210649133187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOUDEMOII_y92z0 两次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800782392346783744",
+        "conversation_id": "2071342279672107133",
+        "created_at": "2026-06-29T08:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071510210649133187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071510210649133187",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071342279672107133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 這個一瓶能嗑幾次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 327,
+          "like_count": 9375,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T06:49:27.000Z",
+        "description": "人民說毛主席萬歲，本毛擺擺手👋說人民萬歲\n我很難受，叫江青來@lyb1007 @Taffydaisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "lyb1007"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Taffydaisuki"
+              }
+            ]
+          }
+        },
+        "id": "1800782392346783744",
+        "location": "毛澤東紀念堂",
+        "name": "🇨🇳偉大領袖毛澤東📕🚩",
+        "pinned_tweet_id": "1800799125124026874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067455348844511233/OrhMsflw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 125,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "DOUDEMOII_y92z0",
+        "verified": false
+      }
+    ]
+  }
+}

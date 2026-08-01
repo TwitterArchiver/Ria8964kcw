@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057131293541089335",
+    "created_at": "2026-05-20T16:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057131293541089335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/fadai202202/status/2057086068319826344",
+          "start": 49,
+          "url": "https://t.co/lHQU5BXAOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057131293541089335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057086068319826344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我选了\n5.婊子肥猪，二次元婊子，韩国流行音乐婊子，二次元婊子，婊子，一个可爱的人妖利亚（me） https://t.co/lHQU5BXAOU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057131293541089335",
+        "created_at": "2026-05-20T16:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057131293541089335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/fadai202202/status/2057086068319826344",
+              "start": 49,
+              "url": "https://t.co/lHQU5BXAOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057131293541089335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057086068319826344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我选了\n5.婊子肥猪，二次元婊子，韩国流行音乐婊子，二次元婊子，婊子，一个可爱的人妖利亚（me） https://t.co/lHQU5BXAOU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2057086068319826344",
+        "created_at": "2026-05-20T13:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057086068319826344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057086068319826344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2808,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的男生宿舍：\n1.做题蛆，二次元，药娘，哥特\n2.嘉豪，波兰球，体育生，体制外小老登\n3.鉴证哥，精神小伙，扫福瑞，龟男\n4.军迷，ch，文青，币圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 264,
+          "like_count": 5611,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2681
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14172,
+          "following_count": 1,
+          "like_count": 959,
+          "listed_count": 12,
+          "media_count": 127,
+          "tweet_count": 920
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

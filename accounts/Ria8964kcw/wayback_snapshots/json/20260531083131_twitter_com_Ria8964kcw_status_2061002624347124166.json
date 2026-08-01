@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061002614909902848"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060929178602733679",
+    "created_at": "2026-05-31T08:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061002624347124166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5uaYwVS5f",
+          "end": 36,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2061002624347124166/photo/1",
+          "media_key": "3_2061002614909902848",
+          "start": 13,
+          "url": "https://t.co/w5uaYwVS5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061002624347124166",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060929178602733679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 陪一根🚬 https://t.co/w5uaYwVS5f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061002624347124166].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061002624347124166",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061002624347124166"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061002614909902848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJom9WbbIAAM6ft.jpg",
+        "width": 1536
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2060929169044000768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnkKPQb0AAm03L.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060929169044000768"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "conversation_id": "2060929178602733679",
+        "created_at": "2026-05-31T03:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060929178602733679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mblJY0virv",
+              "end": 30,
+              "expanded_url": "https://x.com/bpmiea/status/2060929178602733679/photo/1",
+              "media_key": "3_2060929169044000768",
+              "start": 7,
+              "url": "https://t.co/mblJY0virv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060929178602733679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蜜雪冰城吸管 https://t.co/mblJY0virv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 310,
+          "like_count": 7162,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3748
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️｜🍥hrt from 2026.1｜已出柜小资历年龄党｜ 不🔪不💊 不键政\n｜archlinux｜gfwfucker｜Vibecoder｜Vocaloid\n随缘发日常，欢迎同类互fo，私信都会回，平时上学周末复活喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "Hamura-shi, Tokyo",
+        "name": "凪🍥𝓑𝓮𝓼𝓹𝓱𝓲𝓻𝓮𝓜.",
+        "pinned_tweet_id": "2060776146275541042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059237591065800704/Xj-NI3fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 320,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

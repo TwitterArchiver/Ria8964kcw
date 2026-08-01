@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058096055737298944"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058096061059842341",
+    "created_at": "2026-05-23T08:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058096061059842341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ZqMrXfgW0",
+          "end": 31,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2058096061059842341/photo/1",
+          "media_key": "3_2058096055737298944",
+          "start": 8,
+          "url": "https://t.co/5ZqMrXfgW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058096061059842341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑喷了这帮糊逼 https://t.co/5ZqMrXfgW0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058096061059842341].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058096061059842341",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058096061059842341"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2058096055737298944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_TdVvasAAMxQq.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 245,
+          "like_count": 5930,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2937
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059722711233106071",
+    "created_at": "2026-05-27T19:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059722711233106071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wobushi64/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wobushi64/status/2059600342309089586",
+          "start": 18,
+          "url": "https://t.co/hidsa5XXLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059722711233106071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059600342309089586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽你们看这里评论区他爹的笑死我了 https://t.co/hidsa5XXLe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_2059600337951191040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUrmFra8AA_Q4E.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059722711233106071",
+        "created_at": "2026-05-27T19:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059722711233106071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wobushi64/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wobushi64/status/2059600342309089586",
+              "start": 18,
+              "url": "https://t.co/hidsa5XXLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059722711233106071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059600342309089586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽你们看这里评论区他爹的笑死我了 https://t.co/hidsa5XXLe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059600337951191040"
+          ]
+        },
+        "author_id": "1151834318890606592",
+        "conversation_id": "2059600342309089586",
+        "created_at": "2026-05-27T11:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059600342309089586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MiUUq7OQns",
+              "end": 41,
+              "expanded_url": "https://x.com/wobushi64/status/2059600342309089586/photo/1",
+              "media_key": "3_2059600337951191040",
+              "start": 18,
+              "url": "https://t.co/MiUUq7OQns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059600342309089586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6345,
+          "like_count": 162,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "马上去中国开始百人斩了，拍个家乡照 https://t.co/MiUUq7OQns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 292,
+          "like_count": 6636,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T12:41:16.000Z",
+        "description": "",
+        "id": "1151834318890606592",
+        "location": "Union City, CA",
+        "name": "清心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034912726586388480/WcRKxwZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19805,
+          "following_count": 223,
+          "like_count": 15485,
+          "listed_count": 123,
+          "media_count": 2557,
+          "tweet_count": 15505
+        },
+        "username": "wobushi64",
+        "verified": false
+      }
+    ]
+  }
+}

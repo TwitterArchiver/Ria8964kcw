@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061785194760396800"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061785199739027694",
+    "created_at": "2026-06-02T12:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061785199739027694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yKsURXIf5H",
+          "end": 23,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2061785199739027694/photo/1",
+          "media_key": "3_2061785194760396800",
+          "start": 0,
+          "url": "https://t.co/yKsURXIf5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061785199739027694",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yKsURXIf5H"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061785199739027694].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061785199739027694",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061785199739027694"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2061785194760396800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzutfjaYAArQc_.jpg",
+        "width": 750
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo/爱玩烂梗恶俗无底线请注意｜匿名提问欢迎所有人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 326,
+          "like_count": 7497,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

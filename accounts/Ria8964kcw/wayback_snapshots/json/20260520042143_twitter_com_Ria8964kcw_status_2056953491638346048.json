@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056806631409877293",
+    "created_at": "2026-05-20T04:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056953491638346048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645154173707755520",
+          "start": 0,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056953491638346048",
+    "in_reply_to_user_id": "1645154173707755520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056806631409877293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx101067 芬太尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056806631409877293",
+        "created_at": "2026-05-20T04:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056953491638346048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645154173707755520",
+              "start": 0,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056953491638346048",
+        "in_reply_to_user_id": "1645154173707755520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056806631409877293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx101067 芬太尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645154173707755520",
+        "conversation_id": "2056806631409877293",
+        "created_at": "2026-05-19T18:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056806631409877293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056806631409877293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很想知道服用什么药物过量可以死亡🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 259,
+          "like_count": 5544,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2645
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "此地只是本人的阅读即焚垃圾桶谢谢你的路过/提问箱https://t.co/u0tJqGI0nW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/night63788",
+                "end": 47,
+                "expanded_url": "https://ngl.link/night63788",
+                "start": 24,
+                "url": "https://t.co/u0tJqGI0nW"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "我的坟墓在此地",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015686881741291520/AbBxgcMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 663,
+          "like_count": 12496,
+          "listed_count": 5,
+          "media_count": 1374,
+          "tweet_count": 10802
+        },
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

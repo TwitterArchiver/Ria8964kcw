@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056404194391998797",
+    "created_at": "2026-05-18T17:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056423710190612950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1630384112392437761",
+          "start": 0,
+          "username": "Mr_boredasfock"
+        },
+        {
+          "end": 22,
+          "id": "1673482687959666688",
+          "start": 16,
+          "username": "52j91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056423710190612950",
+    "in_reply_to_user_id": "1630384112392437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056421172041114111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_boredasfock @52j91 你明天上不上学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056404194391998797",
+        "created_at": "2026-05-18T17:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056423710190612950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630384112392437761",
+              "start": 0,
+              "username": "Mr_boredasfock"
+            },
+            {
+              "end": 22,
+              "id": "1673482687959666688",
+              "start": 16,
+              "username": "52j91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056423710190612950",
+        "in_reply_to_user_id": "1630384112392437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056421172041114111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_boredasfock @52j91 你明天上不上学了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630384112392437761",
+        "conversation_id": "2056404194391998797",
+        "created_at": "2026-05-18T17:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056421172041114111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1673482687959666688",
+              "start": 0,
+              "username": "52j91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056421172041114111",
+        "in_reply_to_user_id": "1673482687959666688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056404194391998797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@52j91 痛苦就是活着的代价很难接受吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 249,
+          "like_count": 5375,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2553
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T01:47:33.000Z",
+        "description": "Praise Satan/拉黑/加速/间歇支黑/反独裁/🇺🇦/人与人之间无法沟通/简体中文/gay trans friendly/queer/反生育主义/岁月不静好但我们什么都做不了所以聊聊天吧",
+        "id": "1630384112392437761",
+        "location": "San Francisco",
+        "name": "⸸撒旦子民⸸(恩师郭伟",
+        "pinned_tweet_id": "1977209045636596163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630384287626285056/aR3dequl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 355,
+          "like_count": 3063,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 9909
+        },
+        "username": "Mr_boredasfock",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T00:05:50.000Z",
+        "description": "9+1=91 \n这是我的姐姐不是盗号的@KUGEI91111111\n如果你在找意见箱：https://t.co/jcLqyl923X\n如果你在找飞机群：https://t.co/wkaRUXTxqT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "KUGEI91111111"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/91111111111",
+                "end": 66,
+                "expanded_url": "https://ngl.link/91111111111",
+                "start": 43,
+                "url": "https://t.co/jcLqyl923X"
+              },
+              {
+                "display_url": "t.me/+uyohr2BVYwVlZ…",
+                "end": 99,
+                "expanded_url": "https://t.me/+uyohr2BVYwVlZWU1",
+                "start": 76,
+                "url": "https://t.co/wkaRUXTxqT"
+              }
+            ]
+          }
+        },
+        "id": "1673482687959666688",
+        "location": "Toshima-ku, Tokyo",
+        "name": "⑨❶_",
+        "pinned_tweet_id": "1934798764344267103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971240321909698560/jReMhPnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5769,
+          "following_count": 104,
+          "like_count": 1098,
+          "listed_count": 16,
+          "media_count": 56,
+          "tweet_count": 241
+        },
+        "username": "52j91",
+        "verified": false
+      }
+    ]
+  }
+}

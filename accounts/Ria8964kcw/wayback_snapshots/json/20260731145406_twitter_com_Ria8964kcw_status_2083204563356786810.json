@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1873997913460027392"
+      ],
+      "media_source_tweet_id": [
+        "1873997946833998124"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083204563356786810",
+    "created_at": "2026-07-31T14:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083204563356786810"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "여름의인트로_김채원"
+        },
+        {
+          "end": 62,
+          "start": 44,
+          "tag": "TimeToChaelebrate"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1275021711788797953",
+          "start": 3,
+          "username": "kimkkangzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wqyMfAkRvM",
+          "end": 86,
+          "expanded_url": "https://x.com/kimkkangzi/status/1873997946833998124/video/1",
+          "media_key": "7_1873997913460027392",
+          "start": 63,
+          "url": "https://t.co/wqyMfAkRvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083204563356786810",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083195347887898814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimkkangzi: 채원아 생일축하해 🎉🎉🎉🎉🎉\n#여름의인트로_김채원\n#TimeToChaelebrate\nhttps://t.co/wqyMfAkRvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12200,
+        "height": 720,
+        "media_key": "7_1873997913460027392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1873997913460027392/pu/img/LGUdbBkgoEAeaiJU.jpg",
+        "public_metrics": {
+          "view_count": 98177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873997913460027392/pu/vid/avc1/480x270/QDnqVnelklzk64_y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873997913460027392/pu/vid/avc1/640x360/2vZH66o3n6foHrFb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1873997913460027392/pu/vid/avc1/1280x720/RejRWaskXTx8q85L.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1873997913460027392/pu/pl/pmPr11a3qL3wI4jo.m3u8?tag=12&v=b45"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873997913460027392"
+          ]
+        },
+        "author_id": "1275021711788797953",
+        "conversation_id": "1873997946833998124",
+        "created_at": "2024-12-31T07:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873997946833998124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BU826nrXt5",
+              "end": 39,
+              "expanded_url": "https://x.com/kimkkangzi/status/1873997946833998124/video/1",
+              "media_key": "7_1873997913460027392",
+              "start": 16,
+              "url": "https://t.co/BU826nrXt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873997946833998124",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 357,
+          "impression_count": 126181,
+          "like_count": 3400,
+          "quote_count": 27,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "reply_settings": "following",
+        "text": "파프리카🙏🏻👐🏻 ㅋㅋㅋ귀여워 https://t.co/BU826nrXt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873997913460027392"
+          ],
+          "media_source_tweet_id": [
+            "1873997946833998124"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083204563356786810",
+        "created_at": "2026-07-31T14:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083204563356786810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "여름의인트로_김채원"
+            },
+            {
+              "end": 62,
+              "start": 44,
+              "tag": "TimeToChaelebrate"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1275021711788797953",
+              "start": 3,
+              "username": "kimkkangzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqyMfAkRvM",
+              "end": 86,
+              "expanded_url": "https://x.com/kimkkangzi/status/1873997946833998124/video/1",
+              "media_key": "7_1873997913460027392",
+              "start": 63,
+              "url": "https://t.co/wqyMfAkRvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083204563356786810",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083195347887898814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimkkangzi: 채원아 생일축하해 🎉🎉🎉🎉🎉\n#여름의인트로_김채원\n#TimeToChaelebrate\nhttps://t.co/wqyMfAkRvM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873997913460027392"
+          ],
+          "media_source_tweet_id": [
+            "1873997946833998124"
+          ]
+        },
+        "author_id": "1275021711788797953",
+        "conversation_id": "2083195347887898814",
+        "created_at": "2026-07-31T14:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083195347887898814"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "여름의인트로_김채원"
+            },
+            {
+              "end": 46,
+              "start": 28,
+              "tag": "TimeToChaelebrate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqyMfAkRvM",
+              "end": 70,
+              "expanded_url": "https://x.com/kimkkangzi/status/1873997946833998124/video/1",
+              "media_key": "7_1873997913460027392",
+              "start": 47,
+              "url": "https://t.co/wqyMfAkRvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083195347887898814",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1479,
+          "like_count": 92,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "채원아 생일축하해 🎉🎉🎉🎉🎉\n#여름의인트로_김채원\n#TimeToChaelebrate\nhttps://t.co/wqyMfAkRvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10345,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5468
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-22T11:04:04.000Z",
+        "description": "김채원 좋아함",
+        "id": "1275021711788797953",
+        "name": "김깡쥐 •̀.̫•́✧",
+        "pinned_tweet_id": "1861786804153905388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947489385508900864/NbEVUqgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13583,
+          "following_count": 139,
+          "like_count": 795,
+          "listed_count": 135,
+          "media_count": 15112,
+          "tweet_count": 35587
+        },
+        "url": "",
+        "username": "kimkkangzi",
+        "verified": true
+      }
+    ]
+  }
+}

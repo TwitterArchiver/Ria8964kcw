@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058638504259649878",
+    "created_at": "2026-05-25T07:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058818665949405492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1529685839676002304",
+          "start": 0,
+          "username": "blblbl0903"
+        },
+        {
+          "end": 21,
+          "id": "1886421046640902144",
+          "start": 12,
+          "username": "ry231223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058818665949405492",
+    "in_reply_to_user_id": "1529685839676002304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058665387605258263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blblbl0903 @ry231223 我真他妈无语、人家又没割你脸上，逼事这么多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058638504259649878",
+        "created_at": "2026-05-25T07:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058818665949405492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1529685839676002304",
+              "start": 0,
+              "username": "blblbl0903"
+            },
+            {
+              "end": 21,
+              "id": "1886421046640902144",
+              "start": 12,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058818665949405492",
+        "in_reply_to_user_id": "1529685839676002304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058665387605258263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blblbl0903 @ry231223 我真他妈无语、人家又没割你脸上，逼事这么多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529685839676002304",
+        "conversation_id": "2058638504259649878",
+        "created_at": "2026-05-24T21:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058665387605258263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058665387605258263",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058638504259649878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 这不纯神人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 267,
+          "like_count": 6288,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3155
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T04:48:29.000Z",
+        "description": "花开如火，也如寂寞。",
+        "id": "1529685839676002304",
+        "name": "梅花似雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822448018416934912/J3TYQYw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 171,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "blblbl0903",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生只回女生│我愛發什麼發什麼不愛看別關注我",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 15,
+          "like_count": 1899,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 142
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059281407873356096",
+    "created_at": "2026-05-26T14:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059281407873356096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suispasdavinci…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/suispasdavinci/status/2059169916276670847",
+          "start": 13,
+          "url": "https://t.co/XANUAfKo8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059281407873356096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059169916276670847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OK你们继续围剿绿联用户 https://t.co/XANUAfKo8s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2059107918914461696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNrvh0XIAAOIfE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059281407873356096",
+        "created_at": "2026-05-26T14:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059281407873356096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suispasdavinci…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/suispasdavinci/status/2059169916276670847",
+              "start": 13,
+              "url": "https://t.co/XANUAfKo8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059281407873356096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059169916276670847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OK你们继续围剿绿联用户 https://t.co/XANUAfKo8s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059107918914461696"
+          ]
+        },
+        "author_id": "1516975944484990977",
+        "conversation_id": "2059169916276670847",
+        "created_at": "2026-05-26T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059169916276670847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbyAVlQhqp",
+              "end": 48,
+              "expanded_url": "https://x.com/SuisPasDaVinci/status/2059169916276670847/photo/1",
+              "media_key": "3_2059107918914461696",
+              "start": 25,
+              "url": "https://t.co/KbyAVlQhqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059169916276670847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 286878,
+          "like_count": 175,
+          "quote_count": 1,
+          "reply_count": 185,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "遇到有这样耳机的室友赶紧跑！\n\n不要问我为什么。 https://t.co/KbyAVlQhqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 281,
+          "like_count": 6483,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "加拿大🇨🇦10年老炮｜Stanley社群主理人 | TOP500公司程序员 | →下一站深圳做AI｜普通人逆袭千万之路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suispasdavinci.com",
+                "end": 23,
+                "expanded_url": "http://suispasdavinci.com",
+                "start": 0,
+                "url": "https://t.co/XaMLV00z9k"
+              }
+            ]
+          }
+        },
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18311,
+          "following_count": 1451,
+          "like_count": 40755,
+          "listed_count": 70,
+          "media_count": 2435,
+          "tweet_count": 23829
+        },
+        "url": "https://t.co/XaMLV00z9k",
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

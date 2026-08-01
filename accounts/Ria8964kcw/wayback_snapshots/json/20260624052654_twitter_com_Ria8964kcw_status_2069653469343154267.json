@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2069645921013612805",
+    "created_at": "2026-06-24T05:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069653469343154267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069653469343154267",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069646454785016082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ 家教应该没问题吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2069645921013612805",
+        "created_at": "2026-06-24T05:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069653469343154267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069653469343154267",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069646454785016082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ 家教应该没问题吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550188270495027200",
+        "conversation_id": "2069645921013612805",
+        "created_at": "2026-06-24T04:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069646454785016082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069646454785016082",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069645921013612805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有高中学历但是高考英语成绩还可以四六级也都过了能接到英语相关的家教工作吗 小学初中的比如说改作业陪背单词也可以啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 316,
+          "like_count": 9113,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 4955
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "我是黄瓜也可以叫我阿树 | 🚪53r | 我有精神病负能很多自行避雷 | 不自残自伤了 | 拿来搞二次元的小号 @hushlog35 | 谁骂我我拿黄瓜捅谁屁眼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "不幸人间强制收容所",
+        "name": "黄瓜",
+        "pinned_tweet_id": "2063517541029585084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063170117870223360/c8Orb9EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 137,
+          "like_count": 22368,
+          "listed_count": 4,
+          "media_count": 747,
+          "tweet_count": 7126
+        },
+        "url": "",
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

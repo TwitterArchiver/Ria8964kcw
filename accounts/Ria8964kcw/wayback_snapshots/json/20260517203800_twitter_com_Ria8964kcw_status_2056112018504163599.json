@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056111336648843538",
+    "created_at": "2026-05-17T20:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T21:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056112018504163599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764232461439897600",
+          "start": 0,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056112018504163599",
+    "in_reply_to_user_id": "1764232461439897600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056111336648843538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao_7777 有点像朴成训"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056111323491266560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjGWt9a8AATIPC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056111323487010816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjGWt8aAAAGrmO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2056111336648843538",
+        "created_at": "2026-05-17T20:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056112018504163599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764232461439897600",
+              "start": 0,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056112018504163599",
+        "in_reply_to_user_id": "1764232461439897600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056111336648843538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao_7777 有点像朴成训"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056111323491266560",
+            "3_2056111323487010816"
+          ]
+        },
+        "author_id": "1764232461439897600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056111336648843538",
+        "created_at": "2026-05-17T20:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056111336648843538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0KLTEHucU",
+              "end": 36,
+              "expanded_url": "https://x.com/baobao_7777/status/2056111336648843538/photo/1",
+              "media_key": "3_2056111323491266560",
+              "start": 13,
+              "url": "https://t.co/r0KLTEHucU"
+            },
+            {
+              "display_url": "pic.x.com/r0KLTEHucU",
+              "end": 36,
+              "expanded_url": "https://x.com/baobao_7777/status/2056111336648843538/photo/1",
+              "media_key": "3_2056111323487010816",
+              "start": 13,
+              "url": "https://t.co/r0KLTEHucU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056111336648843538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有变，我还是那个我。 https://t.co/r0KLTEHucU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，ftx🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 239,
+          "like_count": 5157,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2451
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "一个普通忧郁思念老公的痴汉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "name": "重男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054314930422349824/qhSaUS3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 154,
+          "like_count": 27647,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 12474
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

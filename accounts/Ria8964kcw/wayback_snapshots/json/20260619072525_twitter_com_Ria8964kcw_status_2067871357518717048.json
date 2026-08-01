@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2067586162831568987",
+    "created_at": "2026-06-19T07:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067871357518717048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820189807777349632",
+          "start": 0,
+          "username": "Sisyphussts"
+        },
+        {
+          "end": 20,
+          "id": "1343441418619121666",
+          "start": 13,
+          "username": "zmt021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067871357518717048",
+    "in_reply_to_user_id": "1820189807777349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067759445342618095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sisyphussts @zmt021 霸气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 233,
+        "media_key": "3_2067759438728192000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIoQQpa4AAhxkG.jpg",
+        "width": 192
+      },
+      {
+        "height": 1853,
+        "media_key": "3_2067759438724038656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIoQQobgAAyNYY.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2067586162831568987",
+        "created_at": "2026-06-19T07:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067871357518717048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820189807777349632",
+              "start": 0,
+              "username": "Sisyphussts"
+            },
+            {
+              "end": 20,
+              "id": "1343441418619121666",
+              "start": 13,
+              "username": "zmt021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067871357518717048",
+        "in_reply_to_user_id": "1820189807777349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067759445342618095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sisyphussts @zmt021 霸气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067759438728192000",
+            "3_2067759438724038656"
+          ]
+        },
+        "author_id": "1820189807777349632",
+        "conversation_id": "2067586162831568987",
+        "created_at": "2026-06-19T00:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067759445342618095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1343441418619121666",
+              "start": 0,
+              "username": "zmt021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFkADm2xfJ",
+              "end": 131,
+              "expanded_url": "https://x.com/Sisyphussts/status/2067759445342618095/photo/1",
+              "media_key": "3_2067759438728192000",
+              "start": 108,
+              "url": "https://t.co/TFkADm2xfJ"
+            },
+            {
+              "display_url": "pic.x.com/TFkADm2xfJ",
+              "end": 131,
+              "expanded_url": "https://x.com/Sisyphussts/status/2067759445342618095/photo/1",
+              "media_key": "3_2067759438724038656",
+              "start": 108,
+              "url": "https://t.co/TFkADm2xfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067759445342618095",
+        "in_reply_to_user_id": "1343441418619121666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067586162831568987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmt021 赵明天320304198712284412\n妹妹：赵众星 320304199012284424\n母亲：刘世兰 320323196302076063\n户主：赵逢勇 320303195504020412 https://t.co/TFkADm2xfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 338,
+          "like_count": 8781,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4765
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T20:07:31.000Z",
+        "description": "其他账号@pilljvce @pil1jvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "pilljvce"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "pil1jvce"
+              }
+            ]
+          }
+        },
+        "id": "1820189807777349632",
+        "name": "食品安全",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067455175480991744/b-WGdBfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 46,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "Sisyphussts",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-28T06:19:37.000Z",
+        "description": "二零二二年二月二十二日后，师父离开丰县，在狱中静观世间（二零二五年七月二十九日发表）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zmt.pub",
+                "end": 23,
+                "expanded_url": "http://zmt.pub",
+                "start": 0,
+                "url": "https://t.co/JECo5U5Z9M"
+              }
+            ]
+          }
+        },
+        "id": "1343441418619121666",
+        "location": "Shanghai",
+        "name": "流浪国男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593150005417762816/bXkwgwnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52201,
+          "following_count": 988,
+          "like_count": 1,
+          "listed_count": 262,
+          "media_count": 1534,
+          "tweet_count": 52873
+        },
+        "url": "https://t.co/JECo5U5Z9M",
+        "username": "zmt021",
+        "verified": false
+      }
+    ]
+  }
+}

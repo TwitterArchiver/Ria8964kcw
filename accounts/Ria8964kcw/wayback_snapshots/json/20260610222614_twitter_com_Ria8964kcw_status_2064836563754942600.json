@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      }
+    ],
+    "conversation_id": "2064836563754942600",
+    "created_at": "2026-06-10T22:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T23:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064836563754942600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/visualsdotkr/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/visualsdotkr/status/2064707152405500089",
+          "start": 6,
+          "url": "https://t.co/e52r5sGCsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064836563754942600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064707152405500089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的斩杀线 https://t.co/e52r5sGCsM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4633,
+        "height": 854,
+        "media_key": "7_2019886932742815745",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019886932742815745/pu/img/MIIOa_D7ouBONPEG.jpg",
+        "public_metrics": {
+          "view_count": 9426
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019886932742815745/pu/vid/avc1/320x378/aKTmJ6vYQDwNjHfb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019886932742815745/pu/vid/avc1/480x568/-wMjiUjSjiOMYxpT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019886932742815745/pu/vid/avc1/720x854/C8f6FWC2NUSsDFCX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019886932742815745/pu/pl/IMz2B5hGkJRmIu3D.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2064836563754942600",
+        "created_at": "2026-06-10T22:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064836563754942600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/visualsdotkr/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/visualsdotkr/status/2064707152405500089",
+              "start": 6,
+              "url": "https://t.co/e52r5sGCsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064836563754942600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064707152405500089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的斩杀线 https://t.co/e52r5sGCsM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019886932742815745"
+          ]
+        },
+        "author_id": "1863161334785077248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2064707152405500089",
+        "created_at": "2026-06-10T13:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064707152405500089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7GpxaDe5P",
+              "end": 45,
+              "expanded_url": "https://x.com/visualsdotkr/status/2064707152405500089/video/1",
+              "media_key": "7_2019886932742815745",
+              "start": 22,
+              "url": "https://t.co/V7GpxaDe5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064707152405500089",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 25621,
+          "like_count": 3150,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "Chaewon / LE SSERAFIM https://t.co/V7GpxaDe5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 329,
+          "like_count": 8156,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 4402
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T10:01:00.000Z",
+        "description": "Your daily dose of dangerously stunning kpop girls.",
+        "id": "1863161334785077248",
+        "name": "visuals.kr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063032348493410304/cAVHVw1-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26418,
+          "following_count": 209,
+          "like_count": 8681,
+          "listed_count": 42,
+          "media_count": 5157,
+          "tweet_count": 6034
+        },
+        "username": "visualsdotkr",
+        "verified": false
+      }
+    ]
+  }
+}

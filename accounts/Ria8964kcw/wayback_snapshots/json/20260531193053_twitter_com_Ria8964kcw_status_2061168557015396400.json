@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060853058322472983",
+    "created_at": "2026-05-31T19:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061168557015396400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914596976731283458",
+          "start": 0,
+          "username": "HuShangNingNing"
+        },
+        {
+          "end": 30,
+          "id": "1085271803981938688",
+          "start": 17,
+          "username": "periodistan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061168557015396400",
+    "in_reply_to_user_id": "1914596976731283458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061114692597055620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuShangNingNing @periodistan_ 反观重庆就很…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060853058322472983",
+        "created_at": "2026-05-31T19:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061168557015396400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914596976731283458",
+              "start": 0,
+              "username": "HuShangNingNing"
+            },
+            {
+              "end": 30,
+              "id": "1085271803981938688",
+              "start": 17,
+              "username": "periodistan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061168557015396400",
+        "in_reply_to_user_id": "1914596976731283458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061114692597055620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuShangNingNing @periodistan_ 反观重庆就很…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914596976731283458",
+        "conversation_id": "2060853058322472983",
+        "created_at": "2026-05-31T15:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061114692597055620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1085271803981938688",
+              "start": 0,
+              "username": "periodistan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061114692597055620",
+        "in_reply_to_user_id": "1085271803981938688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1487,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060853058322472983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@periodistan_ 終於有聰明的學習過美術的設計師了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 316,
+          "like_count": 7275,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 3808
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T08:28:11.000Z",
+        "description": "",
+        "id": "1914596976731283458",
+        "location": "紅溪村",
+        "name": "山本一夫今天吃什麼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044572912103862273/sVnemUDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "HuShangNingNing",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-15T20:25:36.000Z",
+        "description": "¡PERIODISTÁN LLEGA A YOUTUBE!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@periodistanOK",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@periodistanOK",
+                "start": 0,
+                "url": "https://t.co/MEXGfXoHl8"
+              }
+            ]
+          }
+        },
+        "id": "1085271803981938688",
+        "location": "Argentina",
+        "name": "Periodistán",
+        "pinned_tweet_id": "2035656673625530581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494709729137885189/_jBvbJWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292993,
+          "following_count": 2720,
+          "like_count": 69607,
+          "listed_count": 839,
+          "media_count": 18124,
+          "tweet_count": 32984
+        },
+        "url": "https://t.co/MEXGfXoHl8",
+        "username": "periodistan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2058158942388457905",
+    "created_at": "2026-05-24T02:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058380398670082207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "218434058",
+          "start": 0,
+          "username": "takaichi_sanae"
+        },
+        {
+          "end": 25,
+          "id": "1811384610749874176",
+          "start": 16,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058380398670082207",
+    "in_reply_to_user_id": "218434058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058158942388457905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takaichi_sanae @wgddking 谢谢姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2058158942388457905",
+        "created_at": "2026-05-24T02:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058380398670082207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "218434058",
+              "start": 0,
+              "username": "takaichi_sanae"
+            },
+            {
+              "end": 25,
+              "id": "1811384610749874176",
+              "start": 16,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058380398670082207",
+        "in_reply_to_user_id": "218434058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058158942388457905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takaichi_sanae @wgddking 谢谢姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2058158942388457905",
+        "created_at": "2026-05-23T12:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058158942388457905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058158942388457905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "この度、中国山西省の炭鉱内でガス爆発事故が発生し、大きな被害が生じていることに、大変心を痛めています。\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対し、心からお見舞い申し上げます。\n\nI am deeply saddened by the gas explosion that occurred at a coal mine in Shanxi Province, China, causing significant loss.\nI express my deepest condolences to those who lost their lives and offer my sincere sympathies to their families. \nI also extend my heartfelt sympathies to the affected people.\n\n惊悉贵国山西省发生煤矿爆炸事故，造成重大灾害，对此深感悲痛。\n谨对遇难者致以深切哀悼，并向遇难者家属致以哀思。\n同时，向受灾人民致以衷心慰问。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 3049204,
+          "like_count": 30852,
+          "quote_count": 560,
+          "reply_count": 2631,
+          "retweet_count": 3256
+        },
+        "reply_settings": "everyone",
+        "text": "この度、中国山西省の炭鉱内でガス爆発事故が発生し、大きな被害が生じていることに、大変心を痛めています。\n犠牲になられた方々に哀悼の意を表すとともに、御遺族に対し謹んでお悔やみ申し上げます。\nまた、被害に遭われた方々に対し、心からお見舞い申し上げます。\n\nI am deeply saddened by the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 251,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3035
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "name": "高市早苗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892599,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6286,
+          "media_count": 403,
+          "tweet_count": 1509
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "本人是 愛毛 愛蔣 TV，毛粉蔣粉請謹慎觀看",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Nakano-ku, Tokyo",
+        "name": "wgdd（哲学バージョン）",
+        "pinned_tweet_id": "2058139208049623087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 80,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 2364
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066025408114667753",
+    "created_at": "2026-06-14T05:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066025408114667753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/viki211027/sta…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/viki211027/status/2065777311136591881",
+          "start": 79,
+          "url": "https://t.co/Pr3aePYZaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066025408114667753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065777311136591881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再捐300给红十字会去吧，妈的性病患者也太他妈惨了，你们最好一辈子都得不上任何传染病天天炒这种鸡巴东西家里人都死光了；跟王烟洛潘泽豪可以操操逼了一帮同款脑残 https://t.co/Pr3aePYZaj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2065777280878862336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsdffPbYAA06xi.jpg",
+        "width": 1440
+      },
+      {
+        "height": 983,
+        "media_key": "3_2065777302924091392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsdgxXa4AAHpJ3.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2065777299749048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsdglibkAA6GEc.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066025408114667753",
+        "created_at": "2026-06-14T05:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066025408114667753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/viki211027/sta…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/viki211027/status/2065777311136591881",
+              "start": 79,
+              "url": "https://t.co/Pr3aePYZaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066025408114667753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065777311136591881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再捐300给红十字会去吧，妈的性病患者也太他妈惨了，你们最好一辈子都得不上任何传染病天天炒这种鸡巴东西家里人都死光了；跟王烟洛潘泽豪可以操操逼了一帮同款脑残 https://t.co/Pr3aePYZaj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065777280878862336",
+            "3_2065777302924091392",
+            "3_2065777299749048320"
+          ]
+        },
+        "author_id": "2013100592202194945",
+        "conversation_id": "2065777311136591881",
+        "created_at": "2026-06-13T12:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065777311136591881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0gfKCNF0j",
+              "end": 70,
+              "expanded_url": "https://x.com/Viki211027/status/2065777311136591881/photo/1",
+              "media_key": "3_2065777280878862336",
+              "start": 47,
+              "url": "https://t.co/D0gfKCNF0j"
+            },
+            {
+              "display_url": "pic.x.com/D0gfKCNF0j",
+              "end": 70,
+              "expanded_url": "https://x.com/Viki211027/status/2065777311136591881/photo/1",
+              "media_key": "3_2065777302924091392",
+              "start": 47,
+              "url": "https://t.co/D0gfKCNF0j"
+            },
+            {
+              "display_url": "pic.x.com/D0gfKCNF0j",
+              "end": 70,
+              "expanded_url": "https://x.com/Viki211027/status/2065777311136591881/photo/1",
+              "media_key": "3_2065777299749048320",
+              "start": 47,
+              "url": "https://t.co/D0gfKCNF0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065777311136591881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2108,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给某跨女庇护所捐了300多块钱，对之前炒作对于mtf群体负面影响和伤害到了艾滋病患者感到抱歉 https://t.co/D0gfKCNF0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 336,
+          "like_count": 8455,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 4587
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "ENTP/10年1月/想和对象永远在一起/长相拟人/双向情感障碍/老婆@xieerfan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "Dr土豆尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064357476729073664/r6hYsU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 21,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 286
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

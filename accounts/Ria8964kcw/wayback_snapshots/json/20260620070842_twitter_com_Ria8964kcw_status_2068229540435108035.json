@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2068229540435108035",
+    "created_at": "2026-06-20T07:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068229540435108035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiqi900517/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kiqi900517/status/2067900707785879935",
+          "start": 6,
+          "url": "https://t.co/9pCD4tC15P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068229540435108035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067900707785879935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "南大弟弟来 https://t.co/9pCD4tC15P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1646,
+        "media_key": "3_2067900696410918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKouihbEAA2iae.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2068229540435108035",
+        "created_at": "2026-06-20T07:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068229540435108035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiqi900517/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kiqi900517/status/2067900707785879935",
+              "start": 6,
+              "url": "https://t.co/9pCD4tC15P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068229540435108035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067900707785879935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "南大弟弟来 https://t.co/9pCD4tC15P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067900696410918912"
+          ]
+        },
+        "author_id": "1747041934332592128",
+        "conversation_id": "2067900707785879935",
+        "created_at": "2026-06-19T09:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067900707785879935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA1cZXiOsf",
+              "end": 54,
+              "expanded_url": "https://x.com/kiqi900517/status/2067900707785879935/photo/1",
+              "media_key": "3_2067900696410918912",
+              "start": 31,
+              "url": "https://t.co/nA1cZXiOsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067900707785879935",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 534,
+          "impression_count": 1149394,
+          "like_count": 17868,
+          "quote_count": 234,
+          "reply_count": 1349,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "저 난징대 합격했어요🥹🥹  응원해주셔서 정말 감사합니다 https://t.co/nA1cZXiOsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 309,
+          "like_count": 8860,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 4807
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T23:44:01.000Z",
+        "description": "去见发光的你✨️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/kiqi0517",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/kiqi0517",
+                "start": 0,
+                "url": "https://t.co/7lj64z9x5v"
+              }
+            ]
+          }
+        },
+        "id": "1747041934332592128",
+        "location": "成毅 +@",
+        "name": "키치🥝",
+        "pinned_tweet_id": "1989339533692039383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801558350423040000/fZvu8gNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 157,
+          "like_count": 1835,
+          "listed_count": 3,
+          "media_count": 1942,
+          "tweet_count": 5368
+        },
+        "url": "https://t.co/7lj64z9x5v",
+        "username": "kiqi900517",
+        "verified": false
+      }
+    ]
+  }
+}

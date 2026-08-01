@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2075790194457055322",
+    "created_at": "2026-07-11T05:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075811444265001363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "114382613",
+          "start": 0,
+          "username": "PrettiestBitch"
+        },
+        {
+          "end": 26,
+          "id": "1474709676822433792",
+          "start": 16,
+          "username": "nsdeblair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075811444265001363",
+    "in_reply_to_user_id": "114382613",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075810037143068685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrettiestBitch @nsdeblair"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2075790194457055322",
+        "created_at": "2026-07-11T05:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075811444265001363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114382613",
+              "start": 0,
+              "username": "PrettiestBitch"
+            },
+            {
+              "end": 26,
+              "id": "1474709676822433792",
+              "start": 16,
+              "username": "nsdeblair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075811444265001363",
+        "in_reply_to_user_id": "114382613",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075810037143068685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrettiestBitch @nsdeblair"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114382613",
+        "conversation_id": "2075790194457055322",
+        "created_at": "2026-07-11T05:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075810037143068685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075810037143068685",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075809875490390119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 骟的意思是衣着华丽的男子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 323,
+          "like_count": 9653,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "本科就是废物，干啥啥不行。老子研究生在读，已经去了三个国家，深度研究了ai+医学的前沿场景，发表了一篇文章。入门了拳击，已经有业余拳手的水平。卧推达到了100kg。我在研究生中都是佼佼者😎",
+        "id": "114382613",
+        "name": "秦彻，梦想哭了",
+        "pinned_tweet_id": "2073808130379833497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075232085372203008/27LqecJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 115,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T11:53:02.000Z",
+        "description": "♥︎ 03.07.25 💍\n▪︎ 🐦‍⬛ ⋆. 𐙚 𝒉𝒐𝒍𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝟑𝑺 𝒑𝒓𝒊𝒏𝒄𝒊𝒑𝒍𝒆.\nִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ applecrow main 🍎🐦‍⬛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nnes.carrd.co",
+                "end": 23,
+                "expanded_url": "http://nnes.carrd.co",
+                "start": 0,
+                "url": "https://t.co/ebASRa3yCV"
+              }
+            ]
+          }
+        },
+        "id": "1474709676822433792",
+        "name": "⋆˚꩜｡ 𝒏𝒆𝒔 ໒秦澈的爱人..ა🩰⁺⁎",
+        "pinned_tweet_id": "1937876447387148522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054984835677175809/7SwQoy3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 188,
+          "like_count": 10172,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/ebASRa3yCV",
+        "username": "nsdeblair",
+        "verified": false
+      }
+    ]
+  }
+}

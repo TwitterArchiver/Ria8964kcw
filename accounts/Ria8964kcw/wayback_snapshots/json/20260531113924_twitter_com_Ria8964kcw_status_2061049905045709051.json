@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061049905045709051",
+    "created_at": "2026-05-31T11:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061049905045709051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wgddking/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/wgddking/status/2061033958763384918",
+          "start": 4,
+          "url": "https://t.co/FIiWkdJSMM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061049905045709051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061033958763384918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "十个我 https://t.co/FIiWkdJSMM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_2061033955298885632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpDdmebwAAIo7o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061049905045709051",
+        "created_at": "2026-05-31T11:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061049905045709051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wgddking/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/wgddking/status/2061033958763384918",
+              "start": 4,
+              "url": "https://t.co/FIiWkdJSMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061049905045709051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061033958763384918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十个我 https://t.co/FIiWkdJSMM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061033955298885632"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2061033958763384918",
+        "created_at": "2026-05-31T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061033958763384918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bwJ422bMK",
+              "end": 35,
+              "expanded_url": "https://x.com/wgddking/status/2061033958763384918/photo/1",
+              "media_key": "3_2061033955298885632",
+              "start": 12,
+              "url": "https://t.co/6bwJ422bMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061033958763384918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wgdd请你们看鬼出没 https://t.co/6bwJ422bMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 313,
+          "like_count": 7205,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3768
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n\n恩師@Cyberkanjousen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "Cyberkanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（恩师環狀線）",
+        "pinned_tweet_id": "2058881430311309626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 87,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false
+      }
+    ]
+  }
+}

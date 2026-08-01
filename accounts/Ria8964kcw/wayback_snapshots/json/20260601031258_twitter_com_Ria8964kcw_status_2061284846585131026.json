@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061284846585131026",
+    "created_at": "2026-06-01T03:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061284846585131026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eternalclassic…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/eternalclassic_/status/2060984875297985006",
+          "start": 4,
+          "url": "https://t.co/5A37rkFFV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061284846585131026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060984875297985006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我手： https://t.co/5A37rkFFV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7662,
+        "height": 1920,
+        "media_key": "13_2060897105451909123",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060897105451909123/img/8HeWkp6BW7fyO8U4.jpg",
+        "public_metrics": {
+          "view_count": 8691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060897105451909123/pl/2RMaw4h8j07waXVp.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060897105451909123/vid/avc1/480x852/Lg8tsFhIjc4w8Y2k.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060897105451909123/vid/avc1/1080x1920/6p2s9O7Vdxf9Zc-I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060897105451909123/vid/avc1/720x1280/jABrFoA1vIhh7BAR.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060897105451909123/vid/avc1/320x568/UTWC4lwnEvhmEdAx.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061284846585131026",
+        "created_at": "2026-06-01T03:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061284846585131026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eternalclassic…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/eternalclassic_/status/2060984875297985006",
+              "start": 4,
+              "url": "https://t.co/5A37rkFFV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061284846585131026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060984875297985006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我手： https://t.co/5A37rkFFV7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060897105451909123"
+          ]
+        },
+        "author_id": "1490343047233773572",
+        "conversation_id": "2060984875297985006",
+        "created_at": "2026-05-31T07:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060984875297985006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AW9ZenyQa",
+              "end": 66,
+              "expanded_url": "https://x.com/eternalclassic_/status/2060984875297985006/video/1",
+              "media_key": "13_2060897105451909123",
+              "start": 43,
+              "url": "https://t.co/0AW9ZenyQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060984875297985006",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 25169,
+          "like_count": 1711,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "not a single thought, just bunnite jorking https://t.co/0AW9ZenyQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 318,
+          "like_count": 7287,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 3814
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:14:43.000Z",
+        "description": "merch: https://t.co/MeNysr9tHF     music: https://t.co/RfFjfZaPUO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "eternalclassic.store",
+                "end": 30,
+                "expanded_url": "http://eternalclassic.store",
+                "start": 7,
+                "url": "https://t.co/MeNysr9tHF"
+              },
+              {
+                "display_url": "x.com/afterpiece_",
+                "end": 65,
+                "expanded_url": "http://x.com/afterpiece_",
+                "start": 42,
+                "url": "https://t.co/RfFjfZaPUO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/eternalclassic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/eternalclassic",
+                "start": 0,
+                "url": "https://t.co/UYb5LUVZA1"
+              }
+            ]
+          }
+        },
+        "id": "1490343047233773572",
+        "location": "internet",
+        "name": "eternal classic",
+        "pinned_tweet_id": "2009714394163527935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994541083179483136/rktUCw0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39825,
+          "following_count": 2,
+          "like_count": 338,
+          "listed_count": 81,
+          "media_count": 31691,
+          "tweet_count": 32251
+        },
+        "url": "https://t.co/UYb5LUVZA1",
+        "username": "eternalclassic_",
+        "verified": true
+      }
+    ]
+  }
+}

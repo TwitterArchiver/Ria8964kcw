@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066880999246716928"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2066881010667811219",
+    "created_at": "2026-06-16T13:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066881010667811219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e0b2GIm8jH",
+          "end": 48,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2066881010667811219/photo/1",
+          "media_key": "3_2066880999246716928",
+          "start": 25,
+          "url": "https://t.co/e0b2GIm8jH"
+        },
+        {
+          "display_url": "x.com/ria8964kcw/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/ria8964kcw/status/2066798627549577716",
+          "start": 49,
+          "url": "https://t.co/q0zmX7BQ2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066881010667811219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066798627549577716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈咯这个用香港梯子的ios18.7小朋友你好呀！ https://t.co/e0b2GIm8jH https://t.co/q0zmX7BQ2p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066881010667811219].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066881010667811219",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066881010667811219"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066880999246716928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8JUWka4AA36E4.jpg",
+        "width": 946
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2066798619622285312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6-ZOjaoAA51hv.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066798619622285312"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2066798627549577716",
+        "created_at": "2026-06-16T08:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066798627549577716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmh2yHmRhU",
+              "end": 52,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2066798627549577716/photo/1",
+              "media_key": "3_2066798619622285312",
+              "start": 29,
+              "url": "https://t.co/hmh2yHmRhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066798627549577716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我不知道您这是咋了？😂\n有这种话可以直接dm 我都招 https://t.co/hmh2yHmRhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 把你b了纯因为我感觉你有毛病不敢接触😅\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 339,
+          "like_count": 8646,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 4689
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

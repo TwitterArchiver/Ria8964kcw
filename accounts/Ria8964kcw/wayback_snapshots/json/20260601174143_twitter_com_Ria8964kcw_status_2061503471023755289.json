@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061503471023755289",
+    "created_at": "2026-06-01T17:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061503471023755289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/partylike07hoe…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/partylike07hoes/status/2059269352466284964",
+          "start": 34,
+          "url": "https://t.co/deYFHDqtBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061503471023755289",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059269352466284964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "What’s your ETA? What’s your ETA? https://t.co/deYFHDqtBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10400,
+        "height": 720,
+        "media_key": "13_2059269292529696768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059269292529696768/img/1sQflIiVqPHIzI5M.jpg",
+        "public_metrics": {
+          "view_count": 374393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/vid/avc1/360x270/c6IWgVMniqxzsCVo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/vid/avc1/480x360/Uo-6vdr8qHavfkYS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/vid/avc1/960x720/UQ7fcDBPhWOX_9QJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/pl/zityCS_AHpb6lkj2.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061503471023755289",
+        "created_at": "2026-06-01T17:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061503471023755289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/partylike07hoe…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/partylike07hoes/status/2059269352466284964",
+              "start": 34,
+              "url": "https://t.co/deYFHDqtBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061503471023755289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059269352466284964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What’s your ETA? What’s your ETA? https://t.co/deYFHDqtBq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059269292529696768"
+          ]
+        },
+        "author_id": "1538580132176474112",
+        "conversation_id": "2059269352466284964",
+        "created_at": "2026-05-26T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059269352466284964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJkHWxDK0T",
+              "end": 40,
+              "expanded_url": "https://x.com/partylike07hoes/status/2059269352466284964/video/1",
+              "media_key": "13_2059269292529696768",
+              "start": 17,
+              "url": "https://t.co/fJkHWxDK0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059269352466284964",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4262,
+          "impression_count": 1233744,
+          "like_count": 43392,
+          "quote_count": 1802,
+          "reply_count": 22,
+          "retweet_count": 17766
+        },
+        "reply_settings": "everyone",
+        "text": "누군가를이렇게패보고싶은요즘이다 https://t.co/fJkHWxDK0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推@Riafixcom /any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/😇准备皈依天主教✝️/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意/匿名提问欢迎所有人@Ria8964kcw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Ria8964kcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 323,
+          "like_count": 7385,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3898
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T17:51:09.000Z",
+        "description": "some people have exes they still fuck. i have an ex i still duo with. honestly not sure which is worse.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4131129636/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4131129636/",
+                "start": 0,
+                "url": "https://t.co/s2pN20cfSr"
+              }
+            ]
+          }
+        },
+        "id": "1538580132176474112",
+        "name": "回",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059587790741147648/YlDA-_kW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 89,
+          "like_count": 2037,
+          "listed_count": 2,
+          "media_count": 1481,
+          "tweet_count": 13925
+        },
+        "url": "https://t.co/s2pN20cfSr",
+        "username": "partylike07hoes",
+        "verified": false
+      }
+    ]
+  }
+}

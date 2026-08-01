@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058220365269320009",
+    "created_at": "2026-05-24T17:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058594217556148588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040530038504779776",
+          "start": 0,
+          "username": "wangrizhiying"
+        },
+        {
+          "end": 28,
+          "id": "1981638054688501760",
+          "start": 15,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058594217556148588",
+    "in_reply_to_user_id": "2040530038504779776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058591796641534327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangrizhiying @ashasw114514 谢谢谢谢谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058220365269320009",
+        "created_at": "2026-05-24T17:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058594217556148588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040530038504779776",
+              "start": 0,
+              "username": "wangrizhiying"
+            },
+            {
+              "end": 28,
+              "id": "1981638054688501760",
+              "start": 15,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058594217556148588",
+        "in_reply_to_user_id": "2040530038504779776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058591796641534327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangrizhiying @ashasw114514 谢谢谢谢谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040530038504779776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2058220365269320009",
+        "created_at": "2026-05-24T16:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058591796641534327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 25,
+              "id": "1981638054688501760",
+              "start": 12,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.Re5CObslZnyx…",
+              "end": 62,
+              "expanded_url": "https://e.tb.cn/h.Re5CObslZnyxwWh?tk=oL9Q5EqiQe7",
+              "start": 39,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.Re5CObslZnyxwWh?tk=oL9Q5EqiQe7",
+              "url": "https://t.co/NNIL4qqiy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058591796641534327",
+        "in_reply_to_user_id": "2040530038504779776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058591558006669477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @ashasw114514 算了万一有人需要呢【淘宝】https://t.co/NNIL4qqiy1 HU071 「一次性内裤女款无菌旅行月子产妇月经便携免洗女士日抛裤独立包装」\n点击链接直接打开 或者 淘宝搜索直接打开内裤在这里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 260,
+          "like_count": 6220,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3105
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T20:40:59.000Z",
+        "description": "此号什么都发。对日本近代史/中表感兴趣正在慢慢了解，会在推文黑腊且不太喜欢王洪文推所以请谨慎关注。。很高兴认识你！",
+        "id": "2040530038504779776",
+        "name": "罄竹難書🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048748229584658432/JaIae9az_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 152,
+          "like_count": 7636,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 387
+        },
+        "username": "wangrizhiying",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 2978,
+          "like_count": 6827,
+          "listed_count": 9,
+          "media_count": 519,
+          "tweet_count": 4388
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

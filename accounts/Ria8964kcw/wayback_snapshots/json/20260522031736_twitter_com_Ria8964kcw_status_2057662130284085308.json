@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057500423674823071",
+    "created_at": "2026-05-22T03:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057662130284085308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2047196027141181440",
+          "start": 0,
+          "username": "tangangqinmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057662130284085308",
+    "in_reply_to_user_id": "2047196027141181440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057500423674823071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangangqinmao1 你说啥就是啥啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057500423674823071",
+        "created_at": "2026-05-22T03:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057662130284085308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2047196027141181440",
+              "start": 0,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057662130284085308",
+        "in_reply_to_user_id": "2047196027141181440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057500423674823071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao1 你说啥就是啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047196027141181440",
+        "conversation_id": "2057500423674823071",
+        "created_at": "2026-05-21T16:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057500423674823071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057500423674823071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能独立思考\n上过小学\n反毛\n这三条只能三选二"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485767744925697/sNZveh0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 270,
+          "like_count": 5786,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2820
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n支持图目田 兼职 右÷ 繁茂賊\n大号@tangangqinmao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "tangangqinmao"
+              }
+            ]
+          }
+        },
+        "id": "2047196027141181440",
+        "name": "弹钢琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 18,
+          "like_count": 899,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 908
+        },
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

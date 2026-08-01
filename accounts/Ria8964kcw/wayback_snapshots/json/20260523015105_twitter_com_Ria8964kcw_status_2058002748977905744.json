@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057959707319693534",
+    "created_at": "2026-05-23T01:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058002748977905744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692711484474929152",
+          "start": 0,
+          "username": "dongbagel114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058002748977905744",
+    "in_reply_to_user_id": "1692711484474929152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057959707319693534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongbagel114 我求求你删掉这个我急了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057959707319693534",
+        "created_at": "2026-05-23T01:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058002748977905744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692711484474929152",
+              "start": 0,
+              "username": "dongbagel114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058002748977905744",
+        "in_reply_to_user_id": "1692711484474929152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057959707319693534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongbagel114 我求求你删掉这个我急了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692711484474929152",
+        "conversation_id": "2057959707319693534",
+        "created_at": "2026-05-22T23:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057959707319693534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/insaneposes/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/insaneposes/status/2057860329569165374",
+              "start": 4,
+              "url": "https://t.co/pYyTySAsLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057959707319693534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057860329569165374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/pYyTySAsLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 271,
+          "like_count": 5891,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2914
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T01:34:11.000Z",
+        "description": "曲婉婷资深粉丝，喜欢东北臭脚白袜体育生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongbabysima.com",
+                "end": 23,
+                "expanded_url": "http://www.dongbabysima.com",
+                "start": 0,
+                "url": "https://t.co/lrqxU0nuoF"
+              }
+            ]
+          }
+        },
+        "id": "1692711484474929152",
+        "location": "安徽 南京",
+        "name": "爸爸输精管外的世界太残酷",
+        "pinned_tweet_id": "2006540361896964105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034183038855483392/B5y90pGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1387,
+          "like_count": 16362,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 6551
+        },
+        "url": "https://t.co/lrqxU0nuoF",
+        "username": "dongbagel114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060683908073869653",
+    "created_at": "2026-05-30T11:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060686637148066249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060686637148066249",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060683908073869653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokigirlluv 穿这么多谁看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060683888473817088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkFFB7aQAAdOOt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060683888452833280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkFFB2aEAAcE9b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060683908073869653",
+        "created_at": "2026-05-30T11:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060686637148066249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060686637148066249",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060683908073869653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 穿这么多谁看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060683888473817088",
+            "3_2060683888452833280"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2060683908073869653",
+        "created_at": "2026-05-30T11:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060683908073869653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZAGxiQlc5",
+              "end": 23,
+              "expanded_url": "https://x.com/dokigirlluv/status/2060683908073869653/photo/1",
+              "media_key": "3_2060683888473817088",
+              "start": 0,
+              "url": "https://t.co/KZAGxiQlc5"
+            },
+            {
+              "display_url": "pic.x.com/KZAGxiQlc5",
+              "end": 23,
+              "expanded_url": "https://x.com/dokigirlluv/status/2060683908073869653/photo/1",
+              "media_key": "3_2060683888452833280",
+              "start": 0,
+              "url": "https://t.co/KZAGxiQlc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060683908073869653",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KZAGxiQlc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "赔钱货",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 307,
+          "like_count": 7038,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 3660
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2026772813017919851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054288391718805504/vk-EVGo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16673,
+          "following_count": 39,
+          "like_count": 1064,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 452
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

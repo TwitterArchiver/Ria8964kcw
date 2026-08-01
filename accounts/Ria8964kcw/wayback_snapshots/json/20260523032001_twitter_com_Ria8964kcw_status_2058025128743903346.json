@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2057668964638191910",
+    "created_at": "2026-05-23T03:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058025128743903346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800782392346783744",
+          "start": 0,
+          "username": "DOUDEMOII_y92z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058025128743903346",
+    "in_reply_to_user_id": "1800782392346783744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058019945829818536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOUDEMOII_y92z0 高考和听歌时间撞了我选听歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2057668964638191910",
+        "created_at": "2026-05-23T03:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058025128743903346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800782392346783744",
+              "start": 0,
+              "username": "DOUDEMOII_y92z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058025128743903346",
+        "in_reply_to_user_id": "1800782392346783744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058019945829818536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOUDEMOII_y92z0 高考和听歌时间撞了我选听歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800782392346783744",
+        "conversation_id": "2057668964638191910",
+        "created_at": "2026-05-23T02:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058019945829818536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058019945829818536",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057668964638191910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 我操我懂你我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 272,
+          "like_count": 5901,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2920
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T06:49:27.000Z",
+        "description": "顺性别直男｜熟读马列毛思想｜计划经济拥护者｜想操逼了有附近的女同志吗在线d一个燕妮\n我的毛泽东@lyb1007 我的江青@Taffydaisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "lyb1007"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Taffydaisuki"
+              }
+            ]
+          }
+        },
+        "id": "1800782392346783744",
+        "name": "爹亲娘亲没有🇨🇳🇰🇵🇰🇭亲",
+        "pinned_tweet_id": "1800799125124026874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039602238805729280/WqKXDgie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 112,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 420
+        },
+        "username": "DOUDEMOII_y92z0",
+        "verified": false
+      }
+    ]
+  }
+}

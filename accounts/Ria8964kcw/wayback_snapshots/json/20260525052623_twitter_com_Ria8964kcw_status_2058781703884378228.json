@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2058778880555586036",
+    "created_at": "2026-05-25T05:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058781703884378228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053824487330852865",
+          "start": 0,
+          "username": "RusskiyCvyatoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058781703884378228",
+    "in_reply_to_user_id": "2053824487330852865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058781167285903393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusskiyCvyatoy 我农村人报复性消费时候喝manner看都不看那个蓝色驴子一眼，现在每天都屈服于现实，我恨死中国人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2058778880555586036",
+        "created_at": "2026-05-25T05:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058781703884378228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058781703884378228",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058781167285903393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy 我农村人报复性消费时候喝manner看都不看那个蓝色驴子一眼，现在每天都屈服于现实，我恨死中国人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2058778880555586036",
+        "created_at": "2026-05-25T05:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058781167285903393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058781167285903393",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058780883403076075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 其他懒得去，习惯瑞幸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（毛泽东的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 267,
+          "like_count": 6266,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 3151
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "不须放屁！这面烤熟了，翻过个来，撒点孜然，再来咬上一口！\n\nAngCathy/BCP/Non-Papacy/Russkiy/Tranny/Commy/Gaddafy",
+        "id": "2053824487330852865",
+        "name": "Fr.Dzhugashvius, Josephus（请使用🇲🇫共和法历！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056923289625530368/7pQb9npH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 418
+        },
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2061092000099926385",
+    "created_at": "2026-05-31T14:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061092000099926385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/russkiycvyatoy…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/russkiycvyatoy/status/2061075143439364308",
+          "start": 7,
+          "url": "https://t.co/Y4S76cUmXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061092000099926385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061075143439364308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠笑死我了 https://t.co/Y4S76cUmXk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2061092000099926385",
+        "created_at": "2026-05-31T14:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061092000099926385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russkiycvyatoy…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/russkiycvyatoy/status/2061075143439364308",
+              "start": 7,
+              "url": "https://t.co/Y4S76cUmXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061092000099926385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061075143439364308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠笑死我了 https://t.co/Y4S76cUmXk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053824487330852865",
+        "conversation_id": "2061075143439364308",
+        "created_at": "2026-05-31T13:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061075143439364308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nostraman6000/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Nostraman6000/status/2061031173745504394",
+              "start": 99,
+              "url": "https://t.co/t03igBxwHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061075143439364308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061031173745504394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇧🇾支持同性婚姻\n🇨🇳毒品除罪化\n🇻🇦堕胎合法化\n🇷🇺承认跨性别\n🇷🇺同意第三种性别的存在\n🇰🇵废除死刑\n🇻🇦世俗主义\n🇦🇫女性主义\n🇨🇳反对体罚小孩\n🇦🇫允许多边恋\n\n🟥 不同意\n🟨中立\n🟩同意 https://t.co/t03igBxwHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 314,
+          "like_count": 7234,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "不须放屁！这面烤熟了，翻过个来，撒点孜然，再来咬上一口！\n\nAngCathy/BCP/Non-Papacy/Russkiy/Tranny/Commy/Gaddafy\n\n中俄轴心/反美反自由主义/精神俄罗斯人",
+        "id": "2053824487330852865",
+        "name": "Let's Go Bombing Tel-aviv（“在修和后口领圣体”提醒bot",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056923289625530368/7pQb9npH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 61,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 683
+        },
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      }
+    ]
+  }
+}

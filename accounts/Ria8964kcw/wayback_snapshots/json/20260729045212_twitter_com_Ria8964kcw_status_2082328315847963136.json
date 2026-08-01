@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2082328315847963136",
+    "created_at": "2026-07-29T04:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082328315847963136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qinyuele/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/qinyuele/status/2081365439225942219",
+          "start": 18,
+          "url": "https://t.co/KfJluJjtR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082328315847963136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081365439225942219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李伟轩你看啊，崔志宇上浪人新闻了😭 https://t.co/KfJluJjtR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081365384494481408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ-yiaWgAAC36R.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2082328315847963136",
+        "created_at": "2026-07-29T04:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082328315847963136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qinyuele/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/qinyuele/status/2081365439225942219",
+              "start": 18,
+              "url": "https://t.co/KfJluJjtR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082328315847963136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081365439225942219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李伟轩你看啊，崔志宇上浪人新闻了😭 https://t.co/KfJluJjtR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081365384494481408"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2081365439225942219",
+        "created_at": "2026-07-26T13:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081365439225942219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3cg08r6kY",
+              "end": 37,
+              "expanded_url": "https://x.com/QinYueLe/status/2081365439225942219/photo/1",
+              "media_key": "3_2081365384494481408",
+              "start": 14,
+              "url": "https://t.co/e3cg08r6kY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081365439225942219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10361,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包出真人版了，是个韩国人 https://t.co/e3cg08r6kY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "欢迎互b，感谢互b\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖💛🤍💜🖤｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 327,
+          "like_count": 10068,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 5395
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28145,
+          "following_count": 368,
+          "like_count": 2660,
+          "listed_count": 81,
+          "media_count": 2131,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

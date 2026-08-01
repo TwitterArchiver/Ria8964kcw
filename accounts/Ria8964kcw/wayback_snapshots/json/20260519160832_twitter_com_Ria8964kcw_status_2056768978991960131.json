@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056768965712781312",
+        "3_2056768965519798272",
+        "3_2056768965532344320",
+        "3_2056768965524033537"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2056768978991960131",
+    "created_at": "2026-05-19T16:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056768978991960131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z0QBUss25n",
+          "end": 46,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2056768978991960131/photo/1",
+          "media_key": "3_2056768965712781312",
+          "start": 23,
+          "url": "https://t.co/Z0QBUss25n"
+        },
+        {
+          "display_url": "pic.x.com/Z0QBUss25n",
+          "end": 46,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2056768978991960131/photo/1",
+          "media_key": "3_2056768965519798272",
+          "start": 23,
+          "url": "https://t.co/Z0QBUss25n"
+        },
+        {
+          "display_url": "pic.x.com/Z0QBUss25n",
+          "end": 46,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2056768978991960131/photo/1",
+          "media_key": "3_2056768965532344320",
+          "start": 23,
+          "url": "https://t.co/Z0QBUss25n"
+        },
+        {
+          "display_url": "pic.x.com/Z0QBUss25n",
+          "end": 46,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2056768978991960131/photo/1",
+          "media_key": "3_2056768965524033537",
+          "start": 23,
+          "url": "https://t.co/Z0QBUss25n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056768978991960131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又来忆往昔了懒得码同学名字反正你们也不认识 https://t.co/Z0QBUss25n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056768978991960131].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056768978991960131",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056768978991960131"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056768965712781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsceiJboAAqdds.jpg",
+        "width": 946
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2056768965519798272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIscehba8AAqZzB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2056768965532344320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsceheaYAA_yVr.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056768965524033537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIscehcbkAEPe93.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 255,
+          "like_count": 5504,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2624
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2065896995882152212",
+    "created_at": "2026-06-13T20:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065896995882152212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwadse_/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/qwadse_/status/2065715889060917617",
+          "start": 40,
+          "url": "https://t.co/89vsyEQIKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065896995882152212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065715889060917617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ptsd了我靠我在杭州天天听这个专一听brat就闪回，查理小程序害惨了我哦妈嘞 https://t.co/89vsyEQIKU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065715443978162176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrlQG1bUAAG2TQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2065896995882152212",
+        "created_at": "2026-06-13T20:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065896995882152212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwadse_/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/qwadse_/status/2065715889060917617",
+              "start": 40,
+              "url": "https://t.co/89vsyEQIKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065896995882152212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065715889060917617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ptsd了我靠我在杭州天天听这个专一听brat就闪回，查理小程序害惨了我哦妈嘞 https://t.co/89vsyEQIKU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065715443978162176"
+          ]
+        },
+        "author_id": "1679770388753158144",
+        "conversation_id": "2065715889060917617",
+        "created_at": "2026-06-13T08:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065715889060917617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBD9fPuFJO",
+              "end": 35,
+              "expanded_url": "https://x.com/qwadse_/status/2065715889060917617/photo/1",
+              "media_key": "3_2065715443978162176",
+              "start": 12,
+              "url": "https://t.co/aBD9fPuFJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065715889060917617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1653,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以brat到底啥意思 https://t.co/aBD9fPuFJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 此账号留作纪念\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜以撒的结合｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜我姐姐@Gess828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Riafixcom"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Gess828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊（张雪峰的转世灵童夕魂归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061765680907853824/jaj-aSLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 337,
+          "like_count": 8453,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 4582
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T08:30:51.000Z",
+        "description": "May silence be with you",
+        "id": "1679770388753158144",
+        "location": "神奈川県",
+        "name": "Lufthafen（低浮上",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911419784320700417/Fv_6iy2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 376,
+          "like_count": 20509,
+          "listed_count": 2,
+          "media_count": 610,
+          "tweet_count": 8180
+        },
+        "username": "qwadse_",
+        "verified": false
+      }
+    ]
+  }
+}

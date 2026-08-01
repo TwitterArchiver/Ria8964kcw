@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2059496745747582982",
+    "created_at": "2026-05-27T18:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059697505408049358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757152910683852800",
+          "start": 0,
+          "username": "qslzy1225"
+        },
+        {
+          "end": 25,
+          "id": "1526630725851787264",
+          "start": 11,
+          "username": "Irene_Schnee_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059697505408049358",
+    "in_reply_to_user_id": "1757152910683852800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059507586018226594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qslzy1225 @Irene_Schnee_ 晦涩在哪，比湖南呓语有条理多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059496745747582982",
+        "created_at": "2026-05-27T18:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059697505408049358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757152910683852800",
+              "start": 0,
+              "username": "qslzy1225"
+            },
+            {
+              "end": 25,
+              "id": "1526630725851787264",
+              "start": 11,
+              "username": "Irene_Schnee_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059697505408049358",
+        "in_reply_to_user_id": "1757152910683852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059507586018226594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qslzy1225 @Irene_Schnee_ 晦涩在哪，比湖南呓语有条理多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2059496745747582982",
+        "created_at": "2026-05-27T05:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059507586018226594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1526630725851787264",
+              "start": 0,
+              "username": "Irene_Schnee_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059507586018226594",
+        "in_reply_to_user_id": "1526630725851787264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 0,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059506673983816146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irene_Schnee_ 阅读马列毛的著作。主要读的毛泽东，因为马克思写得比较晦涩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 286,
+          "like_count": 6618,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 3393
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜毛左派｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "pinned_tweet_id": "2059612178613694820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 278
+        },
+        "username": "qslzy1225",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T18:28:42.000Z",
+        "description": "not (entirely) a mean girl",
+        "id": "1526630725851787264",
+        "name": "Schnee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027577216964694018/TfjQGW6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 24,
+          "like_count": 2453,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 818
+        },
+        "username": "Irene_Schnee_",
+        "verified": false
+      }
+    ]
+  }
+}

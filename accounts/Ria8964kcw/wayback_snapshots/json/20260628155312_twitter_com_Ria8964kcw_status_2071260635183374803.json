@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2071171113766547824",
+    "created_at": "2026-06-28T15:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071260635183374803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        },
+        {
+          "end": 24,
+          "id": "1994720929709174784",
+          "start": 15,
+          "username": "bth95147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071260635183374803",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071258940017725602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoMing @bth95147 这个地理位置会不会太城市化了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2071171113766547824",
+        "created_at": "2026-06-28T15:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071260635183374803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            },
+            {
+              "end": 24,
+              "id": "1994720929709174784",
+              "start": 15,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071260635183374803",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071258940017725602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoMing @bth95147 这个地理位置会不会太城市化了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938537315586244608",
+        "conversation_id": "2071171113766547824",
+        "created_at": "2026-06-28T15:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071258940017725602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 21,
+              "id": "1994720929709174784",
+              "start": 12,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071258940017725602",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071250646897131861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @bth95147 中国石油大学（北京）克拉玛依校区（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜彩虹友好🌈｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 326,
+          "like_count": 9356,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 5092
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "08|高三毕业生|INFP-T|十分社恐|交通迷|F1梅奔粉|音游|天际线|mtx?|🏳️‍⚧️友跨|含糖🍥|互fo喵",
+        "id": "1938537315586244608",
+        "location": "TJ",
+        "name": "ruo_Ming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 397,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "ruoruoruoMing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T10:53:09.000Z",
+        "description": "后端开发 | 前端不通 | 高中毕业 | 主人@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "NanoCatfish"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bth95147.github.io",
+                "end": 23,
+                "expanded_url": "http://bth95147.github.io",
+                "start": 0,
+                "url": "https://t.co/VQlRoNVhST"
+              }
+            ]
+          }
+        },
+        "id": "1994720929709174784",
+        "location": "SD",
+        "name": "BtH",
+        "pinned_tweet_id": "2066796313690374173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070789036810346496/wdKPDiy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 301,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/VQlRoNVhST",
+        "username": "bth95147",
+        "verified": false
+      }
+    ]
+  }
+}

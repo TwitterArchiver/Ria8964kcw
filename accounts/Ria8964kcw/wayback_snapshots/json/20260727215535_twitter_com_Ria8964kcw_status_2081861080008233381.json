@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2081861080008233381",
+    "created_at": "2026-07-27T21:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081861080008233381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/katarinabluu_/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/katarinabluu_/status/2080652551473562008",
+          "start": 32,
+          "url": "https://t.co/6jOQNPxDaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081861080008233381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080652551473562008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈呀鬼子这次回归都没1.7w赞的正帖吧好像有句话叫公道自在人心 https://t.co/6jOQNPxDaL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2081861080008233381",
+        "created_at": "2026-07-27T21:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081861080008233381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/katarinabluu_/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/katarinabluu_/status/2080652551473562008",
+              "start": 32,
+              "url": "https://t.co/6jOQNPxDaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081861080008233381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080652551473562008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀鬼子这次回归都没1.7w赞的正帖吧好像有句话叫公道自在人心 https://t.co/6jOQNPxDaL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478407745451741185",
+        "conversation_id": "2080652551473562008",
+        "created_at": "2026-07-24T13:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080652551473562008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theogblackmamb…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/theogblackmamba/status/2080622687454679063",
+              "start": 47,
+              "url": "https://t.co/y8Eky9Hc5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652551473562008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 732,
+          "impression_count": 800546,
+          "like_count": 17686,
+          "quote_count": 17,
+          "reply_count": 23,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080622687454679063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "girls just tryna catch her flight i respect it https://t.co/y8Eky9Hc5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "欢迎互b，感谢互b\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖💛🤍💜🖤｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "可爱的利亚住在越南胡志明市",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 326,
+          "like_count": 10010,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 5389
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T16:47:36.000Z",
+        "description": "i took over a year to cut u bitches some slack || ae2hts127pilled",
+        "id": "1478407745451741185",
+        "name": "gigi 🍋‍🟩🇧🇷🇧🇷",
+        "pinned_tweet_id": "1961824833529921914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793298792059412480/3P9xnOYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6190,
+          "following_count": 3208,
+          "like_count": 57099,
+          "listed_count": 14,
+          "media_count": 2240,
+          "tweet_count": 10961
+        },
+        "url": "",
+        "username": "katarinabluu_",
+        "verified": false
+      }
+    ]
+  }
+}

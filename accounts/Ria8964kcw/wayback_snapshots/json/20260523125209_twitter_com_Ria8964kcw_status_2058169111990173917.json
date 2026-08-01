@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1427243067275284480",
+          "name": "YouTube Shorts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2058169111990173917",
+    "created_at": "2026-05-23T12:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058169111990173917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chaewon_data/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chaewon_data/status/2058146547477479556",
+          "start": 6,
+          "url": "https://t.co/aJGiArGeU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058169111990173917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058146547477479556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇塞好火呀 https://t.co/aJGiArGeU8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2058146544755339264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJABYL_W8AARDYS.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2058146544671408128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJABYLrWQAA_OHA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427243067275284480",
+              "name": "YouTube Shorts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2058169111990173917",
+        "created_at": "2026-05-23T12:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058169111990173917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chaewon_data/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chaewon_data/status/2058146547477479556",
+              "start": 6,
+              "url": "https://t.co/aJGiArGeU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058169111990173917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058146547477479556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇塞好火呀 https://t.co/aJGiArGeU8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058146544755339264",
+            "3_2058146544671408128"
+          ]
+        },
+        "author_id": "1285273796514021376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1427243067275284480",
+              "name": "YouTube Shorts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2058146547477479556",
+        "created_at": "2026-05-23T11:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058146547477479556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "CHAEWON"
+            },
+            {
+              "end": 218,
+              "start": 206,
+              "tag": "LE_SSERAFIM"
+            },
+            {
+              "end": 230,
+              "start": 219,
+              "tag": "KIMCHAEWON"
+            },
+            {
+              "end": 237,
+              "start": 232,
+              "tag": "르세라핌"
+            },
+            {
+              "end": 242,
+              "start": 238,
+              "tag": "김채원"
+            },
+            {
+              "end": 250,
+              "start": 243,
+              "tag": "ルセラフィム"
+            },
+            {
+              "end": 257,
+              "start": 251,
+              "tag": "チェウォン"
+            }
+          ],
+          "urls": [
+            {
+              "description": "김채원으로 시작하는 붐팔라 인트로 쌈나 좋다 | MOVE TO PERFORMANCE #shortsStream vari...",
+              "display_url": "youtube.com/shorts/V4SRfLT…",
+              "end": 204,
+              "expanded_url": "http://youtube.com/shorts/V4SRfLTZuAY",
+              "start": 181,
+              "status": 200,
+              "title": "김채원으로 시작하는 붐팔라 인트로 쌈나 좋다 | MOVE TO PERFORMANCE #shorts",
+              "unwound_url": "https://www.youtube.com/shorts/V4SRfLTZuAY",
+              "url": "https://t.co/wbrMtCkfXc"
+            },
+            {
+              "display_url": "pic.x.com/5y55PbKbdV",
+              "end": 281,
+              "expanded_url": "https://x.com/CHAEWON_DATA/status/2058146547477479556/photo/1",
+              "media_key": "3_2058146544755339264",
+              "start": 258,
+              "url": "https://t.co/5y55PbKbdV"
+            },
+            {
+              "display_url": "pic.x.com/5y55PbKbdV",
+              "end": 281,
+              "expanded_url": "https://x.com/CHAEWON_DATA/status/2058146547477479556/photo/1",
+              "media_key": "3_2058146544671408128",
+              "start": 258,
+              "url": "https://t.co/5y55PbKbdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058146547477479556",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2775,
+          "like_count": 179,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "[📊] 260523\n\n#CHAEWON’s clip from MOVE TO PERFORMANCE has surpassed 1M views on Studio Choom YouTube in less a day 🎉\n\n- 1st Boompala clip to do so on studio choom youtube shorts🔥\n\n🔗 https://t.co/wbrMtCkfXc\n\n#LE_SSERAFIM #KIMCHAEWON \n#르세라핌 #김채원\n#ルセラフィム #チェウォン https://t.co/5y55PbKbdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/我就是许愿我关注你你关注我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇵",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057930405198823424/Bg1IQvHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 247,
+          "like_count": 5957,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2974
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T18:02:24.000Z",
+        "description": "—  data and stats account for kim chaewon (#김채원) of @le_sserafim! \ninfo, updates, brand reputation and more",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "김채원"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "le_sserafim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_chaechae_1/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_chaechae_1/",
+                "start": 0,
+                "url": "https://t.co/YQpqqwrfen"
+              }
+            ]
+          }
+        },
+        "id": "1285273796514021376",
+        "name": "CHAEWON DATA 📊",
+        "pinned_tweet_id": "2056608652086452668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054651762494328832/KNrqG_PV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 120,
+          "like_count": 8468,
+          "listed_count": 184,
+          "media_count": 3933,
+          "tweet_count": 9052
+        },
+        "url": "https://t.co/YQpqqwrfen",
+        "username": "CHAEWON_DATA",
+        "verified": false
+      }
+    ]
+  }
+}

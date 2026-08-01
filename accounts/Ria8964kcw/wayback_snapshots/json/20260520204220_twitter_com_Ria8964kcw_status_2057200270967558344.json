@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "The adventures of four boys who live in South Park, Colorado.\n\nPhoto via @SouthPark",
+          "id": "10000272006",
+          "name": "South Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "The animated series is not for children. In fact, its goal seems to be to offend as many as possible as it presents the adventures of Stan, Kyle, Kenny and Cartman. The show has taken on Saddam Hussein, Osama bin Laden, politicians of every stripe and self-important celebrities. Oh, and Kenny is killed in many episodes.",
+          "id": "10027336302",
+          "name": "South Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10034688661",
+          "name": "South Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263276345091428353",
+          "name": "South Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1263276345091428353",
+          "name": "South Park"
+        }
+      }
+    ],
+    "conversation_id": "2057200270967558344",
+    "created_at": "2026-05-20T20:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057200270967558344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/southup_/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/southup_/status/2056977049986760877",
+          "start": 4,
+          "url": "https://t.co/t8VZUgzW4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057200270967558344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056977049986760877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "捡小溪 https://t.co/t8VZUgzW4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20366,
+        "height": 720,
+        "media_key": "13_2056976983519547392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056976983519547392/img/NzTyCCW--mfwtd_r.jpg",
+        "public_metrics": {
+          "view_count": 3806
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056976983519547392/vid/avc1/320x320/k0OlspspBqoS2bfW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056976983519547392/vid/avc1/540x540/07MnAVbRv5qHg2wX.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056976983519547392/vid/avc1/720x720/go4VQwbv8SQtXhMM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056976983519547392/pl/7npYM7M3Uw_wjpBq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The adventures of four boys who live in South Park, Colorado.\n\nPhoto via @SouthPark",
+              "id": "10000272006",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The animated series is not for children. In fact, its goal seems to be to offend as many as possible as it presents the adventures of Stan, Kyle, Kenny and Cartman. The show has taken on Saddam Hussein, Osama bin Laden, politicians of every stripe and self-important celebrities. Oh, and Kenny is killed in many episodes.",
+              "id": "10027336302",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034688661",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263276345091428353",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263276345091428353",
+              "name": "South Park"
+            }
+          }
+        ],
+        "conversation_id": "2057200270967558344",
+        "created_at": "2026-05-20T20:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057200270967558344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/southup_/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/southup_/status/2056977049986760877",
+              "start": 4,
+              "url": "https://t.co/t8VZUgzW4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057200270967558344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056977049986760877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "捡小溪 https://t.co/t8VZUgzW4z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056976983519547392"
+          ]
+        },
+        "author_id": "2053947615021076480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The adventures of four boys who live in South Park, Colorado.\n\nPhoto via @SouthPark",
+              "id": "10000272006",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The animated series is not for children. In fact, its goal seems to be to offend as many as possible as it presents the adventures of Stan, Kyle, Kenny and Cartman. The show has taken on Saddam Hussein, Osama bin Laden, politicians of every stripe and self-important celebrities. Oh, and Kenny is killed in many episodes.",
+              "id": "10027336302",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034688661",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263276345091428353",
+              "name": "South Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1263276345091428353",
+              "name": "South Park"
+            }
+          }
+        ],
+        "conversation_id": "2056977049986760877",
+        "created_at": "2026-05-20T05:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056977049986760877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "southpark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3eNobm42du",
+              "end": 48,
+              "expanded_url": "https://x.com/southup_/status/2056977049986760877/video/1",
+              "media_key": "13_2056976983519547392",
+              "start": 25,
+              "url": "https://t.co/3eNobm42du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056977049986760877",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 9357,
+          "like_count": 689,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "flash warning #southpark https://t.co/3eNobm42du"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/查成分互fo喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "骟爹拴母高手利亚🐊",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343874119307264/3Tdu7r0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 265,
+          "like_count": 5647,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2699
+        },
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T21:18:17.000Z",
+        "description": "alt for south park posting / main: @salup__ / dni: shota/loli, proship, shedtwt / https://t.co/z06elbovjP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "salup__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "salupsouthpark.straw.page",
+                "end": 105,
+                "expanded_url": "https://salupsouthpark.straw.page",
+                "start": 82,
+                "url": "https://t.co/z06elbovjP"
+              }
+            ]
+          }
+        },
+        "id": "2053947615021076480",
+        "location": "he/him | 19",
+        "name": "adam!! 💖",
+        "pinned_tweet_id": "2053977416041652511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053973105043709952/GQwWdMP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 26,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 182
+        },
+        "username": "southup_",
+        "verified": false
+      }
+    ]
+  }
+}

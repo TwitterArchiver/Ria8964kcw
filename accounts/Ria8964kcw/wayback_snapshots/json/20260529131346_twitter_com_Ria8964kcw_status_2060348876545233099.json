@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2060345430115037550",
+    "created_at": "2026-05-29T13:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060348876545233099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        },
+        {
+          "end": 23,
+          "id": "2041218436651794433",
+          "start": 11,
+          "username": "4pinkmatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060348876545233099",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060347586666750274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 @4pinkmatter 姑娘一句春不晚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2060345430115037550",
+        "created_at": "2026-05-29T13:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060348876545233099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            },
+            {
+              "end": 23,
+              "id": "2041218436651794433",
+              "start": 11,
+              "username": "4pinkmatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060348876545233099",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060347586666750274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 @4pinkmatter 姑娘一句春不晚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2060345430115037550",
+        "created_at": "2026-05-29T13:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060347586666750274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041218436651794433",
+              "start": 0,
+              "username": "4pinkmatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060347586666750274",
+        "in_reply_to_user_id": "2041218436651794433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060345430115037550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4pinkmatter 舍敌正在放我逃不开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 301,
+          "like_count": 6847,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 3536
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "雷妈妈舒肤佳独生女",
+        "pinned_tweet_id": "2057485048388243570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339815493902336/Mhpge-Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 149,
+          "like_count": 35023,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 7805
+        },
+        "username": "Ride_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:18:32.000Z",
+        "description": "❤️@chibanak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "chibanak1"
+              }
+            ]
+          }
+        },
+        "id": "2041218436651794433",
+        "name": "Kagayaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041558738923089922/et6jQmnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 89,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 538
+        },
+        "username": "4pinkmatter",
+        "verified": false
+      }
+    ]
+  }
+}

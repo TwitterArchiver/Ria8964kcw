@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2080866278663938366",
+    "created_at": "2026-07-25T15:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081035431718862891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736013613922729984",
+          "start": 0,
+          "username": "LING_bdnit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081035431718862891",
+    "in_reply_to_user_id": "1736013613922729984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080866278663938366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LING_bdnit test"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2080866278663938366",
+        "created_at": "2026-07-25T15:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081035431718862891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736013613922729984",
+              "start": 0,
+              "username": "LING_bdnit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081035431718862891",
+        "in_reply_to_user_id": "1736013613922729984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080866278663938366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LING_bdnit test"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736013613922729984",
+        "conversation_id": "2080866278663938366",
+        "created_at": "2026-07-25T04:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080866278663938366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080866278663938366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1193,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的账户恢复正常了！泠栀子！复活！ \n好了，我要高强度发推了，真的是憋死我了！来广州生活差不多10天了，我真的每天都有好多东西想要分享的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "我想自毁",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 324,
+          "like_count": 9880,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 5342
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T13:21:22.000Z",
+        "description": "｜这是人类的落日。｜\n\n🇨🇳潮汕人｜精神深圳人｜🏳️‍🌈双性恋｜叶文洁最棒了",
+        "id": "1736013613922729984",
+        "location": "已然遥远的理想乡 Lost Camelot",
+        "name": "泠栀子被马应龙 ghost ban 了",
+        "pinned_tweet_id": "1997663355054498273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062451570105888768/VmuHrpNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 1265,
+          "like_count": 332993,
+          "listed_count": 4,
+          "media_count": 649,
+          "tweet_count": 9146
+        },
+        "url": "",
+        "username": "LING_bdnit",
+        "verified": false
+      }
+    ]
+  }
+}
