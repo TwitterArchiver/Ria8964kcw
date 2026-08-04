@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083195820476862532",
+    "created_at": "2026-07-31T14:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083195820476862532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044427237336969216",
+          "start": 3,
+          "username": "Rainbow_chea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083195820476862532",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083192457089675356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainbow_chea: Hope you gain countless honors and endless joy during every performance, wonderful Chaewon.\n\nTIME TO CELEBRATE CHAEWON #T…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083195820476862532",
+        "created_at": "2026-07-31T14:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083195820476862532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044427237336969216",
+              "start": 3,
+              "username": "Rainbow_chea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083195820476862532",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083192457089675356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainbow_chea: Hope you gain countless honors and endless joy during every performance, wonderful Chaewon.\n\nTIME TO CELEBRATE CHAEWON #T…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044427237336969216",
+        "conversation_id": "2083192457089675356",
+        "created_at": "2026-07-31T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083192457089675356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 119,
+              "tag": "TimeToChaelebrate"
+            },
+            {
+              "end": 150,
+              "start": 139,
+              "tag": "여름의인트로_김채원"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083192457089675356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Hope you gain countless honors and endless joy during every performance, wonderful Chaewon.\n\nTIME TO CELEBRATE CHAEWON #TimeToChaelebrate \n#여름의인트로_김채원"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10325,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5464
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T14:48:36.000Z",
+        "description": "",
+        "id": "2044427237336969216",
+        "location": "New York, USA",
+        "name": "Rainbow_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082829188604829697/odFXCHGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 40,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Rainbow_chea",
+        "verified": false
+      }
+    ]
+  }
+}

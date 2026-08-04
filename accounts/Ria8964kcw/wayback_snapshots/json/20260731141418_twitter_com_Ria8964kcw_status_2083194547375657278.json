@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083194547375657278",
+    "created_at": "2026-07-31T14:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083194547375657278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 102,
+          "tag": "여름의인트로_김채원"
+        },
+        {
+          "end": 132,
+          "start": 114,
+          "tag": "TimeToChaelebrate"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1739283679019724800",
+          "start": 3,
+          "username": "KCW_COMPANY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083194547375657278",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083190989427298812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KCW_COMPANY: ☆⌁ 𝐇𝐚𝐩𝐩𝐲 𝐂𝐇𝐀𝐄𝐖𝐎𝐍 𝐃𝐚𝐲 ⌁☆\n\n우리는 이야기는 언제나 너로 시작해\n생일 축하해! 채원아♡\n\nTIME TO CELEBRATE CHAEWON\n#여름의인트로_김채원\n#TimeToChaelebrate https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2083190977624412160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj7KCyaEAA7yZE.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083194547375657278",
+        "created_at": "2026-07-31T14:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083194547375657278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 102,
+              "tag": "여름의인트로_김채원"
+            },
+            {
+              "end": 132,
+              "start": 114,
+              "tag": "TimeToChaelebrate"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1739283679019724800",
+              "start": 3,
+              "username": "KCW_COMPANY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083194547375657278",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083190989427298812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KCW_COMPANY: ☆⌁ 𝐇𝐚𝐩𝐩𝐲 𝐂𝐇𝐀𝐄𝐖𝐎𝐍 𝐃𝐚𝐲 ⌁☆\n\n우리는 이야기는 언제나 너로 시작해\n생일 축하해! 채원아♡\n\nTIME TO CELEBRATE CHAEWON\n#여름의인트로_김채원\n#TimeToChaelebrate https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083190977624412160"
+          ]
+        },
+        "author_id": "1739283679019724800",
+        "conversation_id": "2083190989427298812",
+        "created_at": "2026-07-31T14:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083190989427298812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 85,
+              "tag": "여름의인트로_김채원"
+            },
+            {
+              "end": 115,
+              "start": 97,
+              "tag": "TimeToChaelebrate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aszI064S7w",
+              "end": 139,
+              "expanded_url": "https://x.com/KCW_COMPANY/status/2083190989427298812/photo/1",
+              "media_key": "3_2083190977624412160",
+              "start": 116,
+              "url": "https://t.co/aszI064S7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190989427298812",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1669,
+          "like_count": 101,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "☆⌁ 𝐇𝐚𝐩𝐩𝐲 𝐂𝐇𝐀𝐄𝐖𝐎𝐍 𝐃𝐚𝐲 ⌁☆\n\n우리는 이야기는 언제나 너로 시작해\n생일 축하해! 채원아♡\n\nTIME TO CELEBRATE CHAEWON\n#여름의인트로_김채원\n#TimeToChaelebrate https://t.co/aszI064S7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10323,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5462
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T13:55:29.000Z",
+        "description": "𝗟𝗘 𝗦𝗦𝗘𝗥𝗔𝗙𝗜𝗠 𝗖𝗛𝗔𝗘𝗪𝗢𝗡 𝗞𝗢𝗥𝗘𝗔 𝗙𝗔𝗡𝗕𝗔𝗦𝗘 —• 르세라핌 김채원 한국 팬베이스 ꔛ🐯﹆🐶✧.* | 𝑊𝑂𝑊, 𝐼𝑇’𝑆 𝐴𝐿𝐿 𝐴𝐵𝑂𝑈𝑇 𝐶𝐻𝐴𝐸𝑊𝑂𝑁. | 문의는 DM 주세요.",
+        "id": "1739283679019724800",
+        "location": "주요 공지 ꕀ𖤐 하이라이트",
+        "name": "김채원컴퍼니 (𝗞𝗖𝗪 𝗖𝗢𝗠𝗣𝗔𝗡𝗬)",
+        "pinned_tweet_id": "2082013228167786782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339198151057408/p5MplCxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 34,
+          "like_count": 79,
+          "listed_count": 26,
+          "media_count": 3447,
+          "tweet_count": 21682
+        },
+        "url": "",
+        "username": "KCW_COMPANY",
+        "verified": true
+      }
+    ]
+  }
+}

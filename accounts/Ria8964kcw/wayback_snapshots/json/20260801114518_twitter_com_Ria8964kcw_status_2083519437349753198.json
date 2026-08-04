@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083519437349753198",
+    "created_at": "2026-08-01T11:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083519437349753198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sisi7758/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/sisi7758/status/2083252327205757366",
+          "start": 14,
+          "url": "https://t.co/r7UehimJIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083519437349753198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083252327205757366",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "姐妹你看你评论区都是你同行 https://t.co/r7UehimJIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2083252312529887232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOky8NHa4AA-W-T.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083519437349753198",
+        "created_at": "2026-08-01T11:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083519437349753198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sisi7758/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/sisi7758/status/2083252327205757366",
+              "start": 14,
+              "url": "https://t.co/r7UehimJIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083519437349753198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083252327205757366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐妹你看你评论区都是你同行 https://t.co/r7UehimJIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083252312529887232"
+          ]
+        },
+        "author_id": "1727273302857822208",
+        "conversation_id": "2083252327205757366",
+        "created_at": "2026-07-31T18:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083252327205757366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dE5Wj2MpEL",
+              "end": 45,
+              "expanded_url": "https://x.com/sisi7758/status/2083252327205757366/photo/1",
+              "media_key": "3_2083252312529887232",
+              "start": 22,
+              "url": "https://t.co/dE5Wj2MpEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083252327205757366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6543,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面相学真的准 那些喜欢找事的面相基本差不多 https://t.co/dE5Wj2MpEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "千万别在小红书和教师师范生群体有任何接触警醒我自己",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 370,
+          "like_count": 10424,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5476
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "2083249039185969173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13876,
+          "following_count": 10,
+          "like_count": 2627,
+          "listed_count": 33,
+          "media_count": 172,
+          "tweet_count": 1689
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

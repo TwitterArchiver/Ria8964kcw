@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083811858344206724",
+    "created_at": "2026-08-02T07:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083811858344206724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2083779828617245075",
+          "start": 19,
+          "url": "https://t.co/NtusepFfSj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083811858344206724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083779828617245075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mha是美国人用来测支那猪智商的阴谋 https://t.co/NtusepFfSj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116345,
+        "height": 640,
+        "media_key": "13_2083600990331351040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083600990331351040/img/iIf0iqTcnVAkSg1S.jpg",
+        "public_metrics": {
+          "view_count": 14145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083600990331351040/vid/avc1/296x640/vUTYT2sddopDEBXI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083600990331351040/pl/5BwrOuOtMb67vqiE.m3u8?v=cfc"
+          }
+        ],
+        "width": 296
+      },
+      {
+        "duration_ms": 36323,
+        "height": 640,
+        "media_key": "13_2083600990323052544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083600990323052544/img/nZb8P85ALkbycCwm.jpg",
+        "public_metrics": {
+          "view_count": 1526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083600990323052544/vid/avc1/296x640/okypoLoZn9SbbubS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083600990323052544/pl/aimnLKcglNK8rHaq.m3u8?v=cfc"
+          }
+        ],
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083811858344206724",
+        "created_at": "2026-08-02T07:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083811858344206724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2083779828617245075",
+              "start": 19,
+              "url": "https://t.co/NtusepFfSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083811858344206724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083779828617245075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mha是美国人用来测支那猪智商的阴谋 https://t.co/NtusepFfSj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083600990331351040",
+            "13_2083600990323052544"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083779828617245075",
+        "created_at": "2026-08-02T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083779828617245075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNqapS1oX0",
+              "end": 69,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2083779828617245075/video/1",
+              "media_key": "13_2083600990331351040",
+              "start": 46,
+              "url": "https://t.co/WNqapS1oX0"
+            },
+            {
+              "display_url": "pic.x.com/WNqapS1oX0",
+              "end": 69,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2083779828617245075/video/1",
+              "media_key": "13_2083600990323052544",
+              "start": 46,
+              "url": "https://t.co/WNqapS1oX0"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2059650846284222693",
+              "start": 70,
+              "url": "https://t.co/E7t5eAPsQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083779828617245075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 38896,
+          "like_count": 147,
+          "quote_count": 5,
+          "reply_count": 83,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059650846284222693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月1日，重庆市江北区观音桥附近，一名《我的英雄学院》Coser被拽掉假发，并遭多人殴打。 https://t.co/WNqapS1oX0 https://t.co/E7t5eAPsQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，笑看二元性别土崩瓦解，人妖的世界马上到来",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083519827923324928/d2h9Dz_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 339,
+          "like_count": 10469,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 5492
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245054,
+          "following_count": 1080,
+          "like_count": 9836,
+          "listed_count": 8839,
+          "media_count": 51471,
+          "tweet_count": 58711
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

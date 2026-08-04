@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2084240449641033731",
+    "created_at": "2026-08-03T11:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084240449641033731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2084228718160191889",
+          "start": 19,
+          "url": "https://t.co/F8E7DPPcYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084240449641033731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084228718160191889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "世界上最可爱的小兔子是我的女朋友？！ https://t.co/F8E7DPPcYi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2084228684505083904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyq8iKa8AAyxl_.jpg",
+        "width": 721
+      },
+      {
+        "height": 960,
+        "media_key": "3_2084228709733801984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyq-AJaoAA37SQ.jpg",
+        "width": 721
+      },
+      {
+        "height": 960,
+        "media_key": "3_2084228709742260225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyq-ALbsAEOPeZ.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2084240449641033731",
+        "created_at": "2026-08-03T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084240449641033731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2084228718160191889",
+              "start": 19,
+              "url": "https://t.co/F8E7DPPcYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084240449641033731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084228718160191889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上最可爱的小兔子是我的女朋友？！ https://t.co/F8E7DPPcYi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084228684505083904",
+            "3_2084228709733801984",
+            "3_2084228709742260225"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2084228718160191889",
+        "created_at": "2026-08-03T10:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084228718160191889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itEdhR2Z5z",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2084228718160191889/photo/1",
+              "media_key": "3_2084228684505083904",
+              "start": 0,
+              "url": "https://t.co/itEdhR2Z5z"
+            },
+            {
+              "display_url": "pic.x.com/itEdhR2Z5z",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2084228718160191889/photo/1",
+              "media_key": "3_2084228709733801984",
+              "start": 0,
+              "url": "https://t.co/itEdhR2Z5z"
+            },
+            {
+              "display_url": "pic.x.com/itEdhR2Z5z",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2084228718160191889/photo/1",
+              "media_key": "3_2084228709742260225",
+              "start": 0,
+              "url": "https://t.co/itEdhR2Z5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084228718160191889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1001,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/itEdhR2Z5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 346,
+          "like_count": 10595,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5524
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "location": "2 sleep deprived asia admins",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45767,
+          "following_count": 323,
+          "like_count": 22870,
+          "listed_count": 89,
+          "media_count": 14107,
+          "tweet_count": 31620
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true
+      }
+    ]
+  }
+}

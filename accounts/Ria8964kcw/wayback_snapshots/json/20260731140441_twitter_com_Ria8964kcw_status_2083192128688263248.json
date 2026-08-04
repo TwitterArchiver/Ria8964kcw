@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083192128688263248",
+    "created_at": "2026-07-31T14:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083192128688263248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660188232053833734",
+          "start": 3,
+          "username": "LSRFMTrends"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083192128688263248",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083190949547819377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LSRFMTrends: FEARNOTs, Chaewon's birthday will begin in 1 hour! Let’s celebrate together with the tags 🎂🩵\n\nTIME TO CELEBRATE CHAEWON\n#T…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "16_2057878051451465728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI8NL0fWcAAfgz7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI8NL0fWcAAfgz7.mp4"
+          }
+        ],
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083192128688263248",
+        "created_at": "2026-07-31T14:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083192128688263248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660188232053833734",
+              "start": 3,
+              "username": "LSRFMTrends"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083192128688263248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083190949547819377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LSRFMTrends: FEARNOTs, Chaewon's birthday will begin in 1 hour! Let’s celebrate together with the tags 🎂🩵\n\nTIME TO CELEBRATE CHAEWON\n#T…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057878051451465728"
+          ],
+          "media_source_tweet_id": [
+            "2057878101955088780"
+          ]
+        },
+        "author_id": "1660188232053833734",
+        "conversation_id": "2083190949547819377",
+        "created_at": "2026-07-31T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083190949547819377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 120,
+              "tag": "TimeToChaelebrate"
+            },
+            {
+              "end": 150,
+              "start": 139,
+              "tag": "여름의인트로_김채원"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pm2ACIN2Ua",
+              "end": 174,
+              "expanded_url": "https://x.com/fimgifs/status/2057878101955088780/photo/1",
+              "media_key": "16_2057878051451465728",
+              "start": 151,
+              "url": "https://t.co/Pm2ACIN2Ua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190949547819377",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "FEARNOTs, Chaewon's birthday will begin in 1 hour! Let’s celebrate together with the tags 🎂🩵\n\nTIME TO CELEBRATE CHAEWON\n#TimeToChaelebrate\n#여름의인트로_김채원\nhttps://t.co/Pm2ACIN2Ua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10317,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5453
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T07:38:26.000Z",
+        "description": "Account dedicated to support hashtags, taglines, and trend parties for @le_sserafim & FEARNOT.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "le_sserafim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsrfmtrends.carrd.co",
+                "end": 23,
+                "expanded_url": "http://lsrfmtrends.carrd.co",
+                "start": 0,
+                "url": "https://t.co/a6sr6qW8ZI"
+              }
+            ]
+          }
+        },
+        "id": "1660188232053833734",
+        "location": "📌 = latest trend party ",
+        "name": "LE SSERAFIM TRENDS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025947985306136576/Drwx9Kic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4521,
+          "following_count": 87,
+          "like_count": 2263,
+          "listed_count": 28,
+          "media_count": 2888,
+          "tweet_count": 7593
+        },
+        "url": "https://t.co/a6sr6qW8ZI",
+        "username": "LSRFMTrends",
+        "verified": true
+      }
+    ]
+  }
+}

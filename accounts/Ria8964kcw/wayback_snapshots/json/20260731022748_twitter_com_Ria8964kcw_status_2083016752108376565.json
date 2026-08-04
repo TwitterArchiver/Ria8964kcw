@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082528686671282176"
+      ],
+      "media_source_tweet_id": [
+        "2082528704849387596"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083016752108376565",
+    "created_at": "2026-07-31T02:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083016752108376565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813386161471287296",
+          "start": 3,
+          "username": "softnotesx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjCur8lRXb",
+          "end": 54,
+          "expanded_url": "https://x.com/softnotesx/status/2082528704849387596/video/1",
+          "media_key": "13_2082528686671282176",
+          "start": 31,
+          "url": "https://t.co/fjCur8lRXb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083016752108376565",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082528704849387596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @softnotesx: soft bunny hug https://t.co/fjCur8lRXb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5083,
+        "height": 480,
+        "media_key": "13_2082528686671282176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082528686671282176/img/spdeojH2pt22ijRW.jpg",
+        "public_metrics": {
+          "view_count": 126432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082528686671282176/vid/avc1/414x270/bPO-U6h0y1ytJBMt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082528686671282176/vid/avc1/552x360/cvpz7n4UKsTht6fR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082528686671282176/vid/avc1/736x480/mg3kfhfpDof3YtH6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082528686671282176/pl/4arqm48QjBCcCB_f.m3u8"
+          }
+        ],
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082528686671282176"
+          ]
+        },
+        "author_id": "1813386161471287296",
+        "conversation_id": "2082528704849387596",
+        "created_at": "2026-07-29T18:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082528704849387596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjCur8lRXb",
+              "end": 38,
+              "expanded_url": "https://x.com/softnotesx/status/2082528704849387596/video/1",
+              "media_key": "13_2082528686671282176",
+              "start": 15,
+              "url": "https://t.co/fjCur8lRXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082528704849387596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2359,
+          "impression_count": 458269,
+          "like_count": 18566,
+          "quote_count": 320,
+          "reply_count": 83,
+          "retweet_count": 3405
+        },
+        "reply_settings": "everyone",
+        "text": "soft bunny hug https://t.co/fjCur8lRXb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082528686671282176"
+          ],
+          "media_source_tweet_id": [
+            "2082528704849387596"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083016752108376565",
+        "created_at": "2026-07-31T02:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016752108376565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813386161471287296",
+              "start": 3,
+              "username": "softnotesx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjCur8lRXb",
+              "end": 54,
+              "expanded_url": "https://x.com/softnotesx/status/2082528704849387596/video/1",
+              "media_key": "13_2082528686671282176",
+              "start": 31,
+              "url": "https://t.co/fjCur8lRXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016752108376565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082528704849387596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @softnotesx: soft bunny hug https://t.co/fjCur8lRXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 357,
+          "like_count": 10246,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 5438
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T01:32:23.000Z",
+        "description": "curated with love, ♡",
+        "id": "1813386161471287296",
+        "location": "content not mine.",
+        "name": "ꕤ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079462807419203584/nH8-0QIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 311,
+          "like_count": 2257,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "softnotesx",
+        "verified": true
+      }
+    ]
+  }
+}

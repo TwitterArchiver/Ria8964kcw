@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083647988971503616"
+      ],
+      "media_source_tweet_id": [
+        "2083647996420669762"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083771296870252813",
+    "created_at": "2026-08-02T04:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083771296870252813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429055428374130693",
+          "start": 3,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Puqr5nzGdd",
+          "end": 39,
+          "expanded_url": "https://x.com/Gamer94469/status/2083647996420669762/photo/1",
+          "media_key": "3_2083647988971503616",
+          "start": 16,
+          "url": "https://t.co/Puqr5nzGdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083771296870252813",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083647996420669762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamer94469: https://t.co/Puqr5nzGdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2083647988971503616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqazmuagAALDh_.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083647988971503616"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2083647996420669762",
+        "created_at": "2026-08-01T20:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083647996420669762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Puqr5nzGdd",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2083647996420669762/photo/1",
+              "media_key": "3_2083647988971503616",
+              "start": 0,
+              "url": "https://t.co/Puqr5nzGdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083647996420669762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 195,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Puqr5nzGdd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083647988971503616"
+          ],
+          "media_source_tweet_id": [
+            "2083647996420669762"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083771296870252813",
+        "created_at": "2026-08-02T04:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083771296870252813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429055428374130693",
+              "start": 3,
+              "username": "Gamer94469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Puqr5nzGdd",
+              "end": 39,
+              "expanded_url": "https://x.com/Gamer94469/status/2083647996420669762/photo/1",
+              "media_key": "3_2083647988971503616",
+              "start": 16,
+              "url": "https://t.co/Puqr5nzGdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083771296870252813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083647996420669762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamer94469: https://t.co/Puqr5nzGdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，笑看二元性别土崩瓦解，人妖的世界马上到来",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083519827923324928/d2h9Dz_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 373,
+          "like_count": 10457,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 5487
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "俄亥俄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083283241218560000/8qqtnky1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 309,
+          "like_count": 22539,
+          "listed_count": 2,
+          "media_count": 762,
+          "tweet_count": 5868
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083207794610909494",
+    "created_at": "2026-07-31T15:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083207794610909494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054456695116492800",
+          "start": 3,
+          "username": "ZhenBai25593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083207794610909494",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083193715292856792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhenBai25593: chaewon, your voice, your heart, your light. we love everything about you.\ntime to celebrate chaewon\nCHAEWON\n#TimeToChael…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083168513322295296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjmucvaoAA8zp3.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1278,
+        "media_key": "3_2083168513360035840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjmuc4agAATgrZ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083207794610909494",
+        "created_at": "2026-07-31T15:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083207794610909494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054456695116492800",
+              "start": 3,
+              "username": "ZhenBai25593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083207794610909494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083193715292856792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZhenBai25593: chaewon, your voice, your heart, your light. we love everything about you.\ntime to celebrate chaewon\nCHAEWON\n#TimeToChael…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083168513322295296",
+            "3_2083168513360035840"
+          ]
+        },
+        "author_id": "2054456695116492800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083193715292856792",
+        "created_at": "2026-07-31T14:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083193715292856792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 109,
+              "tag": "TimeToChaelebrate"
+            },
+            {
+              "end": 139,
+              "start": 128,
+              "tag": "여름의인트로_김채원"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xWNZQnqr4",
+              "end": 163,
+              "expanded_url": "https://x.com/ZhenBai25593/status/2083193715292856792/photo/1",
+              "media_key": "3_2083168513322295296",
+              "start": 140,
+              "url": "https://t.co/3xWNZQnqr4"
+            },
+            {
+              "display_url": "pic.x.com/3xWNZQnqr4",
+              "end": 163,
+              "expanded_url": "https://x.com/ZhenBai25593/status/2083193715292856792/photo/1",
+              "media_key": "3_2083168513360035840",
+              "start": 140,
+              "url": "https://t.co/3xWNZQnqr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083193715292856792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "chaewon, your voice, your heart, your light. we love everything about you.\ntime to celebrate chaewon\nCHAEWON\n#TimeToChaelebrate\n#여름의인트로_김채원 https://t.co/3xWNZQnqr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 371,
+          "like_count": 10349,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5470
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T07:01:28.000Z",
+        "description": "Very, very fond of a girl._chaechae",
+        "id": "2054456695116492800",
+        "location": "New York, USA",
+        "name": "aorchid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081781113547329536/0Ns5dsHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 31,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "ZhenBai25593",
+        "verified": false
+      }
+    ]
+  }
+}

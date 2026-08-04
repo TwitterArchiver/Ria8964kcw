@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083120920894591125",
+    "created_at": "2026-07-31T09:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083120920894591125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/love_chaechae_…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/love_chaechae_1/status/2083066706445181213",
+          "start": 2,
+          "url": "https://t.co/dFx7UnJ5Sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083120920894591125",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083066706445181213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥹 https://t.co/dFx7UnJ5Sk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2083066688363433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiKHdNaEAAWqT2.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2083066698417238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiKICqa8AAman2.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083120920894591125",
+        "created_at": "2026-07-31T09:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083120920894591125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/love_chaechae_…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/love_chaechae_1/status/2083066706445181213",
+              "start": 2,
+              "url": "https://t.co/dFx7UnJ5Sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083120920894591125",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083066706445181213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/dFx7UnJ5Sk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083066688363433984",
+            "3_2083066698417238016"
+          ]
+        },
+        "author_id": "1355110619570036739",
+        "conversation_id": "2083066706445181213",
+        "created_at": "2026-07-31T05:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083066706445181213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihYqi3ZtZ9",
+              "end": 29,
+              "expanded_url": "https://x.com/love_chaechae_1/status/2083066706445181213/photo/1",
+              "media_key": "3_2083066688363433984",
+              "start": 6,
+              "url": "https://t.co/ihYqi3ZtZ9"
+            },
+            {
+              "display_url": "pic.x.com/ihYqi3ZtZ9",
+              "end": 29,
+              "expanded_url": "https://x.com/love_chaechae_1/status/2083066706445181213/photo/1",
+              "media_key": "3_2083066698417238016",
+              "start": 6,
+              "url": "https://t.co/ihYqi3ZtZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083066706445181213",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 819,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "넘무귀여웜 https://t.co/ihYqi3ZtZ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 359,
+          "like_count": 10273,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 5444
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T11:08:51.000Z",
+        "description": "채원이편",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.naver.com/alwayssummer52",
+                "end": 23,
+                "expanded_url": "https://blog.naver.com/alwayssummer52",
+                "start": 0,
+                "url": "https://t.co/zHEYlA7rOw"
+              }
+            ]
+          }
+        },
+        "id": "1355110619570036739",
+        "name": "52🍀",
+        "pinned_tweet_id": "1523508824912859136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082434643417341953/KeaQ7TAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 259,
+          "like_count": 85312,
+          "listed_count": 25,
+          "media_count": 2816,
+          "tweet_count": 80348
+        },
+        "url": "https://t.co/zHEYlA7rOw",
+        "username": "love_chaechae_1",
+        "verified": true
+      }
+    ]
+  }
+}

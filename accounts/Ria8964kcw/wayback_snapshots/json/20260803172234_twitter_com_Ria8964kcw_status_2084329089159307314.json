@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2084329089159307314",
+    "created_at": "2026-08-03T17:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084329089159307314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/monasrosetoy/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/monasrosetoy/status/2084007109155311975",
+          "start": 13,
+          "url": "https://t.co/RWqg6YO7cR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084329089159307314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084007109155311975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "潘老师，要我解救你下来吗 https://t.co/RWqg6YO7cR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4733,
+        "height": 720,
+        "media_key": "13_2083296902292832256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083296902292832256/img/coSfMNOP73z6RBXv.jpg",
+        "public_metrics": {
+          "view_count": 109453
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/vid/avc1/294x270/LKhNtdi9jf2E53K4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/vid/avc1/392x360/Va8NLblq8YOnOOeu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/vid/avc1/784x720/cCbda-z8x3Cv5rXZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/pl/P1ZYAGjPFxiXQ_dD.m3u8"
+          }
+        ],
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2084329089159307314",
+        "created_at": "2026-08-03T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084329089159307314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/monasrosetoy/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/monasrosetoy/status/2084007109155311975",
+              "start": 13,
+              "url": "https://t.co/RWqg6YO7cR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084329089159307314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084007109155311975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "潘老师，要我解救你下来吗 https://t.co/RWqg6YO7cR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083296902292832256"
+          ],
+          "media_source_tweet_id": [
+            "2083296913017966774"
+          ]
+        },
+        "author_id": "2003346150104174592",
+        "conversation_id": "2084007109155311975",
+        "created_at": "2026-08-02T20:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084007109155311975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5GB6A4mkZ",
+              "end": 60,
+              "expanded_url": "https://x.com/sticikilysneaki/status/2083296913017966774/video/1",
+              "media_key": "13_2083296902292832256",
+              "start": 37,
+              "url": "https://t.co/F5GB6A4mkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084007109155311975",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 983,
+          "impression_count": 191100,
+          "like_count": 3210,
+          "quote_count": 25,
+          "reply_count": 49,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "What fucked up movie do we watch tn  https://t.co/F5GB6A4mkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 347,
+          "like_count": 10622,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5529
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T06:05:38.000Z",
+        "description": "lover of anything depraved~ fan of Mona lanius gacha games and I post my diary thoughts alt @laniuhoe #wuwatwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "wuwatwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "laniuhoe"
+              }
+            ]
+          }
+        },
+        "id": "2003346150104174592",
+        "location": "Dni ugly people ",
+        "name": "roxy 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080249352711290880/hGoE2bvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 396,
+          "like_count": 11244,
+          "listed_count": 0,
+          "media_count": 702,
+          "tweet_count": 10092
+        },
+        "url": "",
+        "username": "monasrosetoy",
+        "verified": false
+      }
+    ]
+  }
+}

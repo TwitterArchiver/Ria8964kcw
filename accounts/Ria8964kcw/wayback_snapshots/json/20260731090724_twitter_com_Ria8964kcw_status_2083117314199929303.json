@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2083117314199929303",
+    "created_at": "2026-07-31T09:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083117314199929303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chenpapro/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chenpapro/status/2083030006545125621",
+          "start": 6,
+          "url": "https://t.co/lb7fgOx1Tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083117314199929303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083030006545125621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得好难受 https://t.co/lb7fgOx1Tr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2083029828174036992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhol6TbQAAzHYX.jpg",
+        "width": 690
+      },
+      {
+        "height": 1789,
+        "media_key": "3_2083029828157259776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhol6PbQAA72XR.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1567,
+        "media_key": "3_2083029828157255680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhol6PbMAATywe.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2083117314199929303",
+        "created_at": "2026-07-31T09:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083117314199929303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenpapro/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chenpapro/status/2083030006545125621",
+              "start": 6,
+              "url": "https://t.co/lb7fgOx1Tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083117314199929303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083030006545125621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得好难受 https://t.co/lb7fgOx1Tr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083029828174036992",
+            "3_2083029828157259776",
+            "3_2083029828157255680"
+          ]
+        },
+        "author_id": "2015207927590891520",
+        "conversation_id": "2083030006545125621",
+        "created_at": "2026-07-31T03:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083030006545125621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTfLpjOK8Y",
+              "end": 123,
+              "expanded_url": "https://x.com/chenpapro/status/2083030006545125621/photo/1",
+              "media_key": "3_2083029828174036992",
+              "start": 100,
+              "url": "https://t.co/TTfLpjOK8Y"
+            },
+            {
+              "display_url": "pic.x.com/TTfLpjOK8Y",
+              "end": 123,
+              "expanded_url": "https://x.com/chenpapro/status/2083030006545125621/photo/1",
+              "media_key": "3_2083029828157259776",
+              "start": 100,
+              "url": "https://t.co/TTfLpjOK8Y"
+            },
+            {
+              "display_url": "pic.x.com/TTfLpjOK8Y",
+              "end": 123,
+              "expanded_url": "https://x.com/chenpapro/status/2083030006545125621/photo/1",
+              "media_key": "3_2083029828157255680",
+              "start": 100,
+              "url": "https://t.co/TTfLpjOK8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083030006545125621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 179337,
+          "like_count": 522,
+          "quote_count": 6,
+          "reply_count": 155,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：王虹在致谢信里，最感谢生活帮助的人是她前男友。\n\n如果没有前男友无私长久的帮助，她很可能无法获奖。\n\n世人只看到了王虹的声名赫赫，却忽略了她背后的男人也同样伟大，王虹的功勋奖章理应分他一半。 https://t.co/TTfLpjOK8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "飞升，快乐星球 @Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Acmduemsks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "金采源你就使劲磕愈美片一把一把地吃，我在工地上班一天两百特别轻松",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080041183493910528/ApnjI7PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 358,
+          "like_count": 10268,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 5442
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T23:40:09.000Z",
+        "description": "维护男性权益\n男闺蜜：@chennan789",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "chennan789"
+              }
+            ]
+          }
+        },
+        "id": "2015207927590891520",
+        "name": "陈哥Pro",
+        "pinned_tweet_id": "2078682061863579868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080467966051893248/yeb5BjsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9161,
+          "following_count": 829,
+          "like_count": 285,
+          "listed_count": 28,
+          "media_count": 1629,
+          "tweet_count": 4290
+        },
+        "url": "",
+        "username": "chenpapro",
+        "verified": true
+      }
+    ]
+  }
+}
