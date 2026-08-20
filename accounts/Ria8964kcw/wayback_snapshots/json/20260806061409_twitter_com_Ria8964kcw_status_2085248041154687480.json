@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085248041154687480",
+    "created_at": "2026-08-06T06:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085248041154687480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shenleban_mgto…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/shenleban_mgtow/status/2076563708701184443",
+          "start": 14,
+          "url": "https://t.co/MCRHFCMB09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085248041154687480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076563708701184443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就弄得好像你不是跨畜一样 https://t.co/MCRHFCMB09"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085248041154687480",
+        "created_at": "2026-08-06T06:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085248041154687480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shenleban_mgto…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/shenleban_mgtow/status/2076563708701184443",
+              "start": 14,
+              "url": "https://t.co/MCRHFCMB09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085248041154687480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076563708701184443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就弄得好像你不是跨畜一样 https://t.co/MCRHFCMB09"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927367747618390016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2076563708701184443",
+        "created_at": "2026-07-13T07:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076563708701184443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2073524989475566017",
+              "start": 65,
+              "url": "https://t.co/6f8DZtiMON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076563708701184443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073524989475566017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们男权mtf并不认同酷儿理论，只是陷于性别焦虑中的生理男而已，而且一般都是会进行身体干预的，那些自称酷儿的进步跨畜一般都是女权 https://t.co/6f8DZtiMON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 355,
+          "like_count": 10783,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5563
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T14:15:21.000Z",
+        "description": "生理男性 | 173 | 55kg | 18 | mtf | 男娘 | HRT:2024.2.8 | 红丸mgtow | 想变成可爱的女孩子 | 厌女 | mt straight woman | 小证含糖 | 保守主义 | 男权 | 男同权 | mtf/mtx权 | 保守自由主义",
+        "id": "1927367747618390016",
+        "name": "神乐坂迪舍🍥（支持牧鸢版）",
+        "pinned_tweet_id": "2076563708701184443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927371856970952704/GrfJ7Z45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 85,
+          "like_count": 112,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 2445
+        },
+        "url": "",
+        "username": "shenleban_mgtow",
+        "verified": false
+      }
+    ]
+  }
+}

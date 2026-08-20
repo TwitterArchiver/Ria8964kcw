@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2088467602729582829",
+    "created_at": "2026-08-15T03:27:32.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088467602729582829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2088411355699351963",
+          "start": 18,
+          "url": "https://t.co/UejvZaDk8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088467602729582829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088411355699351963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次看到这女的照片我腿就自动打开了 https://t.co/UejvZaDk8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2088411334425948160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuHCzVbsAAyMhN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2088411346392211456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuHDf6aYAAMSx7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2088467602729582829",
+        "created_at": "2026-08-15T03:27:32.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088467602729582829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2088411355699351963",
+              "start": 18,
+              "url": "https://t.co/UejvZaDk8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088467602729582829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088411355699351963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次看到这女的照片我腿就自动打开了 https://t.co/UejvZaDk8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088411334425948160",
+            "3_2088411346392211456"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2088411355699351963",
+        "created_at": "2026-08-14T23:44:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088411355699351963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXVn1QqDwl",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2088411355699351963/photo/1",
+              "media_key": "3_2088411334425948160",
+              "start": 0,
+              "url": "https://t.co/JXVn1QqDwl"
+            },
+            {
+              "display_url": "pic.x.com/JXVn1QqDwl",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/2088411355699351963/photo/1",
+              "media_key": "3_2088411346392211456",
+              "start": 0,
+              "url": "https://t.co/JXVn1QqDwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088411355699351963",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088411334425948160"
+          },
+          {
+            "media_key": "3_2088411346392211456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3212,
+          "like_count": 306,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JXVn1QqDwl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2088467602729582829",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 357,
+          "like_count": 11400,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "is_identity_verified": false,
+        "location": "2 sleep deprived asia admins",
+        "most_recent_tweet_id": "2088455543849689180",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834655635562229760/1776944106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46794,
+          "following_count": 324,
+          "like_count": 22981,
+          "listed_count": 95,
+          "media_count": 14284,
+          "tweet_count": 31922
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

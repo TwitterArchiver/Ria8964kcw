@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086808190143078667",
+    "created_at": "2026-08-10T13:33:38.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086808190143078667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2086774502768411097",
+          "start": 16,
+          "url": "https://t.co/UuoQVPn11Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086808190143078667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086774502768411097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咋办我已经彻底为这个女人沦陷了 https://t.co/UuoQVPn11Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13513,
+        "height": 1080,
+        "media_key": "13_1915730632401182730",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915730632401182730/img/WOQIqZqnNyw1_8hq.jpg",
+        "public_metrics": {
+          "view_count": 453144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915730632401182730/vid/avc1/320x320/uWbUTKOl01pkZa5d.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915730632401182730/pl/VwBAwiP1f8bPp143.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915730632401182730/vid/avc1/540x540/CTsmRKX9vd-aizBd.mp4?tag=16"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915730632401182730/vid/avc1/1080x1080/wEUb8ncD8e6ooMWH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915730632401182730/vid/avc1/720x720/t1DIshqErW_ihOdd.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086808190143078667",
+        "created_at": "2026-08-10T13:33:38.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086808190143078667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2086774502768411097",
+              "start": 16,
+              "url": "https://t.co/UuoQVPn11Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086808190143078667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086774502768411097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋办我已经彻底为这个女人沦陷了 https://t.co/UuoQVPn11Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915730632401182730"
+          ],
+          "media_source_tweet_id": [
+            "1915730703716934032"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2086774502768411097",
+        "created_at": "2026-08-10T11:19:46.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086774502768411097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRpeMuzlRN",
+              "end": 23,
+              "expanded_url": "https://x.com/archivedkcw/status/1915730703716934032/video/1",
+              "media_key": "13_1915730632401182730",
+              "start": 0,
+              "url": "https://t.co/cRpeMuzlRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086774502768411097",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_1915730632401182730"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 7365,
+          "like_count": 696,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cRpeMuzlRN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086808190143078667",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 361,
+          "like_count": 11157,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5621
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "is_identity_verified": false,
+        "location": "2 sleep deprived asia admins",
+        "most_recent_tweet_id": "2086800521307062719",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834655635562229760/1776944106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46145,
+          "following_count": 324,
+          "like_count": 22941,
+          "listed_count": 95,
+          "media_count": 14208,
+          "tweet_count": 31798
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

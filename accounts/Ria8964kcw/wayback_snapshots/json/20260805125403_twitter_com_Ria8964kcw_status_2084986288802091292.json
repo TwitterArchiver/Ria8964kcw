@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084684087143600128"
+      ],
+      "media_source_tweet_id": [
+        "2084684093338624044"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2084986288802091292",
+    "created_at": "2026-08-05T12:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084986288802091292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1874901736303046656",
+          "start": 3,
+          "username": "jiubudiebeizi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/43SQ4SwCEF",
+          "end": 58,
+          "expanded_url": "https://x.com/jiubudiebeizi/status/2084684093338624044/photo/1",
+          "media_key": "3_2084684087143600128",
+          "start": 35,
+          "url": "https://t.co/43SQ4SwCEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084986288802091292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084684093338624044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiubudiebeizi: enby是什么二元跨的垃圾场吗 https://t.co/43SQ4SwCEF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2084684087143600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5JIdMakAAUxFY.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084684087143600128"
+          ]
+        },
+        "author_id": "1874901736303046656",
+        "conversation_id": "2084684093338624044",
+        "created_at": "2026-08-04T16:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084684093338624044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43SQ4SwCEF",
+              "end": 39,
+              "expanded_url": "https://x.com/jiubudiebeizi/status/2084684093338624044/photo/1",
+              "media_key": "3_2084684087143600128",
+              "start": 16,
+              "url": "https://t.co/43SQ4SwCEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084684093338624044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "enby是什么二元跨的垃圾场吗 https://t.co/43SQ4SwCEF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084684087143600128"
+          ],
+          "media_source_tweet_id": [
+            "2084684093338624044"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2084986288802091292",
+        "created_at": "2026-08-05T12:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084986288802091292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1874901736303046656",
+              "start": 3,
+              "username": "jiubudiebeizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/43SQ4SwCEF",
+              "end": 58,
+              "expanded_url": "https://x.com/jiubudiebeizi/status/2084684093338624044/photo/1",
+              "media_key": "3_2084684087143600128",
+              "start": 35,
+              "url": "https://t.co/43SQ4SwCEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084986288802091292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084684093338624044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiubudiebeizi: enby是什么二元跨的垃圾场吗 https://t.co/43SQ4SwCEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 352,
+          "like_count": 10746,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T19:33:42.000Z",
+        "description": "一些碎片",
+        "id": "1874901736303046656",
+        "name": "记得叠被子",
+        "pinned_tweet_id": "2053357564080128283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874909613201772544/cETc1g2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 25,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "jiubudiebeizi",
+        "verified": false
+      }
+    ]
+  }
+}

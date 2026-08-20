@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085365587807723675",
+    "created_at": "2026-08-06T14:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085365587807723675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minako8964/sta…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/minako8964/status/2085360562104578450",
+          "start": 32,
+          "url": "https://t.co/7FQv5gmHna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085365587807723675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085360562104578450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个是真的lux沐浴露都香的要死放了催情素似的经常想自己操自己 https://t.co/7FQv5gmHna"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085365587807723675",
+        "created_at": "2026-08-06T14:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085365587807723675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minako8964/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/minako8964/status/2085360562104578450",
+              "start": 32,
+              "url": "https://t.co/7FQv5gmHna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085365587807723675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085360562104578450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是真的lux沐浴露都香的要死放了催情素似的经常想自己操自己 https://t.co/7FQv5gmHna"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2085360562104578450",
+        "created_at": "2026-08-06T13:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085360562104578450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085360562104578450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元英代言的沐浴露好香呀，我一直在闻自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 356,
+          "like_count": 10819,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 5570
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，想互关和私联直接来找我就可以啦，赞赏码在背景\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "给我寿司吧🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347563806912512/DRTPLYd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 368,
+          "like_count": 52539,
+          "listed_count": 4,
+          "media_count": 588,
+          "tweet_count": 7549
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

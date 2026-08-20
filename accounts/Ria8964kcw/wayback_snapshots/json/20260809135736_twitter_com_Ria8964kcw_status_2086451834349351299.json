@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086451834349351299",
+    "created_at": "2026-08-09T13:57:36.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086451834349351299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ghostingfim/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ghostingfim/status/2085725592968663158",
+          "start": 18,
+          "url": "https://t.co/Xz2L7KZnqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086451834349351299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085725592968663158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉看到妈妈的胸口我就好心动好喜欢呀 https://t.co/Xz2L7KZnqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2085725587251863553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH8XvcXIAEE59a.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086451834349351299",
+        "created_at": "2026-08-09T13:57:36.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086451834349351299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ghostingfim/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ghostingfim/status/2085725592968663158",
+              "start": 18,
+              "url": "https://t.co/Xz2L7KZnqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086451834349351299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085725592968663158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉看到妈妈的胸口我就好心动好喜欢呀 https://t.co/Xz2L7KZnqN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085725587251863553"
+          ]
+        },
+        "author_id": "1871964454461616128",
+        "conversation_id": "2085725592968663158",
+        "created_at": "2026-08-07T13:51:46.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085725592968663158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXiKeGbx2K",
+              "end": 43,
+              "expanded_url": "https://x.com/ghostingfim/status/2085725592968663158/photo/1",
+              "media_key": "3_2085725587251863553",
+              "start": 20,
+              "url": "https://t.co/lXiKeGbx2K"
+            },
+            {
+              "display_url": "x.com/itsabsu/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/itsabsu/status/2085724138828943480",
+              "start": 44,
+              "url": "https://t.co/WRkRXuPzrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085725592968663158",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2085725587251863553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 196669,
+          "like_count": 8221,
+          "quote_count": 18,
+          "reply_count": 9,
+          "retweet_count": 556
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085724138828943480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "and it gave us THIS https://t.co/lXiKeGbx2K https://t.co/WRkRXuPzrT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 任意代词\n顺人妖xtx生理人妖心理人妖nonbinary\n更多的我在 @riafixcom\n长bio看麻了像蜈蚣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086451834349351299",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 361,
+          "like_count": 11084,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5611
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-25T17:03:00.000Z",
+        "description": "fearnot,moa since 2023!! | mostly posting fimmies.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/ghostingf…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/ghostingfim",
+                "start": 0,
+                "url": "https://t.co/oTIh1JRbqq"
+              }
+            ]
+          }
+        },
+        "id": "1871964454461616128",
+        "is_identity_verified": false,
+        "location": "she/her | 21 ",
+        "most_recent_tweet_id": "2086448267898785920",
+        "name": "isa𖣂🧘🏻‍♀️🎉🍦is seeing le sserafim",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871964454461616128/1783257942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073760351569555456/9KNX6hNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 426,
+          "like_count": 69761,
+          "listed_count": 2,
+          "media_count": 675,
+          "tweet_count": 22698
+        },
+        "url": "https://t.co/oTIh1JRbqq",
+        "username": "ghostingfim",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

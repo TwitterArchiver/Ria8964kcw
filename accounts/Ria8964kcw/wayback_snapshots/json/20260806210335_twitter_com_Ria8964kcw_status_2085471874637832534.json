@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085471851678154753"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2085471874637832534",
+    "created_at": "2026-08-06T21:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T22:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085471874637832534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b08kFQZpZR",
+          "end": 128,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2085471874637832534/photo/1",
+          "media_key": "3_2085471851678154753",
+          "start": 105,
+          "url": "https://t.co/b08kFQZpZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085471874637832534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你花了几个子啊就在这要求这要求那，我真的不想当厂商孝子，但是我想说某个性别花了最少的钱提出了最多的要求、好不容易产能提高到正常水准了还要求所有角色都出一个电影级cg，我寻思这游戏也没火到每个赛季都能大手一挥吧 https://t.co/b08kFQZpZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2085471851678154753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEVmYxaQAEZTOq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085471851678154753"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2085471874637832534",
+        "created_at": "2026-08-06T21:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T22:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085471874637832534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b08kFQZpZR",
+              "end": 128,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2085471874637832534/photo/1",
+              "media_key": "3_2085471851678154753",
+              "start": 105,
+              "url": "https://t.co/b08kFQZpZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085471874637832534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你花了几个子啊就在这要求这要求那，我真的不想当厂商孝子，但是我想说某个性别花了最少的钱提出了最多的要求、好不容易产能提高到正常水准了还要求所有角色都出一个电影级cg，我寻思这游戏也没火到每个赛季都能大手一挥吧 https://t.co/b08kFQZpZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 358,
+          "like_count": 10855,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 5574
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      }
+    ]
+  }
+}

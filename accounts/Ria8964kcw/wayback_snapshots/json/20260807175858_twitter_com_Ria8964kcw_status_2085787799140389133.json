@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070840954802823169"
+      ],
+      "media_source_tweet_id": [
+        "2070840996133548340"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      }
+    ],
+    "conversation_id": "2085787799140389133",
+    "created_at": "2026-08-07T17:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085787799140389133"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 29,
+          "tag": "CHAEWON"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "김채원"
+        },
+        {
+          "end": 55,
+          "start": 43,
+          "tag": "LE_SSERAFIM"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "르세라핌"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1645106822209224704",
+          "start": 3,
+          "username": "cactusO3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPtVGPPIix",
+          "end": 85,
+          "expanded_url": "https://x.com/cactusO3O/status/2070840996133548340/video/1",
+          "media_key": "7_2070840954802823169",
+          "start": 62,
+          "url": "https://t.co/EPtVGPPIix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085787799140389133",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3589
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070840996133548340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @cactusO3O: 𝟮𝟲𝟬𝟲𝟮𝟳 붐팔라 정품 #CHAEWON #김채원 #LE_SSERAFIM #르세라핌 https://t.co/EPtVGPPIix"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12167,
+        "height": 1080,
+        "media_key": "7_2070840954802823169",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070840954802823169/pu/img/z9ItOXbvjphvezlR.jpg",
+        "public_metrics": {
+          "view_count": 177820
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070840954802823169/pu/vid/avc1/1296x1080/Wewk-rczFcZnZoqq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070840954802823169/pu/pl/Qw6rTxGdLyE7JuXw.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070840954802823169/pu/vid/avc1/864x720/Gp4w_Zw5MFlldLly.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070840954802823169/pu/vid/avc1/324x270/XbCHwC6PVxkUofxa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070840954802823169/pu/vid/avc1/432x360/_d-lcWXfmX0MY6nv.mp4"
+          }
+        ],
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070840954802823169"
+          ]
+        },
+        "author_id": "1645106822209224704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2070840996133548340",
+        "created_at": "2026-06-27T12:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070840996133548340"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "CHAEWON"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "김채원"
+            },
+            {
+              "end": 40,
+              "start": 28,
+              "tag": "LE_SSERAFIM"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "르세라핌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPtVGPPIix",
+              "end": 70,
+              "expanded_url": "https://x.com/cactusO3O/status/2070840996133548340/video/1",
+              "media_key": "7_2070840954802823169",
+              "start": 47,
+              "url": "https://t.co/EPtVGPPIix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070840996133548340",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 914,
+          "impression_count": 527540,
+          "like_count": 9781,
+          "quote_count": 373,
+          "reply_count": 4,
+          "retweet_count": 3589
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "𝟮𝟲𝟬𝟲𝟮𝟳 붐팔라 정품 #CHAEWON #김채원 #LE_SSERAFIM #르세라핌 https://t.co/EPtVGPPIix"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070840954802823169"
+          ],
+          "media_source_tweet_id": [
+            "2070840996133548340"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2085787799140389133",
+        "created_at": "2026-08-07T17:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085787799140389133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "CHAEWON"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "김채원"
+            },
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "LE_SSERAFIM"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "르세라핌"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1645106822209224704",
+              "start": 3,
+              "username": "cactusO3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPtVGPPIix",
+              "end": 85,
+              "expanded_url": "https://x.com/cactusO3O/status/2070840996133548340/video/1",
+              "media_key": "7_2070840954802823169",
+              "start": 62,
+              "url": "https://t.co/EPtVGPPIix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085787799140389133",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3589
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070840996133548340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @cactusO3O: 𝟮𝟲𝟬𝟲𝟮𝟳 붐팔라 정품 #CHAEWON #김채원 #LE_SSERAFIM #르세라핌 https://t.co/EPtVGPPIix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 360,
+          "like_count": 10977,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 5593
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T16:50:12.000Z",
+        "description": "#르세라핌 #김채원 으로 광합성 함",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "르세라핌"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "김채원"
+              }
+            ]
+          }
+        },
+        "id": "1645106822209224704",
+        "location": "HIGHLIGHT=HD",
+        "name": "𝐂𝐀𝐂𝐓𝐔𝐒",
+        "pinned_tweet_id": "2083206060479807672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826331934710173697/n405jNWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8739,
+          "following_count": 4,
+          "like_count": 130,
+          "listed_count": 120,
+          "media_count": 332,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "cactusO3O",
+        "verified": true
+      }
+    ]
+  }
+}

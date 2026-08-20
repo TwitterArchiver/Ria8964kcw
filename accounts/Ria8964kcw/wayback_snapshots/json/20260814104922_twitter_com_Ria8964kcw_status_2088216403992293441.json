@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2088216403992293441",
+    "created_at": "2026-08-14T10:49:22.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088216403992293441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuecenglv/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yuecenglv/status/2088068128362344504",
+          "start": 6,
+          "url": "https://t.co/oX3nxz0Hc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088216403992293441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088068128362344504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老子笑的啊 https://t.co/oX3nxz0Hc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19435,
+        "height": 720,
+        "media_key": "13_2088068084296974336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088068084296974336/img/6PmUftAwDZzqmp3E.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088068084296974336/vid/avc1/480x270/qNbOczJbEzimrAZn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088068084296974336/vid/avc1/640x360/75Yz9dV7OiKNdTiJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088068084296974336/vid/avc1/1280x720/gJNDA_n93Rri_kbW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088068084296974336/pl/mYABJQGeqs2Pr-i2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2088216403992293441",
+        "created_at": "2026-08-14T10:49:22.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088216403992293441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuecenglv/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yuecenglv/status/2088068128362344504",
+              "start": 6,
+              "url": "https://t.co/oX3nxz0Hc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088216403992293441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088068128362344504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子笑的啊 https://t.co/oX3nxz0Hc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088068084296974336"
+          ]
+        },
+        "author_id": "2045373506670485504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2088068128362344504",
+        "created_at": "2026-08-14T01:00:10.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088068128362344504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYnGVOQjLQ",
+              "end": 43,
+              "expanded_url": "https://x.com/yuecenglv/status/2088068128362344504/video/1",
+              "media_key": "13_2088068084296974336",
+              "start": 20,
+              "url": "https://t.co/rYnGVOQjLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088068128362344504",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088068084296974336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平总书记斩杀全体团派mvp结算画面 https://t.co/rYnGVOQjLQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2088216403992293441",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 358,
+          "like_count": 11363,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5638
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T05:27:09.000Z",
+        "description": "习主席一战封神，动态清零南京30万骚福瑞，开刃咽拭子专业批发//\n电话：18013959265粉红勿扰//\nvpn：010-68016736",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hahaxixi.github.io",
+                "end": 23,
+                "expanded_url": "https://hahaxixi.github.io",
+                "start": 0,
+                "url": "https://t.co/KiYm62QNaA"
+              }
+            ]
+          }
+        },
+        "id": "2045373506670485504",
+        "is_identity_verified": false,
+        "location": "南京731妇幼保健医院 颈部核酸采集点 ",
+        "most_recent_tweet_id": "2088134795037700213",
+        "name": "习见雅🇨🇳🦊👻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045373506670485504/1784286315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045886795079172096/zkUpWJq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 278,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 794,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/KiYm62QNaA",
+        "username": "yuecenglv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

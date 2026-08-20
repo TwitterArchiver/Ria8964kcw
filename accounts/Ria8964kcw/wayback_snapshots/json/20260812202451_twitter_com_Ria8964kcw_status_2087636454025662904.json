@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2087636454025662904",
+    "created_at": "2026-08-12T20:24:51.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T21:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087636454025662904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itaotv_1942/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/itaotv_1942/status/2087595909077164162",
+          "start": 2,
+          "url": "https://t.co/gLnqv6PJew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087636454025662904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087595909077164162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃 https://t.co/gLnqv6PJew"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 704,
+        "media_key": "13_2087595872918130688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087595872918130688/img/qzXP2wFu-lILnTOK.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087595872918130688/vid/avc1/276x270/fqCI5XEjkuVC5wU-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087595872918130688/vid/avc1/368x360/xU9aTotZp52z_pYt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087595872918130688/vid/avc1/720x704/oJJOZ8m6ooI_HlRG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087595872918130688/pl/rlnAFBR51yYTcmhH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2087636454025662904",
+        "created_at": "2026-08-12T20:24:51.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087636454025662904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itaotv_1942/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/itaotv_1942/status/2087595909077164162",
+              "start": 2,
+              "url": "https://t.co/gLnqv6PJew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087636454025662904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087595909077164162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃 https://t.co/gLnqv6PJew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087595872918130688"
+          ]
+        },
+        "author_id": "2074755944500867072",
+        "conversation_id": "2087595909077164162",
+        "created_at": "2026-08-12T17:43:45.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087595909077164162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pb7rzsj3j0",
+              "end": 35,
+              "expanded_url": "https://x.com/itaotv_1942/status/2087595909077164162/video/1",
+              "media_key": "13_2087595872918130688",
+              "start": 12,
+              "url": "https://t.co/Pb7rzsj3j0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087595909077164162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087595872918130688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个萌萌的小猪就是我啊 https://t.co/Pb7rzsj3j0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2087636454025662904",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 360,
+          "like_count": 11296,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5635
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T07:28:18.000Z",
+        "description": "曾经沧海难为水，除却巫山不是云\n主🍑💼🐼团//1-5g都看",
+        "id": "2074755944500867072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087610573202841834",
+        "name": "山高水长",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074755944500867072/1783512399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079093791970213888/q3cunbdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 142,
+          "like_count": 2764,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "itaotv_1942",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

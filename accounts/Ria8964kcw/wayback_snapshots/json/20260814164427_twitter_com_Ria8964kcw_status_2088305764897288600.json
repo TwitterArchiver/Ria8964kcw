@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2088305764897288600",
+    "created_at": "2026-08-14T16:44:27.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088305764897288600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gfwfrog/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/gfwfrog/status/1591083461510451200",
+          "start": 5,
+          "url": "https://t.co/WkS34Kde79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088305764897288600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1591083461510451200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学长神了 https://t.co/WkS34Kde79"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1591083449175220228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FhSp95QXoAQNz0z.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1591083454598463488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FhSp-NdXwAAIw7f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1591083458125783040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FhSp-amWYAATJQ4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2088305764897288600",
+        "created_at": "2026-08-14T16:44:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088305764897288600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gfwfrog/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/gfwfrog/status/1591083461510451200",
+              "start": 5,
+              "url": "https://t.co/WkS34Kde79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088305764897288600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1591083461510451200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学长神了 https://t.co/WkS34Kde79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1591083449175220228",
+            "3_1591083454598463488",
+            "3_1591083458125783040"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "1591083461510451200",
+        "created_at": "2022-11-11T15:00:32.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2022-11-11T15:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1591083461510451200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/egO2S1KC4W",
+              "end": 104,
+              "expanded_url": "https://x.com/GFWfrog/status/1591083461510451200/photo/1",
+              "media_key": "3_1591083449175220228",
+              "start": 81,
+              "url": "https://t.co/egO2S1KC4W"
+            },
+            {
+              "display_url": "pic.x.com/egO2S1KC4W",
+              "end": 104,
+              "expanded_url": "https://x.com/GFWfrog/status/1591083461510451200/photo/1",
+              "media_key": "3_1591083454598463488",
+              "start": 81,
+              "url": "https://t.co/egO2S1KC4W"
+            },
+            {
+              "display_url": "pic.x.com/egO2S1KC4W",
+              "end": 104,
+              "expanded_url": "https://x.com/GFWfrog/status/1591083461510451200/photo/1",
+              "media_key": "3_1591083458125783040",
+              "start": 81,
+              "url": "https://t.co/egO2S1KC4W"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1590761936727470081",
+              "start": 105,
+              "url": "https://t.co/gRix58j1E4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1591083461510451200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1591083449175220228"
+          },
+          {
+            "media_key": "3_1591083454598463488"
+          },
+          {
+            "media_key": "3_1591083458125783040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 0,
+          "like_count": 862,
+          "quote_count": 21,
+          "reply_count": 39,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590761936727470081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "川美学生私信爆料：在11月11日凌晨三四点，很多警察前往学校把一个人带走了，照片位置是在四川美术学院宿舍八号楼楼梯间，总共涂了七八个标语，目前现场已经被刷白漆。 https://t.co/egO2S1KC4W https://t.co/gRix58j1E4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2088305764897288600",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 358,
+          "like_count": 11390,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 5646
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信 或 https://t.co/aVPvX0T16B 网页投稿🐸 邮箱：gfwfrog@gmail.com 习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 30,
+                "expanded_url": "http://gfwbao.com",
+                "start": 7,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 88,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 65,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 117,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 94,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "is_identity_verified": false,
+        "location": "墙国",
+        "most_recent_tweet_id": "2088273356550295568",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2076263891802136889",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239457591417171973/1764695865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268388,
+          "following_count": 2564,
+          "like_count": 131641,
+          "listed_count": 935,
+          "media_count": 7826,
+          "tweet_count": 14640
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

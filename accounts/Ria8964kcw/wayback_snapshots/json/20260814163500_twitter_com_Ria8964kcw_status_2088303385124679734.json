@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2088303385124679734",
+    "created_at": "2026-08-14T16:35:00.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088303385124679734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gtv26543476/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/gtv26543476/status/1591620088041349120",
+          "start": 10,
+          "url": "https://t.co/Q3Q8J0KCto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088303385124679734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1591620088041349120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇啊啊啊学姐666 https://t.co/Q3Q8J0KCto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_1591620083536695296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FhaSCICVEAA_id4.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2088303385124679734",
+        "created_at": "2026-08-14T16:35:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088303385124679734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gtv26543476/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/gtv26543476/status/1591620088041349120",
+              "start": 10,
+              "url": "https://t.co/Q3Q8J0KCto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088303385124679734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1591620088041349120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇啊啊啊学姐666 https://t.co/Q3Q8J0KCto"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1591620083536695296"
+          ]
+        },
+        "author_id": "1501492520718532618",
+        "conversation_id": "1591620088041349120",
+        "created_at": "2022-11-13T02:32:54.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2022-11-13T03:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1591620088041349120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHnNO43ldY",
+              "end": 119,
+              "expanded_url": "https://x.com/GTV26543476/status/1591620088041349120/photo/1",
+              "media_key": "3_1591620083536695296",
+              "start": 96,
+              "url": "https://t.co/SHnNO43ldY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1591620088041349120",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1591620083536695296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "四川美术学院的一位学生在宿舍楼墙璧上的涂鸦作品，据说这位勇敢的学生已被大批警察和国安的人带走。\n\n民心是压不住的！不在沉默中爆发，就在沉默中灭亡！默默祈祷这位同学平安无恙！邪恶中共早日猝死！ https://t.co/SHnNO43ldY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2088303385124679734",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 358,
+          "like_count": 11387,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 5645
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-09T09:38:26.000Z",
+        "description": "",
+        "id": "1501492520718532618",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088039649751281780",
+        "name": "澳喜G媒体",
+        "pinned_tweet_id": "2073450311004352533",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653362800444735489/9XWA1Pzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5047,
+          "following_count": 9,
+          "like_count": 132,
+          "listed_count": 47,
+          "media_count": 3610,
+          "tweet_count": 12487
+        },
+        "url": "",
+        "username": "GTV26543476",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

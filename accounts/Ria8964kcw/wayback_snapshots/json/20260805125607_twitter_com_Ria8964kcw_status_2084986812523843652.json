@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2084986812523843652",
+    "created_at": "2026-08-05T12:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084986812523843652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dw_chinese/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/dw_chinese/status/2084920655947120662",
+          "start": 14,
+          "url": "https://t.co/WQnLzQXiJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084986812523843652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084920655947120662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我清萌结果反被萌清就这样： https://t.co/WQnLzQXiJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2084918249989558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8eGhxbUAAe5_y.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2084986812523843652",
+        "created_at": "2026-08-05T12:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084986812523843652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dw_chinese/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/dw_chinese/status/2084920655947120662",
+              "start": 14,
+              "url": "https://t.co/WQnLzQXiJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084986812523843652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084920655947120662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我清萌结果反被萌清就这样： https://t.co/WQnLzQXiJL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084918249989558272"
+          ]
+        },
+        "author_id": "143810986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084920655947120662",
+        "created_at": "2026-08-05T08:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:30:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084919839403958328",
+          "2084920655947120662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01N4QE1ClH",
+              "end": 94,
+              "expanded_url": "https://x.com/dw_chinese/status/2084920655947120662/photo/1",
+              "media_key": "3_2084918249989558272",
+              "start": 71,
+              "url": "https://t.co/01N4QE1ClH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084920655947120662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本东京大学一名教授在招生网站原始码中嵌入“六四天安门”字样，引发排除中国申请者的争议。东京大学周二（4日）宣布，已对涉事教授实施惩戒处分。\n\n涉事教授2024年被发现，在该校新领域创成科学研究科“医疗资讯生命科学系”网站的英文首页及招生资讯页面程式码中，写入关键字“六四天安门”，可能导致网站触发中国的网路审查机制，无法在中国境内存取。该教授疑似意图使中国留学生无法浏览该校系的招生资讯。\n\n据日媒《每日新闻》报导，东大校方展开调查后，认定该教授失职，今年7月29日对其处以停职3天的惩戒处分，但未公布其真实意图。东京大学副校长山本隆司声明强调，身为教职员，涉事教授的作法“绝不可接受”。\n\n台湾印太战略智库执行长矢板明夫4日在社群平台发文评论指，此案的“荒谬”之处是，“如果中国没有世界上最严密的网路审查，‘六四天安门’这五个字根本不会具有任何‘特殊功能’，更不可能影响一所外国大学的招生网站。”\n\n此外，矢板明夫认为，该教授的不当行为，背后可能反映了日本和欧美学术界对于录取中国学生可能存在研究机密外流风险的焦虑。东京大学学生经营的《东大新闻》去年亦曾发表跟此案有关的文章，提及部分意见担忧“与中国共产党有关的人员混入留学生群体”，或是“留学生被要求充当间谍”的疑虑。\n\n根据东京大学公开资料，截至今年5月，该校外籍学生之中，来自中国的学生约占比六成。\n\n疑似有“中国间谍”窃取学术机密的说法，近年受到日、韩、欧美等国讨论。美国斯坦福大学保守派学生媒体《史丹佛评论》去年调查指出，中国国家留学基金管理委员会资助约15%在美就学的中国学生，要求他们定期向中国使馆提交其研究的“情况报告”。美国总统特朗普上次任内曾推出“中国行动计画”；但也有学界人士担心，专门针对中国人搜查间谍之举可能有歧视性，且不利于美国的学术交流及研究竞争力。\n\n中国外交部对于“中国间谍”的说法多次否认，强调中国“一贯坚决反对间谍活动”，呼吁各界“停止抹黑”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 40628,
+          "like_count": 239,
+          "quote_count": 11,
+          "reply_count": 50,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "日本东京大学一名教授在招生网站原始码中嵌入“六四天安门”字样，引发排除中国申请者的争议。东京大学周二（4日）宣布，已对涉事教授实施惩戒处分。 https://t.co/01N4QE1ClH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 352,
+          "like_count": 10746,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5554
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384781,
+          "following_count": 9,
+          "like_count": 477,
+          "listed_count": 5537,
+          "media_count": 17109,
+          "tweet_count": 85928
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

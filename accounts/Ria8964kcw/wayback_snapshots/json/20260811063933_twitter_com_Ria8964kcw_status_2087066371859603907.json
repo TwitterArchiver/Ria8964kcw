@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2087066371859603907",
+    "created_at": "2026-08-11T06:39:33.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087066371859603907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1429306904656760834",
+          "start": 3,
+          "username": "arst0zka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087066371859603907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086753142465761771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arst0zka8964: 什么傻逼缩写，我看不如都叫鹅腿大学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2087066371859603907",
+        "created_at": "2026-08-11T06:39:33.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087066371859603907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1429306904656760834",
+              "start": 3,
+              "username": "arst0zka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087066371859603907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086753142465761771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arst0zka8964: 什么傻逼缩写，我看不如都叫鹅腿大学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429306904656760834",
+        "conversation_id": "2086753142465761771",
+        "created_at": "2026-08-10T09:54:53.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086753142465761771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/showonder/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/showonder/status/2086413317007147408",
+              "start": 18,
+              "url": "https://t.co/xBkaxDE0PH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086753142465761771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23037,
+          "like_count": 430,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086413317007147408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么傻逼缩写，我看不如都叫鹅腿大学 https://t.co/xBkaxDE0PH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2087066371859603907",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 359,
+          "like_count": 11174,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5626
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T04:58:22.000Z",
+        "description": "活人-Not a bot/\n英语水平就那样-Able to communicate in English/\n社交是为了镇痛，而非享乐-Socializing is for soothing pain, not seeking pleasure /\n转生次数：二-Two accounts have been banned",
+        "id": "1429306904656760834",
+        "is_identity_verified": false,
+        "location": "IP属地：柱岛泊地",
+        "most_recent_tweet_id": "2087042313436746187",
+        "name": "373K",
+        "pinned_tweet_id": "1842813035993497820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429306904656760834/1629973517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457557127715688450/xrZBjkKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1018,
+          "like_count": 37456,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 17087
+        },
+        "url": "",
+        "username": "arst0zka8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

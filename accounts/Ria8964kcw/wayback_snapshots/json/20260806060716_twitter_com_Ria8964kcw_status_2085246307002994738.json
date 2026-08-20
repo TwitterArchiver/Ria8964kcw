@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085246307002994738",
+    "created_at": "2026-08-06T06:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085246307002994738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shennaichuan_/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/shennaichuan_/status/2085218634008576167",
+          "start": 2,
+          "url": "https://t.co/m0HauMwfdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085246307002994738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085218634008576167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/m0HauMwfdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2085218625099829248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAvSqQakAAHAxK.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085246307002994738",
+        "created_at": "2026-08-06T06:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085246307002994738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shennaichuan_/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/shennaichuan_/status/2085218634008576167",
+              "start": 2,
+              "url": "https://t.co/m0HauMwfdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085246307002994738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085218634008576167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/m0HauMwfdt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085218625099829248"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2085218634008576167",
+        "created_at": "2026-08-06T04:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085218634008576167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4D69k8gey",
+              "end": 28,
+              "expanded_url": "https://x.com/shennaichuan_/status/2085218634008576167/photo/1",
+              "media_key": "3_2085218625099829248",
+              "start": 5,
+              "url": "https://t.co/g4D69k8gey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085218634008576167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的体重 https://t.co/g4D69k8gey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 355,
+          "like_count": 10779,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5561
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏\n进群请私信👁️👁️",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 739,
+          "like_count": 1081,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

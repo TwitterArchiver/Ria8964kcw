@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2084328374286287260",
+    "created_at": "2026-08-03T17:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084328374286287260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1899023817378508801",
+          "start": 3,
+          "username": "blue_notcyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084328374286287260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084215514943897710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blue_notcyan: 感觉给amber钱不如花钱送amber去扭转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2084328374286287260",
+        "created_at": "2026-08-03T17:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084328374286287260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1899023817378508801",
+              "start": 3,
+              "username": "blue_notcyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084328374286287260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084215514943897710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blue_notcyan: 感觉给amber钱不如花钱送amber去扭转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899023817378508801",
+        "conversation_id": "2084215514943897710",
+        "created_at": "2026-08-03T09:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084215514943897710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084215514943897710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2936,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉给amber钱不如花钱送amber去扭转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 347,
+          "like_count": 10621,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5529
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T09:06:07.000Z",
+        "description": "有性瘾的，躁狂的，精神分裂的，反社会的，平等的痛恨所有人类的另一个自我",
+        "id": "1899023817378508801",
+        "name": "太蓝↔不蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076215933883047936/TokMFyCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 99,
+          "like_count": 413,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "blue_notcyan",
+        "verified": false
+      }
+    ]
+  }
+}

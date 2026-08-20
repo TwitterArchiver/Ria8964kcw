@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085618954094145646",
+    "created_at": "2026-08-07T07:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085633539287195698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085633539287195698",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085628389067763822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 不仅要杀了我还要凌辱我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085618954094145646",
+        "created_at": "2026-08-07T07:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085633539287195698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085633539287195698",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085628389067763822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 不仅要杀了我还要凌辱我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "conversation_id": "2085618954094145646",
+        "created_at": "2026-08-07T07:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085628389067763822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085628389067763822",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085618954094145646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 小王，查一下今年进川美染了发的江西省新生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 359,
+          "like_count": 10878,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 5577
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "爱人@JS_W417 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "JS_W417"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988291571474432/lv_XdAWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 332,
+          "like_count": 2819,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3577
+        },
+        "url": "",
+        "username": "Alamida001",
+        "verified": false
+      }
+    ]
+  }
+}

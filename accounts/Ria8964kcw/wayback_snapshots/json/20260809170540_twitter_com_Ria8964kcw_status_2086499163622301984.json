@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086499163622301984",
+    "created_at": "2026-08-09T17:05:40.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086499163622301984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2086472372916228155",
+          "start": 42,
+          "url": "https://t.co/CKEe7kJ34E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086499163622301984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086472372916228155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是为啥我尽力远离一切有关二元蓝粉白的原因就是我真的好烦你们这种个个脑子不好使的 https://t.co/CKEe7kJ34E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086499163622301984",
+        "created_at": "2026-08-09T17:05:40.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086499163622301984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2086472372916228155",
+              "start": 42,
+              "url": "https://t.co/CKEe7kJ34E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086499163622301984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086472372916228155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是为啥我尽力远离一切有关二元蓝粉白的原因就是我真的好烦你们这种个个脑子不好使的 https://t.co/CKEe7kJ34E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086472372916228155",
+        "created_at": "2026-08-09T15:19:13.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086472372916228155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maomixiaowu/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/maomixiaowu/status/2086424224894468241",
+              "start": 56,
+              "url": "https://t.co/gUTDJ2Zlyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086472372916228155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 850,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086424224894468241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「酷儿」最应学习的价值观就是不要盲从什么跨圈大V也不要仅因对方立场不合你意就以维护儿童的名义阻止别人的个人表达 https://t.co/gUTDJ2Zlyx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 任意代词\n顺人妖xtx生理人妖心理人妖nonbinary\n更多的我在 @riafixcom\n长bio看麻了像蜈蚣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086499163622301984",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 362,
+          "like_count": 11103,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5613
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086474360294937025",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4796,
+          "following_count": 783,
+          "like_count": 2837,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

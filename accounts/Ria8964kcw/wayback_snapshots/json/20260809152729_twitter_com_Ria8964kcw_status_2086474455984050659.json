@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086451834349351299",
+    "created_at": "2026-08-09T15:27:29.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086474455984050659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888664824089067520",
+          "start": 0,
+          "username": "wohaoxiangsiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086474455984050659",
+    "in_reply_to_user_id": "1888664824089067520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086469354808656298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohaoxiangsiya 我匠已学会万物起源"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086469354808656298].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086469354808656298",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086469354808656298"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086451834349351299",
+        "created_at": "2026-08-09T15:27:29.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086474455984050659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888664824089067520",
+              "start": 0,
+              "username": "wohaoxiangsiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086474455984050659",
+        "in_reply_to_user_id": "1888664824089067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086469354808656298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohaoxiangsiya 我匠已学会万物起源"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 任意代词\n顺人妖xtx生理人妖心理人妖nonbinary\n更多的我在 @riafixcom\n长bio看麻了像蜈蚣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086474455984050659",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 362,
+          "like_count": 11095,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5612
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-09T19:02:44.000Z",
+        "description": "我也不知道是什么",
+        "id": "1888664824089067520",
+        "is_identity_verified": false,
+        "location": "海辺の葬列",
+        "most_recent_tweet_id": "1954212635513143440",
+        "name": "灵与肉",
+        "pinned_tweet_id": "2084312398517965131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888664824089067520/1781889518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086457205990260736/oj4gK-cN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 475,
+          "like_count": 36948,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 8485
+        },
+        "url": "",
+        "username": "wohaoxiangsiya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

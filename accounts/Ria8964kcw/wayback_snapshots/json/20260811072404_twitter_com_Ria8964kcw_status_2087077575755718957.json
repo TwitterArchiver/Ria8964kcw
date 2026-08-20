@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086799437171748865"
+      ],
+      "media_source_tweet_id": [
+        "2086799516087603445"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2087077575755718957",
+    "created_at": "2026-08-11T07:24:04.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087077575755718957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1834655635562229760",
+          "start": 3,
+          "username": "archivedkcw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fz5uiGfiHC",
+          "end": 55,
+          "expanded_url": "https://x.com/archivedkcw/status/2086799516087603445/video/1",
+          "media_key": "13_2086799437171748865",
+          "start": 32,
+          "url": "https://t.co/Fz5uiGfiHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087077575755718957",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086799437171748865"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 355
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086799516087603445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @archivedkcw: such a cutie 🥺 https://t.co/Fz5uiGfiHC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5939,
+        "height": 2294,
+        "media_key": "13_2086799437171748865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086799437171748865/img/oQzmqpZq_N9g3RQf.jpg",
+        "public_metrics": {
+          "view_count": 18405
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086799437171748865/vid/avc1/320x508/shmjJSKwvfF6gMBh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086799437171748865/pl/aS2GER6kDnbBK2CR.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086799437171748865/vid/avc1/720x1146/N61tsdLuvX92wDzA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086799437171748865/vid/avc1/480x764/2YqdkGTOXTHKrxmW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086799437171748865/vid/avc1/1440x2294/9WodtM65yboQ-XwF.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086799437171748865"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2086799516087603445",
+        "created_at": "2026-08-10T12:59:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086799516087603445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz5uiGfiHC",
+              "end": 38,
+              "expanded_url": "https://x.com/archivedkcw/status/2086799516087603445/video/1",
+              "media_key": "13_2086799437171748865",
+              "start": 15,
+              "url": "https://t.co/Fz5uiGfiHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086799516087603445",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086799437171748865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 743,
+          "impression_count": 62067,
+          "like_count": 4438,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "such a cutie 🥺 https://t.co/Fz5uiGfiHC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086799437171748865"
+          ],
+          "media_source_tweet_id": [
+            "2086799516087603445"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2087077575755718957",
+        "created_at": "2026-08-11T07:24:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087077575755718957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1834655635562229760",
+              "start": 3,
+              "username": "archivedkcw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz5uiGfiHC",
+              "end": 55,
+              "expanded_url": "https://x.com/archivedkcw/status/2086799516087603445/video/1",
+              "media_key": "13_2086799437171748865",
+              "start": 32,
+              "url": "https://t.co/Fz5uiGfiHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087077575755718957",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086799437171748865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 355
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086799516087603445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @archivedkcw: such a cutie 🥺 https://t.co/Fz5uiGfiHC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2087077575755718957",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 359,
+          "like_count": 11175,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5627
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "is_identity_verified": false,
+        "location": "2 sleep deprived asia admins",
+        "most_recent_tweet_id": "2087013608530337992",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834655635562229760/1776944106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46169,
+          "following_count": 324,
+          "like_count": 22943,
+          "listed_count": 94,
+          "media_count": 14208,
+          "tweet_count": 31802
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

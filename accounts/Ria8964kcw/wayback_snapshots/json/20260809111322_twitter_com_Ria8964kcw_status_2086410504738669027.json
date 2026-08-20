@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086410504738669027",
+    "created_at": "2026-08-09T11:13:22.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086410504738669027"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086410504738669027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "利益驱动的性取向流动：基于1691名男性样本的实证研究\n\n                      南京红姐\n（江宁大学城，南京，211102）\n\n摘     要：传统性取向理论多假设性偏好是固定且内在的，但近年研究指出性取向可能具有流动性。本研究基于N市1691名男性样本，特别关注其在面临同性性行为机会时的即时决策过程，探讨了男性性取向更倾向于一种基于利益考量的策略性表现，而非稳定的身份认同。与传统性别研究的问卷、访谈等静态方法不同，笔者采用了具身性视角，通过直接互动与大量视频采集获得了更为真实和深入的行为数据，为相关研究的方法论提供了新的思路。\n\n关键词：具身性研究、性取向流动、男性性行为、互动策略"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "利益驱动的性取向流动：基于1691名男性样本的实证研究\n\n                      南京红姐\n（江宁大学城，南京，211102）\n\n摘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086410504738669027",
+        "created_at": "2026-08-09T11:13:22.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086410504738669027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086410504738669027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "利益驱动的性取向流动：基于1691名男性样本的实证研究\n\n                      南京红姐\n（江宁大学城，南京，211102）\n\n摘     要：传统性取向理论多假设性偏好是固定且内在的，但近年研究指出性取向可能具有流动性。本研究基于N市1691名男性样本，特别关注其在面临同性性行为机会时的即时决策过程，探讨了男性性取向更倾向于一种基于利益考量的策略性表现，而非稳定的身份认同。与传统性别研究的问卷、访谈等静态方法不同，笔者采用了具身性视角，通过直接互动与大量视频采集获得了更为真实和深入的行为数据，为相关研究的方法论提供了新的思路。\n\n关键词：具身性研究、性取向流动、男性性行为、互动策略"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "利益驱动的性取向流动：基于1691名男性样本的实证研究\n\n                      南京红姐\n（江宁大学城，南京，211102）\n\n摘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 任意代词\n顺人妖xtx生理人妖心理人妖nonbinary\n更多的我在 @riafixcom\n长bio看麻了像蜈蚣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086410504738669027",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 361,
+          "like_count": 11076,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5609
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

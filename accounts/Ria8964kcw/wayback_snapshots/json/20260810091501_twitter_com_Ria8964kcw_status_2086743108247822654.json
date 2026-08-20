@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086743108247822654",
+    "created_at": "2026-08-10T09:15:01.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T10:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086743108247822654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuda3_8964/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yuda3_8964/status/2086294531918688624",
+          "start": 11,
+          "url": "https://t.co/3GOmHl67UY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086743108247822654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086294531918688624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃所有解离剂都这样 https://t.co/3GOmHl67UY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086743108247822654",
+        "created_at": "2026-08-10T09:15:01.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086743108247822654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuda3_8964/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yuda3_8964/status/2086294531918688624",
+              "start": 11,
+              "url": "https://t.co/3GOmHl67UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086743108247822654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086294531918688624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃所有解离剂都这样 https://t.co/3GOmHl67UY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084990480618770432",
+        "conversation_id": "2086294531918688624",
+        "created_at": "2026-08-09T03:32:32.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086294531918688624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086294531918688624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3932,
+          "like_count": 84,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林他奶的就是吐真剂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086743108247822654",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 360,
+          "like_count": 11132,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5617
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:12:24.000Z",
+        "description": "正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  三代目",
+        "id": "2084990480618770432",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2086738526037753895",
+        "name": "𝖞𝖚𝖉𝖆،梦想挂了🏴‍☠️三代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084990480618770432/1785936237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991632076865537/chE31pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 110,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "yuda3_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

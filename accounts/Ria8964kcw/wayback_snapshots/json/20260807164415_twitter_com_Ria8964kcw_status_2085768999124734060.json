@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085768999124734060",
+    "created_at": "2026-08-07T16:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085768999124734060"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 41,
+          "tag": "守男德是被资产阶级的糟粕婚姻观异化的表现"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1982839066120048640",
+          "start": 3,
+          "username": "yidegelamiamisi"
+        },
+        {
+          "end": 33,
+          "id": "1824688188750712832",
+          "start": 21,
+          "username": "N0HopeForUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085768999124734060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085759485591888028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yidegelamiamisi: @N0HopeForUs 当男婊子好啊\n#守男德是被资产阶级的糟粕婚姻观异化的表现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085768999124734060",
+        "created_at": "2026-08-07T16:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085768999124734060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 41,
+              "tag": "守男德是被资产阶级的糟粕婚姻观异化的表现"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1982839066120048640",
+              "start": 3,
+              "username": "yidegelamiamisi"
+            },
+            {
+              "end": 33,
+              "id": "1824688188750712832",
+              "start": 21,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085768999124734060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085759485591888028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yidegelamiamisi: @N0HopeForUs 当男婊子好啊\n#守男德是被资产阶级的糟粕婚姻观异化的表现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982839066120048640",
+        "conversation_id": "2085758882979414412",
+        "created_at": "2026-08-07T16:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085759485591888028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 20,
+              "tag": "守男德是被资产阶级的糟粕婚姻观异化的表现"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085759485591888028",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085758882979414412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs 当男婊子好啊\n#守男德是被资产阶级的糟粕婚姻观异化的表现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 359,
+          "like_count": 10953,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 5587
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "114",
+        "id": "1982839066120048640",
+        "location": "一的格拉米",
+        "name": "斯塔默主席万寿无疆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076243237325651968/roKbwovh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 439,
+          "like_count": 3645,
+          "listed_count": 8,
+          "media_count": 239,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "yidegelamiamisi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "米泽茜激推 守序邪恶 原教旨地雷系\n你知道我们在谈论什么🎙️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHoF29"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋赫尔墨斯",
+        "pinned_tweet_id": "2071549888526197011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084974877795123200/Ksg9WoxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1600,
+          "like_count": 46290,
+          "listed_count": 4,
+          "media_count": 708,
+          "tweet_count": 14713
+        },
+        "url": "https://t.co/yy1yNHoF29",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

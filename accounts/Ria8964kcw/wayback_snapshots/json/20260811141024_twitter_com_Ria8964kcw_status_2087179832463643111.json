@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517239881499480064",
+          "name": "LE SSERAFIM"
+        }
+      }
+    ],
+    "conversation_id": "2087179832463643111",
+    "created_at": "2026-08-11T14:10:24.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087179832463643111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jae_minatozaki…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/jae_minatozaki/status/2086654815749411256",
+          "start": 6,
+          "url": "https://t.co/sf0RRvbi3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087179832463643111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086654815749411256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈操死我 https://t.co/sf0RRvbi3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20683,
+        "height": 1828,
+        "media_key": "13_2086654628364693504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086654628364693504/img/FACquDI6pF5MjwN6.jpg",
+        "public_metrics": {
+          "view_count": 10048
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086654628364693504/vid/avc1/320x570/slA9CyoaKwKkNnoG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086654628364693504/vid/avc1/480x854/XNCz0J06rbCT8E6v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086654628364693504/vid/avc1/720x1282/B_35fv-ffwnzX1ry.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086654628364693504/pl/OviwI63FEx7Ep3YT.m3u8?tag=14"
+          }
+        ],
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2087179832463643111",
+        "created_at": "2026-08-11T14:10:24.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087179832463643111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jae_minatozaki…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/jae_minatozaki/status/2086654815749411256",
+              "start": 6,
+              "url": "https://t.co/sf0RRvbi3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087179832463643111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086654815749411256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈操死我 https://t.co/sf0RRvbi3Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086654628364693504"
+          ]
+        },
+        "author_id": "1369844608390197250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517239881499480064",
+              "name": "LE SSERAFIM"
+            }
+          }
+        ],
+        "conversation_id": "2086654815749411256",
+        "created_at": "2026-08-10T03:24:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086654815749411256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DfHNvxV80",
+              "end": 45,
+              "expanded_url": "https://x.com/Jae_Minatozaki/status/2086654815749411256/video/1",
+              "media_key": "13_2086654628364693504",
+              "start": 22,
+              "url": "https://t.co/9DfHNvxV80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086654815749411256",
+        "lang": "ht",
+        "media_metadata": [
+          {
+            "media_key": "13_2086654628364693504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 987,
+          "impression_count": 32684,
+          "like_count": 3226,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 169
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "LE SSERAFIM - Chaewon https://t.co/9DfHNvxV80"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2087179832463643111",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 358,
+          "like_count": 11207,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 5627
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-11T02:56:42.000Z",
+        "description": "I just make gifs \nReddit: u/Minatozaki_12\nEverything i post ive made myself.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@jae_minatozaki",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@jae_minatozaki",
+                "start": 0,
+                "url": "https://t.co/3UjGqpOzMy"
+              }
+            ]
+          }
+        },
+        "id": "1369844608390197250",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086906159123071444",
+        "name": "JaeYPapi",
+        "pinned_tweet_id": "2007679521638756488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369844608390197250/1785130931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080241748711010304/6MXzSZn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21963,
+          "following_count": 87,
+          "like_count": 2469,
+          "listed_count": 56,
+          "media_count": 1413,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/3UjGqpOzMy",
+        "username": "Jae_Minatozaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

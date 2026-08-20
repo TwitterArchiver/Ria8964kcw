@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085261807787336103",
+    "created_at": "2026-08-06T07:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085261807787336103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733255083440357376",
+          "start": 3,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085261807787336103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085209213383606475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_xy11: 08/05/2026\nLevi’s Stadium，Santa Clara.\nTPR supporting AC/DC Power Up Tour\n不要停止歌唱，我的女神\n心脏同步鼓点，我的眼泪只为你而流，\n我只为你而战，\n带我穿过黄昏走向地狱吧。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2085209125143908352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAmpsKbEAASZGL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085209125122899969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAmpsFagAEOC2V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085261807787336103",
+        "created_at": "2026-08-06T07:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085261807787336103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733255083440357376",
+              "start": 3,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085261807787336103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085209213383606475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_xy11: 08/05/2026\nLevi’s Stadium，Santa Clara.\nTPR supporting AC/DC Power Up Tour\n不要停止歌唱，我的女神\n心脏同步鼓点，我的眼泪只为你而流，\n我只为你而战，\n带我穿过黄昏走向地狱吧。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085209125143908352",
+            "3_2085209125122899969"
+          ]
+        },
+        "author_id": "1733255083440357376",
+        "conversation_id": "2085209213383606475",
+        "created_at": "2026-08-06T03:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085209213383606475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6vQhjsGA0",
+              "end": 171,
+              "expanded_url": "https://x.com/8964_xy11/status/2085209213383606475/photo/1",
+              "media_key": "3_2085209125143908352",
+              "start": 148,
+              "url": "https://t.co/z6vQhjsGA0"
+            },
+            {
+              "display_url": "pic.x.com/z6vQhjsGA0",
+              "end": 171,
+              "expanded_url": "https://x.com/8964_xy11/status/2085209213383606475/photo/1",
+              "media_key": "3_2085209125122899969",
+              "start": 148,
+              "url": "https://t.co/z6vQhjsGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085209213383606475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "08/05/2026\nLevi’s Stadium，Santa Clara.\nTPR supporting AC/DC Power Up Tour\n不要停止歌唱，我的女神\n心脏同步鼓点，我的眼泪只为你而流，\n我只为你而战，\n带我穿过黄昏走向地狱吧。\nyou make me wanna die. https://t.co/z6vQhjsGA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 356,
+          "like_count": 10793,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5565
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "活着就是为了听@TPROfficial\n坚信无依无靠就是无拘无束\n匿名提问箱和私信都会回复\n皮下@8964reckless_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "TPROfficial"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "8964reckless_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLU2uY"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Gladsheim ，Asgard",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "2085209213383606475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032562522243645440/zofg4AZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 987,
+          "like_count": 51014,
+          "listed_count": 11,
+          "media_count": 110,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/j6vldLU2uY",
+        "username": "8964_xy11",
+        "verified": false
+      }
+    ]
+  }
+}

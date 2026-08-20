@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2085246829957140701",
+    "created_at": "2026-08-06T06:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085246829957140701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivansu8964/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ivansu8964/status/2085245276646936617",
+          "start": 28,
+          "url": "https://t.co/cUpG3gsmxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085246829957140701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085245276646936617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次支持亿小妹天呐噜，敌人的敌人就是我的朋友🖐️😁 https://t.co/cUpG3gsmxh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2085246829957140701",
+        "created_at": "2026-08-06T06:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085246829957140701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivansu8964/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ivansu8964/status/2085245276646936617",
+              "start": 28,
+              "url": "https://t.co/cUpG3gsmxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085246829957140701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085245276646936617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次支持亿小妹天呐噜，敌人的敌人就是我的朋友🖐️😁 https://t.co/cUpG3gsmxh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790893006612017152",
+        "conversation_id": "2085245276646936617",
+        "created_at": "2026-08-06T06:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085245276646936617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085245276646936617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呐宝宝没有钱在小红书上被乙母猪抵制了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 355,
+          "like_count": 10781,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5562
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-15T23:52:32.000Z",
+        "description": "He/Him/Bi-Pan/男性友好/异性恋友好",
+        "id": "1790893006612017152",
+        "location": "太原市公安局万柏林分局",
+        "name": "伊万（弹泽民）",
+        "pinned_tweet_id": "1899833459935256791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026533135866015747/64XMDChE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 1208,
+          "like_count": 28781,
+          "listed_count": 14,
+          "media_count": 431,
+          "tweet_count": 9391
+        },
+        "url": "",
+        "username": "IVANSU8964",
+        "verified": false
+      }
+    ]
+  }
+}

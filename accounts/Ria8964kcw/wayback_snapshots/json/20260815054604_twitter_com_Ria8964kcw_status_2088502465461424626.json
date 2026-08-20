@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2088502465461424626",
+    "created_at": "2026-08-15T05:46:04.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088502465461424626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sabrina8964/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/sabrina8964/status/2088481164051013867",
+          "start": 2,
+          "url": "https://t.co/e2fTUTgzQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088502465461424626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088481164051013867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/e2fTUTgzQ2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2088502465461424626",
+        "created_at": "2026-08-15T05:46:04.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088502465461424626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sabrina8964/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/sabrina8964/status/2088481164051013867",
+              "start": 2,
+              "url": "https://t.co/e2fTUTgzQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088502465461424626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088481164051013867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/e2fTUTgzQ2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2088481164051013867",
+        "created_at": "2026-08-15T04:21:26.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088481164051013867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088481164051013867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到讨论上海那个事就烦了有没有懂的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2088502465461424626",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 357,
+          "like_count": 11409,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 5651
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "渺沧海之一粟 逃生舱@YosukeHaruhi\n（此账号被shadowban了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "YosukeHaruhi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNdQS"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "is_identity_verified": false,
+        "location": "OliviaRodrigo反黑站",
+        "most_recent_tweet_id": "2088499870030331998",
+        "name": "溺れる飛べない鳥は水羽が必要",
+        "pinned_tweet_id": "2085267917588074625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978032792383709184/1786723043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088117886934274048/FcPWwAx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 453,
+          "like_count": 32704,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 5748
+        },
+        "url": "https://t.co/Wbnd5PNdQS",
+        "username": "Sabrina8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

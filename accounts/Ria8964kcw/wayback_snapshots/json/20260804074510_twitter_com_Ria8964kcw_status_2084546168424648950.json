@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2084524066611044713",
+    "created_at": "2026-08-04T07:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084546168424648950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022208955917979648",
+          "start": 0,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084546168424648950",
+    "in_reply_to_user_id": "2022208955917979648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084524066611044713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1r4i 我之前未满18都能开诶（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084524053935902721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO23lTCbUAETdd0.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2084524066611044713",
+        "created_at": "2026-08-04T07:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084546168424648950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022208955917979648",
+              "start": 0,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084546168424648950",
+        "in_reply_to_user_id": "2022208955917979648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084524066611044713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1r4i 我之前未满18都能开诶（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084524053935902721"
+          ]
+        },
+        "author_id": "2022208955917979648",
+        "conversation_id": "2084524066611044713",
+        "created_at": "2026-08-04T06:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084524066611044713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xn9HoKS4Ub",
+              "end": 103,
+              "expanded_url": "https://x.com/Ak1r4i/status/2084524066611044713/photo/1",
+              "media_key": "3_2084524053935902721",
+              "start": 80,
+              "url": "https://t.co/Xn9HoKS4Ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084524066611044713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為我還是未滿十八歲的寶寶所以只能去精神衛生中心開。然後就是這個藥盒子醜醜的，，，真的就是拍不好看所以我乾脆不P了。我嘔嘔。還有為什麽我吃這個沒有幻覺我哭了。 https://t.co/Xn9HoKS4Ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "我就是利亚｜任意代词｜你友queer和pansexuality我就友你|重庆的朋友开学后请找我玩｜overdose｜顺人妖xtx生理人妖心理人妖nonbinary黄白黑紫｜心情好会天天搞同人和产出（｜我喜欢的动物：所有鸟类，鳄鱼，海豹｜我恨的动物：你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/d1VwOVEMi0"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 348,
+          "like_count": 10654,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5532
+        },
+        "url": "https://t.co/d1VwOVEMi0",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\n💊🔪🩸 Oct.09 社交無能笨蛋 希死念慮 \n發了ooc內容的話就是我嗑大了(不要討厭我🥺\n負能only sub垢@perconut 憑感覺fo跟回fo❤️ \n愛@tanga7lc\n可以來問我問題呀↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "perconut"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "tanga7lc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5aAqe"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "夢",
+        "name": "惺✨",
+        "pinned_tweet_id": "2077755075645305313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077712711434280960/C81eaJ93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 330,
+          "like_count": 987,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/d4zjW5aAqe",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

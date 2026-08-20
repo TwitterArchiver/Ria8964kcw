@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2086566738079178856",
+    "created_at": "2026-08-09T21:34:11.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086566738079178856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086566738079178856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086196443497259462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 问题来了，发表「跨性别受歧视活该」的言论是一种「跨圈皇帝做非正常行为获取流量」的方式吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2086566738079178856",
+        "created_at": "2026-08-09T21:34:11.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086566738079178856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086566738079178856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086196443497259462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 问题来了，发表「跨性别受歧视活该」的言论是一种「跨圈皇帝做非正常行为获取流量」的方式吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2086196443497259462",
+        "created_at": "2026-08-08T21:02:46.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T22:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086196443497259462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianact/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/maoxianact/status/2086155491831582919",
+              "start": 44,
+              "url": "https://t.co/CmbKtL7l5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086196443497259462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2685,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086155491831582919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问题来了，发表「跨性别受歧视活该」的言论是一种「跨圈皇帝做非正常行为获取流量」的方式吗 https://t.co/CmbKtL7l5M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2086566738079178856",
+        "name": "人妖家族姊妹互助人妖之间惺惺相惜只有我们懂得，严佳欢是人民的大救星",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 359,
+          "like_count": 11117,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 5616
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086565228452471025",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4790,
+          "following_count": 788,
+          "like_count": 2851,
+          "listed_count": 5,
+          "media_count": 182,
+          "tweet_count": 2395
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
