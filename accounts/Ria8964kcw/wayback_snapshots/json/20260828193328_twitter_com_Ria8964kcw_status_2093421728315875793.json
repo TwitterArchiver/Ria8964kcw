@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2093385715052654981",
+    "created_at": "2026-08-28T19:33:28.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093421728315875793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880036832072617984",
+          "start": 0,
+          "username": "2091996981snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093421728315875793",
+    "in_reply_to_user_id": "1880036832072617984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093385715052654981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2091996981snow 你做的馋哭我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093385687907151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0zMSGXsAArz5P.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093385687902945280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0zMSFXgAAQX0p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093385687898705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0zMSEW0AAFQwZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093385687907049472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0zMSGWIAAmNxC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2093385715052654981",
+        "created_at": "2026-08-28T19:33:28.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093421728315875793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880036832072617984",
+              "start": 0,
+              "username": "2091996981snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093421728315875793",
+        "in_reply_to_user_id": "1880036832072617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093385715052654981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2091996981snow 你做的馋哭我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093385687907151872",
+            "3_2093385687902945280",
+            "3_2093385687898705920",
+            "3_2093385687907049472"
+          ]
+        },
+        "author_id": "1880036832072617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093385715052654981",
+        "created_at": "2026-08-28T17:10:22.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093385715052654981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQtSyI0cW0",
+              "end": 146,
+              "expanded_url": "https://x.com/2091996981snow/status/2093385715052654981/photo/1",
+              "media_key": "3_2093385687907151872",
+              "start": 123,
+              "url": "https://t.co/OQtSyI0cW0"
+            },
+            {
+              "display_url": "pic.x.com/OQtSyI0cW0",
+              "end": 146,
+              "expanded_url": "https://x.com/2091996981snow/status/2093385715052654981/photo/1",
+              "media_key": "3_2093385687902945280",
+              "start": 123,
+              "url": "https://t.co/OQtSyI0cW0"
+            },
+            {
+              "display_url": "pic.x.com/OQtSyI0cW0",
+              "end": 146,
+              "expanded_url": "https://x.com/2091996981snow/status/2093385715052654981/photo/1",
+              "media_key": "3_2093385687898705920",
+              "start": 123,
+              "url": "https://t.co/OQtSyI0cW0"
+            },
+            {
+              "display_url": "pic.x.com/OQtSyI0cW0",
+              "end": 146,
+              "expanded_url": "https://x.com/2091996981snow/status/2093385715052654981/photo/1",
+              "media_key": "3_2093385687907049472",
+              "start": 123,
+              "url": "https://t.co/OQtSyI0cW0"
+            },
+            {
+              "display_url": "x.com/2091996981snow…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/2091996981snow/status/2093359122452193420",
+              "start": 147,
+              "url": "https://t.co/Oq7ZCZ7uuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093385715052654981",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093385687907151872"
+          },
+          {
+            "media_key": "3_2093385687902945280"
+          },
+          {
+            "media_key": "3_2093385687898705920"
+          },
+          {
+            "media_key": "3_2093385687907049472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我在布宜诺斯艾利斯生活，每月全部支出公开：\n\n房租：400美金\n\n10平米挂壁房，房间里只有一张床，公寓楼里有公共厨房和办公区域。\n\n饮食：100美金\n\n每天两顿饭，至少一斤牛肉（只吃得起牛肉馅、牛腹胸、牛腿），全部自己做。\n\n其他：100美金\n\n包括少量生活用品，手机话费，偶尔坐公交车和地铁的交通费，以及YouTube、GPT、bilibili、WPS、剪映等各平台会员订阅费。\n\n总计600美金左右。\n\n重要前提：我来阿根廷之前在东南亚买满了2*23kg托运行李额度的生活用品带过来。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1947,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093359122452193420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在布宜诺斯艾利斯生活，每月全部支出公开：\n\n房租：400美金\n\n10平米挂壁房，房间里只有一张床，公寓楼里有公共厨房和办公区域。\n\n饮食：100美金\n\n每天两顿饭，至少一斤牛肉（只吃得起牛肉馅、牛腹胸、牛腿），全部自己做。\n\n其他：100美金 https://t.co/OQtSyI0cW0 https://t.co/Oq7ZCZ7uuj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2093421728315875793",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 373,
+          "like_count": 12152,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 5970
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜目前定居阿根廷🇦🇷｜\n大学退学高中学历｜知行合一爱国华侨｜\n去过15个国家｜国际低成本旅居专家｜\n不键政｜不可知论｜渡自己不渡众生｜\n备用号@478182920snow\n致力于研究整理各国移民法律政策\n会员群和移民规划服务请电邮联系\nChiangMaiSnow@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "478182920snow"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "is_identity_verified": true,
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "most_recent_tweet_id": "2093419167919558929",
+        "name": "CABA下小雪",
+        "pinned_tweet_id": "2075296465442803790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880036832072617984/1759499089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6366,
+          "following_count": 166,
+          "like_count": 6513,
+          "listed_count": 35,
+          "media_count": 455,
+          "tweet_count": 4364
+        },
+        "url": "",
+        "username": "2091996981snow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

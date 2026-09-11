@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095498243115548738",
+    "created_at": "2026-09-04T07:05:40.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095770251946520818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1754419568297271296",
+          "start": 0,
+          "username": "jhao941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095770251946520818",
+    "in_reply_to_user_id": "1754419568297271296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095498243115548738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhao941 我支持了两份，国区一份土区一份，加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_2095498022084128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS0WUHbsAAItRB.png",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095498243115548738",
+        "created_at": "2026-09-04T07:05:40.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095770251946520818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1754419568297271296",
+              "start": 0,
+              "username": "jhao941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095770251946520818",
+        "in_reply_to_user_id": "1754419568297271296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095498243115548738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhao941 我支持了两份，国区一份土区一份，加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095498022084128768"
+          ]
+        },
+        "author_id": "1754419568297271296",
+        "conversation_id": "2095498243115548738",
+        "created_at": "2026-09-03T13:04:48.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095498243115548738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPP6mN5hpt",
+              "end": 49,
+              "expanded_url": "https://x.com/jhao941/status/2095498243115548738/photo/1",
+              "media_key": "3_2095498022084128768",
+              "start": 26,
+              "url": "https://t.co/vPP6mN5hpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095498243115548738",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095498022084128768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2651,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报\n第一年开发者账号的钱赚回来了🥳感谢各位支持🥳 https://t.co/vPP6mN5hpt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095770251946520818",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 375,
+          "like_count": 12390,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 6101
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T08:20:47.000Z",
+        "description": "🏳️‍🌈｜he/him｜i make ai slop",
+        "id": "1754419568297271296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095550321338786074",
+        "name": "Hao",
+        "pinned_tweet_id": "2089543726272319966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754419568297271296/1775915829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004869186238210048/XOWZHRBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 568,
+          "like_count": 6430,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "jhao941",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

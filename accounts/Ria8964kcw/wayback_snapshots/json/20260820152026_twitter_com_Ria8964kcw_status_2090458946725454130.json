@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2090425740189966484",
+    "created_at": "2026-08-20T15:20:26.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090458946725454130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1497613748973891587",
+          "start": 0,
+          "username": "wl_here"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090458946725454130",
+    "in_reply_to_user_id": "1497613748973891587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090425740189966484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wl_here 脱离支味，高级人生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2090425726755577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKvH3iaoAAwUoN.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2090425740189966484",
+        "created_at": "2026-08-20T15:20:26.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090458946725454130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1497613748973891587",
+              "start": 0,
+              "username": "wl_here"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090458946725454130",
+        "in_reply_to_user_id": "1497613748973891587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090425740189966484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wl_here 脱离支味，高级人生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090425726755577856"
+          ]
+        },
+        "author_id": "1497613748973891587",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090425740189966484",
+        "created_at": "2026-08-20T13:08:29.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090425740189966484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9GojgkxlS",
+              "end": 29,
+              "expanded_url": "https://x.com/wl_here/status/2090425740189966484/photo/1",
+              "media_key": "3_2090425726755577856",
+              "start": 6,
+              "url": "https://t.co/C9GojgkxlS"
+            },
+            {
+              "display_url": "x.com/kaiserdeng1978…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kaiserdeng1978/status/2089333707983491131",
+              "start": 30,
+              "url": "https://t.co/a3hpcTfLh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090425740189966484",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090425726755577856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089333707983491131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的假的… https://t.co/C9GojgkxlS https://t.co/a3hpcTfLh0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2090458946725454130",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 357,
+          "like_count": 11806,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 5779
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-26T16:45:36.000Z",
+        "description": "“到得还来别无事，庐山烟雨浙江潮”\n廣東話/普通话/日本語/English/العربية \n主修阿拉伯语 辅修经济学\nbase五道口 欢迎找我玩or扩列！🌈",
+        "id": "1497613748973891587",
+        "is_identity_verified": false,
+        "location": "距你0.08km",
+        "most_recent_tweet_id": "2090425740189966484",
+        "name": "学小语种的Watson",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497613748973891587/1763306307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063679094907392000/82wJvTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 658,
+          "like_count": 62011,
+          "listed_count": 1,
+          "media_count": 877,
+          "tweet_count": 4206
+        },
+        "url": "",
+        "username": "wl_here",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

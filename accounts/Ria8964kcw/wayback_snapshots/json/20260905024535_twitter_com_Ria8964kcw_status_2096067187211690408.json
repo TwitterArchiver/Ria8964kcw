@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2096067187211690408",
+    "created_at": "2026-09-05T02:45:35.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096067187211690408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2095862262997356608",
+          "start": 15,
+          "url": "https://t.co/Pjf8TeTttY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096067187211690408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095862262997356608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "路人，这忙内是不是还没成年啊 https://t.co/Pjf8TeTttY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7507,
+        "height": 1722,
+        "media_key": "13_2095862192574980096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095862192574980096/img/I5W1sjD3iBkAE49f.jpg",
+        "public_metrics": {
+          "view_count": 4855
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095862192574980096/vid/avc1/720x1148/sqTWGpH5KX9CXaTY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095862192574980096/vid/avc1/480x764/GdYIKltT1ILmeYxT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095862192574980096/vid/avc1/1080x1722/KhrFRTelOPCCfvXm.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095862192574980096/vid/avc1/320x510/JoQV3aaCxH6KJIbg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095862192574980096/pl/a05otxmPc92j5CLI.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2096067187211690408",
+        "created_at": "2026-09-05T02:45:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096067187211690408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2095862262997356608",
+              "start": 15,
+              "url": "https://t.co/Pjf8TeTttY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096067187211690408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095862262997356608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "路人，这忙内是不是还没成年啊 https://t.co/Pjf8TeTttY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095862192574980096"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2095862262997356608",
+        "created_at": "2026-09-04T13:11:17.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095862262997356608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnQ1Y9BuBb",
+              "end": 27,
+              "expanded_url": "https://x.com/archivedkcw/status/2095862262997356608/video/1",
+              "media_key": "13_2095862192574980096",
+              "start": 4,
+              "url": "https://t.co/WnQ1Y9BuBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095862262997356608",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2095862192574980096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 18462,
+          "like_count": 2249,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺 https://t.co/WnQ1Y9BuBb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2096067187211690408",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 376,
+          "like_count": 12416,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 6108
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_chaechae_1/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_chaechae_1/",
+                "start": 0,
+                "url": "https://t.co/MaIAxKhmko"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "is_identity_verified": false,
+        "location": "2 asia admins",
+        "most_recent_tweet_id": "2095890013263393110",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834655635562229760/1788407470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095401584645775360/H3c3IMVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48985,
+          "following_count": 329,
+          "like_count": 23371,
+          "listed_count": 95,
+          "media_count": 14692,
+          "tweet_count": 32661
+        },
+        "url": "https://t.co/MaIAxKhmko",
+        "username": "archivedkcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

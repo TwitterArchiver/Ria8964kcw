@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2093385715052654981",
+    "created_at": "2026-08-28T19:40:58.000Z",
+    "display_text_range": [
+      16,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093423615484334378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880036832072617984",
+          "start": 0,
+          "username": "2091996981snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093423615484334378",
+    "in_reply_to_user_id": "1880036832072617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093423084204163507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2091996981snow 我不在越南但我有一天一定会去住一段时间的，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2093385715052654981",
+        "created_at": "2026-08-28T19:40:58.000Z",
+        "display_text_range": [
+          16,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093423615484334378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880036832072617984",
+              "start": 0,
+              "username": "2091996981snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093423615484334378",
+        "in_reply_to_user_id": "1880036832072617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093423084204163507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2091996981snow 我不在越南但我有一天一定会去住一段时间的，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880036832072617984",
+        "conversation_id": "2093385715052654981",
+        "created_at": "2026-08-28T19:38:51.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093423084204163507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093423084204163507",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093421728315875793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 以后去越南玩有机会的话做饭请你吃😁🍝🍜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2093423615484334378",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 373,
+          "like_count": 12153,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 5972
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜目前定居阿根廷🇦🇷｜\n大学退学高中学历｜知行合一爱国华侨｜\n去过15个国家｜国际低成本旅居专家｜\n不键政｜不可知论｜渡自己不渡众生｜\n备用号@478182920snow\n致力于研究整理各国移民法律政策\n会员群和移民规划服务请电邮联系\nChiangMaiSnow@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "478182920snow"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "is_identity_verified": true,
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "most_recent_tweet_id": "2093423084204163507",
+        "name": "CABA下小雪",
+        "pinned_tweet_id": "2075296465442803790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880036832072617984/1759499089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6366,
+          "following_count": 166,
+          "like_count": 6513,
+          "listed_count": 35,
+          "media_count": 455,
+          "tweet_count": 4366
+        },
+        "url": "",
+        "username": "2091996981snow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

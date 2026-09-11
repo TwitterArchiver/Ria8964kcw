@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2094435760317358295",
+    "created_at": "2026-08-31T16:47:04.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094467016283627838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906644812293451776",
+          "start": 0,
+          "username": "xiangzuoxiaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094467016283627838",
+    "in_reply_to_user_id": "1906644812293451776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094435760317358295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangzuoxiaomao 接"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094435760317358295].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094435760317358295",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094435760317358295"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2094435760317358295",
+        "created_at": "2026-08-31T16:47:04.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094467016283627838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906644812293451776",
+              "start": 0,
+              "username": "xiangzuoxiaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094467016283627838",
+        "in_reply_to_user_id": "1906644812293451776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094435760317358295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangzuoxiaomao 接"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2094467016283627838",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 375,
+          "like_count": 12239,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 6019
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-31T09:48:46.000Z",
+        "description": "🈚性别所属 & 🈚特定政治立场所属\n/是ASD & 成人ADHD （2025年6月确诊）\n/宝宝： @RRRRRlpon\n/本人系某老推油多次转生（通称河北酱)/\n禁止外传本号内容/🚪4698 CNY/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "RRRRRlpon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/watch?v=DHi_iT…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/watch?v=DHi_iTc3Kxs",
+                "start": 0,
+                "url": "https://t.co/Gbhrd5Xwqr"
+              }
+            ]
+          }
+        },
+        "id": "1906644812293451776",
+        "is_identity_verified": false,
+        "location": "死人堆",
+        "most_recent_tweet_id": "2092864548696989946",
+        "name": "Hauntological Blues",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906644812293451776/1776608805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092556695515852800/RWxAPq4b_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 460,
+          "like_count": 75156,
+          "listed_count": 0,
+          "media_count": 1777,
+          "tweet_count": 26797
+        },
+        "url": "https://t.co/Gbhrd5Xwqr",
+        "username": "xiangzuoxiaomao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

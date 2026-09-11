@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2092763515522261098",
+    "created_at": "2026-08-26T23:57:58.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T00:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092763515522261098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/anblk984/status/2092480790810816589",
+          "start": 7,
+          "url": "https://t.co/B2KrOE6Xxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092763515522261098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092480790810816589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鲍勃别傻愣着 https://t.co/B2KrOE6Xxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2092480779767181312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn8Lsla8AAsnlP.jpg",
+        "width": 960
+      },
+      {
+        "height": 492,
+        "media_key": "3_2092480786222190592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn8MEoakAAqoiv.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2092763515522261098",
+        "created_at": "2026-08-26T23:57:58.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092763515522261098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/anblk984/status/2092480790810816589",
+              "start": 7,
+              "url": "https://t.co/B2KrOE6Xxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092763515522261098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092480790810816589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲍勃别傻愣着 https://t.co/B2KrOE6Xxl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092480779767181312",
+            "3_2092480786222190592"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2092480790810816589",
+        "created_at": "2026-08-26T05:14:31.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092480790810816589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9CAc9ZP5K",
+              "end": 35,
+              "expanded_url": "https://x.com/anblk984/status/2092480790810816589/photo/1",
+              "media_key": "3_2092480779767181312",
+              "start": 12,
+              "url": "https://t.co/s9CAc9ZP5K"
+            },
+            {
+              "display_url": "pic.x.com/s9CAc9ZP5K",
+              "end": 35,
+              "expanded_url": "https://x.com/anblk984/status/2092480790810816589/photo/1",
+              "media_key": "3_2092480786222190592",
+              "start": 12,
+              "url": "https://t.co/s9CAc9ZP5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092480790810816589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092480779767181312"
+          },
+          {
+            "media_key": "3_2092480786222190592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 599242,
+          "like_count": 1271,
+          "quote_count": 3,
+          "reply_count": 468,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "平哥上台之前的中国：😁 https://t.co/s9CAc9ZP5K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2092763515522261098",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 371,
+          "like_count": 12087,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 5937
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu\n小游戏网站https://t.co/B8UuvKnzYf…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "biwabokubo1996.github.io/pugna2232.gith",
+                "end": 106,
+                "expanded_url": "http://biwabokubo1996.github.io/pugna2232.gith",
+                "start": 83,
+                "url": "https://t.co/B8UuvKnzYf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是tg频道",
+        "most_recent_tweet_id": "2092751134658334927",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16892,
+          "following_count": 1076,
+          "like_count": 131137,
+          "listed_count": 78,
+          "media_count": 3611,
+          "tweet_count": 31709
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

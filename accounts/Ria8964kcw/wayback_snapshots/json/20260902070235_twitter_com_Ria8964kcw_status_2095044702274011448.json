@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095010192694051281",
+    "created_at": "2026-09-02T07:02:35.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095044702274011448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027997047908143105",
+          "start": 0,
+          "username": "x9w3nz3_060411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095044702274011448",
+    "in_reply_to_user_id": "2027997047908143105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095010192694051281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x9w3nz3_060411 老婆，你吃这么好，不留点钱给我攒彩礼吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2232,
+        "media_key": "3_2095010185379295233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL4qexbsAEbJxE.jpg",
+        "width": 3968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095010192694051281",
+        "created_at": "2026-09-02T07:02:35.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095044702274011448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027997047908143105",
+              "start": 0,
+              "username": "x9w3nz3_060411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095044702274011448",
+        "in_reply_to_user_id": "2027997047908143105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095010192694051281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x9w3nz3_060411 老婆，你吃这么好，不留点钱给我攒彩礼吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095010185379295233"
+          ]
+        },
+        "author_id": "2027997047908143105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095010192694051281",
+        "created_at": "2026-09-02T04:45:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095010192694051281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25PgTIbZe2",
+              "end": 28,
+              "expanded_url": "https://x.com/x9w3nz3_060411/status/2095010192694051281/photo/1",
+              "media_key": "3_2095010185379295233",
+              "start": 5,
+              "url": "https://t.co/25PgTIbZe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095010192694051281",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095010185379295233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好舒服啊 https://t.co/25PgTIbZe2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095044702274011448",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 377,
+          "like_count": 12287,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 6050
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-01T06:39:22.000Z",
+        "description": "喜欢冰激凌红茶",
+        "id": "2027997047908143105",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095010192694051281",
+        "name": "攒钱买自行车",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071149530717028352/BER53af5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "x9w3nz3_060411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

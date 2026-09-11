@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095024099441700986",
+    "created_at": "2026-09-02T06:35:49.000Z",
+    "display_text_range": [
+      12,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095037966418948334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095037966418948334",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095024099441700986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 我感觉这种都是初高中幻想自己能进体制内当领导的网左，朋友圈全是支那历史纪念日转发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2095023845040365569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMFFk-aoAEjy6b.png",
+        "width": 999
+      },
+      {
+        "height": 374,
+        "media_key": "3_2095023894344445952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMFIcpbMAAxvJj.png",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095024099441700986",
+        "created_at": "2026-09-02T06:35:49.000Z",
+        "display_text_range": [
+          12,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095037966418948334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095037966418948334",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095024099441700986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 我感觉这种都是初高中幻想自己能进体制内当领导的网左，朋友圈全是支那历史纪念日转发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095023845040365569",
+            "3_2095023894344445952"
+          ]
+        },
+        "author_id": "2027354397983076352",
+        "conversation_id": "2095024099441700986",
+        "created_at": "2026-09-02T05:40:43.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095024099441700986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rXxsju3ma",
+              "end": 63,
+              "expanded_url": "https://x.com/Alamida001/status/2095024099441700986/photo/1",
+              "media_key": "3_2095023845040365569",
+              "start": 40,
+              "url": "https://t.co/6rXxsju3ma"
+            },
+            {
+              "display_url": "pic.x.com/6rXxsju3ma",
+              "end": 63,
+              "expanded_url": "https://x.com/Alamida001/status/2095024099441700986/photo/1",
+              "media_key": "3_2095023894344445952",
+              "start": 40,
+              "url": "https://t.co/6rXxsju3ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095024099441700986",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095023845040365569"
+          },
+          {
+            "media_key": "3_2095023894344445952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷知乎看博主从13年到现在换了不少工作，月薪都是两三千，看到专业的时候没绷住了 https://t.co/6rXxsju3ma"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095037966418948334",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 377,
+          "like_count": 12281,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 6044
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "爱人@JS_W417 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "JS_W417"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095037413315711352",
+        "name": "不完全果皮🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027354397983076352/1773373246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090642457386237952/YzuiZHwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 335,
+          "like_count": 2945,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 3794
+        },
+        "url": "",
+        "username": "Alamida001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

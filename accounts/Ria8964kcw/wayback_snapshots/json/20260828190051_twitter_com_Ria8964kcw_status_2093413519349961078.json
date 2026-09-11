@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093413402052083712"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091847904273002777",
+    "created_at": "2026-08-28T19:00:51.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093413519349961078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827330003995922432",
+          "start": 0,
+          "username": "yang_zho7704"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U9G8VDUgVf",
+          "end": 42,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2093413519349961078/photo/1",
+          "media_key": "3_2093413402052083712",
+          "start": 19,
+          "url": "https://t.co/U9G8VDUgVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093413519349961078",
+    "in_reply_to_user_id": "1827330003995922432",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093413402052083712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091847904273002777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang_zho7704 守望先锋 https://t.co/U9G8VDUgVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093413402052083712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1MZdVbQAAUf52.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093413402052083712"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091847904273002777",
+        "created_at": "2026-08-28T19:00:51.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093413519349961078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827330003995922432",
+              "start": 0,
+              "username": "yang_zho7704"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9G8VDUgVf",
+              "end": 42,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2093413519349961078/photo/1",
+              "media_key": "3_2093413402052083712",
+              "start": 19,
+              "url": "https://t.co/U9G8VDUgVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093413519349961078",
+        "in_reply_to_user_id": "1827330003995922432",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093413402052083712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091847904273002777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang_zho7704 守望先锋 https://t.co/U9G8VDUgVf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827330003995922432",
+        "conversation_id": "2091847904273002777",
+        "created_at": "2026-08-24T11:19:39.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091847904273002777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091847904273002777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1196,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我该怎么才能在我附近找到包蜜？可以用什么软件找吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2093413519349961078",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 373,
+          "like_count": 12145,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 5963
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T13:00:23.000Z",
+        "description": "習近平忠實粉絲 低端人口\n男 包蜜 \n出生於2007年12月24日\n居住在中華民國 淪陷區\n湖南省 岳陽市 岳陽樓區\n對正體字使用者有天然好感",
+        "id": "1827330003995922432",
+        "is_identity_verified": false,
+        "location": "中華民國淪陷區 湖南省岳陽市",
+        "most_recent_tweet_id": "2093398423277863066",
+        "name": "习畜近平",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827330003995922432/1773502125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055092330932121600/yxYtjVkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 118,
+          "like_count": 3340,
+          "listed_count": 6,
+          "media_count": 13,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "yang_zho7704",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

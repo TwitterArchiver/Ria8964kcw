@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095258492848239045",
+    "created_at": "2026-09-02T23:52:14.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095298787141107831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880036832072617984",
+          "start": 0,
+          "username": "2091996981snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095298787141107831",
+    "in_reply_to_user_id": "1880036832072617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095258492848239045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2091996981snow 大口吃肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095258034414989315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPaFMYWsAM-fDS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2095258034385604612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPaFMRWUAQ-Trx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095258034406653953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPaFMWXgAETqWj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095258034545283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPaFM3a0AAIyx4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095258492848239045",
+        "created_at": "2026-09-02T23:52:14.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095298787141107831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880036832072617984",
+              "start": 0,
+              "username": "2091996981snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095298787141107831",
+        "in_reply_to_user_id": "1880036832072617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095258492848239045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2091996981snow 大口吃肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095258034414989315",
+            "3_2095258034385604612",
+            "3_2095258034406653953",
+            "3_2095258034545283072"
+          ]
+        },
+        "author_id": "1880036832072617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095258492848239045",
+        "created_at": "2026-09-02T21:12:07.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T22:10:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095258043072098606",
+          "2095258492848239045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFNTZszyqy",
+              "end": 151,
+              "expanded_url": "https://x.com/2091996981snow/status/2095258492848239045/photo/1",
+              "media_key": "3_2095258034414989315",
+              "start": 128,
+              "url": "https://t.co/tFNTZszyqy"
+            },
+            {
+              "display_url": "pic.x.com/tFNTZszyqy",
+              "end": 151,
+              "expanded_url": "https://x.com/2091996981snow/status/2095258492848239045/photo/1",
+              "media_key": "3_2095258034385604612",
+              "start": 128,
+              "url": "https://t.co/tFNTZszyqy"
+            },
+            {
+              "display_url": "pic.x.com/tFNTZszyqy",
+              "end": 151,
+              "expanded_url": "https://x.com/2091996981snow/status/2095258492848239045/photo/1",
+              "media_key": "3_2095258034406653953",
+              "start": 128,
+              "url": "https://t.co/tFNTZszyqy"
+            },
+            {
+              "display_url": "pic.x.com/tFNTZszyqy",
+              "end": 151,
+              "expanded_url": "https://x.com/2091996981snow/status/2095258492848239045/photo/1",
+              "media_key": "3_2095258034545283072",
+              "start": 128,
+              "url": "https://t.co/tFNTZszyqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095258492848239045",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095258034414989315"
+          },
+          {
+            "media_key": "3_2095258034385604612"
+          },
+          {
+            "media_key": "3_2095258034406653953"
+          },
+          {
+            "media_key": "3_2095258034545283072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "米兰萨（Milanesa）是阿根廷最经典的国民家常菜之一，源自欧洲的裹粉炸肉排传统，随着意大利移民传入南美。\n\n做法是将牛肉或鸡肉切成薄片，蘸上加入盐、蒜和欧芹的蛋液，再裹上面包糠，用油煎炸至外皮金黄酥脆。\n\n最常见的是牛肉米兰萨（Milanesa de carne），通常搭配薯条、土豆泥或沙拉，并挤上柠檬汁食用；另一种著名吃法是 Milanesa a la Napolitana，在炸肉排上加入番茄酱、火腿和奶酪焗烤。\n\n我做的是丐版DIA冷柜速食预制成品米兰萨🤣"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米兰萨（Milanesa）是阿根廷最经典的国民家常菜之一，源自欧洲的裹粉炸肉排传统，随着意大利移民传入南美。\n\n做法是将牛肉或鸡肉切成薄片，蘸上加入盐、蒜和欧芹的蛋液，再裹上面包糠，用油煎炸至外皮金黄酥脆。\n\n最常见的是牛肉米兰萨（Milanesa de https://t.co/tFNTZszyqy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095298787141107831",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 377,
+          "like_count": 12344,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 6086
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜目前定居阿根廷🇦🇷｜\n大学退学高中学历｜知行合一爱国华侨｜\n去过15个国家｜国际低成本旅居专家｜\n不键政｜不可知论｜渡自己不渡众生｜\n备用号@478182920snow\n致力于研究整理各国移民法律政策\n会员群和移民规划服务请电邮联系\nChiangMaiSnow@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "478182920snow"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "is_identity_verified": true,
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "most_recent_tweet_id": "2095298338195132609",
+        "name": "CABA下小雪",
+        "pinned_tweet_id": "2095249194831540642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880036832072617984/1759499089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8210,
+          "following_count": 166,
+          "like_count": 7233,
+          "listed_count": 38,
+          "media_count": 457,
+          "tweet_count": 4630
+        },
+        "url": "",
+        "username": "2091996981snow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

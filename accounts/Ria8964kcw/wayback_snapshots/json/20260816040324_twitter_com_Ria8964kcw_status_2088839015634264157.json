@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2088839015634264157",
+    "created_at": "2026-08-16T04:03:24.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088839015634264157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoxer15/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/hoxer15/status/2088122648996073923",
+          "start": 16,
+          "url": "https://t.co/cdPxPcgQMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088839015634264157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088122648996073923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜小精精，然后我想嗦pho了 https://t.co/cdPxPcgQMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2241,
+        "media_key": "3_2088122636408881152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqAeXaagAAoVXr.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2088839015634264157",
+        "created_at": "2026-08-16T04:03:24.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088839015634264157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoxer15/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hoxer15/status/2088122648996073923",
+              "start": 16,
+              "url": "https://t.co/cdPxPcgQMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088839015634264157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088122648996073923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜小精精，然后我想嗦pho了 https://t.co/cdPxPcgQMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088122636408881152"
+          ]
+        },
+        "author_id": "1558346182316896256",
+        "conversation_id": "2088122648996073923",
+        "created_at": "2026-08-14T04:36:49.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088122648996073923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0toTiccwtT",
+              "end": 64,
+              "expanded_url": "https://x.com/hoxer15/status/2088122648996073923/photo/1",
+              "media_key": "3_2088122636408881152",
+              "start": 41,
+              "url": "https://t.co/0toTiccwtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088122648996073923",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088122636408881152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 281048,
+          "like_count": 3983,
+          "quote_count": 12,
+          "reply_count": 677,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "原视频只是一个花臂的胳膊在玩抖音特效。连头发丝都没露。你们继续辅酶吧。真力竭了， https://t.co/0toTiccwtT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2088839015634264157",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 357,
+          "like_count": 11465,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 5666
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "我叫小物/07/ENTP/摩羯/4i/没门/不交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 23,
+                "expanded_url": "https://ngl.link/",
+                "start": 0,
+                "url": "https://t.co/K4hFwJcdkD"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "is_identity_verified": false,
+        "location": "C-137",
+        "most_recent_tweet_id": "2088832506183454993",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2082453758940942357",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558346182316896256/1758371606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067447429633585153/2Ju5yaaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 205,
+          "like_count": 27491,
+          "listed_count": 1,
+          "media_count": 736,
+          "tweet_count": 15140
+        },
+        "url": "https://t.co/K4hFwJcdkD",
+        "username": "hoxer15",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

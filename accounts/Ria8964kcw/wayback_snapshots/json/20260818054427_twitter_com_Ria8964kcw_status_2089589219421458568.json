@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2089589219421458568",
+    "created_at": "2026-08-18T05:44:27.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089589219421458568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/archivedkcw/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/archivedkcw/status/2089336664200253520",
+          "start": 7,
+          "url": "https://t.co/ujrTivNCSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089589219421458568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089336664200253520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媳妇，你醒啦 https://t.co/ujrTivNCSQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3169,
+        "height": 1080,
+        "media_key": "13_2089336635221786624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089336635221786624/img/qEjKAOy5yL7GfsPv.jpg",
+        "public_metrics": {
+          "view_count": 6955
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089336635221786624/vid/avc1/960x720/9FnkQHLyD2nzmxhr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089336635221786624/pl/9Ql7juMTyO2aaFwq.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089336635221786624/vid/avc1/1440x1080/TxH57OYA6dT8OFkd.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089336635221786624/vid/avc1/360x270/rFfSVPHknpGTuEwt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089336635221786624/vid/avc1/480x360/ODH3v-S3lrbodutI.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2089589219421458568",
+        "created_at": "2026-08-18T05:44:27.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089589219421458568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/archivedkcw/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/archivedkcw/status/2089336664200253520",
+              "start": 7,
+              "url": "https://t.co/ujrTivNCSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089589219421458568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089336664200253520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媳妇，你醒啦 https://t.co/ujrTivNCSQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089336635221786624"
+          ]
+        },
+        "author_id": "1834655635562229760",
+        "conversation_id": "2089336664200253520",
+        "created_at": "2026-08-17T13:00:53.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089336664200253520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhw1l4Pn3n",
+              "end": 37,
+              "expanded_url": "https://x.com/archivedkcw/status/2089336664200253520/video/1",
+              "media_key": "13_2089336635221786624",
+              "start": 14,
+              "url": "https://t.co/dhw1l4Pn3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089336664200253520",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089336635221786624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 22287,
+          "like_count": 2459,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "eepy chaechae https://t.co/dhw1l4Pn3n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2089589219421458568",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 354,
+          "like_count": 11653,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 5724
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T18:09:45.000Z",
+        "description": "for #김채원 from LE SSERAFIM and IZ*ONE (fan acc)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "김채원"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "le-sserafim.lnk.to/PUREFLOWpt1",
+                "end": 23,
+                "expanded_url": "https://le-sserafim.lnk.to/PUREFLOWpt1",
+                "start": 0,
+                "url": "https://t.co/IrZ50s9HfO"
+              }
+            ]
+          }
+        },
+        "id": "1834655635562229760",
+        "is_identity_verified": false,
+        "location": "2 sleep deprived asia admins",
+        "most_recent_tweet_id": "2089588515000684976",
+        "name": "chaewon",
+        "pinned_tweet_id": "2024367168465567972",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834655635562229760/1776944106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058257105883369472/WpiX2bL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47176,
+          "following_count": 325,
+          "like_count": 23021,
+          "listed_count": 95,
+          "media_count": 14341,
+          "tweet_count": 32028
+        },
+        "url": "https://t.co/IrZ50s9HfO",
+        "username": "archivedkcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

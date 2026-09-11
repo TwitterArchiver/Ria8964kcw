@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092642931715002368",
+        "3_2092642931719147520",
+        "3_2092642931710853120"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092643234367562161",
+    "created_at": "2026-08-26T16:00:01.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092643234367562161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wlpG3WQfIO",
+          "end": 27,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2092643234367562161/photo/1",
+          "media_key": "3_2092642931715002368",
+          "start": 4,
+          "url": "https://t.co/wlpG3WQfIO"
+        },
+        {
+          "display_url": "pic.x.com/wlpG3WQfIO",
+          "end": 27,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2092643234367562161/photo/1",
+          "media_key": "3_2092642931719147520",
+          "start": 4,
+          "url": "https://t.co/wlpG3WQfIO"
+        },
+        {
+          "display_url": "pic.x.com/wlpG3WQfIO",
+          "end": 27,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2092643234367562161/photo/1",
+          "media_key": "3_2092642931710853120",
+          "start": 4,
+          "url": "https://t.co/wlpG3WQfIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092643234367562161",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092642931715002368"
+      },
+      {
+        "media_key": "3_2092642931719147520"
+      },
+      {
+        "media_key": "3_2092642931710853120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞笑不 https://t.co/wlpG3WQfIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2092642931715002368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqPqLqa0AAgppU.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092642931719147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqPqLraEAAxvA-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092642931710853120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqPqLpbgAACeRO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092642931715002368",
+            "3_2092642931719147520",
+            "3_2092642931710853120"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092643234367562161",
+        "created_at": "2026-08-26T16:00:01.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092643234367562161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlpG3WQfIO",
+              "end": 27,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2092643234367562161/photo/1",
+              "media_key": "3_2092642931715002368",
+              "start": 4,
+              "url": "https://t.co/wlpG3WQfIO"
+            },
+            {
+              "display_url": "pic.x.com/wlpG3WQfIO",
+              "end": 27,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2092643234367562161/photo/1",
+              "media_key": "3_2092642931719147520",
+              "start": 4,
+              "url": "https://t.co/wlpG3WQfIO"
+            },
+            {
+              "display_url": "pic.x.com/wlpG3WQfIO",
+              "end": 27,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2092643234367562161/photo/1",
+              "media_key": "3_2092642931710853120",
+              "start": 4,
+              "url": "https://t.co/wlpG3WQfIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092643234367562161",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092642931715002368"
+          },
+          {
+            "media_key": "3_2092642931719147520"
+          },
+          {
+            "media_key": "3_2092642931710853120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞笑不 https://t.co/wlpG3WQfIO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2092643234367562161",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 372,
+          "like_count": 12068,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 5928
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

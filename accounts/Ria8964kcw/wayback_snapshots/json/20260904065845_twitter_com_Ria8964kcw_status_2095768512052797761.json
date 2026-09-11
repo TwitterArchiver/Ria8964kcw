@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095768512052797761",
+    "created_at": "2026-09-04T06:58:45.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T07:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095768512052797761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1675444856288870401",
+          "start": 3,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095768512052797761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095656470063022496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maedarikuonly1: 可以不要因为你看过48就在那哭坟小樱花了吗，不是c出道你哭，在炽里没part你也哭，你怎么不说这个日本婊子跳舞一点力量都没有唱歌还跑调啊，天天吹日本神颜现在修复没做好鼻子跟格格巫一样，你们就只会哭坟骂公司，她配得上给她镜头吗？真给了被大骂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095768512052797761",
+        "created_at": "2026-09-04T06:58:45.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095768512052797761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1675444856288870401",
+              "start": 3,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095768512052797761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095656470063022496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maedarikuonly1: 可以不要因为你看过48就在那哭坟小樱花了吗，不是c出道你哭，在炽里没part你也哭，你怎么不说这个日本婊子跳舞一点力量都没有唱歌还跑调啊，天天吹日本神颜现在修复没做好鼻子跟格格巫一样，你们就只会哭坟骂公司，她配得上给她镜头吗？真给了被大骂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2095656470063022496",
+        "created_at": "2026-09-03T23:33:32.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T00:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095656470063022496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095656470063022496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可以不要因为你看过48就在那哭坟小樱花了吗，不是c出道你哭，在炽里没part你也哭，你怎么不说这个日本婊子跳舞一点力量都没有唱歌还跑调啊，天天吹日本神颜现在修复没做好鼻子跟格格巫一样，你们就只会哭坟骂公司，她配得上给她镜头吗？真给了被大骂你们又心疼了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095768512052797761",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 375,
+          "like_count": 12387,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 6099
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "我的ID叫干嘛\n爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "is_identity_verified": false,
+        "location": "Украина",
+        "most_recent_tweet_id": "2095747568923967693",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675444856288870401/1761213390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 324,
+          "like_count": 5010,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2091515997333365115",
+    "created_at": "2026-08-23T16:33:11.000Z",
+    "display_text_range": [
+      31,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091564420120101029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030459124555907072",
+          "start": 0,
+          "username": "2778Guillaume"
+        },
+        {
+          "end": 30,
+          "id": "2023707996623437824",
+          "start": 15,
+          "username": "GoneAngels8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091564420120101029",
+    "in_reply_to_user_id": "2030459124555907072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091563030777917512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2778Guillaume @GoneAngels8964 我只能告诉它你只是恰巧出生在了这里，蛆是没有资格嘲笑努力在外打拼生活的别人的。这种人天天自诩本地人素质高怎么怎么样，自己子女或者自己不准和外地人通婚，不知道的以为你家有皇位继承，自己长啥B样裤兜啥条件啊搞得好像有很多人想嫁想娶一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2091515997333365115",
+        "created_at": "2026-08-23T16:33:11.000Z",
+        "display_text_range": [
+          31,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091564420120101029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030459124555907072",
+              "start": 0,
+              "username": "2778Guillaume"
+            },
+            {
+              "end": 30,
+              "id": "2023707996623437824",
+              "start": 15,
+              "username": "GoneAngels8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091564420120101029",
+        "in_reply_to_user_id": "2030459124555907072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091563030777917512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2778Guillaume @GoneAngels8964 我只能告诉它你只是恰巧出生在了这里，蛆是没有资格嘲笑努力在外打拼生活的别人的。这种人天天自诩本地人素质高怎么怎么样，自己子女或者自己不准和外地人通婚，不知道的以为你家有皇位继承，自己长啥B样裤兜啥条件啊搞得好像有很多人想嫁想娶一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030459124555907072",
+        "conversation_id": "2091515997333365115",
+        "created_at": "2026-08-23T16:27:40.000Z",
+        "display_text_range": [
+          28,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091563030777917512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            },
+            {
+              "end": 27,
+              "id": "2023707996623437824",
+              "start": 12,
+              "username": "GoneAngels8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091563030777917512",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091543448365261168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw @GoneAngels8964 这种住鸽子窝的最喜欢提香港多好多好了😄一出事就说外劳外劳，没了外劳疑似这些港人家里碗都别洗了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2091564420120101029",
+        "name": "疯狂土同日记🍀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 376,
+          "like_count": 11949,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 5853
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T01:42:41.000Z",
+        "description": "性取向混乱中\n纯黄推不回关\n社达优绩主义做题区笔电性压抑incel顺直理工男大\n世另我@Guillaume2778\nask me:https://t.co/zl2svSWmld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Guillaume2778"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/guillaume70172",
+                "end": 88,
+                "expanded_url": "https://ngl.link/guillaume70172",
+                "start": 65,
+                "url": "https://t.co/zl2svSWmld"
+              }
+            ]
+          }
+        },
+        "id": "2030459124555907072",
+        "is_identity_verified": false,
+        "location": "大学➡️川渝",
+        "most_recent_tweet_id": "2091563341374493152",
+        "name": "平抑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030459124555907072/1772934330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080639163272228865/d0LK_Mhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 317,
+          "like_count": 8920,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "2778Guillaume",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "一個極品美男子",
+        "id": "2023707996623437824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091553491559035060",
+        "name": "小Lain",
+        "pinned_tweet_id": "2086002131673461235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023707996623437824/1785839737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091522895076007937/cx3TZxV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 125,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 901
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

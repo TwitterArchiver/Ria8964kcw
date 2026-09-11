@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088943313202397184"
+      ],
+      "media_source_tweet_id": [
+        "2088943320382964145"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2090530419905310883",
+    "created_at": "2026-08-20T20:04:26.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T21:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090530419905310883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088942024540270592",
+          "start": 3,
+          "username": "Michica8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxWXh4AzSG",
+          "end": 74,
+          "expanded_url": "https://x.com/Michica8964/status/2088943320382964145/photo/1",
+          "media_key": "3_2088943313202397184",
+          "start": 51,
+          "url": "https://t.co/kxWXh4AzSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090530419905310883",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088943313202397184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088943320382964145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Michica8964: 此号是给我寿司吧的重生号呀，宝贝们有能力可以帮我转一下帖，互关回家 https://t.co/kxWXh4AzSG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088943313202397184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1q4CtbQAAPXCE.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088943313202397184"
+          ],
+          "media_source_tweet_id": [
+            "2088943320382964145"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2090530419905310883",
+        "created_at": "2026-08-20T20:04:26.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090530419905310883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088942024540270592",
+              "start": 3,
+              "username": "Michica8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxWXh4AzSG",
+              "end": 74,
+              "expanded_url": "https://x.com/Michica8964/status/2088943320382964145/photo/1",
+              "media_key": "3_2088943313202397184",
+              "start": 51,
+              "url": "https://t.co/kxWXh4AzSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090530419905310883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088943313202397184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088943320382964145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Michica8964: 此号是给我寿司吧的重生号呀，宝贝们有能力可以帮我转一下帖，互关回家 https://t.co/kxWXh4AzSG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088943313202397184"
+          ]
+        },
+        "author_id": "2088942024540270592",
+        "conversation_id": "2088943320382964145",
+        "created_at": "2026-08-16T10:57:52.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088943320382964145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxWXh4AzSG",
+              "end": 57,
+              "expanded_url": "https://x.com/Michica8964/status/2088943320382964145/photo/1",
+              "media_key": "3_2088943313202397184",
+              "start": 34,
+              "url": "https://t.co/kxWXh4AzSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088943320382964145",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088943313202397184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1471,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "此号是给我寿司吧的重生号呀，宝贝们有能力可以帮我转一下帖，互关回家 https://t.co/kxWXh4AzSG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2090530419905310883",
+        "name": "疯狂土同日记🍀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 362,
+          "like_count": 11827,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 5793
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T10:53:47.000Z",
+        "description": "",
+        "id": "2088942024540270592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090445193745236013",
+        "name": "给我寿司吧🍣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088942024540270592/1786877795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088943138065018881/7gwQUe2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 21,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Michica8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

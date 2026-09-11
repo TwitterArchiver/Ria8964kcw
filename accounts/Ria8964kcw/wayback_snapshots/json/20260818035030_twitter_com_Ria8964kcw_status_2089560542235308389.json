@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2089560542235308389",
+    "created_at": "2026-08-18T03:50:30.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089560542235308389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dokibll2/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/dokibll2/status/2089011599596228967",
+          "start": 9,
+          "url": "https://t.co/Dibdleook5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089560542235308389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089011599596228967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈喝不喝了？ https://t.co/Dibdleook5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 1338,
+        "media_key": "13_2089011542268485632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089011542268485632/img/sRnchh3J7kza-Mgz.jpg",
+        "public_metrics": {
+          "view_count": 266422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089011542268485632/vid/avc1/320x426/P4mK5iFZIhgwIhrk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089011542268485632/vid/avc1/480x640/puKfIZ3WGySeQHVe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089011542268485632/pl/0qxhb5q4zQabu6_G.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089011542268485632/vid/avc1/720x960/BJ5zQJF3eO25UzfI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089011542268485632/vid/avc1/1002x1338/OV6D3UZMGRom-mSF.mp4"
+          }
+        ],
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2089560542235308389",
+        "created_at": "2026-08-18T03:50:30.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089560542235308389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dokibll2/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dokibll2/status/2089011599596228967",
+              "start": 9,
+              "url": "https://t.co/Dibdleook5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089560542235308389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089011599596228967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈喝不喝了？ https://t.co/Dibdleook5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089011542268485632"
+          ]
+        },
+        "author_id": "2056988832051150850",
+        "conversation_id": "2089011599596228967",
+        "created_at": "2026-08-16T15:29:11.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089011599596228967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0oLXcUH9n",
+              "end": 34,
+              "expanded_url": "https://x.com/dokibll2/status/2089011599596228967/video/1",
+              "media_key": "13_2089011542268485632",
+              "start": 11,
+              "url": "https://t.co/Y0oLXcUH9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089011599596228967",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089011542268485632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1760,
+          "impression_count": 435589,
+          "like_count": 7354,
+          "quote_count": 7,
+          "reply_count": 442,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "老公vs老公以外的人 https://t.co/Y0oLXcUH9n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2089560542235308389",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 354,
+          "like_count": 11645,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 5721
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T06:42:20.000Z",
+        "description": "分享嘟奇的日常|淘宝官方店铺【Doki之夜】|抖音:嘟奇|官方@dokiatnight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "dokiatnight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop64293970.m.taobao.com/?userId=132955…",
+                "end": 23,
+                "expanded_url": "https://shop64293970.m.taobao.com/?userId=132955656",
+                "start": 0,
+                "url": "https://t.co/iqAjVdck7p"
+              }
+            ]
+          }
+        },
+        "id": "2056988832051150850",
+        "is_identity_verified": false,
+        "location": "淘宝",
+        "most_recent_tweet_id": "2089520229290512502",
+        "name": "嘟奇",
+        "pinned_tweet_id": "2088220377940197741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056988832051150850/1779259844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056990947721043968/xXDwVLoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84275,
+          "following_count": 25,
+          "like_count": 33,
+          "listed_count": 94,
+          "media_count": 132,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/iqAjVdck7p",
+        "username": "dokibll2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

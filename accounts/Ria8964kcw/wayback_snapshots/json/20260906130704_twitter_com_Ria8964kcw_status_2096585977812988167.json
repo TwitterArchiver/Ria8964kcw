@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2096585977812988167",
+    "created_at": "2026-09-06T13:07:04.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096585977812988167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weiyux2021/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/weiyux2021/status/2096410867344568790",
+          "start": 15,
+          "url": "https://t.co/qEYSSTglqO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096585977812988167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096410867344568790",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "电报好多坤坤都把圆角叫成上课 https://t.co/qEYSSTglqO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1623,
+        "media_key": "3_2096410850391191553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfyj6jXcAE7d1W.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2096585977812988167",
+        "created_at": "2026-09-06T13:07:04.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096585977812988167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiyux2021/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/weiyux2021/status/2096410867344568790",
+              "start": 15,
+              "url": "https://t.co/qEYSSTglqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585977812988167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096410867344568790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "电报好多坤坤都把圆角叫成上课 https://t.co/qEYSSTglqO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096410850391191553"
+          ]
+        },
+        "author_id": "1993659774370758656",
+        "conversation_id": "2096410867344568790",
+        "created_at": "2026-09-06T01:31:14.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096410867344568790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7qBkuCDPt",
+              "end": 32,
+              "expanded_url": "https://x.com/weiyux2021/status/2096410867344568790/photo/1",
+              "media_key": "3_2096410850391191553",
+              "start": 9,
+              "url": "https://t.co/q7qBkuCDPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096410867344568790",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096410850391191553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 343126,
+          "like_count": 996,
+          "quote_count": 1,
+          "reply_count": 450,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "闲鱼人均性压抑… https://t.co/q7qBkuCDPt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2096585977812988167",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 375,
+          "like_count": 12472,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 6155
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "is_identity_verified": false,
+        "location": "付费咨询微信：weiyux2021",
+        "most_recent_tweet_id": "2096585389179908180",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2053735690353971217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993659774370758656/1788698020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80011,
+          "following_count": 708,
+          "like_count": 155,
+          "listed_count": 235,
+          "media_count": 3424,
+          "tweet_count": 14725
+        },
+        "url": "",
+        "username": "weiyux2021",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

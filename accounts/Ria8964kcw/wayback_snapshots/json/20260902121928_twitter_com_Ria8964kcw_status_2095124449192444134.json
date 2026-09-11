@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095052095892394057",
+    "created_at": "2026-09-02T12:19:28.000Z",
+    "display_text_range": [
+      14,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095124449192444134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900422705415151618",
+          "start": 0,
+          "username": "uketamawarui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095124449192444134",
+    "in_reply_to_user_id": "1900422705415151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你别跳我教你，首先杭州很多台风，然后你在萧山区点个外卖（这个时候肯定没有骑手在荒郊野岭鸟不拉屎的萧山上工），你用那个超时免单的什么卡，这个时候重点来了，不要取消订单，就算没人接单你也要等（那个时候我真的饿的想哭而且出餐了也不太好退）然后台风走了之后就有骑手看你咋嫩可怜就给你送了，不用担心骑手要扣钱，不会扣骑手钱的。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095116436243157076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uketamawarui 你别跳我教你，首先杭州很多台风，然后你在萧山区点个外卖（这个时候肯定没有骑手在荒郊野岭鸟不拉屎的萧山上工），你用那个超时免单的什么卡，这个时候重点来了，不要取消订单，就算没人接单你也要等（那个时候我真的饿的想哭而且出餐了也不太好退）然后台风走了之后就有骑手看你咋嫩可怜就给你送了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095052095892394057",
+        "created_at": "2026-09-02T12:19:28.000Z",
+        "display_text_range": [
+          14,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095124449192444134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900422705415151618",
+              "start": 0,
+              "username": "uketamawarui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095124449192444134",
+        "in_reply_to_user_id": "1900422705415151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你别跳我教你，首先杭州很多台风，然后你在萧山区点个外卖（这个时候肯定没有骑手在荒郊野岭鸟不拉屎的萧山上工），你用那个超时免单的什么卡，这个时候重点来了，不要取消订单，就算没人接单你也要等（那个时候我真的饿的想哭而且出餐了也不太好退）然后台风走了之后就有骑手看你咋嫩可怜就给你送了，不用担心骑手要扣钱，不会扣骑手钱的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095116436243157076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uketamawarui 你别跳我教你，首先杭州很多台风，然后你在萧山区点个外卖（这个时候肯定没有骑手在荒郊野岭鸟不拉屎的萧山上工），你用那个超时免单的什么卡，这个时候重点来了，不要取消订单，就算没人接单你也要等（那个时候我真的饿的想哭而且出餐了也不太好退）然后台风走了之后就有骑手看你咋嫩可怜就给你送了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900422705415151618",
+        "conversation_id": "2095052095892394057",
+        "created_at": "2026-09-02T11:47:38.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095116436243157076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095116436243157076",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095052095892394057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ria8964kcw 我也想跳了所以我是你仇人不"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095124449192444134",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 378,
+          "like_count": 12299,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 6057
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T05:44:25.000Z",
+        "description": "忘れたらさよならをしよう\n@Zourifront @Yueiru718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Zourifront"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Yueiru718"
+              }
+            ]
+          }
+        },
+        "id": "1900422705415151618",
+        "is_identity_verified": false,
+        "location": "am3:45",
+        "most_recent_tweet_id": "2095116436243157076",
+        "name": "怒りはしなやかに切なさへ変わる",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900422705415151618/1788094436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094488344176836608/UhKiZpSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 133,
+          "like_count": 15479,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2916
+        },
+        "url": "",
+        "username": "uketamawarui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

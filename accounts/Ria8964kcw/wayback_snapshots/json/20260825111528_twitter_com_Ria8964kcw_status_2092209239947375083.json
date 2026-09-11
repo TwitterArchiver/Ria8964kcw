@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2092184264230199607",
+    "created_at": "2026-08-25T11:15:28.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092209239947375083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878367287272693761",
+          "start": 0,
+          "username": "TrickOnU8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092209239947375083",
+    "in_reply_to_user_id": "1878367287272693761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092184264230199607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrickOnU8964 单取就像舍不得粉丝数的孤儿一样好可怜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092184264230199607].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092184264230199607",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092184264230199607"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2092184264230199607",
+        "created_at": "2026-08-25T11:15:28.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092209239947375083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878367287272693761",
+              "start": 0,
+              "username": "TrickOnU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092209239947375083",
+        "in_reply_to_user_id": "1878367287272693761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092184264230199607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrickOnU8964 单取就像舍不得粉丝数的孤儿一样好可怜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2092209239947375083",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 373,
+          "like_count": 12022,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 5905
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-12T09:04:05.000Z",
+        "description": "請記得我，記得我右側的心跳聲 \nNon-binary Demiboy\nhe/him/they/them",
+        "id": "1878367287272693761",
+        "is_identity_verified": false,
+        "location": "北歐",
+        "most_recent_tweet_id": "2065483691342897318",
+        "name": "戀色之瞳",
+        "pinned_tweet_id": "2088912984810897697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878367287272693761/1781428933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090110342575865856/VeUsI5r3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 189,
+          "like_count": 6461,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "TrickOnU8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

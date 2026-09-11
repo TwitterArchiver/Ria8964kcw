@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2089384656915615999",
+    "created_at": "2026-08-17T16:11:35.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089384656915615999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/magiccmonica/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/magiccmonica/status/2089023434714202249",
+          "start": 11,
+          "url": "https://t.co/P95TOiwpLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089384656915615999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089023434714202249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你提到了一位冰岛艺人 https://t.co/P95TOiwpLc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2089384656915615999",
+        "created_at": "2026-08-17T16:11:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089384656915615999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/magiccmonica/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/magiccmonica/status/2089023434714202249",
+              "start": 11,
+              "url": "https://t.co/P95TOiwpLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089384656915615999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089023434714202249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你提到了一位冰岛艺人 https://t.co/P95TOiwpLc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1119253933833109504",
+        "conversation_id": "2089023434714202249",
+        "created_at": "2026-08-16T16:16:13.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089023434714202249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089023434714202249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 464610,
+          "like_count": 3633,
+          "quote_count": 12,
+          "reply_count": 526,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "藏独都他妈是傻逼，西藏没有我党完全就是个原始部落。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2089384656915615999",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 354,
+          "like_count": 11661,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 5715
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-19T14:58:27.000Z",
+        "description": "",
+        "id": "1119253933833109504",
+        "is_identity_verified": false,
+        "location": "边远小岛",
+        "most_recent_tweet_id": "2089023434714202249",
+        "name": "莫妮卡",
+        "pinned_tweet_id": "1562285078080032768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1119253933833109504/1612885191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561425949471969280/evdsFm57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 195,
+          "like_count": 580,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 2471
+        },
+        "url": "",
+        "username": "magiccmonica",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

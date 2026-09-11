@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2093437032899264554",
+    "created_at": "2026-08-28T20:34:17.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T21:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093437032899264554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asgisa_/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/asgisa_/status/2091518854266868081",
+          "start": 14,
+          "url": "https://t.co/GtK3Hl4NhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093437032899264554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091518854266868081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看点我最爱的乱伦，放松身心 https://t.co/GtK3Hl4NhB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2806,
+        "media_key": "3_2091518598300991488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaRFXTagAAresv.jpg",
+        "width": 1984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2093437032899264554",
+        "created_at": "2026-08-28T20:34:17.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T21:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093437032899264554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asgisa_/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/asgisa_/status/2091518854266868081",
+              "start": 14,
+              "url": "https://t.co/GtK3Hl4NhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093437032899264554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091518854266868081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看点我最爱的乱伦，放松身心 https://t.co/GtK3Hl4NhB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091518598300991488"
+          ]
+        },
+        "author_id": "1226940794491158528",
+        "conversation_id": "2091518854266868081",
+        "created_at": "2026-08-23T13:32:08.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091518854266868081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRkKmKv1pw",
+              "end": 49,
+              "expanded_url": "https://x.com/ASGISA_/status/2091518854266868081/photo/1",
+              "media_key": "3_2091518598300991488",
+              "start": 26,
+              "url": "https://t.co/LRkKmKv1pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091518854266868081",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2091518598300991488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 11231,
+          "like_count": 526,
+          "quote_count": 24,
+          "reply_count": 2,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "탈론 모녀\n엄마의 기준에 맞는 딸이 되렴... https://t.co/LRkKmKv1pw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，那个谁的粉丝敢来你就死定了\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2093437032899264554",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 373,
+          "like_count": 12159,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 5977
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-10T18:47:54.000Z",
+        "description": "NICE SHOT, HABIBTI.",
+        "id": "1226940794491158528",
+        "is_identity_verified": false,
+        "location": "🏳️‍🌈🏳️‍⚧️ 비팔알림🔕 P CM H 댄콧님",
+        "most_recent_tweet_id": "2093409798339596761",
+        "name": "AS기사",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226940794491158528/1786274835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085354782655754240/lGRyB-mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 37,
+          "like_count": 1487,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 3833
+        },
+        "url": "",
+        "username": "ASGISA_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

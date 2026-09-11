@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2078572163699970413",
+    "created_at": "2026-07-18T20:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078572163699970413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loveforeversfy…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/2078556355837968836",
+          "start": 11,
+          "url": "https://t.co/OaP6CFg0lP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078572163699970413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078556355837968836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要，不要嘲笑小以撒 https://t.co/OaP6CFg0lP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "16_2078556345390014464",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNiD-8SbIAA2aQD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNiD-8SbIAA2aQD.mp4"
+          }
+        ],
+        "width": 338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2078572163699970413",
+        "created_at": "2026-07-18T20:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078572163699970413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2078556355837968836",
+              "start": 11,
+              "url": "https://t.co/OaP6CFg0lP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078572163699970413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078556355837968836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要，不要嘲笑小以撒 https://t.co/OaP6CFg0lP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078556345390014464"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2078556355837968836",
+        "created_at": "2026-07-18T19:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078556355837968836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MD9MLlNJlN",
+              "end": 23,
+              "expanded_url": "https://x.com/loveforeversfy/status/2078556355837968836/photo/1",
+              "media_key": "16_2078556345390014464",
+              "start": 0,
+              "url": "https://t.co/MD9MLlNJlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078556355837968836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MD9MLlNJlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 🇻🇳\n里推@Riafixcom ｜any pronouns｜\nenby｜泛性恋🏳️‍🌈友逼的顺性别人妖｜😇准备皈依天主教✝️｜金采源kim chaewon毒唯🐆🐯 ｜偶尔在互联网上释放善意 ｜看到就会回fo｜爱玩烂梗恶俗无底线请注意｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的左心室",
+        "name": "🇰🇵骟爹拴母高手利亚🇰🇭🐊人妖俱乐部主理人合作私（张雪峰的转世灵童魂兮归来）恩师韩光莲",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066916758037118977/5b44c1MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 327,
+          "like_count": 9802,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 5291
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 1554,
+          "like_count": 35618,
+          "listed_count": 9,
+          "media_count": 1237,
+          "tweet_count": 11519
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      }
+    ]
+  }
+}

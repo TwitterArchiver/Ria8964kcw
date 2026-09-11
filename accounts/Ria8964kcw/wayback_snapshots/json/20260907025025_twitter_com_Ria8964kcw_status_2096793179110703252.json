@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2096793179110703252",
+    "created_at": "2026-09-07T02:50:25.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096793179110703252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyar_dolce/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/nyar_dolce/status/2096676271061385350",
+          "start": 3,
+          "url": "https://t.co/j15j64wDX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096793179110703252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096676271061385350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分享 https://t.co/j15j64wDX5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2096676265231257600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjj9F4aEAA5oDb.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2096793179110703252",
+        "created_at": "2026-09-07T02:50:25.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096793179110703252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyar_dolce/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/nyar_dolce/status/2096676271061385350",
+              "start": 3,
+              "url": "https://t.co/j15j64wDX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096793179110703252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096676271061385350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享 https://t.co/j15j64wDX5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096676265231257600"
+          ]
+        },
+        "author_id": "911945666322034688",
+        "conversation_id": "2096676271061385350",
+        "created_at": "2026-09-06T19:05:52.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096676271061385350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "Mizuyang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrthxzMB6J",
+              "end": 84,
+              "expanded_url": "https://x.com/nyar_dolce/status/2096676271061385350/photo/1",
+              "media_key": "3_2096676265231257600",
+              "start": 61,
+              "url": "https://t.co/SrthxzMB6J"
+            },
+            {
+              "display_url": "x.com/even_ifitrains…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/even_ifitrains/status/2095513781820334406",
+              "start": 85,
+              "url": "https://t.co/08WeCKhT1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096676271061385350",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096676265231257600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 532,
+          "impression_count": 52702,
+          "like_count": 4584,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095513781820334406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "When Blizzard tells me they only support het ships #Mizuyang https://t.co/SrthxzMB6J https://t.co/08WeCKhT1U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2096793179110703252",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 375,
+          "like_count": 12485,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 6161
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-24T13:29:24.000Z",
+        "description": "Adult | 🔞 | He/They | Bi | OW 🐢 | ALNST Iv x Ti🖤💚",
+        "id": "911945666322034688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096699201745035532",
+        "name": "Nyar",
+        "pinned_tweet_id": "2092665806190703068",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911945666322034688/1785580262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087418688240791552/F6fczBVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 845,
+          "like_count": 9802,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "nyar_dolce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

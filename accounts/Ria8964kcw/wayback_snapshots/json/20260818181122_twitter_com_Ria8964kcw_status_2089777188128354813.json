@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2089777188128354813",
+    "created_at": "2026-08-18T18:11:22.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089777188128354813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ididnothinglqz…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ididnothinglqz/status/2089422552682950847",
+          "start": 4,
+          "url": "https://t.co/SS6e4pfus5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089777188128354813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089422552682950847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我宝宝 https://t.co/SS6e4pfus5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7600,
+        "height": 1080,
+        "media_key": "13_2089304567846682624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089304567846682624/img/uOy_xRhQLjdJkGA2.jpg",
+        "public_metrics": {
+          "view_count": 42875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089304567846682624/vid/avc1/1200x1080/Kf_Cd3tKNBOvFUnj.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089304567846682624/vid/avc1/300x270/ub4SUZnoILwn5NrL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089304567846682624/vid/avc1/400x360/TgWc8Olw8of1Fmoq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089304567846682624/pl/5IYIvfgkVN0UEISU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089304567846682624/vid/avc1/800x720/9YWd9a2Ag5sec0nl.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2089777188128354813",
+        "created_at": "2026-08-18T18:11:22.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089777188128354813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ididnothinglqz…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ididnothinglqz/status/2089422552682950847",
+              "start": 4,
+              "url": "https://t.co/SS6e4pfus5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089777188128354813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089422552682950847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宝宝 https://t.co/SS6e4pfus5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089304567846682624"
+          ],
+          "media_source_tweet_id": [
+            "2089304886865531196"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2089422552682950847",
+        "created_at": "2026-08-17T18:42:10.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089422552682950847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y5B9iwxtB",
+              "end": 39,
+              "expanded_url": "https://x.com/WhoJeanTow/status/2089304886865531196/video/1",
+              "media_key": "13_2089304567846682624",
+              "start": 16,
+              "url": "https://t.co/0y5B9iwxtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089422552682950847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089304567846682624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滴滴嘟滴滴度你的小可爱突然出现 https://t.co/0y5B9iwxtB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2089777188128354813",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 356,
+          "like_count": 11690,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 5733
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2089774094145495363",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 232,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

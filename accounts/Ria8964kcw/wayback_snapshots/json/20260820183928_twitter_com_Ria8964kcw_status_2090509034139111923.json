@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2090509034139111923",
+    "created_at": "2026-08-20T18:39:28.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090509034139111923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/merlyn_void/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/merlyn_void/status/2090483342529769746",
+          "start": 9,
+          "url": "https://t.co/uLywSxASlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090509034139111923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090483342529769746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁懂hr平平安安 https://t.co/uLywSxASlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2090483334078210048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLjhDibIAA9fXq.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2090509034139111923",
+        "created_at": "2026-08-20T18:39:28.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090509034139111923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/merlyn_void/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/merlyn_void/status/2090483342529769746",
+              "start": 9,
+              "url": "https://t.co/uLywSxASlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090509034139111923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090483342529769746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂hr平平安安 https://t.co/uLywSxASlW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090483334078210048"
+          ]
+        },
+        "author_id": "1432351612182229001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090483342529769746",
+        "created_at": "2026-08-20T16:57:22.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090483342529769746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnreK6ADp5",
+              "end": 25,
+              "expanded_url": "https://x.com/Merlyn_Void/status/2090483342529769746/photo/1",
+              "media_key": "3_2090483334078210048",
+              "start": 2,
+              "url": "https://t.co/AnreK6ADp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090483342529769746",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090483334078210048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/AnreK6ADp5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2090509034139111923",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 358,
+          "like_count": 11822,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 5788
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/merlyn95513",
+                "end": 23,
+                "expanded_url": "https://ngl.link/merlyn95513",
+                "start": 0,
+                "url": "https://t.co/awjtFHq6Cw"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "is_identity_verified": false,
+        "location": "🚪288",
+        "most_recent_tweet_id": "2090504598335476144",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432351612182229001/1781599546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25640,
+          "following_count": 286,
+          "like_count": 16155,
+          "listed_count": 51,
+          "media_count": 218,
+          "tweet_count": 5125
+        },
+        "url": "https://t.co/awjtFHq6Cw",
+        "username": "Merlyn_Void",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

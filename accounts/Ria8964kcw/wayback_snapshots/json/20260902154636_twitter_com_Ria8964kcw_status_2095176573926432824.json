@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2095176573926432824",
+    "created_at": "2026-09-02T15:46:36.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095176573926432824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/j_lingshan0909…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/j_lingshan0909/status/2094303669638570291",
+          "start": 67,
+          "url": "https://t.co/8BWgJibEPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095176573926432824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094303669638570291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这啥必做题蛆十一点多下课给它高潮坏了可自豪了，顺便又能露一下自己高中是重点，名校你的内个，出了你们市谁认识，虽然超中蛆也爱露高中阴， https://t.co/8BWgJibEPg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2095176573926432824",
+        "created_at": "2026-09-02T15:46:36.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095176573926432824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/j_lingshan0909…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/j_lingshan0909/status/2094303669638570291",
+              "start": 67,
+              "url": "https://t.co/8BWgJibEPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095176573926432824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094303669638570291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这啥必做题蛆十一点多下课给它高潮坏了可自豪了，顺便又能露一下自己高中是重点，名校你的内个，出了你们市谁认识，虽然超中蛆也爱露高中阴， https://t.co/8BWgJibEPg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495733849271455748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2094303669638570291",
+        "created_at": "2026-08-31T05:57:59.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094303669638570291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shKdufS8Ln3906…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/shKdufS8Ln39062/status/2094010526632137178",
+              "start": 167,
+              "url": "https://t.co/QTAOMBRul0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094303669638570291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "衡水系高中是这样的，但并非所有中国高中都是衡水系。\n\n衡水系是应试教育极端化到顶点的一种体现，越差的高中越去喜欢学习衡水系高中的所谓“先进”经验。\n\n正常名校的实际课程表大概如下：\n0700~0800 早读&课间休息\n0800~1150 4门45min的课程（包含30min大课间和正常的课间休息）\n1150~1350 午休\n1350~1830 4门45min的课程+1堂40min的自习\n1830~1900 晚餐\n1900~2210 2堂1.5h晚自习\n2210~2310 1堂1h追加晚自习（高三特供）\n\n虽然的确很长，但实际可供偷懒摸鱼的时间也是一大把——学累了自习课趴着睡上半小时的人也是大有人在。这完全不影响学生们出成绩。\n\n另外，作业做不完就不做了也是常态，名校反而对于作业完成度没那么看重——因为老师自己都知道布置的作业量学生不太可能完成，副科老师甚至会主动给主科让路。\n\n中国中学教育的当务之急是先消灭掉衡水系这种扭曲的教育体制，多鼓励正常名校的这种强调自习、给予学生更多自主学习时间的体制。\n\n好学生不需要教得太多，差学生教得太多也没用，中等学力的学生更应该在自习课上向好学生请教自主学习的经验。\n\n先保持同等的在校时间不变，恢复正常午休，把老师授课的时间尤其是晚课时间改成自习，这是更具可行性且有卓越成效的体系。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 25366,
+          "like_count": 51,
+          "quote_count": 15,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094010526632137178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "衡水系高中是这样的，但并非所有中国高中都是衡水系。\n\n衡水系是应试教育极端化到顶点的一种体现，越差的高中越去喜欢学习衡水系高中的所谓“先进”经验。\n\n正常名校的实际课程表大概如下：\n0700~0800 早读&amp;课间休息\n0800~1150 4门45min的课程（包含30min大课间和正常的课间休息）\n1150~1350 午休 https://t.co/QTAOMBRul0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095176573926432824",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 377,
+          "like_count": 12307,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 6068
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T12:15:27.000Z",
+        "description": "网络世界太精彩辣！\n关注 AI | 时政 | 历史 等领域议题\n目前正在专注的事情是爱倭TV😋",
+        "id": "1495733849271455748",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095175811703976364",
+        "name": "江林山",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770882667187458048/9RJqmA3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 642,
+          "like_count": 12124,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "J_Lingshan0909",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2090498288860697041",
+    "created_at": "2026-08-20T17:56:46.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090498288860697041"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090498288860697041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "突然想起一个小学同学，就是像那种别人家的孩子，从小样样都好，学什么都快，所有老师都喜欢他，之前有射击队的教练来小学给所有同学测试选拔，他还被留下来问了，反正就是特别羡慕。\n后面这个农逼初中三年我就一个小学同学都接触不到了无消息\n然后上了高中开学发现他跟我一个学校，然后后面分班了，他去了一个很普通的班型，高中三年成绩也是从来没看到他在那个几百个人的榜上，后面高考好像也只是个普通双非一本的样子\n\n不是幸灾乐祸什么的，只是觉得呃好魔幻啊"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起一个小学同学，就是像那种别人家的孩子，从小样样都好，学什么都快，所有老师都喜欢他，之前有射击队的教练来小学给所有同学测试选拔，他还被留下来问了，反正就是特别羡慕。\n后面这个农逼初中三年我就一个小学同学都接触不到了无消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2090498288860697041",
+        "created_at": "2026-08-20T17:56:46.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090498288860697041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090498288860697041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突然想起一个小学同学，就是像那种别人家的孩子，从小样样都好，学什么都快，所有老师都喜欢他，之前有射击队的教练来小学给所有同学测试选拔，他还被留下来问了，反正就是特别羡慕。\n后面这个农逼初中三年我就一个小学同学都接触不到了无消息\n然后上了高中开学发现他跟我一个学校，然后后面分班了，他去了一个很普通的班型，高中三年成绩也是从来没看到他在那个几百个人的榜上，后面高考好像也只是个普通双非一本的样子\n\n不是幸灾乐祸什么的，只是觉得呃好魔幻啊"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起一个小学同学，就是像那种别人家的孩子，从小样样都好，学什么都快，所有老师都喜欢他，之前有射击队的教练来小学给所有同学测试选拔，他还被留下来问了，反正就是特别羡慕。\n后面这个农逼初中三年我就一个小学同学都接触不到了无消息"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2090498288860697041",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 357,
+          "like_count": 11819,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 5787
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

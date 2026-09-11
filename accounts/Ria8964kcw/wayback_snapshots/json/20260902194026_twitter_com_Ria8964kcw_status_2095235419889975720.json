@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278066760814456832",
+          "name": "Family"
+        }
+      }
+    ],
+    "conversation_id": "2095235419889975720",
+    "created_at": "2026-09-02T19:40:26.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095235419889975720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mesanchez23/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/mesanchez23/status/2092244869536203044",
+          "start": 45,
+          "url": "https://t.co/Lky1hlCDvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095235419889975720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092244869536203044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鹦鹉比小人跳的好，羽毛还比人漂亮，养起来还比人省钱的多得多、所以大家都养鹦鹉，不养小孩！ https://t.co/Lky1hlCDvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34560,
+        "height": 1094,
+        "media_key": "13_2092244811789008897",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092244811789008897/img/l3rxAOBXTz1YO7PD.jpg",
+        "public_metrics": {
+          "view_count": 533528
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092244811789008897/vid/avc1/320x486/zOcY4BcWj47NQFIr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092244811789008897/vid/avc1/480x728/bvB0ixYGOK4RsZyl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092244811789008897/vid/avc1/720x1094/Ti-61kZ2ol9lGu4p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092244811789008897/pl/h-1nVKR_EQl4MzVW.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2095235419889975720",
+        "created_at": "2026-09-02T19:40:26.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095235419889975720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mesanchez23/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/mesanchez23/status/2092244869536203044",
+              "start": 45,
+              "url": "https://t.co/Lky1hlCDvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095235419889975720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092244869536203044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鹦鹉比小人跳的好，羽毛还比人漂亮，养起来还比人省钱的多得多、所以大家都养鹦鹉，不养小孩！ https://t.co/Lky1hlCDvE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092244811789008897"
+          ]
+        },
+        "author_id": "176152889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2092244869536203044",
+        "created_at": "2026-08-25T13:37:03.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092244869536203044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrDxbbTyFh",
+              "end": 96,
+              "expanded_url": "https://x.com/MeSanchez23/status/2092244869536203044/video/1",
+              "media_key": "13_2092244811789008897",
+              "start": 73,
+              "url": "https://t.co/wrDxbbTyFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092244869536203044",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2092244811789008897"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 1356652,
+          "like_count": 1850,
+          "quote_count": 343,
+          "reply_count": 839,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "ves esta belleza y no entiendes cómo hay gente que no quiere tener hijos https://t.co/wrDxbbTyFh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2095235419889975720",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 377,
+          "like_count": 12312,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 6071
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-08T18:39:29.000Z",
+        "description": "recuerden que el que se quilla pierde…. 🏎 🐅 🏀🎾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/mesanchez…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/mesanchez23?si=NeAdZ5KSSyShi2Yr1a9RfA",
+                "start": 0,
+                "url": "https://t.co/5GtafPW4if"
+              }
+            ]
+          }
+        },
+        "id": "176152889",
+        "is_identity_verified": false,
+        "location": "Kame House, Continente Central",
+        "most_recent_tweet_id": "2095230053873295699",
+        "name": "Miguel Sanchez",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/176152889/1673576190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443248448512000/lr7ixU-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4198,
+          "following_count": 990,
+          "like_count": 73988,
+          "listed_count": 2,
+          "media_count": 11314,
+          "tweet_count": 78358
+        },
+        "url": "https://t.co/5GtafPW4if",
+        "username": "MeSanchez23",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

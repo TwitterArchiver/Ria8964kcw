@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2089954039895396368",
+    "created_at": "2026-08-19T05:54:07.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089954039895396368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yhox_xo678964/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yhox_xo678964/status/2089715964325827017",
+          "start": 2,
+          "url": "https://t.co/bOQcpe1Eu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089954039895396368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089715964325827017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/bOQcpe1Eu2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2089954039895396368",
+        "created_at": "2026-08-19T05:54:07.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089954039895396368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yhox_xo678964/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yhox_xo678964/status/2089715964325827017",
+              "start": 2,
+              "url": "https://t.co/bOQcpe1Eu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089954039895396368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089715964325827017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/bOQcpe1Eu2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916227800891330560",
+        "conversation_id": "2089715964325827017",
+        "created_at": "2026-08-18T14:08:05.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089715964325827017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089715964325827017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13899,
+          "like_count": 567,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "following",
+        "text": "这群男的怎么不去举白纸反抗时代峰峻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2089954050087563489",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 357,
+          "like_count": 11718,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 5747
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T20:28:23.000Z",
+        "description": "公畜点进我主页自动暴毙 背景图那俩是我仇人",
+        "id": "1916227800891330560",
+        "is_identity_verified": false,
+        "location": "通州到中关村的距离",
+        "most_recent_tweet_id": "2089804168349565204",
+        "name": "习近平下台—您很狂？",
+        "pinned_tweet_id": "2088550129544679732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916227800891330560/1782503402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089804111210594304/KmyysGK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 64,
+          "like_count": 9141,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 4740
+        },
+        "url": "",
+        "username": "YHox_xo678964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

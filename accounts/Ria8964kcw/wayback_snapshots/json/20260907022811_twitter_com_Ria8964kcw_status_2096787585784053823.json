@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2096787585784053823",
+    "created_at": "2026-09-07T02:28:11.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096787585784053823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dbl_fay/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/dbl_fay/status/1644941922056949762",
+          "start": 8,
+          "url": "https://t.co/vlVd4e0s0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096787585784053823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1644941922056949762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好害怕啊真的 https://t.co/vlVd4e0s0D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1644941912217096192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtQB9DHaEAAQNao.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1644941912238080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtQB9DMaQAAmjdy.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1644941912242274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtQB9DNaQAAB4Zn.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1644941912372289539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtQB9DsaIAMgdws.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2096787585784053823",
+        "created_at": "2026-09-07T02:28:11.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096787585784053823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dbl_fay/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dbl_fay/status/1644941922056949762",
+              "start": 8,
+              "url": "https://t.co/vlVd4e0s0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096787585784053823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644941922056949762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好害怕啊真的 https://t.co/vlVd4e0s0D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1644941912217096192",
+            "3_1644941912238080000",
+            "3_1644941912242274304",
+            "3_1644941912372289539"
+          ]
+        },
+        "author_id": "1329705941265092610",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1644940185841352705",
+        "created_at": "2023-04-09T05:54:50.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2023-04-09T06:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1644941922056949762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87f5yUMTHh",
+              "end": 47,
+              "expanded_url": "https://x.com/DBL_fay/status/1644941922056949762/photo/1",
+              "media_key": "3_1644941912217096192",
+              "start": 24,
+              "url": "https://t.co/87f5yUMTHh"
+            },
+            {
+              "display_url": "pic.x.com/87f5yUMTHh",
+              "end": 47,
+              "expanded_url": "https://x.com/DBL_fay/status/1644941922056949762/photo/1",
+              "media_key": "3_1644941912238080000",
+              "start": 24,
+              "url": "https://t.co/87f5yUMTHh"
+            },
+            {
+              "display_url": "pic.x.com/87f5yUMTHh",
+              "end": 47,
+              "expanded_url": "https://x.com/DBL_fay/status/1644941922056949762/photo/1",
+              "media_key": "3_1644941912242274304",
+              "start": 24,
+              "url": "https://t.co/87f5yUMTHh"
+            },
+            {
+              "display_url": "pic.x.com/87f5yUMTHh",
+              "end": 47,
+              "expanded_url": "https://x.com/DBL_fay/status/1644941922056949762/photo/1",
+              "media_key": "3_1644941912372289539",
+              "start": 24,
+              "url": "https://t.co/87f5yUMTHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1644941922056949762",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1644941912217096192"
+          },
+          {
+            "media_key": "3_1644941912238080000"
+          },
+          {
+            "media_key": "3_1644941912242274304"
+          },
+          {
+            "media_key": "3_1644941912372289539"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 118833,
+          "like_count": 418,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644940185841352705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 想起之前曝光的 https://t.co/87f5yUMTHh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n唯一心肝金采源，有组织纠缠受害者\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2096787585784053823",
+        "name": "待到秋来九月八我花开后百花杀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091943601358196737/w0bOqK5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 375,
+          "like_count": 12476,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 6160
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-20T08:51:50.000Z",
+        "description": "女拳跟中共是一伙的，两个我都反",
+        "id": "1329705941265092610",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096787190525399153",
+        "name": "rikarufort",
+        "pinned_tweet_id": "1794906212183761375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329705941265092610/1669530797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666337746854768645/gXKJTkP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 296,
+          "like_count": 25911,
+          "listed_count": 11,
+          "media_count": 607,
+          "tweet_count": 10478
+        },
+        "url": "",
+        "username": "DBL_fay",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2096780497070497873",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261794,
+          "following_count": 1082,
+          "like_count": 10473,
+          "listed_count": 8888,
+          "media_count": 53348,
+          "tweet_count": 60676
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

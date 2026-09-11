@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089929158797471744"
+      ]
+    },
+    "author_id": "1741807657110147073",
+    "conversation_id": "2089727603569746263",
+    "created_at": "2026-08-19T04:15:22.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T05:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089929191236239692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxvOgX59Ii",
+          "end": 34,
+          "expanded_url": "https://x.com/Ria8964kcw/status/2089929191236239692/photo/1",
+          "media_key": "3_2089929158797471744",
+          "start": 11,
+          "url": "https://t.co/rxvOgX59Ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089929191236239692",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2089929158797471744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089727603569746263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 https://t.co/rxvOgX59Ii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089929158797471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDrfzvasAALmKw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089929158797471744"
+          ]
+        },
+        "author_id": "1741807657110147073",
+        "conversation_id": "2089727603569746263",
+        "created_at": "2026-08-19T04:15:22.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089929191236239692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxvOgX59Ii",
+              "end": 34,
+              "expanded_url": "https://x.com/Ria8964kcw/status/2089929191236239692/photo/1",
+              "media_key": "3_2089929158797471744",
+              "start": 11,
+              "url": "https://t.co/rxvOgX59Ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089929191236239692",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089929158797471744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089727603569746263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 https://t.co/rxvOgX59Ii"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2089727603569746263",
+        "created_at": "2026-08-18T14:54:20.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089727603569746263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089727603569746263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去迪拜麦了家教做的我想4️⃣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \nany pronouns \nEN｜简体中文｜ES🇪🇸\n顺人妖\n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2089929191236239692",
+        "name": "弹人妖",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 356,
+          "like_count": 11701,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 5739
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089783020484231325",
+        "name": "白裙",
+        "pinned_tweet_id": "2082855239074643989",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378170937810945/aEk0u-ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 286,
+          "like_count": 57930,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 12761
+        },
+        "url": "",
+        "username": "Ride_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

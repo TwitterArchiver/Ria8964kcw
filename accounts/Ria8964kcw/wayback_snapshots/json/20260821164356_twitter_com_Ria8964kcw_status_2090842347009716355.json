@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741807657110147073",
+    "conversation_id": "2090588566476988690",
+    "created_at": "2026-08-21T16:43:56.000Z",
+    "display_text_range": [
+      30,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090842347009716355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        },
+        {
+          "end": 29,
+          "id": "1679788677583765505",
+          "start": 13,
+          "username": "YlYpBKkt3257198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090842347009716355",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090841783005765776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGZlove8964 @YlYpBKkt3257198 地下是别墅你挖开看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2090588566476988690",
+        "created_at": "2026-08-21T16:43:56.000Z",
+        "display_text_range": [
+          30,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090842347009716355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            },
+            {
+              "end": 29,
+              "id": "1679788677583765505",
+              "start": 13,
+              "username": "YlYpBKkt3257198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090842347009716355",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090841783005765776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGZlove8964 @YlYpBKkt3257198 地下是别墅你挖开看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2090588566476988690",
+        "created_at": "2026-08-21T16:41:41.000Z",
+        "display_text_range": [
+          29,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090841783005765776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679788677583765505",
+              "start": 0,
+              "username": "YlYpBKkt3257198"
+            },
+            {
+              "end": 28,
+              "id": "1741807657110147073",
+              "start": 17,
+              "username": "Ria8964kcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090841783005765776",
+        "in_reply_to_user_id": "1679788677583765505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090834450649419833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YlYpBKkt3257198 @Ria8964kcw 家里挺破的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "利亚 \n更多的我在 @riafixcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "riafixcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM4KXb"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "is_identity_verified": false,
+        "location": "你的右心室",
+        "most_recent_tweet_id": "2090842347009716355",
+        "name": "疯狂土同日记🍀",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741807657110147073/1779355946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083879356775145472/fX47kLxc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 363,
+          "like_count": 11873,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 5813
+        },
+        "url": "https://t.co/kiiEbM4KXb",
+        "username": "Ria8964kcw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "友🏳️‍🌈 如果你需要帮助可以找我\n\n小号@shejumping8964\n老公@Ididnothinglqz\n🚪89.64 用于国家有难时刻捐款",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "shejumping8964"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Ididnothinglqz"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090841900198793314",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2085327285079675354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1786731135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 120,
+          "like_count": 2542,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 1432
+        },
+        "url": "",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T09:43:50.000Z",
+        "description": "我与我周旋久，宁作我\n小號@watermelon1byh\n（香港人）粤／普都会说 Know a little English 日本語を少し知っている\n政治零分 学习中 喜欢我的反对我的都可以fo🥰叫我润之兄 东叔 腊哥都行（停更一年了）\n抑郁四年 吃药三年 病情反复无常（暂无自杀倾向）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "watermelon1byh"
+              }
+            ]
+          }
+        },
+        "id": "1679788677583765505",
+        "is_identity_verified": false,
+        "location": "延安",
+        "most_recent_tweet_id": "2090842339984253072",
+        "name": "毛润之 Mao Zedong",
+        "pinned_tweet_id": "2089977287076888969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679788677583765505/1786296974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924727739220951041/hFlBgl8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 1754,
+          "like_count": 21013,
+          "listed_count": 5,
+          "media_count": 427,
+          "tweet_count": 8572
+        },
+        "url": "",
+        "username": "YlYpBKkt3257198",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
